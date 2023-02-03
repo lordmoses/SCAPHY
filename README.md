@@ -1,3 +1,4 @@
 # SCAPHY: Detecting Modern ICS Attacks via Correlating Behaviors in SCADA and PHYsical
 
-The code base, experiments, and datasets are currently under review. Please check back. 
+This repository contains dataset of our SCADA and Physical (cyber-physical) experimentation. All information about our testbed is provided. Our paper is been presented at the IEEE Security and Privacy conference 2023. 
+
