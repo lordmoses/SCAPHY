@@ -1,0 +1,220 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-2">
+ <!-- $MVD$:fontset("Courier New","Courier New") -->
+ <link rel="StyleSheet" href="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/A1Q_V012.css">
+ <title>Organization Block for Cyclic Program Processing (OB1)</title>
+ <meta name="generator" content="RoboHELP by eHelp Corporation www.ehelp.com">
+ <script language="JavaScript" title="BSSC Special Effects" src="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/ehlpdhtm.js">
+ </script>
+</head>
+<body>
+ <h1>Organization Block for Cyclic Program Processing (OB1)</h1>
+ <p class="Absatz">Cyclic program processing is the "normal" type of 
+program execution on programmable logic controllers. The operating 
+system calls OB1 cyclically and with this call it starts cyclic 
+execution of the user program.&nbsp;</p>
+ <p class="Titel-Label">Sequence of Cyclic Program Processing</p>
+ <p class="Absatz">The following table shows the phases of cyclic program processing:</p>
+ <p class="Absatz"><span style="font-size:12pt; "> </span></p>
+ <table style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="543" cellspacing="0" cellpadding="1" border="1">
+  <tbody><tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="21" bgcolor="#d9d9d9">
+  <p class="Tab-Kopf09" style="line-height:11.00pt;">Step</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="21" bgcolor="#d9d9d9">
+  <p class="Tab-Kopf09" style="line-height:11.00pt;">Sequence in CPUs to 10/98</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="21" bgcolor="#d9d9d9">
+  <p class="Tab-Kopf09" style="line-height:11.00pt;">Sequence in CPUs from 10/98</p></td></tr>
+  <tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="17" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">1</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="17" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The operating system starts the cycle monitoring time.</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="17" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The operating system starts the cycle monitoring time.</p></td></tr>
+  <tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="31" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">2</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="31" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The CPU reads the state of the inputs of the input modules and updates the process image table of the inputs. </p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="31" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The CPU writes the values from the process image table of the outputs to the output modules. </p></td></tr>
+  <tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="30" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">3</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="30" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The CPU processes the user program and executes the instructions contained in the program.</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="30" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The CPU reads the state of the inputs of the input modules and updates the process image table of the inputs. </p></td></tr>
+  <tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">4</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The CPU writes the values from the process image table of the outputs to the output modules. </p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">The CPU processes the user program and executes the instructions contained in the program.</p></td></tr>
+  <tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">5</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">At the end of a cycle, the operating system 
+executes any tasks that are pending, for example downloading and 
+deleting blocks, receiving and sending global data.</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">At the end of a cycle, the operating system 
+executes any tasks that are pending, for example downloading and 
+deleting blocks, receiving and sending global data.</p></td></tr>
+  <tr valign="top">
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="48" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">6</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">Finally, the CPU returns to the start of the cycle and restarts the cycle monitoring time.</p></td>
+  <td style="border-top:0.50pt solid white; border-bottom:0.50pt solid white; border-left:0.50pt solid white; border-right:0.50pt solid white; " width="247" height="44" bgcolor="#d9d9d9">
+  <p class="Tab-Absatz09">Finally, the CPU returns to the start of the cycle and restarts the cycle monitoring time.</p></td></tr>
+ </tbody></table>
+ <p class="Absatz"><span style="font-size:9pt; "><font face="Helvetica"> </font></span></p>
+ <p class="Titel-Label">Process Images</p>
+ <p class="Absatz">So that the CPU has a consistent image of the process
+ signals during cyclic program processing, the CPU does not address the 
+input (I) and output (Q) address areas directly on the I/O modules but 
+rather accesses an internal memory area of the CPU that contains an 
+image of the inputs and outputs.</p>
+ <p class="Titel-Label">Programming Cyclic Program Processing</p>
+ <p class="Absatz">You program cyclic program processing by writing your user program in OB1 and in the blocks called within OB1 using STEP 7.</p>
+ <p class="Absatz">Cyclic program processing begins as soon as the startup program is completed without errors.</p>
+ <p class="Titel-Label">Interrupts</p>
+ <p class="Absatz">Cyclic program processing can be interrupted by the following:</p>
+ <ul>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">An interrupt</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">A STOP command (mode selector, menu option on the programming device, SFC46 STP, SFB20 STOP)</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">A power outage</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">The occurrence of a fault or program error </p></li>
+ </ul>
+ <p class="Titel-Label">Scan Cycle Time</p>
+ <p class="Absatz">The scan cycle time is the time required by the 
+operating system to run the cyclic program and all the program sections 
+that interrupt the cycle (for example, executing other organization 
+blocks) and system activities (for example, updating the process image).
+ This time is monitored. </p>
+ <p class="Absatz">The scan cycle time (T<sub>C</sub>) is not the same in every cycle. The following figures show different scan cycle times (T<sub>C1</sub> <font face="Symbol">š</font><font face="Symbol_B"> </font>T<sub>C2</sub>) for CPUs up to 10/98 and CPUs from 10/98: </p>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0"> &nbsp;</p>
+ <p class="Bild-normal"><img src="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/FestEin3_02_b_vec.gif" alt="image/FestEin3_02_b_vec.gif" width="553" height="305" border="0"> </p>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0"> &nbsp;</p>
+ <p class="Absatz"><img src="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/FestEin3_03_b_vec.gif" alt="image/FestEin3_03_b_vec.gif" width="553" height="232" border="0"> </p>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0"> &nbsp;</p>
+ <p class="Absatz">In the current cycle, OB1 is interrupted by a Time­Of­Day interrupt.&nbsp;</p>
+ <p class="Titel-Label">Cycle Monitoring Time</p>
+ <p class="Absatz">With STEP 7, you can modify the default maximum cycle
+ monitoring time. If this time expires, the CPU either changes to STOP 
+mode or OB80 is called in which you can specify how the CPU should react
+ to this error.</p>
+ <p class="Titel-Label">Minimum Cycle Time</p>
+ <p class="Absatz">With STEP 7, you can set a minimum cycle time for S7-400 CPUs and the CPU&nbsp;318. This is useful in the following situations: </p>
+ <ul>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">When the interval at which program execution starts in OB1 (main program scan) should always be the same or&nbsp;</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">When the process image tables would be updated unnecessarily often if the cycle time is too short.</p></li>
+ </ul>
+ <p class="Absatz">The following figures show the function of the cycle 
+monitoring time in program processing in CPUs up to 10/98 and in CPUs 
+from 10/98.</p>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0"> &nbsp;</p>
+ <p class="Bild-breit"><img src="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/FestEin3_04_b_vec.gif" alt="image/FestEin3_04_b_vec.gif" width="551" height="423" border="0"> </p>
+ <p class="Bild-breit"><img src="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/FestEin3_05_b_vec.gif" alt="image/FestEin3_05_b_vec.gif" width="551" height="423" border="0"> </p>
+ <p class="Titel-Label">Updating the Process Image</p>
+ <p class="Absatz">During cyclic program processing by the CPU, the 
+process image is updated automatically. With the S7-400 CPUs and the CPU
+ 318 you can deselect the update of the process image if you want to: </p>
+ <ul>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">Access the I/O directly instead or</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">Update one or more process image input or 
+output sections at a different point in the program using system 
+functions SFC26 UPDAT_PI and SFC27 UPDAT_PO.</p></li>
+ </ul>
+ <p class="Titel-Label">Communication Load</p>
+ <p class="Absatz">You can use the CPU parameter "Scan Cycle Load from 
+Communication" to control within a given framework the duration of 
+communication processes that always increase the scan cycle time. 
+Examples of communication processes include transmitting data to another
+ CPU by means of MPI or loading blocks by means of a programming device.</p>
+ <p class="Absatz">Test functions with a programming device are barely 
+influenced by this parameter. However, you can increase the scan cycle 
+time considerably. In the process mode, you can limit the time set for 
+test functions (S7-300 only). </p>
+ <p class="Titel-Label">How the Parameter works</p>
+ <p class="Absatz">The operating system of the CPU constantly provides 
+the communication with the configured percent of the entire CPU 
+processing capacity (time slice technique). If this processing capacity 
+is not needed for the communication, it is available to the rest of the 
+processing. </p>
+ <p class="Titel-Label">Effect on the Actual Scan Cycle Time</p>
+ <p class="Absatz">Without additional asynchronous events, the OB1 scan 
+cycle time is extended by a factor that can be calculated according to 
+the following formula:</p>
+ <p class="Absatz"><img src="Organization%20Block%20for%20Cyclic%20Program%20Processing%20(OB1)_files/ebx_-201158838.gif" alt="image/ebx_-201158838.gif" width="349" height="49" border="0"></p>
+ <p class="Absatz">Example 1 (no additional asynchronous events): </p>
+ <p class="Absatz">When you set the load added to the cycle by communication to 50%, the OB1 scan cycle time can be doubled. </p>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0">&nbsp;</p>
+ <p class="Absatz">At the same time, the OB1 scan cycle time is also 
+influenced by asynchronous events (such as hardware interrupts or cyclic
+ interrupts). From a statistical point of view, even more asynchronous 
+events occur within an OB1 scan cycle because of the extension of the 
+scan cycle time by the communication portion. This causes an additional 
+increase in the OB1 scan cycle. This increase depends on how many events
+ occur per OB1 scan cycle and on the duration of event processing.  </p>
+ <p class="Absatz">Example 2 (additional asynchronous events considered): </p>
+ <p class="Absatz">For a pure OB1 execution time of 500 ms, a 
+communication load of 50% can result in an actual scan cycle time of up 
+to 1000 ms (provided that the CPU always has enough communication jobs 
+to process). If, parallel to this, a cyclic interrupt with 20 ms 
+processing time is executed every 100 ms, this cyclic interrupt would 
+extend the scan cycle by a total of 5*20 ms = 100 ms without 
+communication load. That is, the actual scan cycle time would be 600 ms.
+ Because a cyclic interrupt also interrupts communication, it affects 
+the scan cycle time by 10 * 20 ms with 50% communication load. That is, 
+in this case, the actual scan cycle time amounts to 1200 ms instead of 
+1000 ms.</p>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0"> &nbsp;</p>
+ <table width="559" cellspacing="0" cellpadding="1">
+  <tbody><tr valign="top">
+  <td width="72" bgcolor="white">
+  <p class="Warnbild" style="margin-top:0;margin-bottom:0">&nbsp;</p></td>
+  <td style="border-top:0.50pt solid black; border-bottom:0.50pt solid black; " width="486">
+  <p class="Hinweis">Note</p>
+  <ul>
+   <li style="font-size:8pt; ">
+   <p class="Tab-Liste-Pun10">Check the effects of changing the value of the "Scan Cycle Load from Communication" parameter while the system is running.</p></li>
+   <li style="font-size:8pt; ">
+   <p class="Tab-Liste-Pun10">The communication load must be taken into account when setting the minimum scan cycle time; otherwise time errors will occur.</p></li>
+  </ul></td></tr>
+ </tbody></table>
+ <p class="Absatz" style="margin-top:0;margin-bottom:0"> &nbsp;</p>
+ <p class="Titel-Label">Recommendations</p>
+ <ul>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">Where possible, apply the default value.</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">Increase this value only if you are using the 
+CPU primarily for communication purposes and your user program is not 
+time critical.</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">In all other cases, only reduce the value.</p></li>
+  <li style="font-size:10pt; ">
+  <p class="Liste-Punkt">Set the process mode (S7-300 only), and limit the time needed there for test functions.  </p></li>
+ </ul>
+ <p class="Siehe-auch-" style="border-top:0.75pt solid black;">See also:</p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/bas00086.htm">Process-Image Input/Output Tables</a> </p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/bas00080.htm">Organization Blocks for Interrupt-Driven Program Processing</a> </p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/Kontrolle_der_Zykluszeiten_zur_Vermeidung_von_Zeitfehlern.htm">Checking Scan Cycle Times to Avoid Time Errors</a> </p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/bas00113.htm">Module Information Functions</a> </p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/Organisationsbaustein_fuer_die_Programmbearbeitung_im_Hintergrund_OB_90.htm">Background Organization Block (OB90)</a> </p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/bas00009.htm">Basic Procedure for Creating Logic Blocks</a> </p>
+ <p class="Absatz"><a href="http://plccenter.cn/Siemens_Step7/bas00061.htm">Block Folder Object</a> </p>
+
+</body></html>

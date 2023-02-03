@@ -1,0 +1,11 @@
+At exit	I    0.0	BOOL	
+Start	I    0.1	BOOL	
+Entry conveyor	Q    0.0	BOOL	
+Stop blade	Q    0.1	BOOL	
+Exit conveyor	Q    0.2	BOOL	
+Sorter 1 turn	Q    0.3	BOOL	
+Sorter 1 belt	Q    0.4	BOOL	
+Sorter 2 turn	Q    0.5	BOOL	
+Sorter 2 belt	Q    0.6	BOOL	
+Sorter 3 turn	Q    0.7	BOOL	
+Sorter 3 belt	Q    1.0	BOOL	

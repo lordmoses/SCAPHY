@@ -1,0 +1,41 @@
+I_Factory_Running => P_Factory_Running
+PosEdge[I_Factory_Running] RESETS Loading
+PosEdge[I_Factory_Running] RESETS LoaderBusy
+PosEdge[I_Factory_Running] RESETS TransferingRight
+PosEdge[I_Factory_Running] RESETS TransferingLeft
+PosEdge[I_Factory_Running] RESETS HighBox
+PosEdge[I_Factory_Running] RESETS RightCounter
+PosEdge[I_Factory_Running] RESETS LeftCounter
+PosEdge[I_Factory_Running] => FactoryRestarting
+I_Pallet_sensor AND NOT LoaderBusy SETS Loading
+I_Loaded RESETS Loading
+I_High_sensor => P_High_sensor
+PosEdge[I_High_sensor] SETS HighBox
+Loading => P_Loading
+NegEdge[Loading] => L:20.0
+L:20.0 AND HighBox SETS TransferingRight
+L:20.0 AND HighBox AND L:20.0 AND NOT HighBox SETS TransferingLeft
+L:20.0 AND HighBox AND L:20.0 AND NOT HighBox AND L:20.0 RESETS HighBox
+I_At_right_entry => P_At_right_entry
+PosEdge[I_At_right_entry] RESETS TransferingRight
+I_At_left_entry => P_At_left_entry
+PosEdge[I_At_left_entry] RESETS TransferingLeft
+TransferingRight OR TransferingLeft OR Loading => LoaderBusy
+PosEdge[TransferingRight] INCREMENTS RightCounter
+I_At_right_exit => P_At_right_exit
+PosEdge[PosEdge[I_At_right_exit] AND BoxesRight] DECREMENTS RightCounter
+False SETS RightCounter
+False AND FactoryRestarting RESETS RightCounter
+False AND FactoryRestarting AND RightCounter => BoxesRight
+PosEdge[TransferingLeft] INCREMENTS LeftCounter
+I_At_left_exit => P_At_left_exit
+PosEdge[PosEdge[I_At_left_exit] AND BoxesLeft] DECREMENTS LeftCounter
+False SETS LeftCounter
+False AND FactoryRestarting RESETS LeftCounter
+False AND FactoryRestarting AND LeftCounter => BoxesLeft
+NOT I_Pallet_sensor OR Loading => O_Conveyor_entry
+Loading => O_Load
+TransferingRight => O_Transf_right
+TransferingLeft => O_Trasf_left
+BoxesRight => O_Conveyor_right
+BoxesLeft => O_Conveyor_left

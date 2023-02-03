@@ -1,0 +1,277 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww21660\viewh16200\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs20 \cf0 From A to B\
+Devices: Roller Conveyor (4m) 1 (V) / Roller Conveyor (6m)\
+0 (V)\
+Sensor: Laser Interrupt\
+Note: Though the scene is relatively simple, an attacker could\
+manipulate the speed of the conveyor to enact unsafe conditions\
+for the transported materials or surrounding workers.\
+Additionally, if the conveyor speed was rapidly oscillated,\
+that could damage the materials being transported.\
+In the simulated attack, the status of the conveyor belt is\
+periodically inverted. This serves to slow down progress and\
+push the box past the end of the conveyor where the sensor\
+would have normally stopped it.\
+\
+\
+From A to B Reset\
+Devices: Roller Conveyor (6m) 0 (V)\
+Sensor: Laser Interrupt A / Laser Interrupt B\
+Note: The risks posed in this scene are nearly identical to its\
+predecessor with the only difference being the presence of an\
+operator accessible reset button.\
+\
+Filling Station (Timers)\
+Devices: Discharge Valve / Fill Valve / Timer\
+Sensor: Discharge Flow Meter / Fill Flow Meter\
+Note: A manipulation of the fill valve could either decrease\
+or increase the amount of water dispensed in a set amount of\
+time. This would subvert whatever expectations the process\
+engineers had about fill volume per second. In a similar\
+manner, manipulating the discharge valve while filling would\
+result in less volume added to the tank per second.\
+In the attack, the fill valve or discharge valve are oscillated\
+depending on whichever one happens to be in use. Unfortunately\
+the scene uses the tank station in "Digital" mode\
+rather than "Analog" mode, so water level data is unavailable.\
+The view of the scene demonstrates that water becomes quite\
+turbulent when under attack.\
+\
+Queue system\
+Devices: Entry conveyor / Buffer conveyor /\
+Sensor: Item ready (Laser) /At entry (Laser) / At exit (Laser)\
+Note: If the conveyor that sends out the queue is never turned\
+on, the throughput would be completely halted. Also, if the\
+queue is prematurely sent, future processes could fail.\
+The attack demonstrated shows how throughput can be set\
+to a halt by manipulating the state of the controller to always\
+bring more boxes on.\
+\
+\
+Assembler\
+Devices: Bases conveyer / Clamp lid / Counter / Grab / Lids\
+conveyer / Move X / Move Z / Pos. raise (bases) / Pos. raise\
+(lids) / Remover 1 / Remover 2 / Reset light / Start light / Stop\
+light\
+Sensor: Base at place / Base clamped / Emergency stop / Item\
+detected / Lid at place / Lid clamped / Moving X / Moving Z /\
+Part leaving (Laser) / Pos. at limit (bases) / Pos. at limit (lids)\
+Note: If the assembler arm is not driven the complete distance,\
+then the assembled product would be misaligned and incorrect.\
+Otherwise, if the stop blade is not used, the individual\
+components would continue on before being assembled. Also\
+the wrong exit conveyor would be used which could result in\
+processes being overloaded.\
+The attack controls the "Bases Conveyor" to always move.\
+This causes a backup of materials and several Bases move\
+from the assembler per cycle.\
+\
+\
+Assembler Analog\
+Devices: Assembler Analog / Lids conveyor 1 /Lids conveyor\
+2 /Stop blade 1 / Bases conveyor 1 /Bases conveyor 2 /Stop\
+blade 2 / Set X /Set Z /Grab /Counter\
+Sensor: Lid at place (Laser) /Base at place (Laser) / Part leaving\
+(Laser) / Item detected (Laser) / X Position / Z Position\
+Note: This scene uses PIDs which make it susceptible to\
+manipulation of the controller\'92s setpoint and parameters. By\
+increasing the integral parameter, the arm would overshoot\
+and either cause damage to the frame or stall the motor out.\
+Stalling the motor would at least cause overheat and at worst\
+destroy the windings. Slight manipulation of the setpoint\
+would result in improper assembly of the product.\
+In the attack demonstrated, the setpoint of the arm\'92s "X"\
+control was manipulated to have a leftward drift when the arm\
+was moving downwards. This means as the arm extended\
+to pick up or drop off a component, the arm would end up\
+slightly left of intended. This attack was not prevented by the\
+scene\'92s control logic as the starting x (at the top of the Z) was\
+not affected and the arm still extended to the bottom of its Z\
+range.\
+\
+\
+AutomatedWarehouse\
+Devices: Entry Conveyor / Load Conveyor / Forks Left / Lift\
+/ Forks Right\
+Sensor: Moving X / Moving Z / At Load / At Left / At Middle\
+/ At Right //\
+Note: By manipulating the X or Z destination values, packages\
+can be misplaced. While that doesn\'92t directly affect this\
+scene, future processes that use materials retrieved by this\
+warehouse could be hampered. In general, lowering the speed\
+of conveyors can lower the throughput of the system.\
+The attack changes the destination randomly which will\
+cause disorganization and potential collisions.\
+\
+\
+Buffer Station\
+Devices: Buffer conveyor /Exit conveyor /Stop blade\
+Sensor: At buffer exit / At exit / Buffer Vel.\
+Note: By reducing the timing between items being sent out,\
+the buffer station\'92s purpose can be subverted. This is because\
+the distance between output items will be reduced. By reducing\
+the conveyor speed, the general throughput of the system\
+can be lowered. If there is a limit to how fast the materials can\
+be transported, raising the conveyor speed above that would\
+have negative effects\
+The attack raises the stop blade before the box is completely\
+clear of its path cause potential severe damage to the product.\
+\
+\
+Converge Station\
+Devices: Conveyor 1 / Conveyor 2 /Load 1 / Transfer left 1 /\
+Load 2 / Transfer left 2 /Exit conveyor\
+Sensor: At entry 2 / At transfer 2 / At entry 1 / At transfer 1 /\
+At exit\
+Note: By mistiming the pushers, the wrong materials can be\
+sent to the wrong output channels. By deploying both pushers\
+at once, all throughput can be stopped.\
+The attack will keep the entry conveyors enabled constantly.\
+This will eventually lead to a complete jam of operations seen\
+below.\
+\
+\
+Elevator (Advanced)\
+Devices: Entry conveyor / Exit conveyor / Load left / Load\
+right / Left up / Left slow / Left down / Right up / Right slow\
+/ Right down / Conveyor 0 / Conveyor 1 / Conveyor 2\
+Sensor: At left low 0 / At left high 0 / At left low 1 / At left\
+high 1 / At left low 2 / At left high 2 / At right low 0 / At right\
+high 0 / At right low 1 / At right high 1 / At right low 2 / At\
+right high 2 / At entry left / At entry 0 / At entry 1 / At entry\
+2 / At exit 0 / At exit 1 / At exit 2 / At exit right / At exit\
+Note: By undershooting or overshooting the desired height\
+of the elevator, materials can be forced to drop further than\
+desired. This would cause them to undergo more force than\
+originally intended.\
+The attack disabled the "Slow" tag which resulted in the\
+elevator overshooting many of the floors. As a consequence,\
+the materials would sometimes hit the side of the bin and fall\
+down the elevator shaft instead. The PLC did not detect this\
+error and continued with normal operations.\
+\
+\
+Elevator (Basic)\
+Devices: Entry conveyor /Exit conveyor /Load left /Load right\
+/Left up /Left slow /Left down /Right up /Right slow /Right\
+down /Conveyor 0 /Conveyor 1 /Conveyor 2 /\
+Sensor: At left low 0 /At left high 0 /At left low 1 /At left high\
+1 /At left low 2 /At left high 2 /At right low 0 /At right high 0\
+/At right low 1 /At right high 1 /At right low 2 /At right high\
+2 /At entry left /At entry 0 /At entry 1 /At entry 2 /At exit 0\
+/At exit 1 /At exit 2 /At exit right /At exit\
+Note: The attack strategy for this scene is very similar to its\
+Advanced counterpart. The elevator platforms rely on their\
+"Slow" tags to reliably reach the correct altitude. By driving\
+0 to these tags, the elevator will overshoot the desired height.\
+When the elevator is rising, this means the platform will be\
+too high for the pallet to reach it as seen below.\
+\
+\
+Level Control\
+Devices: Discharge Valve / Fill Valve / PV / Reset Light / SP\
+/ Start Light / Stop Light\
+Sensor: Flow Meter / Level Meter / Reset / Setpoint / Start /\
+Stop\
+Note: This scene uses a PID, so the clear attack strategy\
+should exploit that. A weakness of the scene is that the water\
+ripples when water is initially added or removed. This\
+means that the PID controller can\'92t afford to oscillate around\
+the setpoint otherwise the level meter data becomes useless.\
+The worst of the ripples are seen when the controller rapidly\
+switches between filling and discharging water. To attack this\
+system, the PID\'92s I parameter is simply changed from 0 to\
+0.1\
+\
+\
+Pick and Place (Basic)\
+Devices: Move Z /Move X /Grab /Entry conveyor /Exit conveyor\
+/Counter\
+Sensor: Moving Z /Moving X /Item detected /Item at entry\
+/Item at exit\
+Note: To attack this scene, the key is to cause a grabber miss.\
+The arm that deploys downward to grab an item assumes one\
+is already in place, but if that can be disrupted, the system\
+hangs waiting for a successful grab to occur.\
+To achieve this, the entry conveyor is manipulated to sometimes\
+turn on when it is meant to be off.\
+\
+\
+Pick and Place (XYZ)\
+Devices: Part conveyor /Box conveyor /Exit conveyor /Grab\
+/C /SP X /SP Y /SP Z /Exit yellow /Exit green\
+Sensor: Part at place /Box at place /Detected /X /Y /Z /\
+Note: This scene picks up items and places them on a pallet\
+using a PID system for precise placement. Attacking the\
+PID\'92s parameters causes catastrophic failures. Negative outcomes\
+ranging from slightly misplaced items to completely\
+thrown items are possible.\
+\
+\
+Production Line\
+Devices: Lids raw conveyor /Lids center (start) /Lids counter\
+/Lids exit conveyor 1 /Lids exit conveyor 2 /Bases raw conveyor\
+/Bases center (start) /Bases counter /Bases exit conveyor\
+1 /Bases exit conveyor 2 /Exit conveyor\
+Sensor: Bases at entry /Bases center (busy) /Bases center (running)\
+/Lids at entry /Lids center (busy) /Lids center (running)\
+Note: The machinery that assembles products using raw materials\
+moves at a set rate, so accelerating the raw material\
+input speed can quickly lead to a pileup.\
+\
+\
+Separating Station\
+Devices: Entry conveyor 1 / Entry conveyor 2 / Pusher 1 /\
+Pusher 2 / Conveyor 1 / Conveyor 2 / Conveyor 2\
+Sensor: Vision sensor 1 / Vision sensor 2 / Sensor 1 / Sensor\
+2 / At pusher 1 exit / At pusher 2 exit / Pusher 1 back / Pusher\
+1 front / Pusher 2 back / Pusher 2 front\
+Note: Much like the sorting station, the pusher arms can be\
+mistimed to lead to incorrect separation or complete halting\
+of operation. The attack used activated both arms at once to\
+halt all movement of materials.\
+Sorting by Height (Advanced)\
+Devices: Feeder conveyor / Entry conveyor / Load / Unload /\
+Turn / Right conveyor / Left conveyor\
+Sensor: At entry / High box / Low box / At turntable entry /\
+At front / At back / At right entry / At left entry / At right exit\
+/ At left exit / At load position / At unload position\
+Note: This scene differentiates between multiple box heights\
+to send them to the right location. The system still relies on\
+broken lasers to find the heighest broken laser which falls\
+apart if another box is brought into the intersection before a\
+decision is made. To do this, the entry conveyor was turned on\
+at times it was supposed to be off. This caused a build-up of\
+boxes at the intersection which prevented any decision from\
+being made.\
+\
+\
+Sorting by Height (Basic)\
+Devices: Conveyor entry / Load / Transf. right / Transf. left /\
+Conveyor right / Conveyor left / Counter\
+Sensor: Pallet sensor / Low sensor / High sensor / Loaded /\
+At right entry / At left entry\
+Note: This scene only sorts based off a single cutoff height.\
+Again, this scene can be exploited by driving the entry conveyor\
+at off times.\
+\
+\
+Sorting byWeight\
+Devices: Entry conveyor / Load scale / Send left / Left conveyor\
+/ Send forward / Front conveyor / Send right / Right\
+conveyor / Weight\
+Sensor: At scale entry / At scale / Weight / At scale exit / At\
+left entry / At forward entry / At right entry\
+Note: The materials all stop on the scale to be weighed properly,\
+but if the conveyor they rest on is forced on, the materials\
+could cause a pileup on the sorter or end up in the wrong destination.\
+The boxes end up at the wrong destinations (boxes\
+not picked up by the removers) and some are even at odd\
+positions.}

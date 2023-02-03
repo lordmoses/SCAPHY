@@ -1,0 +1,241 @@
+//------------------------------------------------------------------------
+//
+//AWL-Quelle - Erzeugt durch:
+//WinSPS-S7
+//Version=V6.05
+//
+//Anzahl der Bausteine: 1
+//
+//------------------------------------------------------------------------
+//
+//
+//------------------------------------------------------------------------
+//
+//STL-Source - Generated with:
+//WinSPS-S7
+//Version=V6.05
+//
+//Count of blocks: 1
+//
+//------------------------------------------------------------------------
+//
+//
+ORGANIZATION_BLOCK OB1 
+TITLE= "Main Program Sweep (Cycle)" 
+ 
+ 
+AUTHOR:nb
+FAMILY:nb
+NAME:nb
+VERSION:00.01 
+ 
+ 
+VAR_TEMP 
+       OB1_EV_CLASS:BYTE;//Bits 0-3 = 1 (Coming event), Bits 4-7 = 1 (Event class 1) 
+       OB1_SCAN_1:BYTE;//1 (Cold restart scan 1 of OB 1), 3 (Scan 2-n of OB 1) 
+       OB1_PRIORITY:BYTE;//Priority of OB Execution 
+       OB1_OB_NUMBR:BYTE;//1 (Organization block 1, OB1) 
+       OB1_RESERVED_1:BYTE;//Reserved for system 
+       OB1_RESERVED_2:BYTE;//Reserved for system 
+       OB1_PREV_CYCLE:INT;//Cycle time of previous OB1 scan (milliseconds) 
+       OB1_MIN_CYCLE:INT;//Minimum cycle time of OB1 (milliseconds) 
+       OB1_MAX_CYCLE:INT;//Maximum cycle time of OB1 (milliseconds) 
+       OB1_DATE_TIME:DATE_AND_TIME;//Date and time OB1 started 
+END_VAR 
+BEGIN 
+ 
+NETWORK
+TITLE= Reset 
+//Detect when Factory I/O starts running, reset state 
+ 
+       A    I         1.5;
+       FP   M         2.5;
+       R    M         0.0;
+       R    M         0.1;
+       R    M         0.2;
+       R    M         0.3;
+       R    M         0.4;
+       R    C         1;
+       R    C         2;
+       =    M         0.5;
+NETWORK
+TITLE= 
+ 
+       A    M         0.5;
+       JC   OUT;
+NETWORK
+TITLE= Loading 
+//Loading starts when the pallet is ready and the loader is not busy, ends when 
+//loaded. 
+//After save whether the loaded box is high or low 
+// 
+ 
+       A    I         0.2;
+       AN   M         0.1;
+       S    M         0.0;
+NETWORK
+TITLE= 
+ 
+       A    I         0.3;
+       R    M         0.0;
+NETWORK
+TITLE= 
+ 
+       A    I         0.0;
+       FP   M         1.0;
+       S    M         0.4;
+NETWORK
+TITLE= Transfer 
+//Decide where to transfer after loading. 
+//Loader busy if loading or transfering 
+ 
+       A    M         0.0;
+       FN   M         1.1;
+       =    L        20.0;
+       A    L        20.0;
+       A    M         0.4;
+       S    M         0.2;
+       A    L        20.0;
+       AN   M         0.4;
+       S    M         0.3;
+       A    L        20.0;
+       BLD          102;
+       R    M         0.4;
+NETWORK
+TITLE= 
+ 
+       A    I         0.6;
+       FP   M         1.6;
+       R    M         0.2;
+NETWORK
+TITLE= 
+ 
+       A    I         0.4;
+       FP   M         1.4;
+       R    M         0.3;
+NETWORK
+TITLE= 
+ 
+       O    M         0.2;
+       O    M         0.3;
+       O    M         0.0;
+       =    M         0.1;
+NETWORK
+TITLE= Right Conveyor 
+//Increment number of boxes when starting the transfer 
+//Decrement when exiting 
+ 
+       A    M         0.2;
+       CU   C         1;
+       A    I         0.7;
+       FP   M         1.7;
+       A    M         3.0;
+       CD   C         1;
+       A    M         2.6;
+       L    C#4;
+       S    C         1;
+       A    M         0.5;
+       R    C         1;
+       NOP  0;
+       NOP  0;
+       A    C         1;
+       =    M         3.0;
+NETWORK
+TITLE= 
+ 
+       L    MW        3;
+       BTI;
+       T    MW        5;
+       NOP  0;
+NETWORK
+TITLE= 
+ 
+       A    M         0.3;
+       CU   C         2;
+       A    I         0.5;
+       FP   M         1.5;
+       A    M         3.1;
+       CD   C         2;
+       A    M         2.6;
+       L    C#4;
+       S    C         2;
+       A    M         0.5;
+       R    C         2;
+       NOP  0;
+       NOP  0;
+       A    C         2;
+       =    M         3.1;
+NETWORK
+TITLE= 
+ 
+       L    MW        4;
+       BTI;
+       T    MW        6;
+       NOP  0;
+NETWORK
+TITLE= Set the ouputs 
+ 
+OUT   :ON   I         0.2;
+       O    M         0.0;
+       =    Q         0.0;
+NETWORK
+TITLE= 
+ 
+       A    M         0.0;
+       =    Q         0.1;
+NETWORK
+TITLE= 
+ 
+       A    M         0.2;
+       =    Q         0.4;
+NETWORK
+TITLE= 
+ 
+       A    M         0.3;
+       =    Q         0.3;
+NETWORK
+TITLE= 
+ 
+       A    M         3.0;
+       =    Q         0.6;
+NETWORK
+TITLE= 
+ 
+       A    M         3.1;
+       =    Q         0.5;
+END_ORGANIZATION_BLOCK 
+
+
+RightCounter	C      1	COUNTER	
+LeftCounter	C      2	COUNTER	
+I_High_sensor	I    0.0	BOOL	
+I_Pallet_sensor	I    0.2	BOOL	
+I_Loaded	I    0.3	BOOL	
+I_At_left_entry	I    0.4	BOOL	
+I_At_left_exit	I    0.5	BOOL	
+I_At_right_entry	I    0.6	BOOL	
+I_At_right_exit	I    0.7	BOOL	
+I_Factory_Running	I    1.5	BOOL	
+Loading	M    0.0	BOOL	
+LoaderBusy	M    0.1	BOOL	
+TransferingRight	M    0.2	BOOL	
+TransferingLeft	M    0.3	BOOL	
+HighBox	M    0.4	BOOL	
+FactoryRestarting	M    0.5	BOOL	
+P_High_sensor	M    1.0	BOOL	
+P_Loading	M    1.1	BOOL	
+P_At_left_entry	M    1.4	BOOL	
+P_At_left_exit	M    1.5	BOOL	
+P_At_right_entry	M    1.6	BOOL	
+P_At_right_exit	M    1.7	BOOL	
+P_Factory_Running	M    2.5	BOOL	
+False	M    2.6	BOOL	
+BoxesRight	M    3.0	BOOL	
+BoxesLeft	M    3.1	BOOL	
+Cycle Execution	OB     1	OB1	
+O_Conveyor_entry	Q    0.0	BOOL	
+O_Load	Q    0.1	BOOL	
+O_Trasf_left	Q    0.3	BOOL	
+O_Transf_right	Q    0.4	BOOL	
+O_Conveyor_left	Q    0.5	BOOL	
+O_Conveyor_right	Q    0.6	BOOL	

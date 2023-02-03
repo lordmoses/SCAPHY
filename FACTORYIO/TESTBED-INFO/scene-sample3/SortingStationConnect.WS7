@@ -1,0 +1,11 @@
+[PrjV2]
+Kennung=WS7V2
+iAktivesUnterprojekt=0
+bSimulatorAktiv=1
+ExternWeg=0
+LetzteAenderungTicks=1215282768
+LetzteAenderungDatum=11.10.2021
+LetzteAenderungUhrzeit=16:32:11
+WinPLC7-Version=V6.05
+[UPrj]
+P0=WINSPS-SORT-HEIGHT-BASIC\WINSPS-SORT-HEIGHT-BASIC.PRJ

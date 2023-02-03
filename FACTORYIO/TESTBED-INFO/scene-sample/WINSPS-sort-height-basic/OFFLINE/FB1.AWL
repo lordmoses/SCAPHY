@@ -1,0 +1,36 @@
+//{{V2}}
+FUNCTION_BLOCK FB1
+TITLE=   <Title of FB>
+
+
+AUTHOR:mh
+FAMILY:nb
+NAME:nb
+VERSION:1.0
+
+
+VAR_INPUT
+       setpoint:BOOL 
+END_VAR
+
+VAR_OUTPUT
+END_VAR
+
+VAR_IN_OUT
+END_VAR
+
+VAR
+END_VAR
+
+VAR_TEMP
+END_VAR
+BEGIN
+
+NETWORK
+TITLE=   <Title of Network>
+//{{k}}
+
+  
+  
+  
+END_FUNCTION_BLOCK

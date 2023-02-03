@@ -1,0 +1,100 @@
+//{{V2}}
+ORGANIZATION_BLOCK OB1
+TITLE= "Main Program Sweep (Cycle)"
+
+
+AUTHOR:nb
+FAMILY:nb
+NAME:nb
+VERSION:00.01
+
+
+VAR_TEMP
+       OB1_EV_CLASS:BYTE //Bits 0-3 = 1 (Coming event), Bits 4-7 = 1 (Event class 1)
+       OB1_SCAN_1:BYTE //1 (Cold restart scan 1 of OB 1), 3 (Scan 2-n of OB 1)
+       OB1_PRIORITY:BYTE //Priority of OB Execution
+       OB1_OB_NUMBR:BYTE //1 (Organization block 1, OB1)
+       OB1_RESERVED_1:BYTE //Reserved for system
+       OB1_RESERVED_2:BYTE //Reserved for system
+       OB1_PREV_CYCLE:INT //Cycle time of previous OB1 scan (milliseconds)
+       OB1_MIN_CYCLE:INT //Minimum cycle time of OB1 (milliseconds)
+       OB1_MAX_CYCLE:INT //Maximum cycle time of OB1 (milliseconds)
+       OB1_DATE_TIME:DATE_AND_TIME //Date and time OB1 started
+END_VAR
+BEGIN
+
+NETWORK
+TITLE= 
+//{{k}}
+
+       A    M0.1
+       AN   I0.5
+       R Q0.0  
+  
+       AN   M0.1
+       S    Q0.0
+NETWORK
+TITLE= 
+//{{k}}
+
+       A    I0.5
+       FP   M0.3
+  
+       S   M0.1  
+NETWORK
+TITLE=Startup
+//{{k}}
+
+       A    I0.6
+       FP   M0.2
+  
+       R    M0.1
+       S    Q0.0
+       S    M0.6
+       R    M0.7
+       R    M1.0
+       S    Q0.2
+NETWORK
+TITLE= Exit Sensor
+//{{a}}
+
+       A    I0.0
+       FP   M0.4
+       S    M1.1
+  
+       A    M1.1
+       A    M0.6
+       R    M0.6
+       S    M0.7
+       R    M1.1
+  
+       A    M1.1
+       A    M0.7
+       R    M0.7
+       S    M1.0
+       R    M1.1
+  
+       A    M1.1
+       A    M1.0
+       R    M1.0
+       S    M0.6
+       R    M1.1
+  
+       AN    I0.0
+       R    M0.1
+NETWORK
+TITLE=Conveyor Control
+//{{k}}
+
+       A    M0.6
+       =    Q0.3
+       =    Q0.4
+  
+       A    M0.7
+       =    Q0.5
+       =    Q0.6
+  
+       A    M1.0
+       =    Q0.7
+       =    Q1.0
+END_ORGANIZATION_BLOCK
