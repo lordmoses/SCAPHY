@@ -14,6 +14,7 @@ We collected over 180G of experiemental data, some comprising of SCADA VMs and m
 
 If you use our dataset, please cite the SCAPHY paper. 
 
+BibTex
 @inproceedings{ike2022scaphy,
   title={SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical},
   author={Ike, Moses and Phan, Kandy and Sadoski, Keaton and Valme, Romuald and Lee, Wenke},
