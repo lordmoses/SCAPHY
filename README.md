@@ -3,9 +3,9 @@
 This repository contains dataset of the SCAPHY Paper, which appears at the IEEE Security and Privacy conference 2023 at San. Franscisco. 
 
 
-This data contains both the SCADA host execution data and the Physical process data collected from the same ICS experiment. 
+This dataset contains both the SCADA host execution data and the Physical process data collected from the same ICS experiment. 
 
-The SCADA data is induced by pertinent OPC events, which cause the configured SCADA event handlers to execute the SCADA process-control routines. The SCADA execution data is from real-world SCADA suites, MySCADA. We also have data from WINSPS, a Step7-type SCADA/ICS software program.
+The SCADA data is induced by pertinent OPC events, which cause the configured SCADA event handlers to execute the SCADA process-control routines. The SCADA execution data is from real-world SCADA suites, MySCADA. We also have SCADA data from ScadaBR, which is an open source SCADA suite that runs on Apache Tomcat. We also have SCADA data from WINSPS, a Step7-type SCADA/ICS software program.
 
 The Physical process data is collected from a combination of real-world processes running on Physical RTUs, historical data from industry partners, and simulations in a industry-scale testbed called FactoryIO.
 
