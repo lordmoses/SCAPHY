@@ -1,7 +1,27 @@
 # SCAPHY: Detecting Modern ICS Attacks via Correlating Behaviors in SCADA and PHYsical
 
- Some of the code base, experiments, and datasets are currently under review. Please check back. 
+This repository contains dataset of the SCAPHY Paper, which appears at the IEEE Security and Privacy conference 2023 at San. Franscisco. 
 
-This repository contains dataset of our SCADA and Physical (cyber-physical) experimentation. All information about our testbed is provided. Our paper is to be presented at the IEEE Security and Privacy conference 2023.
 
+This data contains both the SCADA host execution data and the Physical process data collected from the same ICS experiment. 
+
+The SCADA data is induced by pertinent OPC events, which cause the configured SCADA event handlers to execute the SCADA process-control routines. The SCADA execution data is from real-world SCADA suites, MySCADA. We also have data from WINSPS, a Step7-type SCADA/ICS software program.
+
+The Physical process data is collected from a combination of real-world processes running on Physical RTUs, historical data from industry partners, and simulations in a industry-scale testbed called FactoryIO.
+
+
+We collected over 180G of experiemental data, some comprising of SCADA VMs and memory images. Some are available for special request since they cannot fit on the github server. 
+
+If you use our dataset, please cite the SCAPHY paper. 
+
+@inproceedings{ike2022scaphy,
+  title={SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical},
+  author={Ike, Moses and Phan, Kandy and Sadoski, Keaton and Valme, Romuald and Lee, Wenke},
+  booktitle={2023 IEEE Symposium on Security and Privacy (SP)},
+  pages={362--379},
+  year={2022},
+  organization={IEEE Computer Society}
+}
+
+Ike, Moses, et al. "SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical." 2023 IEEE Symposium on Security and Privacy (SP). IEEE Computer Society, 2022.
 
