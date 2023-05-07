@@ -15,14 +15,7 @@ We collected over 180G of experiemental data, some comprising of SCADA VMs and m
 If you use our dataset, please cite the SCAPHY paper. 
 
 BibTex
-@inproceedings{ike2022scaphy,
-  title={SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical},
-  author={Ike, Moses and Phan, Kandy and Sadoski, Keaton and Valme, Romuald and Lee, Wenke},
-  booktitle={2023 IEEE Symposium on Security and Privacy (SP)},
-  pages={362--379},
-  year={2022},
-  organization={IEEE Computer Society}
-}
+`@inproceedings{ike2022scaphy, title={SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical}, author={Ike, Moses and Phan, Kandy and Sadoski, Keaton and Valme, Romuald and Lee, Wenke}, booktitle={2023 IEEE Symposium on Security and Privacy (SP)}, pages={362--379}, year={2022}, organization={IEEE Computer Society}}`
 
 Ike, Moses, et al. "SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical." 2023 IEEE Symposium on Security and Privacy (SP). IEEE Computer Society, 2022.
 
