@@ -1,0 +1,5 @@
+The third memory range 00c075a0 only had access while "Send All Blocks" occured.
+    All the function names seem to be log exception though.
+For the fourth memory range 00c075b0, I noticed the PLC graphic that tracks memory usage and clock speed was flickering in and out.
+The fifth memory range 00c08c90 wasn't as active. I noticed calls originated when I sent all blocks and when I toggled an input for the first time after sending all blocks.
+For the last range I couldn't get any breakpoints to hit. I toggled inputs, sent all blocks, restarted the PLC mask, restarted the softPLC

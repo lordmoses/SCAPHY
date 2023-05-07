@@ -1,0 +1,1850 @@
+Opened log file 
+
+Microsoft (R) Windows Debugger Version 10.0.22473.1005 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+CommandLine: C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+ModLoad: 00400000 0114a000   ws7v6.exe
+ModLoad: 76f50000 770ea000   ntdll.dll
+ModLoad: 74740000 74820000   C:\WINDOWS\SysWOW64\KERNEL32.DLL
+ModLoad: 758b0000 75ab0000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 74680000 7470f000   C:\WINDOWS\SysWOW64\SYSFER.DLL
+ModLoad: 74980000 749fa000   C:\WINDOWS\SysWOW64\ADVAPI32.DLL
+ModLoad: 74d00000 74dbf000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 02730000 02c7d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 75ff0000 76187000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 74c80000 74cf6000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 016d0000 016f8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 00020000 0003b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 74920000 74937000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 76690000 7674b000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 00020000 00032000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 02730000 02864000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 767b0000 767d1000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 016d0000 016fd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02730000 02808000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 74720000 74740000   C:\WINDOWS\SysWOW64\SspiCli.dll
+ModLoad: 751d0000 7532d000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 02730000 02986000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 016d0000 01710000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 74710000 7471a000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 76540000 765bc000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 767e0000 76842000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 76190000 762b0000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 016d0000 0170b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 02730000 02885000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 76e10000 76ec0000   C:\WINDOWS\SysWOW64\COMDLG32.DLL
+ModLoad: 74a00000 74c77000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 02730000 027df000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 741e0000 741e8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 765d0000 76654000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 73fd0000 741df000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1801_none_e626de10f8de6cf6\COMCTL32.DLL
+ModLoad: 708d0000 7093c000   C:\WINDOWS\SysWOW64\WINSPOOL.DRV
+ModLoad: 6fca0000 6fca8000   C:\WINDOWS\SysWOW64\WSOCK32.DLL
+ModLoad: 76460000 764a4000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 76750000 767ae000   C:\WINDOWS\SysWOW64\WS2_32.dll
+ModLoad: 75ac0000 75acf000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 75330000 758aa000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 74960000 74979000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 707c0000 70885000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 70890000 708c2000   C:\WINDOWS\SysWOW64\IPHLPAPI.DLL
+ModLoad: 75ad0000 75b0b000   C:\WINDOWS\SysWOW64\cfgmgr32.dll
+ModLoad: 75080000 75112000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+ModLoad: 76850000 76e10000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 76660000 76677000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 74ec0000 74f03000   C:\WINDOWS\SysWOW64\powrprof.dll
+ModLoad: 765c0000 765cd000   C:\WINDOWS\SysWOW64\UMPDC.dll
+ModLoad: 74940000 74953000   C:\WINDOWS\SysWOW64\cryptsp.dll
+ModLoad: 74820000 74917000   C:\WINDOWS\SysWOW64\OLE32.DLL
+ModLoad: 70bf0000 70bf6000   C:\WINDOWS\SysWOW64\MSIMG32.DLL
+ModLoad: 705f0000 705f6000   C:\WINDOWS\SysWOW64\SHFOLDER.DLL
+ModLoad: 70970000 70994000   C:\WINDOWS\SysWOW64\WINMM.DLL
+ModLoad: 70940000 70963000   C:\WINDOWS\SysWOW64\WINMMBASE.dll
+ModLoad: 016d0000 016f3000   C:\WINDOWS\SysWOW64\winmmbase.dll
+ModLoad: 02730000 02753000   C:\WINDOWS\SysWOW64\winmmbase.dll
+ModLoad: 02730000 02c7d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 02c80000 02db4000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 01700000 01712000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 00020000 0003b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 02dc0000 02e98000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 02ea0000 02ecd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02ed0000 03126000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 03130000 03170000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 75ab0000 75ab6000   C:\WINDOWS\SysWOW64\PSAPI.DLL
+ModLoad: 03170000 031ab000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 031b0000 03305000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 03310000 033bf000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 033c0000 033e8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 016d0000 016f8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 74420000 74433000   C:\WINDOWS\SysWOW64\NETAPI32.DLL
+ModLoad: 033c0000 034d5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+(4c24.1d04): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=0035e000 ecx=32650000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed22 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+76ffed22 cc              int     3
+
+
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=32650000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed23 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000244
+ntdll!LdrInitShimEngineDynamic+0x6e3:
+76ffed23 eb07            jmp     ntdll!LdrInitShimEngineDynamic+0x6ec (76ffed2c)
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=32650000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed2c esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6ec:
+76ffed2c c745fcfeffffff  mov     dword ptr [ebp-4],0FFFFFFFEh ss:002b:0164fa48=00000000
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=32650000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed33 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6f3:
+76ffed33 8b4df0          mov     ecx,dword ptr [ebp-10h] ss:002b:0164fa3c=0164fc9c
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=0164fc9c edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed36 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6f6:
+76ffed36 64890d00000000  mov     dword ptr fs:[0],ecx fs:0053:00000000=0164fa3c
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=0164fc9c edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed3d esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6fd:
+76ffed3d 59              pop     ecx
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=2728d4f1 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed3e esp=0164fa24 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6fe:
+76ffed3e 5f              pop     edi
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=2728d4f1 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed3f esp=0164fa28 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6ff:
+76ffed3f 5e              pop     esi
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=2728d4f1 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed40 esp=0164fa2c ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x700:
+76ffed40 5b              pop     ebx
+0:000> p
+p
+eax=00000000 ebx=0035e000 ecx=2728d4f1 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed41 esp=0164fa30 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x701:
+76ffed41 c9              leave
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=2728d4f1 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ffed42 esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x702:
+76ffed42 c3              ret
+eax=00000000 ebx=0035e000 ecx=2728d4f1 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff94e6 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f196:
+76ff94e6 e854def8ff      call    ntdll!TpCallbackIndependent+0x2ef (76f8733f)
+eax=00000000 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff94eb esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f19b:
+76ff94eb 803d19e5067700  cmp     byte ptr [ntdll!NlsAnsiCodePage+0x2bcd (7706e519)],0 ds:002b:7706e519=00
+eax=00000000 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff94f2 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1a2:
+76ff94f2 0f859a000000    jne     ntdll!RtlCaptureStackContext+0x1f242 (76ff9592) [br=0]
+eax=00000000 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff94f8 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1a8:
+76ff94f8 a0d502fe7f      mov     al,byte ptr [SharedUserData+0x2d5 (7ffe02d5)] ds:002b:7ffe02d5=03
+0:000> p 5
+p 5
+eax=00000003 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff94fd esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1ad:
+76ff94fd 6a03            push    3
+eax=00000003 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff94ff esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1af:
+76ff94ff 59              pop     ecx
+eax=00000003 ebx=0035e000 ecx=00000003 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9500 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1b0:
+76ff9500 22c1            and     al,cl
+eax=00000003 ebx=0035e000 ecx=00000003 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9502 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!RtlCaptureStackContext+0x1f1b2:
+76ff9502 6a02            push    2
+eax=00000003 ebx=0035e000 ecx=00000003 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9504 esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!RtlCaptureStackContext+0x1f1b4:
+76ff9504 59              pop     ecx
+0:000> p 5
+p 5
+eax=00000003 ebx=0035e000 ecx=00000002 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9505 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!RtlCaptureStackContext+0x1f1b5:
+76ff9505 3ac1            cmp     al,cl
+eax=00000003 ebx=0035e000 ecx=00000002 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9507 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1b7:
+76ff9507 7518            jne     ntdll!RtlCaptureStackContext+0x1f1d1 (76ff9521) [br=1]
+eax=00000003 ebx=0035e000 ecx=00000002 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9521 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1d1:
+76ff9521 8b8d18ffffff    mov     ecx,dword ptr [ebp-0E8h] ss:002b:0164fbc4=00400200
+eax=00000003 ebx=0035e000 ecx=00400200 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9527 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1d7:
+76ff9527 e8cf530000      call    ntdll!LdrInitShimEngineDynamic+0x2bb (76ffe8fb)
+eax=00a54a00 ebx=0035e000 ecx=32650000 edx=0009e598 esi=01721ff8 edi=76f5687c
+eip=76ff952c esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!RtlCaptureStackContext+0x1f1dc:
+76ff952c 84c0            test    al,al
+0:000> p 5
+p 5
+eax=00a54a00 ebx=0035e000 ecx=32650000 edx=0009e598 esi=01721ff8 edi=76f5687c
+eip=76ff952e esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1de:
+76ff952e 752f            jne     ntdll!RtlCaptureStackContext+0x1f20f (76ff955f) [br=0]
+eax=00a54a00 ebx=0035e000 ecx=32650000 edx=0009e598 esi=01721ff8 edi=76f5687c
+eip=76ff9530 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1e0:
+76ff9530 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=32650000 edx=0009e598 esi=01721ff8 edi=76f5687c
+eip=76ff9532 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1e2:
+76ff9532 8d5001          lea     edx,[eax+1]
+eax=00000000 ebx=0035e000 ecx=32650000 edx=00000001 esi=01721ff8 edi=76f5687c
+eip=76ff9535 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1e5:
+76ff9535 8b8d18ffffff    mov     ecx,dword ptr [ebp-0E8h] ss:002b:0164fbc4=00400200
+eax=00000000 ebx=0035e000 ecx=00400200 edx=00000001 esi=01721ff8 edi=76f5687c
+eip=76ff953b esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1eb:
+76ff953b e8447f0000      call    ntdll!CsrSetPriorityClass+0x44 (77001484)
+0:000> p 5
+p 5
+eax=00419001 ebx=0035e000 ecx=00001000 edx=004002f8 esi=01721ff8 edi=76f5687c
+eip=76ff9540 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!RtlCaptureStackContext+0x1f1f0:
+76ff9540 84c0            test    al,al
+eax=00419001 ebx=0035e000 ecx=00001000 edx=004002f8 esi=01721ff8 edi=76f5687c
+eip=76ff9542 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1f2:
+76ff9542 741b            je      ntdll!RtlCaptureStackContext+0x1f20f (76ff955f) [br=0]
+eax=00419001 ebx=0035e000 ecx=00001000 edx=004002f8 esi=01721ff8 edi=76f5687c
+eip=76ff9544 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1f4:
+76ff9544 8b8d18ffffff    mov     ecx,dword ptr [ebp-0E8h] ss:002b:0164fbc4=00400200
+eax=00419001 ebx=0035e000 ecx=00400200 edx=004002f8 esi=01721ff8 edi=76f5687c
+eip=76ff954a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1fa:
+76ff954a e8cf520000      call    ntdll!LdrInitShimEngineDynamic+0x1de (76ffe81e)
+eax=00000000 ebx=0035e000 ecx=00000009 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff954f esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f1ff:
+76ff954f 84c0            test    al,al
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=00000009 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9551 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f201:
+76ff9551 750c            jne     ntdll!RtlCaptureStackContext+0x1f20f (76ff955f) [br=0]
+eax=00000000 ebx=0035e000 ecx=00000009 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9553 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f203:
+76ff9553 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=00000009 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9555 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f205:
+76ff9555 898514ffffff    mov     dword ptr [ebp-0ECh],eax ss:002b:0164fbc0=00000000
+eax=00000000 ebx=0035e000 ecx=00000009 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff955b esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f20b:
+76ff955b 8bc8            mov     ecx,eax
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff955d esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f20d:
+76ff955d eb09            jmp     ntdll!RtlCaptureStackContext+0x1f218 (76ff9568)
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9568 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f218:
+76ff9568 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff956a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f21a:
+76ff956a 40              inc     eax
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff956b esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f21b:
+76ff956b 3905bcb80677    cmp     dword ptr [ntdll!fltused+0x9c (7706b8bc)],eax ds:002b:7706b8bc=00000000
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9571 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ntdll!RtlCaptureStackContext+0x1f221:
+76ff9571 7509            jne     ntdll!RtlCaptureStackContext+0x1f22c (76ff957c) [br=1]
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff957c esp=0164fa54 ebp=0164fcac iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ntdll!RtlCaptureStackContext+0x1f22c:
+76ff957c 85c9            test    ecx,ecx
+0:000> p 5
+p 5
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff957e esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f22e:
+76ff957e 7412            je      ntdll!RtlCaptureStackContext+0x1f242 (76ff9592) [br=1]
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=01721ff8 edi=76f5687c
+eip=76ff9592 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f242:
+76ff9592 8b359cd90677    mov     esi,dword ptr [ntdll!NlsAnsiCodePage+0x2050 (7706d99c)] ds:002b:7706d99c={KERNEL32!BaseThreadInitThunk (74756340)}
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9598 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f248:
+76ff9598 85f6            test    esi,esi
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f24a:
+76ff959a 743b            je      ntdll!RtlCaptureStackContext+0x1f287 (76ff95d7) [br=0]
+eax=00000001 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959c esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f24c:
+76ff959c 33c0            xor     eax,eax
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959e esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f24e:
+76ff959e 50              push    eax
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959f esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f24f:
+76ff959f 8bce            mov     ecx,esi
+eax=00000000 ebx=0035e000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95a1 esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f251:
+76ff95a1 ff15e0110777    call    dword ptr [ntdll!LdrParentInterlockedPopEntrySList+0x2860 (770711e0)] ds:002b:770711e0={ntdll!RtlDebugPrintTimes (76fbda60)}
+eax=00000000 ebx=0035e000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95a7 esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f257:
+76ff95a7 33d2            xor     edx,edx
+eax=00000000 ebx=0035e000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95a9 esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f259:
+76ff95a9 33c0            xor     eax,eax
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95ab esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f25b:
+76ff95ab 8d4801          lea     ecx,[eax+1]
+eax=00000000 ebx=0035e000 ecx=00000001 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95ae esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f25e:
+76ff95ae ffd6            call    esi {KERNEL32!BaseThreadInitThunk (74756340)}
+eax=00000000 ebx=0035e000 ecx=56aa0ed3 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95b0 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f260:
+76ff95b0 898520ffffff    mov     dword ptr [ebp-0E0h],eax ss:002b:0164fbcc=00000000
+eax=00000000 ebx=0035e000 ecx=56aa0ed3 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95b6 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f266:
+76ff95b6 85c0            test    eax,eax
+eax=00000000 ebx=0035e000 ecx=56aa0ed3 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95b8 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f268:
+76ff95b8 0f88e1010000    js      ntdll!RtlCaptureStackContext+0x1f44f (76ff979f) [br=0]
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=56aa0ed3 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95be esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f26e:
+76ff95be 8b8da0feffff    mov     ecx,dword ptr [ebp-160h] ss:002b:0164fb4c={KERNEL32!TermsrvGetWindowsDirectoryW (747599e0)}
+eax=00000000 ebx=0035e000 ecx=747599e0 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95c4 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f274:
+76ff95c4 e8ac2dfcff      call    ntdll!RtlSetUserCallbackExceptionFilter+0x195 (76fbc375)
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95c9 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f279:
+76ff95c9 898520ffffff    mov     dword ptr [ebp-0E0h],eax ss:002b:0164fbcc=00000000
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95cf esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f27f:
+76ff95cf 85c0            test    eax,eax
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95d1 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f281:
+76ff95d1 0f88c8010000    js      ntdll!RtlCaptureStackContext+0x1f44f (76ff979f) [br=0]
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95d7 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f287:
+76ff95d7 8b85a4feffff    mov     eax,dword ptr [ebp-15Ch] ss:002b:0164fb50=0164fd24
+eax=0164fd24 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95dd esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f28d:
+76ff95dd a37cdc0677      mov     dword ptr [ntdll!NlsAnsiCodePage+0x2330 (7706dc7c)],eax ds:002b:7706dc7c=00000000
+eax=0164fd24 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95e2 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f292:
+76ff95e2 33c9            xor     ecx,ecx
+eax=0164fd24 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95e4 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f294:
+76ff95e4 e80a06f9ff      call    ntdll!RtlReleasePebLock+0x13 (76f89bf3)
+eax=00361000 ebx=0035e000 ecx=00001000 edx=00000001 esi=74756340 edi=76f5687c
+eip=76ff95e9 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f299:
+76ff95e9 e8c8c4f8ff      call    ntdll!TpSetTimerEx+0x1a6 (76f85ab6)
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=7706b3d0 edx=00361000 esi=74756340 edi=76f5687c
+eip=76ff95ee esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f29e:
+76ff95ee 8b95d0fdffff    mov     edx,dword ptr [ebp-230h] ss:002b:0164fa7c=0164fbcc
+eax=00000000 ebx=0035e000 ecx=7706b3d0 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff95f4 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2a4:
+76ff95f4 8b0d44da0677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01723ce0
+eax=00000000 ebx=0035e000 ecx=01723ce0 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff95fa esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2aa:
+76ff95fa 8b4950          mov     ecx,dword ptr [ecx+50h] ds:002b:01723d30=01723da0
+eax=00000000 ebx=0035e000 ecx=01723da0 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff95fd esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ad:
+76ff95fd e8ad010000      call    ntdll!RtlCaptureStackContext+0x1f45f (76ff97af)
+ModLoad: 75fc0000 75fe5000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 70b70000 70bea000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 74f10000 75013000   C:\WINDOWS\SysWOW64\MSCTF.dll
+eax=00000000 ebx=0035e000 ecx=2728d4a5 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9602 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2b2:
+76ff9602 898520ffffff    mov     dword ptr [ebp-0E0h],eax ss:002b:0164fbcc=00000000
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=2728d4a5 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9608 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2b8:
+76ff9608 33c9            xor     ecx,ecx
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ba:
+76ff960a 51              push    ecx
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960b esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2bb:
+76ff960b 50              push    eax
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960c esp=0164fa4c ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2bc:
+76ff960c 6a09            push    9
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960e esp=0164fa48 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2be:
+76ff960e 5a              pop     edx
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000009 esi=74756340 edi=76f5687c
+eip=76ff960f esp=0164fa4c ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2bf:
+76ff960f e8e3dcf8ff      call    ntdll!TpCallbackIndependent+0x2a7 (76f872f7)
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000009 esi=74756340 edi=76f5687c
+eip=76ff9614 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2c4:
+76ff9614 8b95d0fdffff    mov     edx,dword ptr [ebp-230h] ss:002b:0164fa7c=0164fbcc
+eax=00000000 ebx=0035e000 ecx=00000000 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff961a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ca:
+76ff961a 8b0d44da0677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01723ce0
+eax=00000000 ebx=0035e000 ecx=01723ce0 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff9620 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2d0:
+76ff9620 8b4950          mov     ecx,dword ptr [ecx+50h] ds:002b:01723d30=01723da0
+eax=00000000 ebx=0035e000 ecx=01723da0 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff9623 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2d3:
+76ff9623 e8897bfbff      call    ntdll!RtlWalkFrameChain+0x1e1 (76fb11b1)
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=0172b850 edx=0164fbcc esi=74756340 edi=76f5687c
+eip=76ff9628 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2d8:
+76ff9628 e812ddf8ff      call    ntdll!TpCallbackIndependent+0x2ef (76f8733f)
+eax=00000000 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff962d esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2dd:
+76ff962d 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff962f esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2df:
+76ff962f a37cdc0677      mov     dword ptr [ntdll!NlsAnsiCodePage+0x2330 (7706dc7c)],eax ds:002b:7706dc7c=0164fd24
+eax=00000000 ebx=0035e000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9634 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2e4:
+76ff9634 8d8d24ffffff    lea     ecx,[ebp-0DCh]
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff963a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ea:
+76ff963a e87c4afbff      call    ntdll!RtlSizeHeap+0x17b (76fae0bb)
+0:000> p 5
+p 5
+eax=00000001 ebx=0035e000 ecx=0164fbd0 edx=00000001 esi=74756340 edi=76f5687c
+eip=76ff963f esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ef:
+76ff963f 8b8520ffffff    mov     eax,dword ptr [ebp-0E0h] ss:002b:0164fbcc=00000000
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=00000001 esi=74756340 edi=76f5687c
+eip=76ff9645 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2f5:
+76ff9645 85c0            test    eax,eax
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=00000001 esi=74756340 edi=76f5687c
+eip=76ff9647 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2f7:
+76ff9647 7925            jns     ntdll!RtlCaptureStackContext+0x1f31e (76ff966e) [br=1]
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=00000001 esi=74756340 edi=76f5687c
+eip=76ff966e esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f31e:
+76ff966e 8b1544da0677    mov     edx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01723ce0
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff9674 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f324:
+76ff9674 33c0            xor     eax,eax
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff9676 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f326:
+76ff9676 6639423a        cmp     word ptr [edx+3Ah],ax    ds:002b:01723d1a=ffff
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff967a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+ntdll!RtlCaptureStackContext+0x1f32a:
+76ff967a 746b            je      ntdll!RtlCaptureStackContext+0x1f397 (76ff96e7) [br=0]
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff967c esp=0164fa54 ebp=0164fcac iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+ntdll!RtlCaptureStackContext+0x1f32c:
+76ff967c c78524feffff24000000 mov dword ptr [ebp-1DCh],24h ss:002b:0164fad0=00000000
+eax=00000000 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff9686 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+ntdll!RtlCaptureStackContext+0x1f336:
+76ff9686 40              inc     eax
+eax=00000001 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff9687 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f337:
+76ff9687 898528feffff    mov     dword ptr [ebp-1D8h],eax ss:002b:0164fad4=00000000
+0:000> p 5
+p 5
+eax=00000001 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff968d esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f33d:
+76ff968d 6a07            push    7
+eax=00000001 ebx=0035e000 ecx=0164fbd0 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff968f esp=0164fa50 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f33f:
+76ff968f 59              pop     ecx
+eax=00000001 ebx=0035e000 ecx=00000007 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff9690 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f340:
+76ff9690 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=00000007 edx=01723ce0 esi=74756340 edi=76f5687c
+eip=76ff9692 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f342:
+76ff9692 8dbd2cfeffff    lea     edi,[ebp-1D4h]
+eax=00000000 ebx=0035e000 ecx=00000007 edx=01723ce0 esi=74756340 edi=0164fad8
+eip=76ff9698 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f348:
+76ff9698 f3ab            rep stos dword ptr es:[edi]
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=00000000 edx=01723ce0 esi=74756340 edi=0164faf4
+eip=76ff969a esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f34a:
+76ff969a 8b5248          mov     edx,dword ptr [edx+48h] ds:002b:01723d28=00000000
+eax=00000000 ebx=0035e000 ecx=00000000 edx=00000000 esi=74756340 edi=0164faf4
+eip=76ff969d esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f34d:
+76ff969d 8d8d24feffff    lea     ecx,[ebp-1DCh]
+eax=00000000 ebx=0035e000 ecx=0164fad0 edx=00000000 esi=74756340 edi=0164faf4
+eip=76ff96a3 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f353:
+76ff96a3 e8b87cf9ff      call    ntdll!RtlActivateActivationContextUnsafeFast (76f91360)
+eax=0164fad8 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=0164faf4
+eip=76ff96a8 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f358:
+76ff96a8 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=0164faf4
+eip=76ff96aa esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f35a:
+76ff96aa 8945fc          mov     dword ptr [ebp-4],eax ss:002b:0164fca8=fffffffe
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=0164faf4
+eip=76ff96ad esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f35d:
+76ff96ad 8b1544da0677    mov     edx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01723ce0
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=01723ce0 esi=74756340 edi=0164faf4
+eip=76ff96b3 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f363:
+76ff96b3 8d4801          lea     ecx,[eax+1]
+eax=00000000 ebx=0035e000 ecx=00000001 edx=01723ce0 esi=74756340 edi=0164faf4
+eip=76ff96b6 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f366:
+76ff96b6 e8357ef9ff      call    ntdll!RtlMultiByteToUnicodeSize+0x80 (76f914f0)
+eax=00000011 ebx=0035e000 ecx=2728d4f1 edx=01723ce0 esi=74756340 edi=0164faf4
+eip=76ff96bb esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f36b:
+76ff96bb c745fcfeffffff  mov     dword ptr [ebp-4],0FFFFFFFEh ss:002b:0164fca8=00000000
+eax=00000011 ebx=0035e000 ecx=2728d4f1 edx=01723ce0 esi=74756340 edi=0164faf4
+eip=76ff96c2 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f372:
+76ff96c2 8bbdccfeffff    mov     edi,dword ptr [ebp-134h] ss:002b:0164fb78=000c0000
+0:000> p 5
+p 5
+eax=00000011 ebx=0035e000 ecx=2728d4f1 edx=01723ce0 esi=74756340 edi=000c0000
+eip=76ff96c8 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f378:
+76ff96c8 e80e000000      call    ntdll!RtlCaptureStackContext+0x1f38b (76ff96db)
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=000c0000
+eip=76ff96cd esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f37d:
+76ff96cd eb1e            jmp     ntdll!RtlCaptureStackContext+0x1f39d (76ff96ed)
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=000c0000
+eip=76ff96ed esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f39d:
+76ff96ed 803d10e5067700  cmp     byte ptr [ntdll!NlsAnsiCodePage+0x2bc4 (7706e510)],0 ds:002b:7706e510=00
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=000c0000
+eip=76ff96f4 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3a4:
+76ff96f4 7428            je      ntdll!RtlCaptureStackContext+0x1f3ce (76ff971e) [br=1]
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=74756340 edi=000c0000
+eip=76ff971e esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3ce:
+76ff971e 8bb34c010000    mov     esi,dword ptr [ebx+14Ch] ds:002b:0035e14c=00000000
+0:000> p 5
+p 5
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff9724 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3d4:
+76ff9724 85f6            test    esi,esi
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff9726 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3d6:
+76ff9726 740a            je      ntdll!RtlCaptureStackContext+0x1f3e2 (76ff9732) [br=1]
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff9732 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3e2:
+76ff9732 83bdc4feffff00  cmp     dword ptr [ebp-13Ch],0 ss:002b:0164fb70=00000000
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff9739 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3e9:
+76ff9739 740b            je      ntdll!RtlCaptureStackContext+0x1f3f6 (76ff9746) [br=1]
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff9746 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3f6:
+76ff9746 83bdc0feffff00  cmp     dword ptr [ebp-140h],0 ss:002b:0164fb6c=00000000
+0:000> p 5
+p 5
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff974d esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3fd:
+76ff974d 0f845de6ffff    je      ntdll!RtlCaptureStackContext+0x1da60 (76ff7db0) [br=1]
+eax=76ff96e6 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff7db0 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1da60:
+76ff7db0 33c0            xor     eax,eax
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff7db2 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1da62:
+76ff7db2 e9e8190000      jmp     ntdll!RtlCaptureStackContext+0x1f44f (76ff979f)
+eax=00000000 ebx=0035e000 ecx=264c2ebd edx=00000000 esi=00000000 edi=000c0000
+eip=76ff979f esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f44f:
+76ff979f 8b4df0          mov     ecx,dword ptr [ebp-10h] ss:002b:0164fc9c=0164fcf4
+eax=00000000 ebx=0035e000 ecx=0164fcf4 edx=00000000 esi=00000000 edi=000c0000
+eip=76ff97a2 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f452:
+76ff97a2 64890d00000000  mov     dword ptr fs:[0],ecx fs:0053:00000000=0164fc9c
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=0164fcf4 edx=00000000 esi=00000000 edi=000c0000
+eip=76ff97a9 esp=0164fa54 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f459:
+76ff97a9 59              pop     ecx
+eax=00000000 ebx=0035e000 ecx=2728d211 edx=00000000 esi=00000000 edi=000c0000
+eip=76ff97aa esp=0164fa58 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45a:
+76ff97aa 5f              pop     edi
+eax=00000000 ebx=0035e000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76ff97ab esp=0164fa5c ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45b:
+76ff97ab 5e              pop     esi
+eax=00000000 ebx=0035e000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76ff97ac esp=0164fa60 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45c:
+76ff97ac 5b              pop     ebx
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76ff97ad esp=0164fa64 ebp=0164fcac iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45d:
+76ff97ad c9              leave
+0:000> p 5
+p 5
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76ff97ae esp=0164fcb0 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45e:
+76ff97ae c3              ret
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82fe1 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x121:
+76f82fe1 8bf0            mov     esi,eax
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82fe3 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x123:
+76f82fe3 8975e4          mov     dword ptr [ebp-1Ch],esi ss:002b:0164fce8=00000000
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82fe6 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x126:
+76f82fe6 85f6            test    esi,esi
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82fe8 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x128:
+76f82fe8 0f8854e70500    js      ntdll!RtlCaptureStackContext+0x73f2 (76fe1742) [br=0]
+0:000> p 5
+p 5
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82fee esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x12e:
+76f82fee 833d88e8067700  cmp     dword ptr [ntdll!RtlpFreezeTimeBias+0xe8 (7706e888)],0 ds:002b:7706e888=00000000
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82ff5 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x135:
+76f82ff5 0f8585e70500    jne     ntdll!RtlCaptureStackContext+0x7430 (76fe1780) [br=0]
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f82ffb esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x13b:
+76f82ffb 68ae140000      push    14AEh
+eax=00000000 ebx=00361000 ecx=2728d211 edx=00000000 esi=00000000 edi=0035e000
+eip=76f83000 esp=0164fcb0 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x140:
+76f83000 8b0d44da0677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01723ce0
+eax=00000000 ebx=00361000 ecx=01723ce0 edx=00000000 esi=00000000 edi=0035e000
+eip=76f83006 esp=0164fcb0 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x146:
+76f83006 8d5124          lea     edx,[ecx+24h]
+0:000> p 5
+p 5
+eax=00000000 ebx=00361000 ecx=01723ce0 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f83009 esp=0164fcb0 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x149:
+76f83009 8b4918          mov     ecx,dword ptr [ecx+18h] ds:002b:01723cf8={ws7v6 (00400000)}
+eax=00000000 ebx=00361000 ecx=00400000 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f8300c esp=0164fcb0 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x14c:
+76f8300c e843750100      call    ntdll!RtlHashUnicodeString+0x94 (76f9a554)
+eax=7ffe0384 ebx=00361000 ecx=00400000 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f83011 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x151:
+76f83011 8b8f08020000    mov     ecx,dword ptr [edi+208h] ds:002b:0035e208=00000000
+eax=7ffe0384 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f83017 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x157:
+76f83017 85c9            test    ecx,ecx
+eax=7ffe0384 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f83019 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x159:
+76f83019 0f856de70500    jne     ntdll!RtlCaptureStackContext+0x743c (76fe178c) [br=0]
+0:000> p 5
+p 5
+eax=7ffe0384 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f8301f esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x15f:
+76f8301f c745fcfeffffff  mov     dword ptr [ebp-4],0FFFFFFFEh ss:002b:0164fd00=00000000
+eax=7ffe0384 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=0035e000
+eip=76f83026 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x166:
+76f83026 bf00200000      mov     edi,2000h
+eax=7ffe0384 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=00002000
+eip=76f8302b esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x16b:
+76f8302b c70514e5067703000000 mov dword ptr [ntdll!NlsAnsiCodePage+0x2bc8 (7706e514)],3 ds:002b:7706e514=00000002
+eax=7ffe0384 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=00002000
+eip=76f83035 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x175:
+76f83035 8b45cc          mov     eax,dword ptr [ebp-34h] ss:002b:0164fcd0=0035e028
+eax=0035e028 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=00002000
+eip=76f83038 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x178:
+76f83038 f00fba3001      lock btr dword ptr [eax],1   ds:002b:0035e028=00000003
+0:000> p 5
+p 5
+eax=0035e028 ebx=00361000 ecx=00000000 edx=01723d04 esi=00000000 edi=00002000
+eip=76f8303d esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000247
+ntdll!LdrInitializeThunk+0x17d:
+76f8303d 8b0dcce60677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x2d80 (7706e6cc)] ds:002b:7706e6cc=01724540
+eax=0035e028 ebx=00361000 ecx=01724540 edx=01723d04 esi=00000000 edi=00002000
+eip=76f83043 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000247
+ntdll!LdrInitializeThunk+0x183:
+76f83043 e8f7010000      call    ntdll!TpSetPoolWorkerThreadIdleTimeout+0x12f (76f8323f)
+eax=0172bea0 ebx=00361000 ecx=01724540 edx=00000000 esi=00000000 edi=00002000
+eip=76f83048 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x188:
+76f83048 85f6            test    esi,esi
+eax=0172bea0 ebx=00361000 ecx=01724540 edx=00000000 esi=00000000 edi=00002000
+eip=76f8304a esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x18a:
+76f8304a 0f88a2e80500    js      ntdll!RtlCaptureStackContext+0x75a2 (76fe18f2) [br=0]
+eax=0172bea0 ebx=00361000 ecx=01724540 edx=00000000 esi=00000000 edi=00002000
+eip=76f83050 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x190:
+76f83050 e805000000      call    ntdll!LdrInitializeThunk+0x19a (76f8305a)
+0:000> p 5
+p 5
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f83055 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x195:
+76f83055 e956ffffff      jmp     ntdll!LdrInitializeThunk+0xf0 (76f82fb0)
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fb0 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xf0:
+76f82fb0 85f6            test    esi,esi
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fb2 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xf2:
+76f82fb2 0f883ae90500    js      ntdll!RtlCaptureStackContext+0x75a2 (76fe18f2) [br=0]
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fb8 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xf8:
+76f82fb8 6685bbca0f0000  test    word ptr [ebx+0FCAh],di  ds:002b:00361fca=0420
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fbf esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xff:
+76f82fbf 7505            jne     ntdll!LdrInitializeThunk+0x106 (76f82fc6) [br=0]
+0:000> p 5
+p 5
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fc1 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x101:
+76f82fc1 e81a190400      call    ntdll!ZwTestAlert (76fc48e0)
+eax=00000000 ebx=00361000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fc6 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x106:
+76f82fc6 8b4df0          mov     ecx,dword ptr [ebp-10h] ss:002b:0164fcf4=ffffffff
+eax=00000000 ebx=00361000 ecx=ffffffff edx=00000000 esi=00000000 edi=00002000
+eip=76f82fc9 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x109:
+76f82fc9 64890d00000000  mov     dword ptr fs:[0],ecx fs:0053:00000000=0164fcf4
+eax=00000000 ebx=00361000 ecx=ffffffff edx=00000000 esi=00000000 edi=00002000
+eip=76f82fd0 esp=0164fcb4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x110:
+76f82fd0 59              pop     ecx
+eax=00000000 ebx=00361000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00002000
+eip=76f82fd1 esp=0164fcb8 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x111:
+76f82fd1 5f              pop     edi
+0:000> p 5
+p 5
+eax=00000000 ebx=00361000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd2 esp=0164fcbc ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x112:
+76f82fd2 5e              pop     esi
+eax=00000000 ebx=00361000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd3 esp=0164fcc0 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x113:
+76f82fd3 5b              pop     ebx
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd4 esp=0164fcc4 ebp=0164fd04 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x114:
+76f82fd4 c9              leave
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd5 esp=0164fd08 ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x115:
+76f82fd5 c3              ret
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ed1 esp=0164fd0c ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x11:
+76f82ed1 8b3598e80677    mov     esi,dword ptr [ntdll!RtlpFreezeTimeBias+0xf8 (7706e898)] ds:002b:7706e898=00000000
+0:000> p 5
+p 5
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ed7 esp=0164fd0c ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x17:
+76f82ed7 85f6            test    esi,esi
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ed9 esp=0164fd0c ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x19:
+76f82ed9 0f85a9e70500    jne     ntdll!RtlCaptureStackContext+0x7338 (76fe1688) [br=0]
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82edf esp=0164fd0c ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x1f:
+76f82edf 6a01            push    1
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ee1 esp=0164fd08 ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x21:
+76f82ee1 ff7508          push    dword ptr [ebp+8]    ss:002b:0164fd18=0164fd24
+eax=00000000 ebx=0035e000 ecx=2728d3b9 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ee4 esp=0164fd04 ebp=0164fd10 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x24:
+76f82ee4 e887020400      call    ntdll!ZwContinue (76fc3170)
+0:000> p 10
+p 10
+ModLoad: 63da0000 63db9000   C:\WINDOWS\SysWOW64\olepro32.dll
+ModLoad: 6fa60000 6fab2000   C:\WINDOWS\SysWOW64\mswsock.dll
+ModLoad: 76ec0000 76f40000   C:\WINDOWS\SysWOW64\clbcatq.dll
+ModLoad: 73c70000 73d0f000   C:\WINDOWS\SysWOW64\apphelp.dll
+ModLoad: 7b8b0000 7b8c3000   C:\WINDOWS\SysWOW64\NetworkExplorer.dll
+ModLoad: 6b320000 6b33b000   C:\WINDOWS\SysWOW64\edputil.dll
+ModLoad: 52380000 5240b000   C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll
+ModLoad: 6f8b0000 6fa5a000   C:\WINDOWS\SysWOW64\urlmon.dll
+ModLoad: 6f5e0000 6f80a000   C:\WINDOWS\SysWOW64\iertutil.dll
+ModLoad: 6f810000 6f82c000   C:\WINDOWS\SysWOW64\srvcli.dll
+ModLoad: 74280000 7428b000   C:\WINDOWS\SysWOW64\netutils.dll
+ModLoad: 65820000 6583b000   C:\WINDOWS\SysWOW64\CLDAPI.dll
+ModLoad: 6efc0000 6efc8000   C:\WINDOWS\SysWOW64\FLTLIB.DLL
+ModLoad: 527a0000 52877000   C:\Windows\SysWOW64\wintypes.dll
+ModLoad: 64f30000 64fa1000   C:\Windows\SysWOW64\appresolver.dll
+ModLoad: 662b0000 662f5000   C:\Windows\SysWOW64\Bcp47Langs.dll
+ModLoad: 65800000 65820000   C:\Windows\SysWOW64\SLC.dll
+ModLoad: 745f0000 7460e000   C:\Windows\SysWOW64\USERENV.dll
+ModLoad: 657e0000 657fc000   C:\Windows\SysWOW64\sppc.dll
+ModLoad: 788d0000 7890b000   C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll
+ModLoad: 0afe0000 0b36d000   C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll
+ModLoad: 0afe0000 0b36d000   C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+Symbol search path is: .srv*
+Executable search path is: 
+ModLoad: 00db0000 00e0c000   LicensingManagerV2.exe
+ModLoad: 76f50000 770ea000   ntdll.dll
+ModLoad: 73d10000 73d62000   C:\WINDOWS\SysWOW64\MSCOREE.DLL
+ModLoad: 74740000 74820000   C:\WINDOWS\SysWOW64\KERNEL32.dll
+ModLoad: 758b0000 75ab0000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 70b10000 70b63000   C:\WINDOWS\SysWOW64\Oleacc.dll
+WARNING: This break is not a step/trace completion.
+The last command has been cleared to prevent
+accidental continuation of this unrelated event.
+Check the event, location and thread before resuming.
+(4218.5028): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=01077000 ecx=47e30000 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed22 esp=00f9f378 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+76ffed22 cc              int     3
+1:014> p 10
+p 10
+eax=00000000 ebx=01077000 ecx=47e30000 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed23 esp=00f9f378 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e3:
+76ffed23 eb07            jmp     ntdll!LdrInitShimEngineDynamic+0x6ec (76ffed2c)
+eax=00000000 ebx=01077000 ecx=47e30000 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed2c esp=00f9f378 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6ec:
+76ffed2c c745fcfeffffff  mov     dword ptr [ebp-4],0FFFFFFFEh ss:002b:00f9f3a0=00000000
+eax=00000000 ebx=01077000 ecx=47e30000 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed33 esp=00f9f378 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6f3:
+76ffed33 8b4df0          mov     ecx,dword ptr [ebp-10h] ss:002b:00f9f394=00f9f5f4
+eax=00000000 ebx=01077000 ecx=00f9f5f4 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed36 esp=00f9f378 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6f6:
+76ffed36 64890d00000000  mov     dword ptr fs:[0],ecx fs:0053:00000000=00f9f394
+eax=00000000 ebx=01077000 ecx=00f9f5f4 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed3d esp=00f9f378 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6fd:
+76ffed3d 59              pop     ecx
+eax=00000000 ebx=01077000 ecx=4e4386b9 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed3e esp=00f9f37c ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6fe:
+76ffed3e 5f              pop     edi
+eax=00000000 ebx=01077000 ecx=4e4386b9 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed3f esp=00f9f380 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6ff:
+76ffed3f 5e              pop     esi
+eax=00000000 ebx=01077000 ecx=4e4386b9 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed40 esp=00f9f384 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x700:
+76ffed40 5b              pop     ebx
+eax=00000000 ebx=01077000 ecx=4e4386b9 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed41 esp=00f9f388 ebp=00f9f3a4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x701:
+76ffed41 c9              leave
+eax=00000000 ebx=01077000 ecx=4e4386b9 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ffed42 esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x702:
+76ffed42 c3              ret
+eax=00000000 ebx=01077000 ecx=4e4386b9 edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ff94e6 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f196:
+76ff94e6 e854def8ff      call    ntdll!TpCallbackIndependent+0x2ef (76f8733f)
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ff94eb esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f19b:
+76ff94eb 803d19e5067700  cmp     byte ptr [ntdll!NlsAnsiCodePage+0x2bcd (7706e519)],0 ds:002b:7706e519=01
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ff94f2 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f1a2:
+76ff94f2 0f859a000000    jne     ntdll!RtlCaptureStackContext+0x1f242 (76ff9592) [br=1]
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=01511ff8 edi=76f5687c
+eip=76ff9592 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f242:
+76ff9592 8b359cd90677    mov     esi,dword ptr [ntdll!NlsAnsiCodePage+0x2050 (7706d99c)] ds:002b:7706d99c={KERNEL32!BaseThreadInitThunk (74756340)}
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9598 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f248:
+76ff9598 85f6            test    esi,esi
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959a esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f24a:
+76ff959a 743b            je      ntdll!RtlCaptureStackContext+0x1f287 (76ff95d7) [br=0]
+1:014> p 10
+p 10
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959c esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f24c:
+76ff959c 33c0            xor     eax,eax
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959e esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f24e:
+76ff959e 50              push    eax
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff959f esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f24f:
+76ff959f 8bce            mov     ecx,esi
+eax=00000000 ebx=01077000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95a1 esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f251:
+76ff95a1 ff15e0110777    call    dword ptr [ntdll!LdrParentInterlockedPopEntrySList+0x2860 (770711e0)] ds:002b:770711e0={ntdll!RtlDebugPrintTimes (76fbda60)}
+eax=00000000 ebx=01077000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95a7 esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f257:
+76ff95a7 33d2            xor     edx,edx
+eax=00000000 ebx=01077000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95a9 esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f259:
+76ff95a9 33c0            xor     eax,eax
+eax=00000000 ebx=01077000 ecx=74756340 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95ab esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f25b:
+76ff95ab 8d4801          lea     ecx,[eax+1]
+eax=00000000 ebx=01077000 ecx=00000001 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff95ae esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f25e:
+76ff95ae ffd6            call    esi {KERNEL32!BaseThreadInitThunk (74756340)}
+eax=00000000 ebx=01077000 ecx=4e438641 edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95b0 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f260:
+76ff95b0 898520ffffff    mov     dword ptr [ebp-0E0h],eax ss:002b:00f9f524=00000000
+eax=00000000 ebx=01077000 ecx=4e438641 edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95b6 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f266:
+76ff95b6 85c0            test    eax,eax
+eax=00000000 ebx=01077000 ecx=4e438641 edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95b8 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f268:
+76ff95b8 0f88e1010000    js      ntdll!RtlCaptureStackContext+0x1f44f (76ff979f) [br=0]
+eax=00000000 ebx=01077000 ecx=4e438641 edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95be esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f26e:
+76ff95be 8b8da0feffff    mov     ecx,dword ptr [ebp-160h] ss:002b:00f9f4a4={KERNEL32!TermsrvGetWindowsDirectoryW (747599e0)}
+eax=00000000 ebx=01077000 ecx=747599e0 edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95c4 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f274:
+76ff95c4 e8ac2dfcff      call    ntdll!RtlSetUserCallbackExceptionFilter+0x195 (76fbc375)
+eax=00000000 ebx=01077000 ecx=4eba751d edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95c9 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f279:
+76ff95c9 898520ffffff    mov     dword ptr [ebp-0E0h],eax ss:002b:00f9f524=00000000
+eax=00000000 ebx=01077000 ecx=4eba751d edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95cf esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f27f:
+76ff95cf 85c0            test    eax,eax
+ModLoad: 7a760000 7a7b2000   C:\WINDOWS\SysWOW64\Ninput.dll
+eax=00000000 ebx=01077000 ecx=4eba751d edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95d1 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000244
+ntdll!RtlCaptureStackContext+0x1f281:
+76ff95d1 0f88c8010000    js      ntdll!RtlCaptureStackContext+0x1f44f (76ff979f) [br=0]
+1:014> p 10
+p 10
+eax=00000000 ebx=01077000 ecx=4eba751d edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95d7 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f287:
+76ff95d7 8b85a4feffff    mov     eax,dword ptr [ebp-15Ch] ss:002b:00f9f4a8=00f9f67c
+eax=00f9f67c ebx=01077000 ecx=4eba751d edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95dd esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f28d:
+76ff95dd a37cdc0677      mov     dword ptr [ntdll!NlsAnsiCodePage+0x2330 (7706dc7c)],eax ds:002b:7706dc7c=00000000
+eax=00f9f67c ebx=01077000 ecx=4eba751d edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95e2 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f292:
+76ff95e2 33c9            xor     ecx,ecx
+eax=00f9f67c ebx=01077000 ecx=00000000 edx=00f9f378 esi=74756340 edi=76f5687c
+eip=76ff95e4 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f294:
+76ff95e4 e80a06f9ff      call    ntdll!RtlReleasePebLock+0x13 (76f89bf3)
+eax=0107a000 ebx=01077000 ecx=00001000 edx=00000001 esi=74756340 edi=76f5687c
+eip=76ff95e9 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlCaptureStackContext+0x1f299:
+76ff95e9 e8c8c4f8ff      call    ntdll!TpSetTimerEx+0x1a6 (76f85ab6)
+eax=00000000 ebx=01077000 ecx=7706b3d0 edx=0107a000 esi=74756340 edi=76f5687c
+eip=76ff95ee esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f29e:
+76ff95ee 8b95d0fdffff    mov     edx,dword ptr [ebp-230h] ss:002b:00f9f3d4=00f9f524
+eax=00000000 ebx=01077000 ecx=7706b3d0 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff95f4 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2a4:
+76ff95f4 8b0d44da0677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01513e28
+eax=00000000 ebx=01077000 ecx=01513e28 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff95fa esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2aa:
+76ff95fa 8b4950          mov     ecx,dword ptr [ecx+50h] ds:002b:01513e78=01513ee8
+eax=00000000 ebx=01077000 ecx=01513ee8 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff95fd esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ad:
+76ff95fd e8ad010000      call    ntdll!RtlCaptureStackContext+0x1f45f (76ff97af)
+eax=00000000 ebx=01077000 ecx=4e43866d edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9602 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2b2:
+76ff9602 898520ffffff    mov     dword ptr [ebp-0E0h],eax ss:002b:00f9f524=00000000
+eax=00000000 ebx=01077000 ecx=4e43866d edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9608 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2b8:
+76ff9608 33c9            xor     ecx,ecx
+eax=00000000 ebx=01077000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960a esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ba:
+76ff960a 51              push    ecx
+eax=00000000 ebx=01077000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960b esp=00f9f3a8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2bb:
+76ff960b 50              push    eax
+eax=00000000 ebx=01077000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960c esp=00f9f3a4 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2bc:
+76ff960c 6a09            push    9
+eax=00000000 ebx=01077000 ecx=00000000 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff960e esp=00f9f3a0 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2be:
+76ff960e 5a              pop     edx
+eax=00000000 ebx=01077000 ecx=00000000 edx=00000009 esi=74756340 edi=76f5687c
+eip=76ff960f esp=00f9f3a4 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2bf:
+76ff960f e8e3dcf8ff      call    ntdll!TpCallbackIndependent+0x2a7 (76f872f7)
+1:014> p 10
+p 10
+eax=00000000 ebx=01077000 ecx=00000000 edx=00000009 esi=74756340 edi=76f5687c
+eip=76ff9614 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2c4:
+76ff9614 8b95d0fdffff    mov     edx,dword ptr [ebp-230h] ss:002b:00f9f3d4=00f9f524
+eax=00000000 ebx=01077000 ecx=00000000 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff961a esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ca:
+76ff961a 8b0d44da0677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01513e28
+eax=00000000 ebx=01077000 ecx=01513e28 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff9620 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2d0:
+76ff9620 8b4950          mov     ecx,dword ptr [ecx+50h] ds:002b:01513e78=01513ee8
+eax=00000000 ebx=01077000 ecx=01513ee8 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff9623 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2d3:
+76ff9623 e8897bfbff      call    ntdll!RtlWalkFrameChain+0x1e1 (76fb11b1)
+eax=01513ee8 ebx=01077000 ecx=00000000 edx=00f9f524 esi=74756340 edi=76f5687c
+eip=76ff9628 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2d8:
+76ff9628 e812ddf8ff      call    ntdll!TpCallbackIndependent+0x2ef (76f8733f)
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff962d esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2dd:
+76ff962d 33c0            xor     eax,eax
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff962f esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2df:
+76ff962f a37cdc0677      mov     dword ptr [ntdll!NlsAnsiCodePage+0x2330 (7706dc7c)],eax ds:002b:7706dc7c=00f9f67c
+eax=00000000 ebx=01077000 ecx=76f41cbc edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9634 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2e4:
+76ff9634 8d8d24ffffff    lea     ecx,[ebp-0DCh]
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff963a esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ea:
+76ff963a e87c4afbff      call    ntdll!RtlSizeHeap+0x17b (76fae0bb)
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff963f esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2ef:
+76ff963f 8b8520ffffff    mov     eax,dword ptr [ebp-0E0h] ss:002b:00f9f524=00000000
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9645 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2f5:
+76ff9645 85c0            test    eax,eax
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff9647 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f2f7:
+76ff9647 7925            jns     ntdll!RtlCaptureStackContext+0x1f31e (76ff966e) [br=1]
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=00000000 esi=74756340 edi=76f5687c
+eip=76ff966e esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f31e:
+76ff966e 8b1544da0677    mov     edx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01513e28
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=76f5687c
+eip=76ff9674 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f324:
+76ff9674 33c0            xor     eax,eax
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=76f5687c
+eip=76ff9676 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f326:
+76ff9676 6639423a        cmp     word ptr [edx+3Ah],ax    ds:002b:01513e62=0000
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=76f5687c
+eip=76ff967a esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f32a:
+76ff967a 746b            je      ntdll!RtlCaptureStackContext+0x1f397 (76ff96e7) [br=1]
+1:014> p 10
+p 10
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=76f5687c
+eip=76ff96e7 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f397:
+76ff96e7 8bbdccfeffff    mov     edi,dword ptr [ebp-134h] ss:002b:00f9f4d0=00fc0000
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=00fc0000
+eip=76ff96ed esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f39d:
+76ff96ed 803d10e5067700  cmp     byte ptr [ntdll!NlsAnsiCodePage+0x2bc4 (7706e510)],0 ds:002b:7706e510=00
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=00fc0000
+eip=76ff96f4 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3a4:
+76ff96f4 7428            je      ntdll!RtlCaptureStackContext+0x1f3ce (76ff971e) [br=1]
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=74756340 edi=00fc0000
+eip=76ff971e esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3ce:
+76ff971e 8bb34c010000    mov     esi,dword ptr [ebx+14Ch] ds:002b:0107714c=00000000
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff9724 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3d4:
+76ff9724 85f6            test    esi,esi
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff9726 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3d6:
+76ff9726 740a            je      ntdll!RtlCaptureStackContext+0x1f3e2 (76ff9732) [br=1]
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff9732 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3e2:
+76ff9732 83bdc4feffff00  cmp     dword ptr [ebp-13Ch],0 ss:002b:00f9f4c8=00000000
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff9739 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3e9:
+76ff9739 740b            je      ntdll!RtlCaptureStackContext+0x1f3f6 (76ff9746) [br=1]
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff9746 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3f6:
+76ff9746 83bdc0feffff00  cmp     dword ptr [ebp-140h],0 ss:002b:00f9f4c4=00000000
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff974d esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f3fd:
+76ff974d 0f845de6ffff    je      ntdll!RtlCaptureStackContext+0x1da60 (76ff7db0) [br=1]
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff7db0 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1da60:
+76ff7db0 33c0            xor     eax,eax
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff7db2 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1da62:
+76ff7db2 e9e8190000      jmp     ntdll!RtlCaptureStackContext+0x1f44f (76ff979f)
+eax=00000000 ebx=01077000 ecx=00f9f528 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff979f esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f44f:
+76ff979f 8b4df0          mov     ecx,dword ptr [ebp-10h] ss:002b:00f9f5f4=00f9f64c
+eax=00000000 ebx=01077000 ecx=00f9f64c edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff97a2 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f452:
+76ff97a2 64890d00000000  mov     dword ptr fs:[0],ecx fs:0053:00000000=00f9f5f4
+eax=00000000 ebx=01077000 ecx=00f9f64c edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff97a9 esp=00f9f3ac ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f459:
+76ff97a9 59              pop     ecx
+eax=00000000 ebx=01077000 ecx=4e438319 edx=01513e28 esi=00000000 edi=00fc0000
+eip=76ff97aa esp=00f9f3b0 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45a:
+76ff97aa 5f              pop     edi
+1:014> p 10
+p 10
+eax=00000000 ebx=01077000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76ff97ab esp=00f9f3b4 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45b:
+76ff97ab 5e              pop     esi
+eax=00000000 ebx=01077000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76ff97ac esp=00f9f3b8 ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45c:
+76ff97ac 5b              pop     ebx
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76ff97ad esp=00f9f3bc ebp=00f9f604 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45d:
+76ff97ad c9              leave
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76ff97ae esp=00f9f608 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlCaptureStackContext+0x1f45e:
+76ff97ae c3              ret
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82fe1 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x121:
+76f82fe1 8bf0            mov     esi,eax
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82fe3 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x123:
+76f82fe3 8975e4          mov     dword ptr [ebp-1Ch],esi ss:002b:00f9f640=00000000
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82fe6 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x126:
+76f82fe6 85f6            test    esi,esi
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82fe8 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x128:
+76f82fe8 0f8854e70500    js      ntdll!RtlCaptureStackContext+0x73f2 (76fe1742) [br=0]
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82fee esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x12e:
+76f82fee 833d88e8067700  cmp     dword ptr [ntdll!RtlpFreezeTimeBias+0xe8 (7706e888)],0 ds:002b:7706e888=00000000
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82ff5 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x135:
+76f82ff5 0f8585e70500    jne     ntdll!RtlCaptureStackContext+0x7430 (76fe1780) [br=0]
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f82ffb esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x13b:
+76f82ffb 68ae140000      push    14AEh
+eax=00000000 ebx=0107a000 ecx=4e438319 edx=01513e28 esi=00000000 edi=01077000
+eip=76f83000 esp=00f9f608 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x140:
+76f83000 8b0d44da0677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x20f8 (7706da44)] ds:002b:7706da44=01513e28
+eax=00000000 ebx=0107a000 ecx=01513e28 edx=01513e28 esi=00000000 edi=01077000
+eip=76f83006 esp=00f9f608 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x146:
+76f83006 8d5124          lea     edx,[ecx+24h]
+eax=00000000 ebx=0107a000 ecx=01513e28 edx=01513e4c esi=00000000 edi=01077000
+eip=76f83009 esp=00f9f608 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x149:
+76f83009 8b4918          mov     ecx,dword ptr [ecx+18h] ds:002b:01513e40={LicensingManagerV2 (00db0000)}
+eax=00000000 ebx=0107a000 ecx=00db0000 edx=01513e4c esi=00000000 edi=01077000
+eip=76f8300c esp=00f9f608 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x14c:
+76f8300c e843750100      call    ntdll!RtlHashUnicodeString+0x94 (76f9a554)
+eax=7ffe0384 ebx=0107a000 ecx=00db0000 edx=01513e4c esi=00000000 edi=01077000
+eip=76f83011 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x151:
+76f83011 8b8f08020000    mov     ecx,dword ptr [edi+208h] ds:002b:01077208=00000000
+1:014> p 10
+p 10
+eax=7ffe0384 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=01077000
+eip=76f83017 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x157:
+76f83017 85c9            test    ecx,ecx
+eax=7ffe0384 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=01077000
+eip=76f83019 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x159:
+76f83019 0f856de70500    jne     ntdll!RtlCaptureStackContext+0x743c (76fe178c) [br=0]
+eax=7ffe0384 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=01077000
+eip=76f8301f esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x15f:
+76f8301f c745fcfeffffff  mov     dword ptr [ebp-4],0FFFFFFFEh ss:002b:00f9f658=00000000
+eax=7ffe0384 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=01077000
+eip=76f83026 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x166:
+76f83026 bf00200000      mov     edi,2000h
+eax=7ffe0384 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=00002000
+eip=76f8302b esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x16b:
+76f8302b c70514e5067703000000 mov dword ptr [ntdll!NlsAnsiCodePage+0x2bc8 (7706e514)],3 ds:002b:7706e514=00000002
+eax=7ffe0384 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=00002000
+eip=76f83035 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x175:
+76f83035 8b45cc          mov     eax,dword ptr [ebp-34h] ss:002b:00f9f628=01077028
+eax=01077028 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=00002000
+eip=76f83038 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x178:
+76f83038 f00fba3001      lock btr dword ptr [eax],1   ds:002b:01077028=00000003
+eax=01077028 ebx=0107a000 ecx=00000000 edx=01513e4c esi=00000000 edi=00002000
+eip=76f8303d esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000247
+ntdll!LdrInitializeThunk+0x17d:
+76f8303d 8b0dcce60677    mov     ecx,dword ptr [ntdll!NlsAnsiCodePage+0x2d80 (7706e6cc)] ds:002b:7706e6cc=015152a8
+eax=01077028 ebx=0107a000 ecx=015152a8 edx=01513e4c esi=00000000 edi=00002000
+eip=76f83043 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000247
+ntdll!LdrInitializeThunk+0x183:
+76f83043 e8f7010000      call    ntdll!TpSetPoolWorkerThreadIdleTimeout+0x12f (76f8323f)
+eax=015154f0 ebx=0107a000 ecx=015152a8 edx=00000000 esi=00000000 edi=00002000
+eip=76f83048 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x188:
+76f83048 85f6            test    esi,esi
+eax=015154f0 ebx=0107a000 ecx=015152a8 edx=00000000 esi=00000000 edi=00002000
+eip=76f8304a esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x18a:
+76f8304a 0f88a2e80500    js      ntdll!RtlCaptureStackContext+0x75a2 (76fe18f2) [br=0]
+eax=015154f0 ebx=0107a000 ecx=015152a8 edx=00000000 esi=00000000 edi=00002000
+eip=76f83050 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x190:
+76f83050 e805000000      call    ntdll!LdrInitializeThunk+0x19a (76f8305a)
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f83055 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x195:
+76f83055 e956ffffff      jmp     ntdll!LdrInitializeThunk+0xf0 (76f82fb0)
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fb0 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xf0:
+76f82fb0 85f6            test    esi,esi
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fb2 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xf2:
+76f82fb2 0f883ae90500    js      ntdll!RtlCaptureStackContext+0x75a2 (76fe18f2) [br=0]
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fb8 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xf8:
+76f82fb8 6685bbca0f0000  test    word ptr [ebx+0FCAh],di  ds:002b:0107afca=0420
+1:014> p 10
+p 10
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fbf esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0xff:
+76f82fbf 7505            jne     ntdll!LdrInitializeThunk+0x106 (76f82fc6) [br=0]
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fc1 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x101:
+76f82fc1 e81a190400      call    ntdll!ZwTestAlert (76fc48e0)
+eax=00000000 ebx=0107a000 ecx=76f41cbc edx=00000000 esi=00000000 edi=00002000
+eip=76f82fc6 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x106:
+76f82fc6 8b4df0          mov     ecx,dword ptr [ebp-10h] ss:002b:00f9f64c=ffffffff
+eax=00000000 ebx=0107a000 ecx=ffffffff edx=00000000 esi=00000000 edi=00002000
+eip=76f82fc9 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x109:
+76f82fc9 64890d00000000  mov     dword ptr fs:[0],ecx fs:0053:00000000=00f9f64c
+eax=00000000 ebx=0107a000 ecx=ffffffff edx=00000000 esi=00000000 edi=00002000
+eip=76f82fd0 esp=00f9f60c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x110:
+76f82fd0 59              pop     ecx
+eax=00000000 ebx=0107a000 ecx=4e438341 edx=00000000 esi=00000000 edi=00002000
+eip=76f82fd1 esp=00f9f610 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x111:
+76f82fd1 5f              pop     edi
+eax=00000000 ebx=0107a000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd2 esp=00f9f614 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x112:
+76f82fd2 5e              pop     esi
+eax=00000000 ebx=0107a000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd3 esp=00f9f618 ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x113:
+76f82fd3 5b              pop     ebx
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd4 esp=00f9f61c ebp=00f9f65c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x114:
+76f82fd4 c9              leave
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82fd5 esp=00f9f660 ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x115:
+76f82fd5 c3              ret
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ed1 esp=00f9f664 ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x11:
+76f82ed1 8b3598e80677    mov     esi,dword ptr [ntdll!RtlpFreezeTimeBias+0xf8 (7706e898)] ds:002b:7706e898=00000000
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ed7 esp=00f9f664 ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x17:
+76f82ed7 85f6            test    esi,esi
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ed9 esp=00f9f664 ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x19:
+76f82ed9 0f85a9e70500    jne     ntdll!RtlCaptureStackContext+0x7338 (76fe1688) [br=0]
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82edf esp=00f9f664 ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x1f:
+76f82edf 6a01            push    1
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ee1 esp=00f9f660 ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x21:
+76f82ee1 ff7508          push    dword ptr [ebp+8]    ss:002b:00f9f670=00f9f67c
+eax=00000000 ebx=01077000 ecx=4e438341 edx=00000000 esi=00000000 edi=00000000
+eip=76f82ee4 esp=00f9f65c ebp=00f9f668 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitializeThunk+0x24:
+76f82ee4 e887020400      call    ntdll!ZwContinue (76fc3170)
+1:014> p 10
+p 10
+ModLoad: 74980000 749fa000   C:\WINDOWS\SysWOW64\ADVAPI32.dll
+ModLoad: 74680000 7470f000   C:\WINDOWS\SysWOW64\sysfer.dll
+ModLoad: 74d00000 74dbf000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 74c80000 74cf6000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 76690000 7674b000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 74720000 74740000   C:\WINDOWS\SysWOW64\SspiCli.dll
+ModLoad: 74710000 7471a000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 767e0000 76842000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 73be0000 73c6d000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+ModLoad: 76460000 764a4000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 74a00000 74c77000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 76190000 762b0000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 767b0000 767d1000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 74920000 74937000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 751d0000 7532d000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 76540000 765bc000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 75ff0000 76187000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 75fc0000 75fe5000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 75ac0000 75acf000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 741e0000 741e8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 73420000 73bd1000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+ModLoad: 72f00000 72f14000   C:\WINDOWS\SysWOW64\VCRUNTIME140_CLR0400.dll
+ModLoad: 72e50000 72efb000   C:\WINDOWS\SysWOW64\ucrtbase_clr0400.dll
+(4218.5028): Unknown exception - code 04242420 (first chance)
+ModLoad: 75ab0000 75ab6000   C:\WINDOWS\SysWOW64\psapi.dll
+ModLoad: 71a40000 72e4e000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\mscorlib\e4a1c9189d2b01f018b953e46c80d120\mscorlib.ni.dll
+ModLoad: 74820000 74917000   C:\WINDOWS\SysWOW64\ole32.dll
+ModLoad: 70b70000 70bea000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 74940000 74953000   C:\WINDOWS\SysWOW64\CRYPTSP.dll
+ModLoad: 745c0000 745ef000   C:\WINDOWS\SysWOW64\rsaenh.dll
+ModLoad: 74960000 74979000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 719b0000 71a3a000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+ModLoad: 75080000 75112000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+(4218.5028): C++ EH exception - code e06d7363 (first chance)
+(4218.5028): C++ EH exception - code e06d7363 (first chance)
+ModLoad: 70f50000 719a6000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\95e416c6f42bb0f2d94b6f2067335b6f\System.ni.dll
+ModLoad: 63a50000 63a72000   C:\WINDOWS\SysWOW64\wldp.dll
+ModLoad: 74dc0000 74ebb000   C:\WINDOWS\SysWOW64\CRYPT32.dll
+ModLoad: 762e0000 762ee000   C:\WINDOWS\SysWOW64\MSASN1.dll
+ModLoad: 75180000 751c6000   C:\WINDOWS\SysWOW64\WINTRUST.dll
+ModLoad: 6e570000 6e582000   C:\WINDOWS\SysWOW64\amsi.dll
+ModLoad: 745f0000 7460e000   C:\WINDOWS\SysWOW64\USERENV.dll
+ModLoad: 76660000 76677000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 6e4e0000 6e569000   C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.3.3580.1100.105\bin\symamsi.dll
+ModLoad: 75330000 758aa000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 75ad0000 75b0b000   C:\WINDOWS\SysWOW64\cfgmgr32.dll
+ModLoad: 765d0000 76654000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 76850000 76e10000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 74ec0000 74f03000   C:\WINDOWS\SysWOW64\powrprof.dll
+ModLoad: 765c0000 765cd000   C:\WINDOWS\SysWOW64\UMPDC.dll
+ModLoad: 762b0000 762cb000   C:\WINDOWS\SysWOW64\imagehlp.dll
+ModLoad: 6c2f0000 6cb08000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\ce067d46c96f661ad2581f5dfa9b07d1\System.Core.ni.dll
+ModLoad: 7b2e0000 7b6fb000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\WindowsBase\4548359b28f442b537bb4eb539964ae9\WindowsBase.ni.dll
+ModLoad: 782e0000 78f20000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\PresentationCore\0483dfe8c48464d9f3db98321802f838\PresentationCore.ni.dll
+ModLoad: 05b00000 06ef8000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\831ac9da57c4f613db36213c47374daa\PresentationFramework.ni.dll
+ModLoad: 05b00000 06ef8000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\831ac9da57c4f613db36213c47374daa\PresentationFramework.ni.dll
+ModLoad: 63840000 63a43000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xaml\8e0de59857ac442705578a3cabab6364\System.Xaml.ni.dll
+ModLoad: 51180000 5140a000   C:\WINDOWS\SysWOW64\dwrite.dll
+ModLoad: 636b0000 6383d000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+ModLoad: 7b700000 7b76b000   C:\WINDOWS\SysWOW64\MSVCP140_CLR0400.dll
+ModLoad: 7b770000 7b853000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+(4218.5028): CLR exception - code e0434352 (first chance)
+ModLoad: 7c160000 7c265000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+(4218.5028): CLR exception - code e0434352 (!!! second chance !!!)
+eax=00f9ec90 ebx=00000005 ecx=00000005 edx=00000000 esi=00f9ed54 edi=00000001
+eip=759afcf2 esp=00f9ec90 ebp=00f9ecec iopl=0         nv up ei pl nz ac pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00200216
+KERNELBASE!RaiseException+0x62:
+759afcf2 8b4c2454        mov     ecx,dword ptr [esp+54h] ss:002b:00f9ece4=e73e48ac
+

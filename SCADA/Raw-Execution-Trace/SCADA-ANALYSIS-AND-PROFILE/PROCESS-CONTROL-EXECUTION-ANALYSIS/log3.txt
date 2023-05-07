@@ -1,0 +1,118 @@
+Opened log file 
+Microsoft (R) Windows Debugger Version 10.0.22473.1003 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+CommandLine: C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+Symbol search path is: .srv*
+Executable search path is: 
+ModLoad: 00400000 0114a000   ws7v6.exe
+ModLoad: 77150000 772ea000   ntdll.dll
+ModLoad: 752c0000 753a0000   C:\WINDOWS\SysWOW64\KERNEL32.DLL
+ModLoad: 75fd0000 761d0000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 74880000 74909000   C:\WINDOWS\SysWOW64\SYSFER.DLL
+ModLoad: 76280000 762fa000   C:\WINDOWS\SysWOW64\ADVAPI32.DLL
+ModLoad: 76ac0000 76b7f000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 02750000 02c9d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 74940000 749b6000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 00120000 00148000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 00020000 0003b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 75040000 750fb000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 00020000 00032000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 02750000 02884000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 74920000 74940000   C:\WINDOWS\SysWOW64\SspiCli.dll
+ModLoad: 00120000 0014d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02750000 02828000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 74910000 7491a000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 029b0000 029f0000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 769f0000 76a52000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 02750000 029a6000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 75100000 75297000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 76a60000 76a77000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 02750000 028a5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 028b0000 028eb000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 75f90000 75fb1000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 761d0000 76280000   C:\WINDOWS\SysWOW64\COMDLG32.DLL
+ModLoad: 76e40000 76f9d000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 743e0000 743e8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 02750000 027ff000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 75ba0000 75c1c000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 768d0000 769f0000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 6fc00000 6fc08000   C:\WINDOWS\SysWOW64\WSOCK32.DLL
+ModLoad: 741d0000 743df000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1801_none_e626de10f8de6cf6\COMCTL32.DLL
+ModLoad: 6f660000 6f6cc000   C:\WINDOWS\SysWOW64\WINSPOOL.DRV
+ModLoad: 74fe0000 7503e000   C:\WINDOWS\SysWOW64\WS2_32.dll
+ModLoad: 02750000 029c7000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 029d0000 02c47000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 75f30000 75f3f000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 753a0000 753b9000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 6f470000 6f4a2000   C:\WINDOWS\SysWOW64\IPHLPAPI.DLL
+ModLoad: 6f3a0000 6f465000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 753d0000 75462000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+ModLoad: 75920000 75b97000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 76bc0000 76c44000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 029d0000 02a54000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 75f40000 75f84000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 76300000 7687a000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 76b80000 76bbb000   C:\WINDOWS\SysWOW64\cfgmgr32.dll
+ModLoad: 749c0000 74f80000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 752a0000 752b7000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 758d0000 75913000   C:\WINDOWS\SysWOW64\powrprof.dll
+ModLoad: 77130000 7713d000   C:\WINDOWS\SysWOW64\UMPDC.dll
+ModLoad: 76aa0000 76ab3000   C:\WINDOWS\SysWOW64\cryptsp.dll
+ModLoad: 75c50000 75d47000   C:\WINDOWS\SysWOW64\OLE32.DLL
+ModLoad: 70e80000 70e86000   C:\WINDOWS\SysWOW64\SHFOLDER.DLL
+ModLoad: 6f780000 6f786000   C:\WINDOWS\SysWOW64\MSIMG32.DLL
+ModLoad: 6f6d0000 6f6f4000   C:\WINDOWS\SysWOW64\WINMM.DLL
+ModLoad: 6f630000 6f653000   C:\WINDOWS\SysWOW64\winmmbase.dll
+ModLoad: 00120000 00143000   C:\WINDOWS\SysWOW64\winmmbase.dll
+ModLoad: 01650000 01673000   C:\WINDOWS\SysWOW64\WINMMBASE.dll
+ModLoad: 029d0000 02f1d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 00020000 0003b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 02f20000 03054000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 01650000 0167d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 03060000 03088000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 03090000 03168000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 03170000 033c6000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 753c0000 753c6000   C:\WINDOWS\SysWOW64\PSAPI.DLL
+ModLoad: 033d0000 03410000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 03410000 0344b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 03450000 035a5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 035b0000 0365f000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 001e0000 001f2000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 00120000 00132000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 74620000 74633000   C:\WINDOWS\SysWOW64\NETAPI32.DLL
+(2560.5020): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00291000 ecx=c69e0000 edx=00000000 esi=01681ec0 edi=7715687c
+eip=771fed22 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+771fed22 cc              int     3
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'

@@ -1,0 +1,90 @@
+{
+    "ws7v6!Exceptionloginitialization$qqrv+0x504d5": {
+        "ws7v6!Exceptionloginitialization$qqrv+0x55309": {
+            "ws7v6!FupeditorfFinalize+0xb83": 13,
+            "ws7v6!FupeditorfFinalize+0xe6d": 12,
+            "ws7v6!FupeditorfFinalize+0xec4": 12,
+            "ws7v6!FupeditorfFinalize+0xf3e": 12,
+            "ws7v6!FupeditorfFinalize+0xabe": 12,
+            "ws7v6!FupeditorfFinalize+0xb14": 12
+        },
+        "ws7v6!Exceptionloginitialization$qqrv+0x56de6": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3c9ec": 3
+        },
+        "ws7v6!Shdocvw_ocxFinalize+0x32032": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3c1b9": 3
+        }
+    },
+    "ws7v6!Exceptionloginitialization$qqrv+0x50476": {},
+    "ws7v6!Exceptionloginitialization$qqrv+0x504c8": {
+        "ws7v6!Exceptionloginitialization$qqrv+0x55309": {
+            "ws7v6!FupeditorfFinalize+0xb83": 13,
+            "ws7v6!FupeditorfFinalize+0xe6d": 12,
+            "ws7v6!FupeditorfFinalize+0xec4": 12,
+            "ws7v6!FupeditorfFinalize+0xf3e": 12,
+            "ws7v6!FupeditorfFinalize+0xabe": 12,
+            "ws7v6!FupeditorfFinalize+0xb14": 12
+        },
+        "ws7v6!Exceptionloginitialization$qqrv+0x56de6": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3c9ec": 3
+        },
+        "ws7v6!Shdocvw_ocxFinalize+0x32032": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3c1b9": 3
+        }
+    },
+    "ws7v6!Exceptionloginitialization$qqrv+0x50855": {
+        "ws7v6!FupeditorfFinalize+0xbb2": {
+            "ws7v6!FupeditorfFinalize+0x1dd2": 2,
+            "ws7v6!FupeditorfFinalize+0x21e3": 11
+        },
+        "ws7v6!FupeditorfFinalize+0xe93": {
+            "ws7v6!FupeditorfFinalize+0x2043": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xeea": {
+            "ws7v6!FupeditorfFinalize+0x2043": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xf64": {
+            "ws7v6!FupeditorfFinalize+0x2043": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xadd": {
+            "ws7v6!FupeditorfFinalize+0x21e3": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xb3b": {
+            "ws7v6!FupeditorfFinalize+0x21e3": 12
+        },
+        "ws7v6!Exceptionloginitialization$qqrv+0x56de6": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3ce12": 3
+        },
+        "ws7v6!Shdocvw_ocxFinalize+0x32032": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3c1b9": 3
+        }
+    },
+    "ws7v6!Exceptionloginitialization$qqrv+0x507eb": {},
+    "ws7v6!Exceptionloginitialization$qqrv+0x5081a": {
+        "ws7v6!FupeditorfFinalize+0xbb2": {
+            "ws7v6!FupeditorfFinalize+0x1dd2": 2,
+            "ws7v6!FupeditorfFinalize+0x21e3": 11
+        },
+        "ws7v6!FupeditorfFinalize+0xe93": {
+            "ws7v6!FupeditorfFinalize+0x2043": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xeea": {
+            "ws7v6!FupeditorfFinalize+0x2043": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xf64": {
+            "ws7v6!FupeditorfFinalize+0x2043": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xadd": {
+            "ws7v6!FupeditorfFinalize+0x21e3": 12
+        },
+        "ws7v6!FupeditorfFinalize+0xb3b": {
+            "ws7v6!FupeditorfFinalize+0x21e3": 12
+        },
+        "ws7v6!Exceptionloginitialization$qqrv+0x56de6": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3ce12": 3
+        },
+        "ws7v6!Shdocvw_ocxFinalize+0x32032": {
+            "ws7v6!Shdocvw_ocxFinalize+0x3c1b9": 3
+        }
+    }
+}

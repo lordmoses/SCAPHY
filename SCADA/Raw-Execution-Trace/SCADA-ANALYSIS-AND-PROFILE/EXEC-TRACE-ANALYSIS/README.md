@@ -1,0 +1,3 @@
+The `WindbgParse.py` script consumes windbg log output files and builds a series of links based on which function called another. It also includes info like thread and timestamp.
+It only needs to be pointed at a log file (ie MPI_V2_RAW.txt) and it will create the processed text file automatically. Minimal preparation of the log file is necessary as long
+as the debugging session was targeted at a running the executable and nothing else.

@@ -1,0 +1,332 @@
+Opened log file 
+
+Microsoft (R) Windows Debugger Version 10.0.22473.1003 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+CommandLine: C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+Symbol search path is: .srv*
+Executable search path is: 
+ModLoad: 00400000 0114a000   ws7v6.exe
+ModLoad: 77150000 772ea000   ntdll.dll
+ModLoad: 752c0000 753a0000   C:\WINDOWS\SysWOW64\KERNEL32.DLL
+ModLoad: 75fd0000 761d0000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 74880000 74909000   C:\WINDOWS\SysWOW64\SYSFER.DLL
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 76280000 762fa000   C:\WINDOWS\SysWOW64\ADVAPI32.DLL
+ModLoad: 75100000 75297000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 76ac0000 76b7f000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 76a60000 76a77000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 74940000 749b6000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 02720000 02c6d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 75040000 750fb000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 75f90000 75fb1000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 001d0000 001f8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 76e40000 76f9d000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 02720000 02854000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 00020000 0003b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 75ba0000 75c1c000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 74920000 74940000   C:\WINDOWS\SysWOW64\SspiCli.dll
+ModLoad: 768d0000 769f0000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 00020000 00032000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 001d0000 001fd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 74910000 7491a000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 769f0000 76a52000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 02720000 027f8000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 02800000 02a56000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 02a60000 02aa0000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 02720000 02875000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 761d0000 76280000   C:\WINDOWS\SysWOW64\COMDLG32.DLL
+ModLoad: 02880000 028bb000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 75920000 75b97000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 02720000 027cf000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 76bc0000 76c44000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 75f40000 75f84000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 76300000 7687a000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 00020000 00028000   C:\WINDOWS\SysWOW64\VERSION.DLL
+ModLoad: 743e0000 743e8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 76b80000 76bbb000   C:\WINDOWS\SysWOW64\cfgmgr32.dll
+ModLoad: 6fc00000 6fc08000   C:\WINDOWS\SysWOW64\WSOCK32.DLL
+ModLoad: 749c0000 74f80000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 752a0000 752b7000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 758d0000 75913000   C:\WINDOWS\SysWOW64\powrprof.dll
+ModLoad: 77130000 7713d000   C:\WINDOWS\SysWOW64\UMPDC.dll
+ModLoad: 6f660000 6f6cc000   C:\WINDOWS\SysWOW64\WINSPOOL.DRV
+ModLoad: 74fe0000 7503e000   C:\WINDOWS\SysWOW64\WS2_32.dll
+ModLoad: 00020000 0002f000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 75f30000 75f3f000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 741d0000 743df000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1801_none_e626de10f8de6cf6\COMCTL32.DLL
+ModLoad: 753a0000 753b9000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 76aa0000 76ab3000   C:\WINDOWS\SysWOW64\cryptsp.dll
+ModLoad: 6f3a0000 6f465000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 75c50000 75d47000   C:\WINDOWS\SysWOW64\OLE32.DLL
+ModLoad: 753d0000 75462000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+ModLoad: 02720000 027b2000   C:\WINDOWS\SysWOW64\OLEAUT32.DLL
+ModLoad: 70e80000 70e86000   C:\WINDOWS\SysWOW64\SHFOLDER.DLL
+ModLoad: 6f780000 6f786000   C:\WINDOWS\SysWOW64\MSIMG32.DLL
+ModLoad: 6f6d0000 6f6f4000   C:\WINDOWS\SysWOW64\WINMM.DLL
+ModLoad: 6f470000 6f4a2000   C:\WINDOWS\SysWOW64\IPHLPAPI.DLL
+ModLoad: 6f630000 6f653000   C:\WINDOWS\SysWOW64\WINMMBASE.dll
+ModLoad: 02720000 02c6d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 001d0000 001f8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 00020000 0003b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 02db0000 02dc2000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 02dd0000 02dfd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02e00000 02ed8000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 02ee0000 03136000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 03140000 03295000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 753c0000 753c6000   C:\WINDOWS\SysWOW64\PSAPI.DLL
+ModLoad: 032a0000 032db000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 02c70000 02da4000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 032e0000 0338f000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 03390000 033d0000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 033d0000 03410000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 03390000 034a5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 03390000 033d0000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 74620000 74633000   C:\WINDOWS\SysWOW64\NETAPI32.DLL
+(5768.6964): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00284000 ecx=a2160000 edx=00000000 esi=016a1ec0 edi=7715687c
+eip=771fed22 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+771fed22 cc              int     3
+0:000> ~
+~
+.  0  Id: 5768.6964 Suspend: 1 Teb: 00287000 Unfrozen
+   1  Id: 5768.1360 Suspend: 1 Teb: 0028a000 Unfrozen
+   2  Id: 5768.4e88 Suspend: 1 Teb: 0028d000 Unfrozen
+   3  Id: 5768.7178 Suspend: 1 Teb: 00290000 Unfrozen
+0:000> k
+k
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164fa4c 771f94e6     ntdll!LdrInitShimEngineDynamic+0x6e2
+01 0164fcac 77182fe1     ntdll!RtlCaptureStackContext+0x1f196
+02 0164fd04 77182ed1     ntdll!LdrInitializeThunk+0x121
+03 0164fd10 00000000     ntdll!LdrInitializeThunk+0x11
+0:000> x ws7v6
+x ws7v6
+0:000> x ws7v6!*main*
+x ws7v6!*main*
+0048aa88          ws7v6!TMaskeMainWin$bdtr$qqrv (<no parameter info>)
+0048ac14          ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri (<no parameter info>)
+00496424          ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri (<no parameter info>)
+0049662c          ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (<no parameter info>)
+00496668          ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (<no parameter info>)
+00496844          ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv (<no parameter info>)
+00496b78          ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv (<no parameter info>)
+0049972c          ws7v6!MaskemainwindowInitialize (<no parameter info>)
+0049973c          ws7v6!MaskemainwindowFinalize (<no parameter info>)
+004bf4bc          ws7v6!PaepaamainwinInitialize (<no parameter info>)
+004bf4cc          ws7v6!PaepaamainwinFinalize (<no parameter info>)
+007b4794          ws7v6!EcoreReal_GetMainModuleFileName$qqrv (<no parameter info>)
+00c2384c          ws7v6!MaskeMainWin (<no parameter info>)
+00c8b110          ws7v6!PaePaaMainForm (<no parameter info>)
+0:000> reip
+reip
+eip=771fed22
+0:000> wt 771fed22 77182ed1
+wt 771fed22 77182ed1
+                   ^ Extra character error in 'wt 771fed22 77182ed1'
+   10     0 [  0] ntdll!LdrInitShimEngineDynamic
+>> No match on ret
+   10     0 [  0] ntdll!LdrInitShimEngineDynamic
+    1     0 [  0] ntdll!RtlCaptureStackContext
+    7     0 [  1]   ntdll!TpCallbackIndependent
+   16     0 [  2]     ntdll!RtlEnterCriticalSection
+   10    16 [  1]   ntdll!TpCallbackIndependent
+   25     0 [  2]     ntdll!RtlLeaveCriticalSection
+   13    41 [  1]   ntdll!TpCallbackIndependent
+    3     0 [  2]     ntdll!ZwSetEvent
+    1     0 [  3]       ntdll!RtlInterlockedCompareExchange64
+    1     0 [  3]       0x77146000
+ModLoad: 75c20000 75c45000   C:\WINDOWS\SysWOW64\IMM32.DLL
+    1     0 [  3]       ntdll!NtQueryInformationThread
+>> No match on ret
+    1     0 [  3]       ntdll!NtQueryInformationThread
+   28     0 [  3]       ntdll!RtlCompareUnicodeStrings
+>> No match on ret
+   44     0 [  3]       ntdll!RtlCompareUnicodeStrings
+   89     0 [  4]         ntdll!RtlImageNtHeaderEx
+   51    89 [  3]       ntdll!RtlCompareUnicodeStrings
+   18     0 [  4]         ntdll!RtlAcquireSRWLockExclusive
+   65   107 [  3]       ntdll!RtlCompareUnicodeStrings
+   44     0 [  4]         ntdll!RtlGetNtSystemRoot
+   79   151 [  3]       ntdll!RtlCompareUnicodeStrings
+   77     0 [  4]         ntdll!RtlCompareUnicodeStrings
+   83   228 [  3]       ntdll!RtlCompareUnicodeStrings
+   40     0 [  4]         ntdll!RtlCompareUnicodeStrings
+   86   268 [  3]       ntdll!RtlCompareUnicodeStrings
+   73     0 [  4]         ntdll!LdrFindResource_U
+   46     0 [  5]           ntdll!RtlRbInsertNodeEx
+  143    46 [  4]         ntdll!LdrFindResource_U
+  137     0 [  5]           ntdll!RtlRbInsertNodeEx
+  149   183 [  4]         ntdll!LdrFindResource_U
+   88   600 [  3]       ntdll!RtlCompareUnicodeStrings
+   14     0 [  4]         ntdll!RtlReleaseSRWLockExclusive
+   99   614 [  3]       ntdll!RtlCompareUnicodeStrings
+   21     0 [  4]         ntdll!RtlCompareUnicodeStrings
+   25     0 [  5]           ntdll!LdrFindResource_U
+   69     0 [  6]             ntdll!RtlImageNtHeaderEx
+   46    69 [  5]           ntdll!LdrFindResource_U
+   46   115 [  4]         ntdll!RtlCompareUnicodeStrings
+  107   775 [  3]       ntdll!RtlCompareUnicodeStrings
+   22     0 [  4]         ntdll!RtlCompareUnicodeStrings
+   69     0 [  5]           ntdll!RtlImageNtHeaderEx
+   40    69 [  4]         ntdll!RtlCompareUnicodeStrings
+   13     0 [  5]           ntdll!RtlCompareUnicodeStrings
+   69     0 [  6]             ntdll!RtlImageNtHeaderEx
+   25    69 [  5]           ntdll!RtlCompareUnicodeStrings
+   68   163 [  4]         ntdll!RtlCompareUnicodeStrings
+    3     0 [  5]           ntdll!NtWow64IsProcessorFeaturePresent
+    1     0 [  6]             ntdll!RtlInterlockedCompareExchange64
+  193     0 [  6]             SYSFER
+    1     0 [  6]             0x77146000
+eax=02e8d2a4 ebx=0164efd4 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=771c52a0 esp=0685fff0 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlUserThreadStart:
+771c52a0 833d68e9267700  cmp     dword ptr [ntdll!LdrpChildNtdll+0x8 (7726e968)],0 ds:002b:7726e968=00000000
+*** WARNING: Unable to verify checksum for C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+0:004> wt 0x771fed22 0x77182ed1
+wt 0x771fed22 0x77182ed1
+                     ^ Extra character error in 'wt 0x771fed22 0x77182ed1'
+eax=02e8d3a4 ebx=0164efd4 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=771c52a0 esp=06d5fff0 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlUserThreadStart:
+771c52a0 833d68e9267700  cmp     dword ptr [ntdll!LdrpChildNtdll+0x8 (7726e968)],0 ds:002b:7726e968=00000000
+0:005> ~
+~
+   0  Id: 5768.6964 Suspend: 1 Teb: 00287000 Unfrozen
+   1  Id: 5768.1360 Suspend: 1 Teb: 0028a000 Unfrozen
+   2  Id: 5768.4e88 Suspend: 1 Teb: 0028d000 Unfrozen
+   3  Id: 5768.7178 Suspend: 1 Teb: 00290000 Unfrozen
+   4  Id: 5768.2d84 Suspend: 1 Teb: 00293000 Unfrozen
+.  5  Id: 5768.65c4 Suspend: 1 Teb: 00296000 Unfrozen
+0:005> @rip
+@rip
+       ^ Syntax error in '@rip'
+0:005> @eip
+@eip
+       ^ Syntax error in '@eip'
+0:005> ~0s
+~0s
+eax=0000000d ebx=02ec4ee4 ecx=00000200 edx=771d9f60 esi=00000001 edi=02ec4ef4
+eip=748d0521 esp=0164ec6c ebp=0164eca0 iopl=0         nv up ei pl nz ac pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000216
+SYSFER+0x50521:
+748d0521 8b4dfc          mov     ecx,dword ptr [ebp-4] ss:002b:0164ec9c=00000000
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+0:000> x ws7v6!*main*
+x ws7v6!*main*
+0048aa88          ws7v6!TMaskeMainWin$bdtr$qqrv (<no parameter info>)
+0048ac14          ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri (<no parameter info>)
+00496424          ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri (<no parameter info>)
+0049662c          ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (<no parameter info>)
+00496668          ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (<no parameter info>)
+00496844          ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv (<no parameter info>)
+00496b78          ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv (<no parameter info>)
+0049972c          ws7v6!MaskemainwindowInitialize (<no parameter info>)
+0049973c          ws7v6!MaskemainwindowFinalize (<no parameter info>)
+004bf4bc          ws7v6!PaepaamainwinInitialize (<no parameter info>)
+004bf4cc          ws7v6!PaepaamainwinFinalize (<no parameter info>)
+007b4794          ws7v6!EcoreReal_GetMainModuleFileName$qqrv (<no parameter info>)
+00c2384c          ws7v6!MaskeMainWin (<no parameter info>)
+00c8b110          ws7v6!PaePaaMainForm (<no parameter info>)
+0:000> wt 00c2384c 00000000
+wt 00c2384c 00000000
+                   ^ Extra character error in 'wt 00c2384c 00000000'
+    2     0 [  0] ntdll!LdrInitializeThunk
+  180     0 [  0] SYSFER
+    1     0 [  0] 0x77146000
+eax=02e8d4a8 ebx=0164efd4 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=771c52a0 esp=0725fff0 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlUserThreadStart:
+771c52a0 833d68e9267700  cmp     dword ptr [ntdll!LdrpChildNtdll+0x8 (7726e968)],0 ds:002b:7726e968=00000000
+0:006> wt 00c2384c 77182ed1
+wt 00c2384c 77182ed1
+                   ^ Extra character error in 'wt 00c2384c 77182ed1'
+eax=02e8d5ac ebx=0164efd4 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=771c52a0 esp=0775fff0 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!RtlUserThreadStart:
+771c52a0 833d68e9267700  cmp     dword ptr [ntdll!LdrpChildNtdll+0x8 (7726e968)],0 ds:002b:7726e968=00000000
+0:007> wt = 00c2384c 77182ed1
+wt = 00c2384c 77182ed1
+    8     0 [  0] ntdll!LdrInitializeThunk
+   18     0 [  1]   ntdll!LdrInitializeThunk
+   21     0 [  2]     ntdll!TpSetPoolThreadCpuSets
+   34    21 [  1]   ntdll!LdrInitializeThunk
+    7     0 [  1]   ntdll!RtlCaptureStackContext
+    3     0 [  2]     ntdll!ZwWaitForSingleObject
+    1     0 [  3]       ntdll!RtlInterlockedCompareExchange64
+  193     0 [  3]       SYSFER
+    1     0 [  3]       0x77146000
+ModLoad: 6fb80000 6fbfa000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 77020000 77123000   C:\WINDOWS\SysWOW64\MSCTF.dll
+    1     0 [  3]       ntdll!LdrInitializeThunk
+    5     0 [  3]       ntdll!RtlCaptureStackContext
+   14     0 [  3]       ntdll!LdrInitializeThunk
+    3     0 [  4]         ntdll!RtlGetNtSystemRoot
+   22     0 [  5]           ntdll!TpSetPoolThreadCpuSets
+   11    22 [  4]         ntdll!RtlGetNtSystemRoot
+    9     0 [  5]           ntdll!RtlFreeThreadActivationContextStack
+WARNING: This break is not a step/trace completion.
+The last command has been cleared to prevent
+accidental continuation of this unrelated event.
+Check the event, location and thread before resuming.
+(5768.5674): Single step exception - code 80000004 (first chance)
+First chance exceptions are reported before any exception handling.
+This exception may be expected and handled.
+eax=02e8d4a8 ebx=0164efd4 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=771c52a7 esp=0725fff0 ebp=00000000 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!RtlUserThreadStart+0x7:
+771c52a7 740e            je      ntdll!RtlUserThreadStart+0x17 (771c52b7) [br=1]
+   19     0 [  6]             ntdll!RtlFreeThreadActivationContextStack
+
+349 instructions were executed in 348 events (0 from other threads)
+
+Function Name                               Invocations MinInst MaxInst AvgInst
+0x77146000                                            1       1       1       1
+SYSFER                                                1     193     193     193
+ntdll!LdrInitializeThunk                              4       1      34      14
+ntdll!RtlCaptureStackContext                          2       5       7       6
+ntdll!RtlFreeThreadActivationContextStack             2       9      19      14
+ntdll!RtlGetNtSystemRoot                              1      11      11      11
+ntdll!RtlInterlockedCompareExchange64                 1       1       1       1
+ntdll!TpSetPoolThreadCpuSets                          2      21      22      21
+ntdll!ZwWaitForSingleObject                           1       3       3       3
+
+0 system calls were executed
+
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2110.27001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'

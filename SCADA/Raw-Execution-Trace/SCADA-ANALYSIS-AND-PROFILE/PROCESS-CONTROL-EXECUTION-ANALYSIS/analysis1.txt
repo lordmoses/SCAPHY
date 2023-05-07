@@ -1,0 +1,163 @@
+Call stack of a Process Initialization operation checking if the Siemen's TIA portal engine is running
+Loops
+Polling behavior
+0:005> k
+00 ntdll!ZwDelayExecution+0xc
+01 06d1ff4c 02edd476     KERNELBASE!Sleep+0xf
+02 06d1ff70 752d6359     WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x6fb3e
+03 06d1ff80 771b87a4     KERNEL32!BaseThreadInitThunk+0x19
+04 06d1ffdc 771b8774     ntdll!RtlGetAppContainerNamedObjectPath+0xe4
+05 06d1ffec 00000000     ntdll!RtlGetAppContainerNamedObjectPath+0xb4
+
+
+
+
+  2     0 [ 49]                                                                                                   KERNELBASE!WaitForSingleObject
+    3     0 [ 49]                                                                                                   WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv
+    1     0 [ 50]                                                                                                       WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv
+    1     0 [ 50]                                                                                                       KERNEL32!CloseHandle
+   14     0 [ 50]                                                                                                       KERNELBASE!CloseHandle
+   50     0 [ 51]                                                                                                       ntdll!SbSelectProcedure
+   60     0 [ 52]                                                                                                       ntdll!memset
+   60    60 [ 51]                                                                                                       ntdll!SbSelectProcedure
+   34     0 [ 52]                                                                                                       ntdll!SbSelectProcedure
+   69    94 [ 51]                                                                                                       ntdll!SbSelectProcedure
+   56     0 [ 52]                                                                                                       ntdll!memset
+   95   150 [ 51]                                                                                                       ntdll!SbSelectProcedure
+    3     0 [ 52]                                                                                                       ntdll!RtlRetrieveNtUserPfn
+   98   153 [ 51]                                                                                                       ntdll!SbSelectProcedure
+   26   251 [ 50]                                                                                                       KERNELBASE!CloseHandle
+    3     0 [ 51]                                                                                                       ntdll!ZwClose
+    1     0 [ 52]                                                                                                       ntdll!RtlInterlockedCompareExchange64
+  193     0 [ 52]                                                                                                       SYSFER
+    1     0 [ 52]                                                                                                       0x77146000
+    1     0 [ 52]                                                                                                       ntdll!ZwWaitForSingleObject
+>> No match on ret
+    1     0 [ 52]                                                                                                       ntdll!ZwWaitForSingleObject
+    8     0 [ 52]                                                                                                       KERNELBASE!WaitForSingleObjectEx
+    3     0 [ 53]                                                                                                       KERNELBASE!WaitForSingleObjectEx
+   18     3 [ 52]                                                                                                       KERNELBASE!WaitForSingleObjectEx
+>> No match on ret
+   18     3 [ 52]                                                                                                       KERNELBASE!WaitForSingleObjectEx
+    2     0 [ 52]                                                                                                       KERNELBASE!WaitForSingleObject
+>> No match on ret
+    2     0 [ 52]                                                                                                       KERNELBASE!WaitForSingleObject
+    3     0 [ 52]                                                                                                       WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv
+    1     0 [ 53]                                                                                                       WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv
+    1     0 [ 53]                                                                                                       KERNEL32!CloseHandle
+   14     0 [ 53]                                                                                                       KERNELBASE!CloseHandle
+
+
+
+
+
+Call stack of a Process monitoring operation to log a error
+0:000> k
+00 0164a61c 752dfe23     ntdll!NtCreateFile+0xc
+01 0164a6b0 752df925     KERNEL32!GetProfileStringW+0x543
+02 0164a6ec 752e130e     KERNEL32!GetProfileStringW+0x45
+03 0164a70c 752deb75     KERNEL32!BaseDllReadWriteIniFile+0x8e
+04 0164a734 0283baa0     KERNEL32!WritePrivateProfileStringA+0x25
+05 0164a87c 004d36de     WS7_V2_MPI!MPI_V2_NetLinkParamStructInDateiAblegen$qpcp29NETLINK_ALLE_PARAMETER_STRUCT+0x260
+06 0164acac 004d35c7     ws7v6!DlgtodolisteFinalize+0x734e
+07 0164b27c 0052b0c0     ws7v6!DlgtodolisteFinalize+0x7237
+08 0164b834 0052c035     ws7v6!DlgallebsterzFinalize+0x653c
+09 0164bd74 005325c4     ws7v6!DlgallebsterzFinalize+0x74b1
+0a 0164bdb0 00529ecd     ws7v6!DlgallebsterzFinalize+0xda40
+0b 0164d510 005eb384     ws7v6!DlgallebsterzFinalize+0x5349
+0c 0164e9b4 006fbb82     ws7v6!DlgvergleichenformFinalize+0x1de0
+0d 0164e9e0 00645ab6     ws7v6!Exceptionloginitialization$qqrv+0xd897e
+0e 0164e9f8 7514471b     ws7v6!Exceptionloginitialization$qqrv+0x228b2
+0f 0164ea24 7512525c     USER32!AddClipboardFormatListener+0x4b
+10 0164eb08 751243ae     USER32!CallWindowProcW+0xb2c
+11 0164eb7c 75124190     USER32!DispatchMessageW+0x22e
+12 0164eb88 006f56c6     USER32!DispatchMessageW+0x10
+13 0164eba4 006f570b     ws7v6!Exceptionloginitialization$qqrv+0xd24c2
+14 0164ebc8 006f5a36     ws7v6!Exceptionloginitialization$qqrv+0xd2507
+15 0164ebf8 0059d7d8     ws7v6!Exceptionloginitialization$qqrv+0xd2832
+16 0164ff38 008128ff     ws7v6!DlgallgemeineeinstellungenuFinalize+0x15d4
+17 0164ff70 752d6359     ws7v6!Edebuginitialization$qqrv+0x227ff
+18 0164ff80 771b87a4     KERNEL32!BaseThreadInitThunk+0x19
+19 0164ffdc 771b8774     ntdll!RtlGetAppContainerNamedObjectPath+0xe4
+1a 0164ffec 00000000     ntdll!RtlGetAppContainerNamedObjectPath+0xb4
+
+
+
+
+0:014> k
+k
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d20fc54 760cb13f     ntdll!ZwDelayExecution+0xc
+01 0d20fc64 005bc90f     KERNELBASE!Sleep+0xf
+02 0d20fed4 0061ce59     ws7v6!Pae_paa_konfigformFinalize+0xb7f
+03 0d20ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+04 0d20ff5c 00677036     ws7v6!Exceptionloginitialization$qqrv+0x203d1
+05 0d20ff70 752d6359     ws7v6!Exceptionloginitialization$qqrv+0x53e32
+06 0d20ff80 771b87a4     KERNEL32!BaseThreadInitThunk+0x19
+07 0d20ffdc 771b8774     ntdll!RtlGetAppContainerNamedObjectPath+0xe4
+08 0d20ffec 00000000     ntdll!RtlGetAppContainerNamedObjectPath+0xb4
+
+
+0:015> k
+k
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d74fdac 760cb13f     ntdll!ZwDelayExecution+0xc
+01 0d74fdbc 004a9fe5     KERNELBASE!Sleep+0xf
+02 0d74fed4 0061ce59     ws7v6!EditorformFinalize+0xb9
+03 0d74ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+04 0d74ff5c 00677036     ws7v6!Exceptionloginitialization$qqrv+0x203d1
+05 0d74ff70 752d6359     ws7v6!Exceptionloginitialization$qqrv+0x53e32
+06 0d74ff80 771b87a4     KERNEL32!BaseThreadInitThunk+0x19
+07 0d74ffdc 771b8774     ntdll!RtlGetAppContainerNamedObjectPath+0xe4
+08 0d74ffec 00000000     ntdll!RtlGetAppContainerNamedObjectPath+0xb4
+
+
+0:016> k
+k
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0dc8feb0 760cb13f     ntdll!ZwDelayExecution+0xc
+01 0dc8fec0 005e4c0f     KERNELBASE!Sleep+0xf
+02 0dc8fed4 0061ce59     ws7v6!DlgcputoolsformFinalize+0x3f97
+03 0dc8ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+04 0dc8ff5c 00677036     ws7v6!Exceptionloginitialization$qqrv+0x203d1
+05 0dc8ff70 752d6359     ws7v6!Exceptionloginitialization$qqrv+0x53e32
+06 0dc8ff80 771b87a4     KERNEL32!BaseThreadInitThunk+0x19
+07 0dc8ffdc 771b8774     ntdll!RtlGetAppContainerNamedObjectPath+0xe4
+08 0dc8ffec 00000000     ntdll!RtlGetAppContainerNamedObjectPath+0xb4
+
+
+0:019> k
+k
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 10a6fe78 760cb13f     ntdll!ZwDelayExecution+0xc
+01 10a6fe88 00597bc1     KERNELBASE!Sleep+0xf
+02 10a6fed4 0061ce59     ws7v6!NavigationdialogFinalize+0x325
+03 10a6ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+04 10a6ff5c 00677036     ws7v6!Exceptionloginitialization$qqrv+0x203d1
+05 10a6ff70 752d6359     ws7v6!Exceptionloginitialization$qqrv+0x53e32
+06 10a6ff80 771b87a4     KERNEL32!BaseThreadInitThunk+0x19
+07 10a6ffdc 771b8774     ntdll!RtlGetAppContainerNamedObjectPath+0xe4
+08 10a6ffec 00000000     ntdll!RtlGetAppContainerNamedObjectPath+0xb4
+
+
+
+0:000> 0048aa88          ws7v6!TMaskeMainWin$bdtr$qqrv (<no parameter info>)
+0:000> 0048ac14          ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri (<no parameter info>)
+0:000> 00496424          ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri (<no parameter info>)
+0:000> 0049662c          ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (<no parameter info>)
+0:000> 00496668          ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (<no parameter info>)
+0:000> 00496844          ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv (<no parameter info>)
+0:000> 00496b78          ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv (<no parameter info>)
+0:000> 0049972c          ws7v6!MaskemainwindowInitialize (<no parameter info>)
+0:000> 0049973c          ws7v6!MaskemainwindowFinalize (<no parameter info>)
+0:000> 004bf4bc          ws7v6!PaepaamainwinInitialize (<no parameter info>)
+0:000> 004bf4cc          ws7v6!PaepaamainwinFinalize (<no parameter info>)
+0:000> 007b4794          ws7v6!EcoreReal_GetMainModuleFileName$qqrv (<no parameter info>)
+0:000> 00c2384c          ws7v6!MaskeMainWin (<no parameter info>)
+0:000> 00c8b110          ws7v6!PaePaaMainForm (<no parameter info>)
+00c8b110          ws7v6!PaePaaMainForm (<no parameter info>)
+

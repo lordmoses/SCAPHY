@@ -1,0 +1,1605 @@
+Opened log file 
+CommandLine: C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+OK                                             C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\
+Symbol search path is: .srv*;C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\
+Executable search path is: 
+ModLoad: 00400000 0114a000   ws7v6.exe
+ModLoad: 77020000 771c3000   ntdll.dll
+ModLoad: 758e0000 759d0000   C:\WINDOWS\SysWOW64\KERNEL32.DLL
+ModLoad: 75a70000 75c84000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 74e50000 74edf000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll
+ModLoad: 76000000 7607b000   C:\WINDOWS\SysWOW64\ADVAPI32.DLL
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 76080000 7613f000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 76150000 762f0000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 767e0000 76856000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 762f0000 76308000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 02c30000 02c58000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 76990000 76a4e000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 02c30000 02c4b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 75f50000 75fff000   C:\WINDOWS\SysWOW64\COMDLG32.DLL
+ModLoad: 75570000 757f1000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 02c30000 02d64000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 76550000 76670000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 02c30000 02c42000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 759e0000 75a67000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 02c30000 02c5d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 75040000 75085000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 02d10000 02d34000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 02c30000 02d08000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 76a50000 77006000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 75d70000 75d94000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 74ee0000 74f5b000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 74f60000 7503e000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 76400000 764e3000   C:\WINDOWS\SysWOW64\OLE32.DLL
+ModLoad: 768f0000 76986000   C:\WINDOWS\SysWOW64\OLEAUT32.DLL
+ModLoad: 02e90000 02ed0000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 02c30000 02e86000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 02e40000 02e7b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 02c30000 02cdf000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 740f0000 740f8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 026e0000 02c2d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 02ce0000 02e35000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 6f1d0000 6f1d8000   C:\WINDOWS\SysWOW64\WSOCK32.DLL
+ModLoad: 6ffd0000 70042000   C:\WINDOWS\SysWOW64\WINSPOOL.DRV
+ModLoad: 75da0000 75e03000   C:\WINDOWS\SysWOW64\WS2_32.dll
+ModLoad: 702d0000 702d6000   C:\WINDOWS\SysWOW64\MSIMG32.DLL
+ModLoad: 71160000 71166000   C:\WINDOWS\SysWOW64\SHFOLDER.DLL
+ModLoad: 74100000 74310000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.DLL
+ModLoad: 026e0000 028f0000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.dll
+ModLoad: 70050000 70078000   C:\WINDOWS\SysWOW64\WINMM.DLL
+ModLoad: 026e0000 02708000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 02710000 0272b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 02730000 02864000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 02870000 02882000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 02890000 028bd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02900000 02b56000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 02b60000 02c38000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 028c0000 02900000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 02c40000 02c7b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 02c80000 02d2f000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 76310000 76316000   C:\WINDOWS\SysWOW64\PSAPI.DLL
+ModLoad: 02d30000 0327d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 03280000 033d5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 74ba0000 74bb4000   C:\WINDOWS\SysWOW64\NETAPI32.DLL
+ModLoad: 6ea60000 6ea92000   C:\WINDOWS\SysWOW64\IPHLPAPI.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 033e0000 034f5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+(5d4.4c58): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00000000 ecx=e4160000 edx=00000000 esi=77032054 edi=7703261c
+eip=770d1ba2 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+770d1ba2 cc              int     3
+0:000> g
+g
+ModLoad: 75c90000 75cb5000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 70250000 702c4000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 75800000 758d4000   C:\WINDOWS\SysWOW64\MSCTF.dll
+ModLoad: 73d90000 73d9f000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 750d0000 7512f000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 70d70000 70d89000   C:\WINDOWS\SysWOW64\olepro32.dll
+ModLoad: 6edc0000 6ee12000   C:\WINDOWS\SysWOW64\mswsock.dll
+ModLoad: 743b0000 749bc000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 74380000 743a5000   C:\WINDOWS\SysWOW64\Wldp.dll
+ModLoad: 6c040000 6c102000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 76320000 7639e000   C:\WINDOWS\SysWOW64\clbcatq.dll
+ModLoad: 6c5b0000 6c64f000   C:\WINDOWS\SysWOW64\apphelp.dll
+ModLoad: 70f20000 70f33000   C:\WINDOWS\SysWOW64\NetworkExplorer.dll
+ModLoad: 74360000 74378000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 75e10000 75e4b000   C:\WINDOWS\SysWOW64\CFGMGR32.dll
+ModLoad: 70ff0000 7100b000   C:\WINDOWS\SysWOW64\edputil.dll
+ModLoad: 67c10000 67ca3000   C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll
+ModLoad: 6f450000 6f5f8000   C:\WINDOWS\SysWOW64\urlmon.dll
+ModLoad: 74a00000 74a0b000   C:\WINDOWS\SysWOW64\netutils.dll
+ModLoad: 6ef80000 6ef9d000   C:\WINDOWS\SysWOW64\srvcli.dll
+ModLoad: 6efa0000 6f1cb000   C:\WINDOWS\SysWOW64\iertutil.dll
+ModLoad: 706e0000 70701000   C:\WINDOWS\SysWOW64\SspiCli.dll
+ModLoad: 61cd0000 61dab000   C:\Windows\SysWOW64\wintypes.dll
+ModLoad: 67b90000 67c01000   C:\Windows\SysWOW64\appresolver.dll
+ModLoad: 70e10000 70e2f000   C:\Windows\SysWOW64\SLC.dll
+ModLoad: 74db0000 74dd5000   C:\Windows\SysWOW64\USERENV.dll
+ModLoad: 67ef0000 67f38000   C:\Windows\SysWOW64\Bcp47Langs.dll
+ModLoad: 70df0000 70e0c000   C:\Windows\SysWOW64\sppc.dll
+ModLoad: 67b50000 67b8d000   C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll
+ModLoad: 56ae0000 56e81000   C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+OK                                             C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\
+Symbol search path is: .srv*;C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\
+Executable search path is: 
+ModLoad: 00b90000 00bec000   LicensingManagerV2.exe
+ModLoad: 77020000 771c3000   ntdll.dll
+CLR providers have been placed in the service container
+ModLoad: 74080000 740d2000   C:\WINDOWS\SysWOW64\MSCOREE.DLL
+ModLoad: 583b0000 58469000   C:\WINDOWS\SysWOW64\textinputframework.dll
+ModLoad: 758e0000 759d0000   C:\WINDOWS\SysWOW64\KERNEL32.dll
+ModLoad: 75a70000 75c84000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 582b0000 5834b000   C:\WINDOWS\SysWOW64\CoreMessaging.dll
+(49c8.2a24): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00000000 ecx=c0070000 edx=00000000 esi=77032054 edi=7703261c
+eip=770d1ba2 esp=00f7f4f8 ebp=00f7f524 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+770d1ba2 cc              int     3
+1:014> g
+g
+ModLoad: 58030000 582ae000   C:\WINDOWS\SysWOW64\CoreUIComponents.dll
+ModLoad: 76000000 7607b000   C:\WINDOWS\SysWOW64\ADVAPI32.dll
+ModLoad: 74050000 74079000   C:\WINDOWS\SysWOW64\ntmarta.dll
+ModLoad: 74e50000 74edf000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll
+ModLoad: 701f0000 70243000   C:\WINDOWS\SysWOW64\Oleacc.dll
+ModLoad: 771d0000 771d8000   C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+ModLoad: 66960000 66a1f000   C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+ModLoad: 76080000 7613f000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 767e0000 76856000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 76990000 76a4e000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 73da0000 73e2d000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+ModLoad: 75040000 75085000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 73d90000 73d9f000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 740f0000 740f8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 7b570000 7b604000   C:\WINDOWS\SysWOW64\TextShaping.dll
+ModLoad: 735d0000 73d81000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+ModLoad: 76150000 762f0000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 735b0000 735c4000   C:\WINDOWS\SysWOW64\VCRUNTIME140_CLR0400.dll
+ModLoad: 762f0000 76308000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 73500000 735ab000   C:\WINDOWS\SysWOW64\ucrtbase_clr0400.dll
+ModLoad: 75d70000 75d94000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 74f60000 7503e000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 74ee0000 74f5b000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 76550000 76670000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 75c90000 75cb5000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 75570000 757f1000   C:\WINDOWS\SysWOW64\combase.dll
+(49c8.2a24): Unknown exception - code 04242420 (first chance)
+ModLoad: 76310000 76316000   C:\WINDOWS\SysWOW64\psapi.dll
+ModLoad: 720f0000 734fe000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\mscorlib\45cedc1e1f7c1e207ea61b42066b2e96\mscorlib.ni.dll
+ModLoad: 76400000 764e3000   C:\WINDOWS\SysWOW64\ole32.dll
+ModLoad: 75570000 757f1000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 750d0000 7512f000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 70250000 702c4000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 74d80000 74d93000   C:\WINDOWS\SysWOW64\CRYPTSP.dll
+ModLoad: 74d50000 74d7f000   C:\WINDOWS\SysWOW64\rsaenh.dll
+ModLoad: 750b0000 750c9000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 74d40000 74d4a000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 72060000 720ea000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+ModLoad: 768f0000 76986000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+(49c8.2a24): C++ EH exception - code e06d7363 (first chance)
+(49c8.2a24): C++ EH exception - code e06d7363 (first chance)
+ModLoad: 71600000 72056000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\2b95b91d18e7cc32557d641c6010c865\System.ni.dll
+ModLoad: 74380000 743a5000   C:\WINDOWS\SysWOW64\wldp.dll
+ModLoad: 6db60000 6db72000   C:\WINDOWS\SysWOW64\amsi.dll
+ModLoad: 74db0000 74dd5000   C:\WINDOWS\SysWOW64\USERENV.dll
+ModLoad: 74360000 74378000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 6dab0000 6db60000   C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\bin\symamsi.dll
+ModLoad: 75d20000 75d6e000   C:\WINDOWS\SysWOW64\WINTRUST.dll
+ModLoad: 75e50000 75f4a000   C:\WINDOWS\SysWOW64\CRYPT32.dll
+ModLoad: 76a50000 77006000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 74da0000 74dae000   C:\WINDOWS\SysWOW64\MSASN1.dll
+ModLoad: 75090000 750a9000   C:\WINDOWS\SysWOW64\imagehlp.dll
+ModLoad: 639c0000 641d8000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\ac36da337473742b42cb651eb8eeee7e\System.Core.ni.dll
+ModLoad: 65eb0000 662cc000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\WindowsBase\c1cafcb7e1703e3d75bcd932d5d7e275\WindowsBase.ni.dll
+ModLoad: 78790000 793d1000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\PresentationCore\136b9c641f2b75d4f55f31eb1c499f89\PresentationCore.ni.dll
+ModLoad: 7a230000 7b629000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\e78dd4e00675b886adaaa9cfb8433ddc\PresentationFramework.ni.dll
+ModLoad: 65940000 65b43000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xaml\2ee610fcfedccecad6c5e270330a5498\System.Xaml.ni.dll
+ModLoad: 622c0000 624d0000   C:\WINDOWS\SysWOW64\dwrite.dll
+ModLoad: 66af0000 66c7e000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+ModLoad: 66540000 665ab000   C:\WINDOWS\SysWOW64\MSVCP140_CLR0400.dll
+ModLoad: 66450000 66533000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+(49c8.2a24): CLR exception - code e0434352 (first chance)
+ModLoad: 65da0000 65ea5000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+(49c8.2a24): CLR exception - code e0434352 (!!! second chance !!!)
+eax=00f7ee10 ebx=00000005 ecx=00000005 edx=00000000 esi=00f7eed4 edi=00000001
+eip=75b9b812 esp=00f7ee10 ebp=00f7ee6c iopl=0         nv up ei pl nz ac po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00200212
+KERNELBASE!RaiseException+0x62:
+75b9b812 8b4c2454        mov     ecx,dword ptr [esp+54h] ss:002b:00f7ee64=451736f8
+1:014> g
+g
+WARNING: Continuing a non-continuable exception
+eax=00000000 ebx=00000000 ecx=00000005 edx=00000000 esi=80131506 edi=77145b40
+eip=77092c9c esp=00f7e544 ebp=00f7e618 iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00200206
+ntdll!NtTerminateProcess+0xc:
+77092c9c c20800          ret     8
+1:014> g
+g
+ModLoad: 67a50000 67a76000   C:\WINDOWS\SysWOW64\DWMAPI.DLL
+ModLoad: 63ba0000 641d5000   C:\Windows\SysWOW64\ieframe.dll
+ModLoad: 74ad0000 74b9b000   C:\Windows\SysWOW64\WINHTTP.dll
+ModLoad: 69e60000 69e71000   C:\Windows\SysWOW64\WKSCLI.DLL
+ModLoad: 6ccf0000 6cd21000   C:\WINDOWS\SysWOW64\dataexchange.dll
+ModLoad: 56eb0000 57015000   C:\WINDOWS\SysWOW64\dcomp.dll
+ModLoad: 62840000 62a20000   C:\WINDOWS\SysWOW64\d3d11.dll
+ModLoad: 62a20000 62ae3000   C:\WINDOWS\SysWOW64\dxgi.dll
+ModLoad: 61db0000 61f3f000   C:\WINDOWS\SysWOW64\twinapi.appcore.dll
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+OK                                             C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\
+Symbol search path is: .srv*;C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\
+Executable search path is: 
+ModLoad: 00bb0000 00c22000   WebServerWpf_1.exe
+ModLoad: 77020000 771c3000   ntdll.dll
+ModLoad: 74080000 740d2000   C:\WINDOWS\SysWOW64\MSCOREE.DLL
+ModLoad: 758e0000 759d0000   C:\WINDOWS\SysWOW64\KERNEL32.dll
+ModLoad: 75a70000 75c84000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+(3fa4.1998): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00000000 ecx=9cb10000 edx=00000000 esi=77032054 edi=7703261c
+eip=770d1ba2 esp=00dbf454 ebp=00dbf480 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrInitShimEngineDynamic+0x6e2:
+770d1ba2 cc              int     3
+1:013> g
+g
+ModLoad: 76000000 7607b000   C:\WINDOWS\SysWOW64\ADVAPI32.dll
+ModLoad: 74e50000 74edf000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll
+ModLoad: 76080000 7613f000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 767e0000 76856000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 76990000 76a4e000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 73da0000 73e2d000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+ModLoad: 75040000 75085000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 73d90000 73d9f000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 740f0000 740f8000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 65d10000 662c1000   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll
+ModLoad: 76150000 762f0000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 762f0000 76308000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 66be0000 66c7b000   C:\WINDOWS\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9672_none_d08f9da24428a513\MSVCR80.dll
+ModLoad: 75d70000 75d94000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 74f60000 7503e000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 74ee0000 74f5b000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 76550000 76670000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 75c90000 75cb5000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 76a50000 77006000   C:\WINDOWS\SysWOW64\shell32.dll
+ModLoad: 743b0000 749bc000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 75570000 757f1000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 74380000 743a5000   C:\WINDOWS\SysWOW64\Wldp.dll
+ModLoad: 759e0000 75a67000   C:\WINDOWS\SysWOW64\SHCORE.dll
+ModLoad: 74360000 74378000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 630a0000 63ba0000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\mscorlib\ffc00a26ff38e37b47b2c75f92b48929\mscorlib.ni.dll
+ModLoad: 76400000 764e3000   C:\WINDOWS\SysWOW64\ole32.dll
+ModLoad: 750d0000 7512f000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 70250000 702c4000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 7b0b0000 7b858000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System\06e54f5fa1f15dd558eaf403cdcacad3\System.ni.dll
+ModLoad: 65910000 65b46000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Core\94ffadd575b6b6706f55e67053f5a02f\System.Core.ni.dll
+ModLoad: 7b860000 7bb98000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsBase\c61eadcb0bdfb243f5337086156ded07\WindowsBase.ni.dll
+ModLoad: 7a250000 7ae05000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationCore\4c65d8fbfe348c5f5c5620fa6cea033d\PresentationCore.ni.dll
+ModLoad: 05500000 062b4000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationFramewo#\7c1ce4b69881baebaddfd03d64ba5420\PresentationFramework.ni.dll
+ModLoad: 05500000 062b4000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationFramewo#\7c1ce4b69881baebaddfd03d64ba5420\PresentationFramework.ni.dll
+ModLoad: 65760000 6590c000   C:\Windows\Microsoft.NET\Framework\v3.0\WPF\wpfgfx_v0300.dll
+ModLoad: 768f0000 76986000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+ModLoad: 66b80000 66bdb000   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll
+ModLoad: 664b0000 665a4000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Configuration\fdc15310ba8d6d8ee412fbd7cfcb17e7\System.Configuration.ni.dll
+ModLoad: 06340000 0687c000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Xml\78c2a2d668d3c1896534063b52a93918\System.Xml.ni.dll
+ModLoad: 06340000 0687c000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Xml\78c2a2d668d3c1896534063b52a93918\System.Xml.ni.dll
+ModLoad: 74d80000 74d93000   C:\WINDOWS\SysWOW64\CRYPTSP.dll
+ModLoad: 74d50000 74d7f000   C:\WINDOWS\SysWOW64\rsaenh.dll
+ModLoad: 750b0000 750c9000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 74d40000 74d4a000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 76310000 76316000   C:\WINDOWS\SysWOW64\psapi.dll
+ModLoad: 75800000 758d4000   C:\WINDOWS\SysWOW64\MSCTF.dll
+ModLoad: 771d0000 771d8000   C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+ModLoad: 66960000 66a1f000   C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+ModLoad: 70f40000 70f48000   C:\Windows\Microsoft.NET\Framework\v2.0.50727\culture.dll
+ModLoad: 6ea60000 6ea92000   C:\WINDOWS\SysWOW64\iphlpapi.dll
+ModLoad: 6eaa0000 6eb31000   C:\WINDOWS\SysWOW64\DNSAPI.dll
+ModLoad: 759d0000 759d7000   C:\WINDOWS\SysWOW64\NSI.dll
+ModLoad: 6de40000 6de54000   C:\WINDOWS\SysWOW64\dhcpcsvc6.DLL
+ModLoad: 6de20000 6de36000   C:\WINDOWS\SysWOW64\dhcpcsvc.DLL
+ModLoad: 6ce60000 6ce68000   C:\WINDOWS\SysWOW64\WINNSI.DLL
+ModLoad: 75da0000 75e03000   C:\WINDOWS\SysWOW64\ws2_32.dll
+ModLoad: 6edc0000 6ee12000   C:\WINDOWS\SysWOW64\mswsock.dll
+ModLoad: 06e10000 06fbc000   C:\WINDOWS\assembly\GAC_32\PresentationCore\3.0.0.0__31bf3856ad364e35\wpfgfx_v0300.dll
+ModLoad: 06e10000 06fbc000   C:\WINDOWS\assembly\GAC_32\PresentationCore\3.0.0.0__31bf3856ad364e35\wpfgfx_v0300.dll
+ModLoad: 67a50000 67a76000   C:\WINDOWS\SysWOW64\DWMAPI.dll
+ModLoad: 62130000 622c0000   C:\WINDOWS\SysWOW64\d3d9.dll
+ModLoad: 62f60000 6309c000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdumdim32.dll
+ModLoad: 06f50000 0abb8000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd9dxva32.dll
+ModLoad: 06f50000 0abb8000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd9dxva32.dll
+ModLoad: 50220000 50359000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdgmm32.dll
+ModLoad: 06f50000 0abb8000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd9dxva32.dll
+ModLoad: 06f50000 0abb8000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd9dxva32.dll
+ModLoad: 50220000 50359000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdgmm32.dll
+ModLoad: 6f450000 6f5f8000   C:\WINDOWS\SysWOW64\urlmon.dll
+ModLoad: 74a00000 74a0b000   C:\WINDOWS\SysWOW64\netutils.dll
+ModLoad: 6ef80000 6ef9d000   C:\WINDOWS\SysWOW64\srvcli.dll
+ModLoad: 6efa0000 6f1cb000   C:\WINDOWS\SysWOW64\iertutil.dll
+ModLoad: 78e90000 79001000   C:\WINDOWS\SysWOW64\WindowsCodecs.dll
+ModLoad: 66b20000 66b7e000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationFramewo#\58f723950ff803fe4d675a6653451725\PresentationFramework.Aero.ni.dll
+(3fa4.1998): CLR exception - code e0434f4d (first chance)
+ModLoad: 6dcc0000 6dd04000   C:\WINDOWS\SysWOW64\powrprof.dll
+ModLoad: 6dcb0000 6dcbd000   C:\WINDOWS\SysWOW64\UMPDC.dll
+ModLoad: 740e0000 740ef000   C:\WINDOWS\SysWOW64\WtsApi32.dll
+ModLoad: 6e850000 6e897000   C:\WINDOWS\SysWOW64\WINSTA.dll
+ModLoad: 76320000 7639e000   C:\WINDOWS\SysWOW64\clbcatq.dll
+ModLoad: 6ce70000 6ce83000   C:\Windows\Microsoft.NET\Framework\v3.0\WPF\PenIMC.dll
+ModLoad: 66ae0000 66b1c000   C:\WINDOWS\SysWOW64\wisp.dll
+ModLoad: 713c0000 713cd000   C:\WINDOWS\SysWOW64\atlthunk.dll
+ModLoad: 70f40000 70f4e000   C:\Program Files (x86)\Common Files\Microsoft Shared\Ink\tpcps.dll
+ModLoad: 6ccf0000 6cd21000   C:\WINDOWS\SysWOW64\dataexchange.dll
+ModLoad: 56eb0000 57015000   C:\WINDOWS\SysWOW64\dcomp.dll
+ModLoad: 62840000 62a20000   C:\WINDOWS\SysWOW64\d3d11.dll
+ModLoad: 62a20000 62ae3000   C:\WINDOWS\SysWOW64\dxgi.dll
+ModLoad: 61db0000 61f3f000   C:\WINDOWS\SysWOW64\twinapi.appcore.dll
+ModLoad: 70050000 70078000   C:\WINDOWS\SysWOW64\WINMM.dll
+ModLoad: 713d0000 713df000   C:\WINDOWS\SysWOW64\resourcepolicyclient.dll
+ModLoad: 66ac0000 66adf000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdinfo32.dll
+ModLoad: 0f9b0000 119cf000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igc32.dll
+ModLoad: 0f9b0000 119cf000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igc32.dll
+ModLoad: 6e7a0000 6e7cc000   C:\WINDOWS\SysWOW64\dxcore.dll
+ModLoad: 75e10000 75e4b000   C:\WINDOWS\SysWOW64\cfgmgr32.dll
+ModLoad: 656a0000 65760000   C:\WINDOWS\SysWOW64\PresentationNative_v0300.dll
+ModLoad: 583b0000 58469000   C:\WINDOWS\SysWOW64\textinputframework.dll
+ModLoad: 582b0000 5834b000   C:\WINDOWS\SysWOW64\CoreMessaging.dll
+ModLoad: 58030000 582ae000   C:\WINDOWS\SysWOW64\CoreUIComponents.dll
+ModLoad: 74050000 74079000   C:\WINDOWS\SysWOW64\ntmarta.dll
+ModLoad: 11fe0000 120bb000   C:\WINDOWS\SysWOW64\wintypes.dll
+ModLoad: 61cd0000 61dab000   C:\WINDOWS\SysWOW64\wintypes.dll
+ModLoad: 120c0000 1219b000   C:\WINDOWS\SysWOW64\wintypes.dll
+ModLoad: 701f0000 70243000   C:\WINDOWS\SysWOW64\Oleacc.dll
+ModLoad: 12000000 1200e000   UIAutomationProvider.dll
+ModLoad: 12010000 1201e000   UIAutomationProvider.dll
+ModLoad: 12000000 1200e000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationProvider\3.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll
+ModLoad: 12000000 1200e000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationProvider\3.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll
+ModLoad: 12020000 1203c000   UIAutomationTypes.dll
+ModLoad: 12040000 1205c000   UIAutomationTypes.dll
+ModLoad: 12020000 1203c000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationTypes\3.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+ModLoad: 12020000 1203c000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationTypes\3.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+ModLoad: 625c0000 62834000   C:\WINDOWS\SysWOW64\UIAutomationCore.dll
+ModLoad: 6c040000 6c102000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 682e0000 68368000   C:\WINDOWS\SysWOW64\sxs.dll
+mincore\com\oleaut32\dispatch\ups.cpp(2122)\OLEAUT32.dll!7691245F: (caller: 76913E7F) ReturnHr(1) tid(1998) 8002801D Library not registered.
+ModLoad: 66aa0000 66ab8000   C:\WINDOWS\SysWOW64\msctfui.dll
+(5d4.1ca8): Break instruction exception - code 80000003 (first chance)
+eax=003c7000 ebx=00000000 ecx=770cdca0 edx=770cdca0 esi=770cdca0 edi=770cdca0
+eip=77094d30 esp=10a6ff44 ebp=10a6ff70 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!DbgBreakPoint:
+77094d30 cc              int     3
+0:038> !address
+!address
+*************************************************************************
+***                                                                   ***
+***                                                                   ***
+***    Either you specified an unqualified symbol, or your debugger   ***
+***    doesn't have full symbol information.  Unqualified symbol      ***
+***    resolution is turned off by default. Please either specify a   ***
+***    fully qualified symbol module!symbolname, or enable resolution ***
+***    of unqualified symbols by typing ".symopt- 100". Note that     ***
+***    enabling unqualified symbol resolution with network symbol     ***
+***    server shares in the symbol path may cause the debugger to     ***
+***    appear to hang for long periods of time when an incorrect      ***
+***    symbol name is typed or the network symbol server is down.     ***
+***                                                                   ***
+***    For some commands to work properly, your symbol path           ***
+***    must point to .pdb files that have full type information.      ***
+***                                                                   ***
+***    Certain .pdb files (such as the public OS symbols) do not      ***
+***    contain the required information.  Contact the group that      ***
+***    provided you with these symbols if you need this command to    ***
+***    work.                                                          ***
+***                                                                   ***
+***    Type referenced: ${$ntdllsym}!_PEB                             ***
+***                                                                   ***
+*************************************************************************
+
+No symbols for ntdll. Cannot continue.
+0:038> .symfix;reload
+.symfix;reload
+                    ^ Bad register error in '.symfix;reload'
+0:038> .symfix;.reload
+.symfix;.reload
+Reloading current modules
+................................................................
+...............................
+0:038> !address
+!address
+*** WARNING: Unable to verify checksum for C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+
+  BaseAddr EndAddr+1 RgnSize     Type       State                 Protect             Usage
+-----------------------------------------------------------------------------------------------
++        0    10000    10000             MEM_FREE                                       Free       
++    10000    20000    10000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++    20000    21000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++    21000    30000     f000             MEM_FREE                                       Free       
++    30000    31000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++    31000    40000     f000             MEM_FREE                                       Free       
++    40000    5d000    1d000 MEM_MAPPED  MEM_COMMIT                                     Other      [API Set Map]
++    5d000    60000     3000             MEM_FREE                                       Free       
++    60000    7c000    1c000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+     7c000    7f000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+     7f000    a0000    21000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++    a0000    a4000     4000 MEM_MAPPED  MEM_COMMIT                                     Other      [System Default Activation Context Data]
++    a4000    b0000     c000             MEM_FREE                                       Free       
++    b0000    b2000     2000 MEM_MAPPED  MEM_COMMIT                                     Other      [Activation Context Data]
++    b2000    c0000     e000             MEM_FREE                                       Free       
++    c0000    c2000     2000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++    c2000    d0000     e000             MEM_FREE                                       Free       
++    d0000    d1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++    d1000    e0000     f000             MEM_FREE                                       Free       
++    e0000   115000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+    115000   118000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+    118000   120000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++   120000   128000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+    128000   130000     8000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++   130000   1f9000    c9000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\System32\locale.nls"
++   1f9000   200000     7000             MEM_FREE                                       Free       
++   200000   384000   184000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+    384000   385000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+    385000   388000     3000 MEM_PRIVATE MEM_COMMIT                                     PEB        [5d4]
+    388000   38b000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~0; 5d4.4c58]
+    38b000   38e000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~1; 5d4.5164]
+    38e000   391000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~2; 5d4.3c1c]
+    391000   394000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~3; 5d4.5110]
+    394000   397000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~4; 5d4.5470]
+    397000   39a000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~5; 5d4.38a4]
+    39a000   39d000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~6; 5d4.3de0]
+    39d000   3a0000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~7; 5d4.48f0]
+    3a0000   3a3000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~8; 5d4.35cc]
+    3a3000   3a6000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~9; 5d4.31b0]
+    3a6000   3a9000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~10; 5d4.4178]
+    3a9000   3ac000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~11; 5d4.2a78]
+    3ac000   3ad000     1000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~12; 5d4.277c]
+    3ad000   3b0000     3000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+    3b0000   3b2000     2000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+    3b2000   3b5000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~14; 5d4.da8]
+    3b5000   3b8000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~15; 5d4.4ce8]
+    3b8000   3bb000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~16; 5d4.5288]
+    3bb000   3be000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~34; 5d4.1e84]
+    3be000   3c1000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~35; 5d4.3c0]
+    3c1000   3c4000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~36; 5d4.3a00]
+    3c4000   3c7000     3000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~37; 5d4.2f4c]
+    3c7000   3c8000     1000 MEM_PRIVATE MEM_COMMIT                                     TEB        [~38; 5d4.1ca8]
+    3c8000   400000    38000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++   400000   401000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    401000   819000   418000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [ws7v6; "ws7v6.exe"]
+    819000   81a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    81a000   84a000    30000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    84a000   84b000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    84b000   8f0000    a5000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    8f0000   8f1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    8f1000   955000    64000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    955000   956000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    956000   960000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    960000   961000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    961000   99e000    3d000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    99e000   99f000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    99f000   9cb000    2c000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    9cb000   9d1000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    9d1000   b09000   138000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b09000   b0a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b0a000   b0b000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b0b000   b0c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b0c000   b14000     8000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b14000   b15000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b15000   b84000    6f000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b84000   b85000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b85000   b98000    13000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b98000   b99000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    b99000   bb6000    1d000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bb6000   bb7000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bb7000   bc3000     c000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bc3000   bc4000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bc4000   bd8000    14000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bd8000   bd9000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bd9000   bdd000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bdd000   bde000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bde000   bf0000    12000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bf0000   bf1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bf1000   bfb000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bfb000   bfc000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bfc000   bfe000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bfe000   bff000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    bff000   c06000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c06000   c0a000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c0a000   c0b000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c0b000   c0e000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c0e000   c10000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c10000   c12000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c12000   c16000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c16000   c1e000     8000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c1e000   c1f000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c1f000   c21000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c21000   c23000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c23000   c24000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c24000   c8b000    67000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c8b000   c8c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c8c000   c9b000     f000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c9b000   c9c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c9c000   c9e000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    c9e000   ca0000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ca0000   ebb000   21b000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ebb000   ebd000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ebd000   ebe000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ebe000   ec3000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ec3000   ec6000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ec6000   ec8000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ec8000   eca000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    eca000   ecb000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ecb000   ecc000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ecc000   ed9000     d000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    ed9000   eda000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+    eda000  1103000   229000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
+   1103000  114a000    47000 MEM_IMAGE   MEM_COMMIT                                     Image      [ws7v6; "ws7v6.exe"]
++  114a000  1150000     6000             MEM_FREE                                       Free       
++  1150000  1581000   431000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~0; 5d4.4c58]
+   1581000  1583000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~0; 5d4.4c58]
+   1583000  1650000    cd000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~0; 5d4.4c58]
++  1650000  1685000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   1685000  1688000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   1688000  1690000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  1690000  1691000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  1691000  16a0000     f000             MEM_FREE                                       Free       
++  16a0000  179f000    ff000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 0; Handle: 016a0000; Type: Segment]
+   179f000  17a0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  17a0000  1c9b000   4fb000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~1; 5d4.5164]
+   1c9b000  1c9d000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~1; 5d4.5164]
+   1c9d000  1ca0000     3000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~1; 5d4.5164]
++  1ca0000  219c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~2; 5d4.3c1c]
+   219c000  219e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~2; 5d4.3c1c]
+   219e000  21a0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~2; 5d4.3c1c]
++  21a0000  21d5000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   21d5000  21d8000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   21d8000  21e0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  21e0000  26dc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~3; 5d4.5110]
+   26dc000  26de000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~3; 5d4.5110]
+   26de000  26e0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~3; 5d4.5110]
++  26e0000  26e1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
+   26e1000  26ed000     c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
+   26ed000  26ff000    12000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
+   26ff000  2701000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
+   2701000  2702000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
+   2702000  2703000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
+   2703000  2708000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SPR2; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL"]
++  2708000  2710000     8000             MEM_FREE                                       Free       
++  2710000  2711000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
+   2711000  2720000     f000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
+   2720000  2721000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
+   2721000  2724000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
+   2724000  2725000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
+   2725000  2728000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
+   2728000  272b000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WUNZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL"]
++  272b000  2730000     5000             MEM_FREE                                       Free       
++  2730000  2731000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2731000  2821000    f0000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2821000  2822000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2822000  2824000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2824000  2830000     c000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2830000  2831000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2831000  2836000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2836000  2838000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2838000  2839000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2839000  283a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   283a000  2840000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2840000  2841000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
+   2841000  2864000    23000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_AGBEF; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL"]
++  2864000  2870000     c000             MEM_FREE                                       Free       
++  2870000  2871000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DATEDLL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL"]
+   2871000  287b000     a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [DATEDLL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL"]
+   287b000  287e000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [DATEDLL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL"]
+   287e000  287f000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DATEDLL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL"]
+   287f000  2882000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [DATEDLL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL"]
++  2882000  2890000     e000             MEM_FREE                                       Free       
++  2890000  2891000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   2891000  289f000     e000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   289f000  28a0000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28a0000  28a1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28a1000  28a2000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28a2000  28aa000     8000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28aa000  28b0000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28b0000  28b6000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28b6000  28b7000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28b7000  28b8000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
+   28b8000  28bd000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7P; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL"]
++  28bd000  28c0000     3000             MEM_FREE                                       Free       
++  28c0000  28c1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
+   28c1000  28ea000    29000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
+   28ea000  28eb000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
+   28eb000  28ed000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
+   28ed000  28f8000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
+   28f8000  28f9000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
+   28f9000  2900000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [MUTILS40; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL"]
++  2900000  2901000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2901000  2974000    73000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2974000  2975000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2975000  2993000    1e000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2993000  2995000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2995000  299c000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   299c000  299d000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   299d000  29ae000    11000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   29ae000  29af000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   29af000  29d7000    28000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   29d7000  29ee000    17000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   29ee000  29ef000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   29ef000  2a01000    12000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a01000  2a02000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a02000  2a06000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a06000  2a10000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a10000  2a12000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a12000  2a28000    16000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a28000  2a2d000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a2d000  2a3c000     f000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a3c000  2a3d000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a3d000  2a7c000    3f000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2a7c000  2b46000    ca000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2b46000  2b49000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2b49000  2b4a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2b4a000  2b4b000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
+   2b4b000  2b56000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7COMP; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL"]
++  2b56000  2b60000     a000             MEM_FREE                                       Free       
++  2b60000  2b61000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2b61000  2bfc000    9b000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2bfc000  2bfe000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2bfe000  2c03000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c03000  2c05000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c05000  2c07000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c07000  2c09000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c09000  2c21000    18000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c21000  2c28000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c28000  2c29000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
+   2c29000  2c38000     f000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_S7AG; "C:\WINDOWS\SysWOW64\WS7_S7AG.DLL"]
++  2c38000  2c40000     8000             MEM_FREE                                       Free       
++  2c40000  2c41000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
+   2c41000  2c66000    25000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
+   2c66000  2c67000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
+   2c67000  2c69000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
+   2c69000  2c74000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
+   2c74000  2c75000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
+   2c75000  2c7b000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_SYMBOL; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL"]
++  2c7b000  2c80000     5000             MEM_FREE                                       Free       
++  2c80000  2c81000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2c81000  2d02000    81000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d02000  2d04000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d04000  2d11000     d000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d11000  2d18000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d18000  2d19000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d19000  2d1e000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d1e000  2d20000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d20000  2d21000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d21000  2d22000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d22000  2d23000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d23000  2d24000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
+   2d24000  2d2f000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [DLL_REGEX; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL"]
++  2d2f000  2d30000     1000             MEM_FREE                                       Free       
++  2d30000  2d31000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   2d31000  2de8000    b7000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   2de8000  2de9000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   2de9000  3120000   337000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   3120000  3122000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   3122000  31fd000    db000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   31fd000  31fe000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   31fe000  3204000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   3204000  3205000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   3205000  325d000    58000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   325d000  3269000     c000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   3269000  326c000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   326c000  326d000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   326d000  326e000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
+   326e000  327d000     f000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS7_V2_MPI; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL"]
++  327d000  3280000     3000             MEM_FREE                                       Free       
++  3280000  3281000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   3281000  3392000   111000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   3392000  3395000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   3395000  3396000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   3396000  33a1000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33a1000  33a2000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33a2000  33a7000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33a7000  33a9000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33a9000  33aa000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33aa000  33ab000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33ab000  33af000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33af000  33b0000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
+   33b0000  33d5000    25000 MEM_IMAGE   MEM_COMMIT                                     Image      [MASKEDLLPROJECT; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL"]
++  33d5000  33e0000     b000             MEM_FREE                                       Free       
++  33e0000  33e1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  33e1000  33f0000     f000             MEM_FREE                                       Free       
++  33f0000  3412000    22000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
+   3412000  35f0000   1de000 MEM_MAPPED  MEM_RESERVE                                    MappedFile "PageFile"
++  35f0000  35f4000     4000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
+   35f4000  35f8000     4000 MEM_MAPPED  MEM_RESERVE                                    MappedFile "PageFile"
++  35f8000  3600000     8000             MEM_FREE                                       Free       
++  3600000  3781000   181000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  3781000  3790000     f000             MEM_FREE                                       Free       
++  3790000  38c1000   131000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
+   38c1000  4b91000  12d0000 MEM_MAPPED  MEM_RESERVE                                    MappedFile "PageFile"
++  4b91000  4ba0000     f000             MEM_FREE                                       Free       
++  4ba0000  4ba1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  4ba1000  4bb0000     f000             MEM_FREE                                       Free       
++  4bb0000  4bb2000     2000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  4bb2000  4bc0000     e000             MEM_FREE                                       Free       
++  4bc0000  4bc1000     1000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 4; Handle: 04bc0000; Type: Segment]
+   4bc1000  4bcf000     e000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 4; Handle: 04bc0000; Type: Segment]
+   4bcf000  4bd0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  4bd0000  4c05000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   4c05000  4c08000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   4c08000  4c10000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  4c10000  4c45000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   4c45000  4c48000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   4c48000  4c50000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  4c50000  4c85000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   4c85000  4c88000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   4c88000  4c90000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  4c90000  4c91000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  4c91000  4ca0000     f000             MEM_FREE                                       Free       
++  4ca0000  4ca1000     1000 MEM_PRIVATE MEM_COMMIT  PAGE_EXECUTE_READWRITE             <unknown>  [....Y...........]
++  4ca1000  4cb0000     f000             MEM_FREE                                       Free       
++  4cb0000  4cb3000     3000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 3; Handle: 04cb0000; Type: Segment]
+   4cb3000  4cbf000     c000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 3; Handle: 04cb0000; Type: Segment]
+   4cbf000  4cc0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  4cc0000  4ccf000     f000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 2; Handle: 04cc0000; Type: Segment]
+   4ccf000  4cd0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  4cd0000  4d05000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   4d05000  4d08000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   4d08000  4d10000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  4d10000  4d14000     4000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  4d14000  4d20000     c000             MEM_FREE                                       Free       
++  4d20000  4d21000     1000 MEM_PRIVATE MEM_COMMIT  PAGE_EXECUTE_READWRITE             <unknown>  [....Y...........]
++  4d21000  4d30000     f000             MEM_FREE                                       Free       
++  4d30000  4d31000     1000 MEM_PRIVATE MEM_COMMIT  PAGE_EXECUTE_READWRITE             <unknown>  [....Y..Z........]
++  4d31000  4d40000     f000             MEM_FREE                                       Free       
++  4d40000  4d42000     2000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 1; Handle: 04d40000; Type: Segment]
+   4d42000  4d4f000     d000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 1; Handle: 04d40000; Type: Segment]
+   4d4f000  4d50000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  4d50000  4d60000    10000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [....I...........]
+   4d60000  5150000   3f0000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  5150000  5160000    10000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+   5160000  5550000   3f0000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  5550000  5560000    10000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..U.............]
+   5560000  5950000   3f0000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  5950000  5a90000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  5a90000  5bd0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [....a..2........]
++  5bd0000  5d10000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.O...O..........]
++  5d10000  62c8000   5b8000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  62c8000  62d0000     8000             MEM_FREE                                       Free       
++  62d0000  67cc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~4; 5d4.5470]
+   67cc000  67ce000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~4; 5d4.5470]
+   67ce000  67d0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~4; 5d4.5470]
++  67d0000  6ccc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~5; 5d4.38a4]
+   6ccc000  6cce000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~5; 5d4.38a4]
+   6cce000  6cd0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~5; 5d4.38a4]
++  6cd0000  71cc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~6; 5d4.3de0]
+   71cc000  71ce000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~6; 5d4.3de0]
+   71ce000  71d0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~6; 5d4.3de0]
++  71d0000  76cc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~7; 5d4.48f0]
+   76cc000  76ce000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~7; 5d4.48f0]
+   76ce000  76d0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~7; 5d4.48f0]
++  76d0000  7810000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..o...o.........]
++  7810000  78a9000    99000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  78a9000  78b0000     7000             MEM_FREE                                       Free       
++  78b0000  79f0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.G...G..........]
++  79f0000  7b30000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  7b30000  7c70000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.a...a..........]
++  7c70000  7db0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  7db0000  80e8000   338000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\Globalization\Sorting\SortDefault.nls"
++  80e8000  80f0000     8000             MEM_FREE                                       Free       
++  80f0000  80f5000     5000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\System32\en-US\user32.dll.mui"
++  80f5000  8100000     b000             MEM_FREE                                       Free       
++  8100000  8101000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  8101000  8110000     f000             MEM_FREE                                       Free       
++  8110000  8121000    11000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\System32\C_1251.NLS"
++  8121000  8130000     f000             MEM_FREE                                       Free       
++  8130000  8131000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  8131000  8140000     f000             MEM_FREE                                       Free       
++  8140000  8141000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  8141000  8150000     f000             MEM_FREE                                       Free       
++  8150000  8151000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  8151000  8160000     f000             MEM_FREE                                       Free       
++  8160000  8168000     8000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\Registration\R00000000000d.clb"
++  8168000  8170000     8000             MEM_FREE                                       Free       
++  8170000  8171000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+   8171000  8180000     f000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  8180000  818f000     f000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 5; Handle: 08180000; Type: Segment]
+   818f000  8190000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  8190000  82d0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  82d0000  83b2000    e2000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  83b2000  83c0000     e000             MEM_FREE                                       Free       
++  83c0000  84e3000   123000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..P.........vl..]
+   84e3000  84e4000     1000 MEM_PRIVATE MEM_COMMIT  PAGE_EXECUTE_READWRITE             <unknown>  [amFiles.x86..C..]
+   84e4000  8500000    1c000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............03N.]
++  8500000  8640000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..d.........6s..]
++  8640000  8780000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..x...P.....6...]
++  8780000  88c0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......d.....2...]
++  88c0000  8a00000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......x.....6...]
++  8a00000  8f00000   500000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  8f00000  8f04000     4000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\ProgramData\Microsoft\Windows\Caches\cversions.2.db"
++  8f04000  8f10000     c000             MEM_FREE                                       Free       
++  8f10000  8f59000    49000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000005.db"
++  8f59000  8f60000     7000             MEM_FREE                                       Free       
++  8f60000  8f64000     4000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\ProgramData\Microsoft\Windows\Caches\cversions.2.db"
++  8f64000  8f70000     c000             MEM_FREE                                       Free       
++  8f70000  900c000    9c000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db"
++  900c000  9010000     4000             MEM_FREE                                       Free       
++  9010000  9020000    10000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\System32\en-US\propsys.dll.mui"
++  9020000  9021000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  9021000  9030000     f000             MEM_FREE                                       Free       
++  9030000  9050000    20000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Users\dksados\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000028.db"
++  9050000  9051000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  9051000  9060000     f000             MEM_FREE                                       Free       
++  9060000  9095000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   9095000  9098000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   9098000  90a0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  90a0000  959c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~8; 5d4.35cc]
+   959c000  959e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~8; 5d4.35cc]
+   959e000  95a0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~8; 5d4.35cc]
++  95a0000  95d5000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   95d5000  95d8000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   95d8000  95e0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  95e0000  9adc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~9; 5d4.31b0]
+   9adc000  9ade000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~9; 5d4.31b0]
+   9ade000  9ae0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~9; 5d4.31b0]
++  9ae0000  9b15000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   9b15000  9b18000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   9b18000  9b20000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  9b20000  a01c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~10; 5d4.4178]
+   a01c000  a01e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~10; 5d4.4178]
+   a01e000  a020000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~10; 5d4.4178]
++  a020000  a055000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   a055000  a058000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   a058000  a060000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  a060000  a55c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~11; 5d4.2a78]
+   a55c000  a55e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~11; 5d4.2a78]
+   a55e000  a560000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~11; 5d4.2a78]
++  a560000  a595000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   a595000  a598000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   a598000  a5a0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  a5a0000  aa9c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~12; 5d4.277c]
+   aa9c000  aa9e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~12; 5d4.277c]
+   aa9e000  aaa0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~12; 5d4.277c]
++  aaa0000  aaa2000     2000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 2; Handle: 04cc0000; Type: Segment]
+   aaa2000  ab9f000    fd000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 2; Handle: 04cc0000; Type: Segment]
+   ab9f000  aba0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  aba0000  ace0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [a..2............]
++  ace0000  ad15000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   ad15000  ad18000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   ad18000  ad20000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  ad20000  ad55000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   ad55000  ad58000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   ad58000  ad60000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  ad60000  ad95000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   ad95000  ad98000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   ad98000  ada0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  ada0000  ada1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  ada1000  adb0000     f000             MEM_FREE                                       Free       
++  adb0000  aef0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  aef0000  aef1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  aef1000  af00000     f000             MEM_FREE                                       Free       
++  af00000  af01000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  af01000  af10000     f000             MEM_FREE                                       Free       
++  af10000  af11000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  af11000  af20000     f000             MEM_FREE                                       Free       
++  af20000  af21000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [...5.O..C..C..C.]
++  af21000  af30000     f000             MEM_FREE                                       Free       
++  af30000  af31000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  af31000  af40000     f000             MEM_FREE                                       Free       
++  af40000  af75000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   af75000  af78000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   af78000  af80000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  af80000  af81000     1000 MEM_PRIVATE MEM_COMMIT  PAGE_EXECUTE_READWRITE             <unknown>  [....Y..Zl.......]
++  af81000  afa0000    1f000             MEM_FREE                                       Free       
++  afa0000  afa1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  afa1000  afb0000     f000             MEM_FREE                                       Free       
++  afb0000  afb1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  afb1000  afc0000     f000             MEM_FREE                                       Free       
++  afc0000  afc1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  afc1000  afd0000     f000             MEM_FREE                                       Free       
++  afd0000  afd1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  afd1000  afe0000     f000             MEM_FREE                                       Free       
++  afe0000  afe1000     1000 MEM_PRIVATE MEM_COMMIT                                     Other      [WER Registration Data]
++  afe1000  aff0000     f000             MEM_FREE                                       Free       
++  aff0000  aff1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  aff1000  b000000     f000             MEM_FREE                                       Free       
++  b000000  b001000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+   b001000  b010000     f000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  b010000  b013000     3000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\WinSxS\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.19041.1_en-us_130e63d987a738df\comctl32.dll.mui"
++  b013000  b020000     d000             MEM_FREE                                       Free       
++  b020000  b021000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......o.......o.]
+   b021000  b0a0000    7f000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  b0a0000  b0a2000     2000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\SysWOW64\oleaccrc.dll"
++  b0a2000  b0b0000     e000             MEM_FREE                                       Free       
++  b0b0000  b0b1000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  b0b1000  b0c0000     f000             MEM_FREE                                       Free       
++  b0c0000  b0c1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b0c1000  b0d0000     f000             MEM_FREE                                       Free       
++  b0d0000  b0d1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [UUP..X.PW...UX..]
++  b0d1000  b0e0000     f000             MEM_FREE                                       Free       
++  b0e0000  b0e1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [...5.O..C..C..C.]
++  b0e1000  b0f0000     f000             MEM_FREE                                       Free       
++  b0f0000  b0f1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b0f1000  b120000    2f000             MEM_FREE                                       Free       
++  b120000  b121000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b121000  b130000     f000             MEM_FREE                                       Free       
++  b130000  b131000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b131000  b140000     f000             MEM_FREE                                       Free       
++  b140000  b141000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [D.......D.......]
++  b141000  b150000     f000             MEM_FREE                                       Free       
++  b150000  b151000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [DDDDDDDDDDDDDDDD]
++  b151000  b160000     f000             MEM_FREE                                       Free       
++  b160000  b161000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [DDDDDDDDDDDDDDDD]
++  b161000  b170000     f000             MEM_FREE                                       Free       
++  b170000  b171000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [D.......D.......]
++  b171000  b180000     f000             MEM_FREE                                       Free       
++  b180000  b181000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b181000  b190000     f000             MEM_FREE                                       Free       
++  b190000  b191000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b191000  b1a0000     f000             MEM_FREE                                       Free       
++  b1a0000  b1a1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b1a1000  b1b0000     f000             MEM_FREE                                       Free       
++  b1b0000  b1b1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b1b1000  b1c0000     f000             MEM_FREE                                       Free       
++  b1c0000  b1c4000     4000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 6; Handle: 0b1c0000; Type: Segment]
+   b1c4000  b1cf000     b000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 6; Handle: 0b1c0000; Type: Segment]
+   b1cf000  b1d0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  b1d0000  b1d1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b1d1000  b1e0000     f000             MEM_FREE                                       Free       
++  b1e0000  b1e1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b1e1000  b1f0000     f000             MEM_FREE                                       Free       
++  b1f0000  b1f2000     2000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b1f2000  b200000     e000             MEM_FREE                                       Free       
++  b200000  b201000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b201000  b210000     f000             MEM_FREE                                       Free       
++  b210000  b211000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b211000  b220000     f000             MEM_FREE                                       Free       
++  b220000  b222000     2000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b222000  b230000     e000             MEM_FREE                                       Free       
++  b230000  b370000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b370000  b371000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b371000  b380000     f000             MEM_FREE                                       Free       
++  b380000  b381000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [...5.O..C..C..C.]
++  b381000  b390000     f000             MEM_FREE                                       Free       
++  b390000  b391000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b391000  b3a0000     f000             MEM_FREE                                       Free       
++  b3a0000  b3a1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b3a1000  b3b0000     f000             MEM_FREE                                       Free       
++  b3b0000  b3b2000     2000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  b3b2000  b3c0000     e000             MEM_FREE                                       Free       
++  b3c0000  b3c1000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++  b3c1000  b3d0000     f000             MEM_FREE                                       Free       
++  b3d0000  b3d1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  b3d1000  b3e0000     f000             MEM_FREE                                       Free       
++  b3e0000  b8dc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~34; 5d4.1e84]
+   b8dc000  b8de000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~34; 5d4.1e84]
+   b8de000  b8e0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~34; 5d4.1e84]
++  b8e0000  b915000    35000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 0; Handle: 016a0000; Type: Segment]
+   b915000  b9df000    ca000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 0; Handle: 016a0000; Type: Segment]
+   b9df000  b9e0000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  b9e0000  b9e1000     1000 MEM_PRIVATE MEM_COMMIT  PAGE_EXECUTE_READWRITE             <unknown>  [....Y..Z........]
++  b9e1000  ba20000    3f000             MEM_FREE                                       Free       
++  ba20000  cc80000  1260000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "\Device\HarddiskVolume4\Windows\Fonts\StaticCache.dat"
++  cc80000  cc82000     2000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  cc82000  cc90000     e000             MEM_FREE                                       Free       
++  cc90000  cc91000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  cc91000  cca0000     f000             MEM_FREE                                       Free       
++  cca0000  cca1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  cca1000  ccb0000     f000             MEM_FREE                                       Free       
++  ccb0000  ccb1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [U8.U8.U8.U8.U8.U]
++  ccb1000  ccc0000     f000             MEM_FREE                                       Free       
++  ccc0000  ccc1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [U8.U8.U8.U8.U8.U]
++  ccc1000  ccd0000     f000             MEM_FREE                                       Free       
++  ccd0000  ccd1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [U8.U8.U8.U8.U8.U]
++  ccd1000  cce0000     f000             MEM_FREE                                       Free       
++  cce0000  cce1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [U8.U8.U8.U8.U8.U]
++  cce1000  ccf0000     f000             MEM_FREE                                       Free       
++  ccf0000  ccf1000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [U8.U8.U8.U8.U8.U]
++  ccf1000  cd00000     f000             MEM_FREE                                       Free       
++  cd00000  cd35000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   cd35000  cd38000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   cd38000  cd40000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  cd40000  d23c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~14; 5d4.da8]
+   d23c000  d23e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~14; 5d4.da8]
+   d23e000  d240000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~14; 5d4.da8]
++  d240000  d275000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   d275000  d278000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   d278000  d280000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  d280000  d77c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~15; 5d4.4ce8]
+   d77c000  d77e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~15; 5d4.4ce8]
+   d77e000  d780000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~15; 5d4.4ce8]
++  d780000  d7b5000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   d7b5000  d7b8000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   d7b8000  d7c0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  d7c0000  dcbc000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~16; 5d4.5288]
+   dcbc000  dcbe000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~16; 5d4.5288]
+   dcbe000  dcc0000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~16; 5d4.5288]
++  dcc0000  e4b0000   7f0000             MEM_FREE                                       Free       
++  e4b0000  eb48000   698000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  eb48000  eb50000     8000             MEM_FREE                                       Free       
++  eb50000  eb52000     2000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
+   eb52000  f350000   7fe000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  f350000  f84c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~35; 5d4.3c0]
+   f84c000  f84e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~35; 5d4.3c0]
+   f84e000  f850000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~35; 5d4.3c0]
++  f850000  fd4c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~36; 5d4.3a00]
+   fd4c000  fd4e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~36; 5d4.3a00]
+   fd4e000  fd50000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~36; 5d4.3a00]
++  fd50000  fd54000     4000 MEM_PRIVATE MEM_COMMIT                                     Heap       [ID: 5; Handle: 08180000; Type: Segment]
+   fd54000  fe4f000    fb000 MEM_PRIVATE MEM_RESERVE                                    Heap       [ID: 5; Handle: 08180000; Type: Segment]
+   fe4f000  fe50000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
++  fe50000  ff90000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++  ff90000  ffc5000    35000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+   ffc5000  ffc8000     3000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        <unknown>  
+   ffc8000  ffd0000     8000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++  ffd0000 10000000    30000             MEM_FREE                                       Free       
++ 10000000 10001000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10001000 10044000    43000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10044000 10049000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10049000 1004a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  1004a000 10053000     9000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10053000 10056000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10056000 10060000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10060000 10063000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
+  10063000 10069000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [MPIWIN32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL"]
++ 10069000 10070000     7000             MEM_FREE                                       Free       
++ 10070000 1056c000   4fc000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~37; 5d4.2f4c]
+  1056c000 1056e000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~37; 5d4.2f4c]
+  1056e000 10570000     2000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~37; 5d4.2f4c]
++ 10570000 10a6a000   4fa000 MEM_PRIVATE MEM_RESERVE                                    Stack      [~38; 5d4.1ca8]
+  10a6a000 10a6c000     2000 MEM_PRIVATE MEM_COMMIT  PAGE_READWRITE | PAGE_GUARD        Stack      [~38; 5d4.1ca8]
+  10a6c000 10a70000     4000 MEM_PRIVATE MEM_COMMIT                                     Stack      [~38; 5d4.1ca8]
++ 10a70000 10af0000    80000             MEM_FREE                                       Free       
++ 10af0000 10c30000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 10c30000 10d70000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 10d70000 10eb0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 10eb0000 10ff0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 10ff0000 11130000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 11130000 11270000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 11270000 113b0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 113b0000 114f0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..O.........6...]
++ 114f0000 11630000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..c.........6...]
++ 11630000 11770000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..w...O.....6...]
++ 11770000 118b0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......c.........]
++ 118b0000 119f0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......w......B..]
++ 119f0000 11b30000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 11b30000 11c70000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 11c70000 11db0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............6...]
++ 11db0000 11ef0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............2P..]
++ 11ef0000 12030000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............2P..]
++ 12030000 12170000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 12170000 122b0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [............2P..]
++ 122b0000 123f0000   140000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 123f0000 1d000000  ac10000             MEM_FREE                                       Free       
++ 1d000000 1d001000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d001000 1d012000    11000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d012000 1d013000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d013000 1d014000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d014000 1d016000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d016000 1d030000    1a000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d030000 1d031000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d031000 1d061000    30000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d061000 1d064000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d064000 1d065000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
+  1d065000 1d068000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WZIP32; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL"]
++ 1d068000 32a00000 15998000             MEM_FREE                                       Free       
++ 32a00000 32a01000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32a01000 32ada000    d9000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32ada000 32adb000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32adb000 32adc000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32adc000 32ade000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32ade000 32ae1000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32ae1000 32ae4000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32ae4000 32aeb000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32aeb000 32aec000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32aec000 32af1000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32af1000 32afc000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32afc000 32afd000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32afd000 32afe000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32afe000 32aff000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
+  32aff000 32b15000    16000 MEM_IMAGE   MEM_COMMIT                                     Image      [CC32100; "C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL"]
++ 32b15000 56ae0000 23fcb000             MEM_FREE                                       Free       
++ 56ae0000 56ae1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreUAPCommonProxyStub; "C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll"]
+  56ae1000 56dfd000   31c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [OneCoreUAPCommonProxyStub; "C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll"]
+  56dfd000 56e03000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreUAPCommonProxyStub; "C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll"]
+  56e03000 56e04000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreUAPCommonProxyStub; "C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll"]
+  56e04000 56e05000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreUAPCommonProxyStub; "C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll"]
+  56e05000 56e81000    7c000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreUAPCommonProxyStub; "C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll"]
++ 56e81000 56eb0000    2f000             MEM_FREE                                       Free       
++ 56eb0000 56eb1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
+  56eb1000 56fed000   13c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
+  56fed000 56fee000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
+  56fee000 56ff2000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
+  56ff2000 56ff4000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
+  56ff4000 56ff5000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
+  56ff5000 57015000    20000 MEM_IMAGE   MEM_COMMIT                                     Image      [dcomp; "C:\WINDOWS\SysWOW64\dcomp.dll"]
++ 57015000 58030000  101b000             MEM_FREE                                       Free       
++ 58030000 58031000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreUIComponents; "C:\WINDOWS\SysWOW64\CoreUIComponents.dll"]
+  58031000 5819d000   16c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [CoreUIComponents; "C:\WINDOWS\SysWOW64\CoreUIComponents.dll"]
+  5819d000 58247000    aa000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreUIComponents; "C:\WINDOWS\SysWOW64\CoreUIComponents.dll"]
+  58247000 5824a000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreUIComponents; "C:\WINDOWS\SysWOW64\CoreUIComponents.dll"]
+  5824a000 582ae000    64000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreUIComponents; "C:\WINDOWS\SysWOW64\CoreUIComponents.dll"]
++ 582ae000 582b0000     2000             MEM_FREE                                       Free       
++ 582b0000 582b1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreMessaging; "C:\WINDOWS\SysWOW64\CoreMessaging.dll"]
+  582b1000 58316000    65000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [CoreMessaging; "C:\WINDOWS\SysWOW64\CoreMessaging.dll"]
+  58316000 58332000    1c000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreMessaging; "C:\WINDOWS\SysWOW64\CoreMessaging.dll"]
+  58332000 58334000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreMessaging; "C:\WINDOWS\SysWOW64\CoreMessaging.dll"]
+  58334000 5834b000    17000 MEM_IMAGE   MEM_COMMIT                                     Image      [CoreMessaging; "C:\WINDOWS\SysWOW64\CoreMessaging.dll"]
++ 5834b000 583b0000    65000             MEM_FREE                                       Free       
++ 583b0000 583b1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [textinputframework; "C:\WINDOWS\SysWOW64\textinputframework.dll"]
+  583b1000 5845a000    a9000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [textinputframework; "C:\WINDOWS\SysWOW64\textinputframework.dll"]
+  5845a000 5845c000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [textinputframework; "C:\WINDOWS\SysWOW64\textinputframework.dll"]
+  5845c000 58469000     d000 MEM_IMAGE   MEM_COMMIT                                     Image      [textinputframework; "C:\WINDOWS\SysWOW64\textinputframework.dll"]
++ 58469000 61cd0000  9867000             MEM_FREE                                       Free       
++ 61cd0000 61cd1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [wintypes; "C:\Windows\SysWOW64\wintypes.dll"]
+  61cd1000 61d8e000    bd000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [wintypes; "C:\Windows\SysWOW64\wintypes.dll"]
+  61d8e000 61d8f000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [wintypes; "C:\Windows\SysWOW64\wintypes.dll"]
+  61d8f000 61d90000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [wintypes; "C:\Windows\SysWOW64\wintypes.dll"]
+  61d90000 61dab000    1b000 MEM_IMAGE   MEM_COMMIT                                     Image      [wintypes; "C:\Windows\SysWOW64\wintypes.dll"]
++ 61dab000 61db0000     5000             MEM_FREE                                       Free       
++ 61db0000 61db1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [twinapi_appcore; "C:\WINDOWS\SysWOW64\twinapi.appcore.dll"]
+  61db1000 61f1b000   16a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [twinapi_appcore; "C:\WINDOWS\SysWOW64\twinapi.appcore.dll"]
+  61f1b000 61f1e000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [twinapi_appcore; "C:\WINDOWS\SysWOW64\twinapi.appcore.dll"]
+  61f1e000 61f3f000    21000 MEM_IMAGE   MEM_COMMIT                                     Image      [twinapi_appcore; "C:\WINDOWS\SysWOW64\twinapi.appcore.dll"]
++ 61f3f000 62840000   901000             MEM_FREE                                       Free       
++ 62840000 62841000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [d3d11; "C:\WINDOWS\SysWOW64\d3d11.dll"]
+  62841000 629f5000   1b4000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [d3d11; "C:\WINDOWS\SysWOW64\d3d11.dll"]
+  629f5000 629f7000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [d3d11; "C:\WINDOWS\SysWOW64\d3d11.dll"]
+  629f7000 629f9000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [d3d11; "C:\WINDOWS\SysWOW64\d3d11.dll"]
+  629f9000 62a20000    27000 MEM_IMAGE   MEM_COMMIT                                     Image      [d3d11; "C:\WINDOWS\SysWOW64\d3d11.dll"]
++ 62a20000 62a21000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dxgi; "C:\WINDOWS\SysWOW64\dxgi.dll"]
+  62a21000 62abb000    9a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [dxgi; "C:\WINDOWS\SysWOW64\dxgi.dll"]
+  62abb000 62abc000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dxgi; "C:\WINDOWS\SysWOW64\dxgi.dll"]
+  62abc000 62abd000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dxgi; "C:\WINDOWS\SysWOW64\dxgi.dll"]
+  62abd000 62abf000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [dxgi; "C:\WINDOWS\SysWOW64\dxgi.dll"]
+  62abf000 62ae3000    24000 MEM_IMAGE   MEM_COMMIT                                     Image      [dxgi; "C:\WINDOWS\SysWOW64\dxgi.dll"]
++ 62ae3000 63ba0000  10bd000             MEM_FREE                                       Free       
++ 63ba0000 63ba1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  63ba1000 6415f000   5be000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  6415f000 64161000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  64161000 64162000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  64162000 64169000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  64169000 64172000     9000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  64172000 64173000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
+  64173000 641d5000    62000 MEM_IMAGE   MEM_COMMIT                                     Image      [ieframe; "C:\Windows\SysWOW64\ieframe.dll"]
++ 641d5000 66960000  278b000             MEM_FREE                                       Free       
++ 66960000 66961000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSVCR100; "C:\Program Files (x86)\RSIGuard\MSVCR100.dll"]
+  66961000 66a13000    b2000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [MSVCR100; "C:\Program Files (x86)\RSIGuard\MSVCR100.dll"]
+  66a13000 66a16000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSVCR100; "C:\Program Files (x86)\RSIGuard\MSVCR100.dll"]
+  66a16000 66a19000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSVCR100; "C:\Program Files (x86)\RSIGuard\MSVCR100.dll"]
+  66a19000 66a1f000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSVCR100; "C:\Program Files (x86)\RSIGuard\MSVCR100.dll"]
++ 66a1f000 67a50000  1031000             MEM_FREE                                       Free       
++ 67a50000 67a51000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DWMAPI; "C:\WINDOWS\SysWOW64\DWMAPI.DLL"]
+  67a51000 67a69000    18000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [DWMAPI; "C:\WINDOWS\SysWOW64\DWMAPI.DLL"]
+  67a69000 67a6a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [DWMAPI; "C:\WINDOWS\SysWOW64\DWMAPI.DLL"]
+  67a6a000 67a6c000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [DWMAPI; "C:\WINDOWS\SysWOW64\DWMAPI.DLL"]
+  67a6c000 67a76000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [DWMAPI; "C:\WINDOWS\SysWOW64\DWMAPI.DLL"]
++ 67a76000 67b50000    da000             MEM_FREE                                       Free       
++ 67b50000 67b51000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreCommonProxyStub; "C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll"]
+  67b51000 67b82000    31000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [OneCoreCommonProxyStub; "C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll"]
+  67b82000 67b83000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreCommonProxyStub; "C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll"]
+  67b83000 67b8d000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [OneCoreCommonProxyStub; "C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll"]
++ 67b8d000 67b90000     3000             MEM_FREE                                       Free       
++ 67b90000 67b91000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [appresolver; "C:\Windows\SysWOW64\appresolver.dll"]
+  67b91000 67bf0000    5f000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [appresolver; "C:\Windows\SysWOW64\appresolver.dll"]
+  67bf0000 67bf1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [appresolver; "C:\Windows\SysWOW64\appresolver.dll"]
+  67bf1000 67c01000    10000 MEM_IMAGE   MEM_COMMIT                                     Image      [appresolver; "C:\Windows\SysWOW64\appresolver.dll"]
++ 67c01000 67c10000     f000             MEM_FREE                                       Free       
++ 67c10000 67c11000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Windows_StateRepositoryPS; "C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll"]
+  67c11000 67c8e000    7d000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [Windows_StateRepositoryPS; "C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll"]
+  67c8e000 67c91000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [Windows_StateRepositoryPS; "C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll"]
+  67c91000 67ca3000    12000 MEM_IMAGE   MEM_COMMIT                                     Image      [Windows_StateRepositoryPS; "C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll"]
++ 67ca3000 67ef0000   24d000             MEM_FREE                                       Free       
++ 67ef0000 67ef1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Bcp47Langs; "C:\Windows\SysWOW64\Bcp47Langs.dll"]
+  67ef1000 67f2f000    3e000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [Bcp47Langs; "C:\Windows\SysWOW64\Bcp47Langs.dll"]
+  67f2f000 67f30000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Bcp47Langs; "C:\Windows\SysWOW64\Bcp47Langs.dll"]
+  67f30000 67f38000     8000 MEM_IMAGE   MEM_COMMIT                                     Image      [Bcp47Langs; "C:\Windows\SysWOW64\Bcp47Langs.dll"]
++ 67f38000 69e60000  1f28000             MEM_FREE                                       Free       
++ 69e60000 69e61000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WKSCLI; "C:\Windows\SysWOW64\WKSCLI.DLL"]
+  69e61000 69e6c000     b000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WKSCLI; "C:\Windows\SysWOW64\WKSCLI.DLL"]
+  69e6c000 69e6d000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WKSCLI; "C:\Windows\SysWOW64\WKSCLI.DLL"]
+  69e6d000 69e71000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [WKSCLI; "C:\Windows\SysWOW64\WKSCLI.DLL"]
++ 69e71000 6c040000  21cf000             MEM_FREE                                       Free       
++ 6c040000 6c041000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [PROPSYS; "C:\WINDOWS\SysWOW64\PROPSYS.dll"]
+  6c041000 6c0f0000    af000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [PROPSYS; "C:\WINDOWS\SysWOW64\PROPSYS.dll"]
+  6c0f0000 6c0f1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [PROPSYS; "C:\WINDOWS\SysWOW64\PROPSYS.dll"]
+  6c0f1000 6c102000    11000 MEM_IMAGE   MEM_COMMIT                                     Image      [PROPSYS; "C:\WINDOWS\SysWOW64\PROPSYS.dll"]
++ 6c102000 6c5b0000   4ae000             MEM_FREE                                       Free       
++ 6c5b0000 6c5b1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [apphelp; "C:\WINDOWS\SysWOW64\apphelp.dll"]
+  6c5b1000 6c62d000    7c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [apphelp; "C:\WINDOWS\SysWOW64\apphelp.dll"]
+  6c62d000 6c62f000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [apphelp; "C:\WINDOWS\SysWOW64\apphelp.dll"]
+  6c62f000 6c64f000    20000 MEM_IMAGE   MEM_COMMIT                                     Image      [apphelp; "C:\WINDOWS\SysWOW64\apphelp.dll"]
++ 6c64f000 6ccf0000   6a1000             MEM_FREE                                       Free       
++ 6ccf0000 6ccf1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dataexchange; "C:\WINDOWS\SysWOW64\dataexchange.dll"]
+  6ccf1000 6cd19000    28000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [dataexchange; "C:\WINDOWS\SysWOW64\dataexchange.dll"]
+  6cd19000 6cd1a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [dataexchange; "C:\WINDOWS\SysWOW64\dataexchange.dll"]
+  6cd1a000 6cd21000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [dataexchange; "C:\WINDOWS\SysWOW64\dataexchange.dll"]
++ 6cd21000 6ea60000  1d3f000             MEM_FREE                                       Free       
++ 6ea60000 6ea61000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [IPHLPAPI; "C:\WINDOWS\SysWOW64\IPHLPAPI.DLL"]
+  6ea61000 6ea8b000    2a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [IPHLPAPI; "C:\WINDOWS\SysWOW64\IPHLPAPI.DLL"]
+  6ea8b000 6ea8c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [IPHLPAPI; "C:\WINDOWS\SysWOW64\IPHLPAPI.DLL"]
+  6ea8c000 6ea92000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [IPHLPAPI; "C:\WINDOWS\SysWOW64\IPHLPAPI.DLL"]
++ 6ea92000 6edc0000   32e000             MEM_FREE                                       Free       
++ 6edc0000 6edc1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [mswsock; "C:\WINDOWS\SysWOW64\mswsock.dll"]
+  6edc1000 6ee08000    47000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [mswsock; "C:\WINDOWS\SysWOW64\mswsock.dll"]
+  6ee08000 6ee0a000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [mswsock; "C:\WINDOWS\SysWOW64\mswsock.dll"]
+  6ee0a000 6ee12000     8000 MEM_IMAGE   MEM_COMMIT                                     Image      [mswsock; "C:\WINDOWS\SysWOW64\mswsock.dll"]
++ 6ee12000 6ef80000   16e000             MEM_FREE                                       Free       
++ 6ef80000 6ef81000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [srvcli; "C:\WINDOWS\SysWOW64\srvcli.dll"]
+  6ef81000 6ef90000     f000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [srvcli; "C:\WINDOWS\SysWOW64\srvcli.dll"]
+  6ef90000 6ef95000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [srvcli; "C:\WINDOWS\SysWOW64\srvcli.dll"]
+  6ef95000 6ef99000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [srvcli; "C:\WINDOWS\SysWOW64\srvcli.dll"]
+  6ef99000 6ef9d000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [srvcli; "C:\WINDOWS\SysWOW64\srvcli.dll"]
++ 6ef9d000 6efa0000     3000             MEM_FREE                                       Free       
++ 6efa0000 6efa1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [iertutil; "C:\WINDOWS\SysWOW64\iertutil.dll"]
+  6efa1000 6f1a1000   200000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [iertutil; "C:\WINDOWS\SysWOW64\iertutil.dll"]
+  6f1a1000 6f1a8000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [iertutil; "C:\WINDOWS\SysWOW64\iertutil.dll"]
+  6f1a8000 6f1ac000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [iertutil; "C:\WINDOWS\SysWOW64\iertutil.dll"]
+  6f1ac000 6f1ad000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [iertutil; "C:\WINDOWS\SysWOW64\iertutil.dll"]
+  6f1ad000 6f1cb000    1e000 MEM_IMAGE   MEM_COMMIT                                     Image      [iertutil; "C:\WINDOWS\SysWOW64\iertutil.dll"]
++ 6f1cb000 6f1d0000     5000             MEM_FREE                                       Free       
++ 6f1d0000 6f1d1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WSOCK32; "C:\WINDOWS\SysWOW64\WSOCK32.DLL"]
+  6f1d1000 6f1d4000     3000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WSOCK32; "C:\WINDOWS\SysWOW64\WSOCK32.DLL"]
+  6f1d4000 6f1d5000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WSOCK32; "C:\WINDOWS\SysWOW64\WSOCK32.DLL"]
+  6f1d5000 6f1d8000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [WSOCK32; "C:\WINDOWS\SysWOW64\WSOCK32.DLL"]
++ 6f1d8000 6f450000   278000             MEM_FREE                                       Free       
++ 6f450000 6f451000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
+  6f451000 6f584000   133000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
+  6f584000 6f589000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
+  6f589000 6f58f000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
+  6f58f000 6f594000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
+  6f594000 6f595000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
+  6f595000 6f5f8000    63000 MEM_IMAGE   MEM_COMMIT                                     Image      [urlmon; "C:\WINDOWS\SysWOW64\urlmon.dll"]
++ 6f5f8000 6ffd0000   9d8000             MEM_FREE                                       Free       
++ 6ffd0000 6ffd1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINSPOOL; "C:\WINDOWS\SysWOW64\WINSPOOL.DRV"]
+  6ffd1000 70021000    50000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WINSPOOL; "C:\WINDOWS\SysWOW64\WINSPOOL.DRV"]
+  70021000 70023000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINSPOOL; "C:\WINDOWS\SysWOW64\WINSPOOL.DRV"]
+  70023000 70042000    1f000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINSPOOL; "C:\WINDOWS\SysWOW64\WINSPOOL.DRV"]
++ 70042000 70050000     e000             MEM_FREE                                       Free       
++ 70050000 70051000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINMM; "C:\WINDOWS\SysWOW64\WINMM.DLL"]
+  70051000 7006b000    1a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WINMM; "C:\WINDOWS\SysWOW64\WINMM.DLL"]
+  7006b000 7006d000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINMM; "C:\WINDOWS\SysWOW64\WINMM.DLL"]
+  7006d000 70078000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINMM; "C:\WINDOWS\SysWOW64\WINMM.DLL"]
++ 70078000 701f0000   178000             MEM_FREE                                       Free       
++ 701f0000 701f1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Oleacc; "C:\WINDOWS\SysWOW64\Oleacc.dll"]
+  701f1000 70234000    43000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [Oleacc; "C:\WINDOWS\SysWOW64\Oleacc.dll"]
+  70234000 70235000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Oleacc; "C:\WINDOWS\SysWOW64\Oleacc.dll"]
+  70235000 70243000     e000 MEM_IMAGE   MEM_COMMIT                                     Image      [Oleacc; "C:\WINDOWS\SysWOW64\Oleacc.dll"]
++ 70243000 70250000     d000             MEM_FREE                                       Free       
++ 70250000 70251000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [uxtheme; "C:\WINDOWS\SysWOW64\uxtheme.dll"]
+  70251000 702b7000    66000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [uxtheme; "C:\WINDOWS\SysWOW64\uxtheme.dll"]
+  702b7000 702b9000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [uxtheme; "C:\WINDOWS\SysWOW64\uxtheme.dll"]
+  702b9000 702ba000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [uxtheme; "C:\WINDOWS\SysWOW64\uxtheme.dll"]
+  702ba000 702c4000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [uxtheme; "C:\WINDOWS\SysWOW64\uxtheme.dll"]
++ 702c4000 702d0000     c000             MEM_FREE                                       Free       
++ 702d0000 702d1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSIMG32; "C:\WINDOWS\SysWOW64\MSIMG32.DLL"]
+  702d1000 702d2000     1000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [MSIMG32; "C:\WINDOWS\SysWOW64\MSIMG32.DLL"]
+  702d2000 702d3000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSIMG32; "C:\WINDOWS\SysWOW64\MSIMG32.DLL"]
+  702d3000 702d6000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSIMG32; "C:\WINDOWS\SysWOW64\MSIMG32.DLL"]
++ 702d6000 706e0000   40a000             MEM_FREE                                       Free       
++ 706e0000 706e1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SspiCli; "C:\WINDOWS\SysWOW64\SspiCli.dll"]
+  706e1000 706fa000    19000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [SspiCli; "C:\WINDOWS\SysWOW64\SspiCli.dll"]
+  706fa000 706fb000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SspiCli; "C:\WINDOWS\SysWOW64\SspiCli.dll"]
+  706fb000 70701000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [SspiCli; "C:\WINDOWS\SysWOW64\SspiCli.dll"]
++ 70701000 70d70000   66f000             MEM_FREE                                       Free       
++ 70d70000 70d71000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [olepro32; "C:\WINDOWS\SysWOW64\olepro32.dll"]
+  70d71000 70d81000    10000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [olepro32; "C:\WINDOWS\SysWOW64\olepro32.dll"]
+  70d81000 70d82000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [olepro32; "C:\WINDOWS\SysWOW64\olepro32.dll"]
+  70d82000 70d89000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [olepro32; "C:\WINDOWS\SysWOW64\olepro32.dll"]
++ 70d89000 70df0000    67000             MEM_FREE                                       Free       
++ 70df0000 70df1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [sppc; "C:\Windows\SysWOW64\sppc.dll"]
+  70df1000 70e07000    16000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [sppc; "C:\Windows\SysWOW64\sppc.dll"]
+  70e07000 70e08000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [sppc; "C:\Windows\SysWOW64\sppc.dll"]
+  70e08000 70e0c000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [sppc; "C:\Windows\SysWOW64\sppc.dll"]
++ 70e0c000 70e10000     4000             MEM_FREE                                       Free       
++ 70e10000 70e11000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SLC; "C:\Windows\SysWOW64\SLC.dll"]
+  70e11000 70e2b000    1a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [SLC; "C:\Windows\SysWOW64\SLC.dll"]
+  70e2b000 70e2c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SLC; "C:\Windows\SysWOW64\SLC.dll"]
+  70e2c000 70e2f000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [SLC; "C:\Windows\SysWOW64\SLC.dll"]
++ 70e2f000 70f20000    f1000             MEM_FREE                                       Free       
++ 70f20000 70f21000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [NetworkExplorer; "C:\WINDOWS\SysWOW64\NetworkExplorer.dll"]
+  70f21000 70f2e000     d000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [NetworkExplorer; "C:\WINDOWS\SysWOW64\NetworkExplorer.dll"]
+  70f2e000 70f2f000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [NetworkExplorer; "C:\WINDOWS\SysWOW64\NetworkExplorer.dll"]
+  70f2f000 70f33000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [NetworkExplorer; "C:\WINDOWS\SysWOW64\NetworkExplorer.dll"]
++ 70f33000 70ff0000    bd000             MEM_FREE                                       Free       
++ 70ff0000 70ff1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [edputil; "C:\WINDOWS\SysWOW64\edputil.dll"]
+  70ff1000 71005000    14000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [edputil; "C:\WINDOWS\SysWOW64\edputil.dll"]
+  71005000 71006000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [edputil; "C:\WINDOWS\SysWOW64\edputil.dll"]
+  71006000 7100b000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [edputil; "C:\WINDOWS\SysWOW64\edputil.dll"]
++ 7100b000 71160000   155000             MEM_FREE                                       Free       
++ 71160000 71161000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHFOLDER; "C:\WINDOWS\SysWOW64\SHFOLDER.DLL"]
+  71161000 71162000     1000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [SHFOLDER; "C:\WINDOWS\SysWOW64\SHFOLDER.DLL"]
+  71162000 71163000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHFOLDER; "C:\WINDOWS\SysWOW64\SHFOLDER.DLL"]
+  71163000 71166000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHFOLDER; "C:\WINDOWS\SysWOW64\SHFOLDER.DLL"]
++ 71166000 73d90000  2c2a000             MEM_FREE                                       Free       
++ 73d90000 73d91000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [kernel_appcore; "C:\WINDOWS\SysWOW64\kernel.appcore.dll"]
+  73d91000 73d98000     7000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [kernel_appcore; "C:\WINDOWS\SysWOW64\kernel.appcore.dll"]
+  73d98000 73d99000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [kernel_appcore; "C:\WINDOWS\SysWOW64\kernel.appcore.dll"]
+  73d99000 73d9f000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [kernel_appcore; "C:\WINDOWS\SysWOW64\kernel.appcore.dll"]
++ 73d9f000 74050000   2b1000             MEM_FREE                                       Free       
++ 74050000 74051000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntmarta; "C:\WINDOWS\SysWOW64\ntmarta.dll"]
+  74051000 74071000    20000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [ntmarta; "C:\WINDOWS\SysWOW64\ntmarta.dll"]
+  74071000 74072000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntmarta; "C:\WINDOWS\SysWOW64\ntmarta.dll"]
+  74072000 74073000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntmarta; "C:\WINDOWS\SysWOW64\ntmarta.dll"]
+  74073000 74079000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntmarta; "C:\WINDOWS\SysWOW64\ntmarta.dll"]
++ 74079000 740f0000    77000             MEM_FREE                                       Free       
++ 740f0000 740f1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [VERSION; "C:\WINDOWS\SysWOW64\VERSION.dll"]
+  740f1000 740f4000     3000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [VERSION; "C:\WINDOWS\SysWOW64\VERSION.dll"]
+  740f4000 740f5000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [VERSION; "C:\WINDOWS\SysWOW64\VERSION.dll"]
+  740f5000 740f8000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [VERSION; "C:\WINDOWS\SysWOW64\VERSION.dll"]
++ 740f8000 74100000     8000             MEM_FREE                                       Free       
++ 74100000 74101000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [COMCTL32; "C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.DLL"]
+  74101000 742a8000   1a7000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [COMCTL32; "C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.DLL"]
+  742a8000 742ab000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [COMCTL32; "C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.DLL"]
+  742ab000 74310000    65000 MEM_IMAGE   MEM_COMMIT                                     Image      [COMCTL32; "C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.DLL"]
++ 74310000 74360000    50000             MEM_FREE                                       Free       
++ 74360000 74361000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [profapi; "C:\WINDOWS\SysWOW64\profapi.dll"]
+  74361000 74372000    11000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [profapi; "C:\WINDOWS\SysWOW64\profapi.dll"]
+  74372000 74373000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [profapi; "C:\WINDOWS\SysWOW64\profapi.dll"]
+  74373000 74378000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [profapi; "C:\WINDOWS\SysWOW64\profapi.dll"]
++ 74378000 74380000     8000             MEM_FREE                                       Free       
++ 74380000 74381000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Wldp; "C:\WINDOWS\SysWOW64\Wldp.dll"]
+  74381000 7439d000    1c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [Wldp; "C:\WINDOWS\SysWOW64\Wldp.dll"]
+  7439d000 7439e000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [Wldp; "C:\WINDOWS\SysWOW64\Wldp.dll"]
+  7439e000 743a5000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [Wldp; "C:\WINDOWS\SysWOW64\Wldp.dll"]
++ 743a5000 743b0000     b000             MEM_FREE                                       Free       
++ 743b0000 743b1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [windows_storage; "C:\WINDOWS\SysWOW64\windows.storage.dll"]
+  743b1000 74948000   597000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [windows_storage; "C:\WINDOWS\SysWOW64\windows.storage.dll"]
+  74948000 7494e000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [windows_storage; "C:\WINDOWS\SysWOW64\windows.storage.dll"]
+  7494e000 749bc000    6e000 MEM_IMAGE   MEM_COMMIT                                     Image      [windows_storage; "C:\WINDOWS\SysWOW64\windows.storage.dll"]
++ 749bc000 74a00000    44000             MEM_FREE                                       Free       
++ 74a00000 74a01000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [netutils; "C:\WINDOWS\SysWOW64\netutils.dll"]
+  74a01000 74a07000     6000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [netutils; "C:\WINDOWS\SysWOW64\netutils.dll"]
+  74a07000 74a08000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [netutils; "C:\WINDOWS\SysWOW64\netutils.dll"]
+  74a08000 74a0b000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [netutils; "C:\WINDOWS\SysWOW64\netutils.dll"]
++ 74a0b000 74ad0000    c5000             MEM_FREE                                       Free       
++ 74ad0000 74ad1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINHTTP; "C:\Windows\SysWOW64\WINHTTP.dll"]
+  74ad1000 74b85000    b4000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WINHTTP; "C:\Windows\SysWOW64\WINHTTP.dll"]
+  74b85000 74b87000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINHTTP; "C:\Windows\SysWOW64\WINHTTP.dll"]
+  74b87000 74b9b000    14000 MEM_IMAGE   MEM_COMMIT                                     Image      [WINHTTP; "C:\Windows\SysWOW64\WINHTTP.dll"]
++ 74b9b000 74ba0000     5000             MEM_FREE                                       Free       
++ 74ba0000 74ba1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [NETAPI32; "C:\WINDOWS\SysWOW64\NETAPI32.DLL"]
+  74ba1000 74baf000     e000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [NETAPI32; "C:\WINDOWS\SysWOW64\NETAPI32.DLL"]
+  74baf000 74bb0000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [NETAPI32; "C:\WINDOWS\SysWOW64\NETAPI32.DLL"]
+  74bb0000 74bb4000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [NETAPI32; "C:\WINDOWS\SysWOW64\NETAPI32.DLL"]
++ 74bb4000 74db0000   1fc000             MEM_FREE                                       Free       
++ 74db0000 74db1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [USERENV; "C:\Windows\SysWOW64\USERENV.dll"]
+  74db1000 74dcb000    1a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [USERENV; "C:\Windows\SysWOW64\USERENV.dll"]
+  74dcb000 74dcc000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [USERENV; "C:\Windows\SysWOW64\USERENV.dll"]
+  74dcc000 74dd5000     9000 MEM_IMAGE   MEM_COMMIT                                     Image      [USERENV; "C:\Windows\SysWOW64\USERENV.dll"]
++ 74dd5000 74e50000    7b000             MEM_FREE                                       Free       
++ 74e50000 74e51000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [sysfer; "C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll"]
+  74e51000 74eab000    5a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [sysfer; "C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll"]
+  74eab000 74ec0000    15000 MEM_IMAGE   MEM_COMMIT                                     Image      [sysfer; "C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll"]
+  74ec0000 74ed9000    19000 MEM_IMAGE   MEM_COMMIT                                     Image      [sysfer; "C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll"]
+  74ed9000 74edf000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [sysfer; "C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll"]
++ 74edf000 74ee0000     1000             MEM_FREE                                       Free       
++ 74ee0000 74ee1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcp_win; "C:\WINDOWS\SysWOW64\msvcp_win.dll"]
+  74ee1000 74f4f000    6e000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [msvcp_win; "C:\WINDOWS\SysWOW64\msvcp_win.dll"]
+  74f4f000 74f50000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcp_win; "C:\WINDOWS\SysWOW64\msvcp_win.dll"]
+  74f50000 74f52000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcp_win; "C:\WINDOWS\SysWOW64\msvcp_win.dll"]
+  74f52000 74f5b000     9000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcp_win; "C:\WINDOWS\SysWOW64\msvcp_win.dll"]
++ 74f5b000 74f60000     5000             MEM_FREE                                       Free       
++ 74f60000 74f61000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [gdi32full; "C:\WINDOWS\SysWOW64\gdi32full.dll"]
+  74f61000 7501c000    bb000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [gdi32full; "C:\WINDOWS\SysWOW64\gdi32full.dll"]
+  7501c000 7501f000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [gdi32full; "C:\WINDOWS\SysWOW64\gdi32full.dll"]
+  7501f000 7503e000    1f000 MEM_IMAGE   MEM_COMMIT                                     Image      [gdi32full; "C:\WINDOWS\SysWOW64\gdi32full.dll"]
++ 7503e000 75040000     2000             MEM_FREE                                       Free       
++ 75040000 75041000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHLWAPI; "C:\WINDOWS\SysWOW64\SHLWAPI.dll"]
+  75041000 7507b000    3a000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [SHLWAPI; "C:\WINDOWS\SysWOW64\SHLWAPI.dll"]
+  7507b000 7507c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHLWAPI; "C:\WINDOWS\SysWOW64\SHLWAPI.dll"]
+  7507c000 75085000     9000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHLWAPI; "C:\WINDOWS\SysWOW64\SHLWAPI.dll"]
++ 75085000 750d0000    4b000             MEM_FREE                                       Free       
++ 750d0000 750d1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [bcryptPrimitives; "C:\WINDOWS\SysWOW64\bcryptPrimitives.dll"]
+  750d1000 75129000    58000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [bcryptPrimitives; "C:\WINDOWS\SysWOW64\bcryptPrimitives.dll"]
+  75129000 7512a000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [bcryptPrimitives; "C:\WINDOWS\SysWOW64\bcryptPrimitives.dll"]
+  7512a000 7512f000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [bcryptPrimitives; "C:\WINDOWS\SysWOW64\bcryptPrimitives.dll"]
++ 7512f000 75570000   441000             MEM_FREE                                       Free       
++ 75570000 75571000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [combase; "C:\WINDOWS\SysWOW64\combase.dll"]
+  75571000 757af000   23e000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [combase; "C:\WINDOWS\SysWOW64\combase.dll"]
+  757af000 757b3000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [combase; "C:\WINDOWS\SysWOW64\combase.dll"]
+  757b3000 757f1000    3e000 MEM_IMAGE   MEM_COMMIT                                     Image      [combase; "C:\WINDOWS\SysWOW64\combase.dll"]
++ 757f1000 75800000     f000             MEM_FREE                                       Free       
++ 75800000 75801000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSCTF; "C:\WINDOWS\SysWOW64\MSCTF.dll"]
+  75801000 758c1000    c0000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [MSCTF; "C:\WINDOWS\SysWOW64\MSCTF.dll"]
+  758c1000 758c4000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSCTF; "C:\WINDOWS\SysWOW64\MSCTF.dll"]
+  758c4000 758d4000    10000 MEM_IMAGE   MEM_COMMIT                                     Image      [MSCTF; "C:\WINDOWS\SysWOW64\MSCTF.dll"]
++ 758d4000 758e0000     c000             MEM_FREE                                       Free       
++ 758e0000 758e1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  758e1000 758f0000     f000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  758f0000 75955000    65000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  75955000 75960000     b000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  75960000 7598b000    2b000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  7598b000 75990000     5000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  75990000 75991000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  75991000 759a0000     f000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  759a0000 759a1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  759a1000 759b0000     f000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  759b0000 759b1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  759b1000 759c0000     f000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  759c0000 759c5000     5000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
+  759c5000 759d0000     b000 MEM_IMAGE   MEM_RESERVE                                    Image      [KERNEL32; "C:\WINDOWS\SysWOW64\KERNEL32.DLL"]
++ 759d0000 759e0000    10000             MEM_FREE                                       Free       
++ 759e0000 759e1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [shcore; "C:\WINDOWS\SysWOW64\shcore.dll"]
+  759e1000 75a58000    77000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [shcore; "C:\WINDOWS\SysWOW64\shcore.dll"]
+  75a58000 75a59000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [shcore; "C:\WINDOWS\SysWOW64\shcore.dll"]
+  75a59000 75a67000     e000 MEM_IMAGE   MEM_COMMIT                                     Image      [shcore; "C:\WINDOWS\SysWOW64\shcore.dll"]
++ 75a67000 75a70000     9000             MEM_FREE                                       Free       
++ 75a70000 75a71000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNELBASE; "C:\WINDOWS\SysWOW64\KERNELBASE.dll"]
+  75a71000 75c48000   1d7000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [KERNELBASE; "C:\WINDOWS\SysWOW64\KERNELBASE.dll"]
+  75c48000 75c4b000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNELBASE; "C:\WINDOWS\SysWOW64\KERNELBASE.dll"]
+  75c4b000 75c4c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNELBASE; "C:\WINDOWS\SysWOW64\KERNELBASE.dll"]
+  75c4c000 75c84000    38000 MEM_IMAGE   MEM_COMMIT                                     Image      [KERNELBASE; "C:\WINDOWS\SysWOW64\KERNELBASE.dll"]
++ 75c84000 75c90000     c000             MEM_FREE                                       Free       
++ 75c90000 75c91000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [IMM32; "C:\WINDOWS\SysWOW64\IMM32.DLL"]
+  75c91000 75caa000    19000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [IMM32; "C:\WINDOWS\SysWOW64\IMM32.DLL"]
+  75caa000 75cab000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [IMM32; "C:\WINDOWS\SysWOW64\IMM32.DLL"]
+  75cab000 75cb5000     a000 MEM_IMAGE   MEM_COMMIT                                     Image      [IMM32; "C:\WINDOWS\SysWOW64\IMM32.DLL"]
++ 75cb5000 75d70000    bb000             MEM_FREE                                       Free       
++ 75d70000 75d71000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [GDI32; "C:\WINDOWS\SysWOW64\GDI32.dll"]
+  75d71000 75d8d000    1c000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [GDI32; "C:\WINDOWS\SysWOW64\GDI32.dll"]
+  75d8d000 75d8e000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [GDI32; "C:\WINDOWS\SysWOW64\GDI32.dll"]
+  75d8e000 75d94000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [GDI32; "C:\WINDOWS\SysWOW64\GDI32.dll"]
++ 75d94000 75da0000     c000             MEM_FREE                                       Free       
++ 75da0000 75da1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS2_32; "C:\WINDOWS\SysWOW64\WS2_32.dll"]
+  75da1000 75de8000    47000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [WS2_32; "C:\WINDOWS\SysWOW64\WS2_32.dll"]
+  75de8000 75de9000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS2_32; "C:\WINDOWS\SysWOW64\WS2_32.dll"]
+  75de9000 75e03000    1a000 MEM_IMAGE   MEM_COMMIT                                     Image      [WS2_32; "C:\WINDOWS\SysWOW64\WS2_32.dll"]
++ 75e03000 75e10000     d000             MEM_FREE                                       Free       
++ 75e10000 75e11000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CFGMGR32; "C:\WINDOWS\SysWOW64\CFGMGR32.dll"]
+  75e11000 75e44000    33000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [CFGMGR32; "C:\WINDOWS\SysWOW64\CFGMGR32.dll"]
+  75e44000 75e45000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [CFGMGR32; "C:\WINDOWS\SysWOW64\CFGMGR32.dll"]
+  75e45000 75e4b000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [CFGMGR32; "C:\WINDOWS\SysWOW64\CFGMGR32.dll"]
++ 75e4b000 75f50000   105000             MEM_FREE                                       Free       
++ 75f50000 75f51000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [COMDLG32; "C:\WINDOWS\SysWOW64\COMDLG32.DLL"]
+  75f51000 75fea000    99000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [COMDLG32; "C:\WINDOWS\SysWOW64\COMDLG32.DLL"]
+  75fea000 75fee000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [COMDLG32; "C:\WINDOWS\SysWOW64\COMDLG32.DLL"]
+  75fee000 75fff000    11000 MEM_IMAGE   MEM_COMMIT                                     Image      [COMDLG32; "C:\WINDOWS\SysWOW64\COMDLG32.DLL"]
++ 75fff000 76000000     1000             MEM_FREE                                       Free       
++ 76000000 76001000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ADVAPI32; "C:\WINDOWS\SysWOW64\ADVAPI32.DLL"]
+  76001000 7606a000    69000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [ADVAPI32; "C:\WINDOWS\SysWOW64\ADVAPI32.DLL"]
+  7606a000 7606b000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ADVAPI32; "C:\WINDOWS\SysWOW64\ADVAPI32.DLL"]
+  7606b000 7606c000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ADVAPI32; "C:\WINDOWS\SysWOW64\ADVAPI32.DLL"]
+  7606c000 7606e000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ADVAPI32; "C:\WINDOWS\SysWOW64\ADVAPI32.DLL"]
+  7606e000 7607b000     d000 MEM_IMAGE   MEM_COMMIT                                     Image      [ADVAPI32; "C:\WINDOWS\SysWOW64\ADVAPI32.DLL"]
++ 7607b000 76080000     5000             MEM_FREE                                       Free       
++ 76080000 76081000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcrt; "C:\WINDOWS\SysWOW64\msvcrt.dll"]
+  76081000 76132000    b1000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [msvcrt; "C:\WINDOWS\SysWOW64\msvcrt.dll"]
+  76132000 76134000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcrt; "C:\WINDOWS\SysWOW64\msvcrt.dll"]
+  76134000 76138000     4000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcrt; "C:\WINDOWS\SysWOW64\msvcrt.dll"]
+  76138000 7613f000     7000 MEM_IMAGE   MEM_COMMIT                                     Image      [msvcrt; "C:\WINDOWS\SysWOW64\msvcrt.dll"]
++ 7613f000 76150000    11000             MEM_FREE                                       Free       
++ 76150000 76151000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [USER32; "C:\WINDOWS\SysWOW64\USER32.dll"]
+  76151000 761f8000    a7000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [USER32; "C:\WINDOWS\SysWOW64\USER32.dll"]
+  761f8000 761fa000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [USER32; "C:\WINDOWS\SysWOW64\USER32.dll"]
+  761fa000 761fd000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [USER32; "C:\WINDOWS\SysWOW64\USER32.dll"]
+  761fd000 762f0000    f3000 MEM_IMAGE   MEM_COMMIT                                     Image      [USER32; "C:\WINDOWS\SysWOW64\USER32.dll"]
++ 762f0000 762f1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [win32u; "C:\WINDOWS\SysWOW64\win32u.dll"]
+  762f1000 762f7000     6000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [win32u; "C:\WINDOWS\SysWOW64\win32u.dll"]
+  762f7000 76305000     e000 MEM_IMAGE   MEM_COMMIT                                     Image      [win32u; "C:\WINDOWS\SysWOW64\win32u.dll"]
+  76305000 76306000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [win32u; "C:\WINDOWS\SysWOW64\win32u.dll"]
+  76306000 76308000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [win32u; "C:\WINDOWS\SysWOW64\win32u.dll"]
++ 76308000 76310000     8000             MEM_FREE                                       Free       
++ 76310000 76311000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [PSAPI; "C:\WINDOWS\SysWOW64\PSAPI.DLL"]
+  76311000 76312000     1000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [PSAPI; "C:\WINDOWS\SysWOW64\PSAPI.DLL"]
+  76312000 76313000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [PSAPI; "C:\WINDOWS\SysWOW64\PSAPI.DLL"]
+  76313000 76316000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [PSAPI; "C:\WINDOWS\SysWOW64\PSAPI.DLL"]
++ 76316000 76320000     a000             MEM_FREE                                       Free       
++ 76320000 76321000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [clbcatq; "C:\WINDOWS\SysWOW64\clbcatq.dll"]
+  76321000 7638f000    6e000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [clbcatq; "C:\WINDOWS\SysWOW64\clbcatq.dll"]
+  7638f000 76391000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [clbcatq; "C:\WINDOWS\SysWOW64\clbcatq.dll"]
+  76391000 76392000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [clbcatq; "C:\WINDOWS\SysWOW64\clbcatq.dll"]
+  76392000 76393000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [clbcatq; "C:\WINDOWS\SysWOW64\clbcatq.dll"]
+  76393000 7639e000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [clbcatq; "C:\WINDOWS\SysWOW64\clbcatq.dll"]
++ 7639e000 76400000    62000             MEM_FREE                                       Free       
++ 76400000 76401000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OLE32; "C:\WINDOWS\SysWOW64\OLE32.DLL"]
+  76401000 764bb000    ba000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [OLE32; "C:\WINDOWS\SysWOW64\OLE32.DLL"]
+  764bb000 764bd000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [OLE32; "C:\WINDOWS\SysWOW64\OLE32.DLL"]
+  764bd000 764e3000    26000 MEM_IMAGE   MEM_COMMIT                                     Image      [OLE32; "C:\WINDOWS\SysWOW64\OLE32.DLL"]
++ 764e3000 76550000    6d000             MEM_FREE                                       Free       
++ 76550000 76551000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ucrtbase; "C:\WINDOWS\SysWOW64\ucrtbase.dll"]
+  76551000 76660000   10f000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [ucrtbase; "C:\WINDOWS\SysWOW64\ucrtbase.dll"]
+  76660000 76662000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [ucrtbase; "C:\WINDOWS\SysWOW64\ucrtbase.dll"]
+  76662000 76670000     e000 MEM_IMAGE   MEM_COMMIT                                     Image      [ucrtbase; "C:\WINDOWS\SysWOW64\ucrtbase.dll"]
++ 76670000 767e0000   170000             MEM_FREE                                       Free       
++ 767e0000 767e1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [sechost; "C:\WINDOWS\SysWOW64\sechost.dll"]
+  767e1000 76848000    67000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [sechost; "C:\WINDOWS\SysWOW64\sechost.dll"]
+  76848000 7684b000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [sechost; "C:\WINDOWS\SysWOW64\sechost.dll"]
+  7684b000 76856000     b000 MEM_IMAGE   MEM_COMMIT                                     Image      [sechost; "C:\WINDOWS\SysWOW64\sechost.dll"]
++ 76856000 768f0000    9a000             MEM_FREE                                       Free       
++ 768f0000 768f1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [OLEAUT32; "C:\WINDOWS\SysWOW64\OLEAUT32.DLL"]
+  768f1000 76978000    87000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [OLEAUT32; "C:\WINDOWS\SysWOW64\OLEAUT32.DLL"]
+  76978000 7697a000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [OLEAUT32; "C:\WINDOWS\SysWOW64\OLEAUT32.DLL"]
+  7697a000 76986000     c000 MEM_IMAGE   MEM_COMMIT                                     Image      [OLEAUT32; "C:\WINDOWS\SysWOW64\OLEAUT32.DLL"]
++ 76986000 76990000     a000             MEM_FREE                                       Free       
++ 76990000 76991000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [RPCRT4; "C:\WINDOWS\SysWOW64\RPCRT4.dll"]
+  76991000 76a3d000    ac000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [RPCRT4; "C:\WINDOWS\SysWOW64\RPCRT4.dll"]
+  76a3d000 76a3e000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [RPCRT4; "C:\WINDOWS\SysWOW64\RPCRT4.dll"]
+  76a3e000 76a4e000    10000 MEM_IMAGE   MEM_COMMIT                                     Image      [RPCRT4; "C:\WINDOWS\SysWOW64\RPCRT4.dll"]
++ 76a4e000 76a50000     2000             MEM_FREE                                       Free       
++ 76a50000 76a51000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHELL32; "C:\WINDOWS\SysWOW64\SHELL32.dll"]
+  76a51000 76f94000   543000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [SHELL32; "C:\WINDOWS\SysWOW64\SHELL32.dll"]
+  76f94000 76f9a000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHELL32; "C:\WINDOWS\SysWOW64\SHELL32.dll"]
+  76f9a000 76f9b000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHELL32; "C:\WINDOWS\SysWOW64\SHELL32.dll"]
+  76f9b000 77006000    6b000 MEM_IMAGE   MEM_COMMIT                                     Image      [SHELL32; "C:\WINDOWS\SysWOW64\SHELL32.dll"]
++ 77006000 77010000     a000             MEM_FREE                                       Free       
++ 77010000 77011000     1000 MEM_IMAGE   MEM_COMMIT                                     <unknown>  [MZ..............]
+  77011000 77014000     3000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  <unknown>  [................]
+  77014000 77015000     1000 MEM_IMAGE   MEM_COMMIT                                     <unknown>  [.P.w.....P.w....]
+  77015000 77016000     1000 MEM_IMAGE   MEM_COMMIT                                     <unknown>  [.v..N........r..]
+  77016000 77017000     1000 MEM_IMAGE   MEM_COMMIT                                     <unknown>  [.........D..0...]
+  77017000 77018000     1000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  <unknown>  [..p.w3...A......]
+  77018000 7701a000     2000 MEM_IMAGE   MEM_COMMIT                                     <unknown>  [................]
++ 7701a000 77020000     6000             MEM_FREE                                       Free       
++ 77020000 77021000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntdll; "ntdll.dll"]
+  77021000 77143000   122000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [ntdll; "ntdll.dll"]
+  77143000 77149000     6000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntdll; "ntdll.dll"]
+  77149000 771c3000    7a000 MEM_IMAGE   MEM_COMMIT                                     Image      [ntdll; "ntdll.dll"]
++ 771c3000 771d0000     d000             MEM_FREE                                       Free       
++ 771d0000 771d1000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [RSIWatch; "C:\Program Files (x86)\RSIGuard\RSIWatch.dll"]
+  771d1000 771d3000     2000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [RSIWatch; "C:\Program Files (x86)\RSIGuard\RSIWatch.dll"]
+  771d3000 771d4000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [RSIWatch; "C:\Program Files (x86)\RSIGuard\RSIWatch.dll"]
+  771d4000 771d6000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [RSIWatch; "C:\Program Files (x86)\RSIGuard\RSIWatch.dll"]
+  771d6000 771d8000     2000 MEM_IMAGE   MEM_COMMIT                                     Image      [RSIWatch; "C:\Program Files (x86)\RSIGuard\RSIWatch.dll"]
++ 771d8000 7b570000  4398000             MEM_FREE                                       Free       
++ 7b570000 7b571000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [TextShaping; "C:\WINDOWS\SysWOW64\TextShaping.dll"]
+  7b571000 7b600000    8f000 MEM_IMAGE   MEM_COMMIT  PAGE_EXECUTE_READ                  Image      [TextShaping; "C:\WINDOWS\SysWOW64\TextShaping.dll"]
+  7b600000 7b601000     1000 MEM_IMAGE   MEM_COMMIT                                     Image      [TextShaping; "C:\WINDOWS\SysWOW64\TextShaping.dll"]
+  7b601000 7b604000     3000 MEM_IMAGE   MEM_COMMIT                                     Image      [TextShaping; "C:\WINDOWS\SysWOW64\TextShaping.dll"]
++ 7b604000 7e3c0000  2dbc000             MEM_FREE                                       Free       
++ 7e3c0000 7e440000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......D..m......]
++ 7e440000 7e4c0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......L..m......]
++ 7e4c0000 7e540000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..D...T..m......]
++ 7e540000 7e5c0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..L......m......]
++ 7e5c0000 7e640000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..T...d..m......]
++ 7e640000 7e6c0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [......l..m......]
++ 7e6c0000 7e740000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..d...t..m......]
++ 7e740000 7e7c0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..l......m......]
++ 7e7c0000 7e840000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [..t......m......]
++ 7e840000 7e8c0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7e8c0000 7e940000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7e940000 7e9c0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7e9c0000 7ea40000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7ea40000 7eac0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7eac0000 7eb40000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7eb40000 7ebc0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7ebc0000 7ec40000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7ec40000 7ecc0000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7ecc0000 7ed40000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7ed40000 7eea0000   160000             MEM_FREE                                       Free       
++ 7eea0000 7ef20000    80000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........m......]
++ 7ef20000 7f1c0000   2a0000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7f1c0000 7f230000    70000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........h......]
++ 7f230000 7f500000   2d0000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........S......]
++ 7f500000 7f5c0000    c0000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7f5c0000 7f9a0000   3e0000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7f9a0000 7fd80000   3e0000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7fd80000 7fdd0000    50000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7fdd0000 7fde0000    10000             MEM_FREE                                       Free       
++ 7fde0000 7fe50000    70000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [.........3......]
++ 7fe50000 7fe55000     5000 MEM_MAPPED  MEM_COMMIT                                     Other      [Read Only Shared Memory]
+  7fe55000 7ff50000    fb000 MEM_MAPPED  MEM_RESERVE                                    MappedFile "PageFile"
++ 7ff50000 7ff58000     8000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+  7ff58000 7ff59000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7ff59000 7ff60000     7000             MEM_FREE                                       Free       
++ 7ff60000 7ff61000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+  7ff61000 7ff62000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7ff62000 7ff70000     e000             MEM_FREE                                       Free       
++ 7ff70000 7ff80000    10000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+  7ff80000 7ff81000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7ff81000 7ff90000     f000             MEM_FREE                                       Free       
++ 7ff90000 7ff91000     1000 MEM_PRIVATE MEM_RESERVE                                    <unknown>  
+  7ff91000 7ff92000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [................]
++ 7ff92000 7ffa0000     e000             MEM_FREE                                       Free       
++ 7ffa0000 7ffa1000     1000 MEM_MAPPED  MEM_COMMIT                                     MappedFile "PageFile"
++ 7ffa1000 7ffb0000     f000             MEM_FREE                                       Free       
++ 7ffb0000 7ffd3000    23000 MEM_MAPPED  MEM_COMMIT                                     Other      [NLS Tables]
++ 7ffd3000 7ffe0000     d000             MEM_FREE                                       Free       
++ 7ffe0000 7ffe1000     1000 MEM_PRIVATE MEM_COMMIT                                     Other      [User Shared Data]
++ 7ffe1000 7ffe9000     8000             MEM_FREE                                       Free       
++ 7ffe9000 7ffea000     1000 MEM_PRIVATE MEM_COMMIT                                     <unknown>  [HalT.....v...M6.]
++ 7ffea000 7fff0000     6000             MEM_FREE                                       Free       
+
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'

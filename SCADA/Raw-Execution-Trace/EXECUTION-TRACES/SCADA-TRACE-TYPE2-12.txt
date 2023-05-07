@@ -1,0 +1,3465 @@
+Opened log file 
+Microsoft (R) Windows Debugger Version 10.0.22549.1000 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+CommandLine: C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+ModLoad: 00400000 0114a000   ws7v6.exe
+ModLoad: 77070000 77213000   ntdll.dll
+ModLoad: 76300000 763f0000   C:\WINDOWS\SysWOW64\KERNEL32.DLL
+ModLoad: 765d0000 767e4000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 74eb0000 74f3f000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll
+ModLoad: 75f70000 75feb000   C:\WINDOWS\SysWOW64\ADVAPI32.DLL
+ModLoad: 76510000 765cf000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 75020000 75096000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 75cd0000 75e6c000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 76bb0000 76c6e000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 76480000 76498000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 76a30000 76a54000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 016d0000 016f8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 76a60000 76b0f000   C:\WINDOWS\SysWOW64\COMDLG32.DLL
+ModLoad: 74f40000 7501c000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 76020000 762a0000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 767f0000 7686b000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 016d0000 016eb000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 76870000 76990000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 76b20000 76ba7000   C:\WINDOWS\SysWOW64\shcore.dll
+ModLoad: 75f20000 75f65000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 75540000 75af5000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 76f50000 77033000   C:\WINDOWS\SysWOW64\OLE32.DLL
+ModLoad: 76cd0000 76d66000   C:\WINDOWS\SysWOW64\OLEAUT32.DLL
+ModLoad: 016d0000 016e2000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 02ef0000 03024000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 029a0000 02eed000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 016d0000 016fd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 017c0000 018e0000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 016d0000 01710000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 02ef0000 02fc8000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 016d0000 0170b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 74150000 74158000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 02c00000 02caf000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 029a0000 02bf6000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 017c0000 01915000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 707e0000 707e8000   C:\WINDOWS\SysWOW64\WSOCK32.DLL
+ModLoad: 764a0000 76503000   C:\WINDOWS\SysWOW64\WS2_32.dll
+ModLoad: 71a40000 71ab2000   C:\WINDOWS\SysWOW64\WINSPOOL.DRV
+ModLoad: 73210000 73216000   C:\WINDOWS\SysWOW64\MSIMG32.DLL
+ModLoad: 56a90000 56a96000   C:\WINDOWS\SysWOW64\SHFOLDER.DLL
+ModLoad: 71ac0000 71ae8000   C:\WINDOWS\SysWOW64\WINMM.DLL
+ModLoad: 74160000 74370000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.DLL
+ModLoad: 029a0000 02bb0000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.dll
+ModLoad: 016d0000 016f8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 01700000 0171b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 01720000 01732000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 01740000 0176d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 029a0000 02eed000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 017c0000 018f4000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 01770000 017b0000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 01900000 0193b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 02fd0000 0307f000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 03080000 032d6000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 032e0000 03435000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 03440000 03518000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 74c00000 74c15000   C:\WINDOWS\SysWOW64\NETAPI32.DLL
+ModLoad: 02ef0000 02fc8000   C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+ModLoad: 6f630000 6f662000   C:\WINDOWS\SysWOW64\IPHLPAPI.DLL
+ModLoad: 76a20000 76a26000   C:\WINDOWS\SysWOW64\PSAPI.DLL
+(35c8.1298): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00000000 ecx=f3c30000 edx=00000000 esi=77082044 edi=7708260c
+eip=77121b72 esp=0164fa20 ebp=0164fa4c iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrpDoDebuggerBreak+0x2b:
+77121b72 cc              int     3
+0:000> g
+g
+ModLoad: 75ff0000 76015000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 73120000 73194000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 76d70000 76e44000   C:\WINDOWS\SysWOW64\MSCTF.dll
+ModLoad: 73df0000 73dff000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 76c70000 76ccf000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 569c0000 569d9000   C:\WINDOWS\SysWOW64\olepro32.dll
+ModLoad: 6f4e0000 6f532000   C:\WINDOWS\SysWOW64\mswsock.dll
+ModLoad: 74410000 74a1c000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 743e0000 74404000   C:\WINDOWS\SysWOW64\Wldp.dll
+ModLoad: 6b5e0000 6b6a2000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 763f0000 7646e000   C:\WINDOWS\SysWOW64\clbcatq.dll
+ModLoad: 56730000 567cf000   C:\WINDOWS\SysWOW64\apphelp.dll
+ModLoad: 56710000 56723000   C:\WINDOWS\SysWOW64\NetworkExplorer.dll
+ModLoad: 743c0000 743d8000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 75c70000 75cab000   C:\WINDOWS\SysWOW64\CFGMGR32.dll
+ModLoad: 566f0000 5670b000   C:\WINDOWS\SysWOW64\edputil.dll
+ModLoad: 56650000 566e3000   C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll
+ModLoad: 70d40000 70ee8000   C:\WINDOWS\SysWOW64\urlmon.dll
+ModLoad: 705b0000 707dc000   C:\WINDOWS\SysWOW64\iertutil.dll
+ModLoad: 74a60000 74a6b000   C:\WINDOWS\SysWOW64\netutils.dll
+ModLoad: 70560000 7057d000   C:\WINDOWS\SysWOW64\srvcli.dll
+ModLoad: 719e0000 71a01000   C:\WINDOWS\SysWOW64\SspiCli.dll
+ModLoad: 5b9a0000 5ba7b000   C:\Windows\SysWOW64\wintypes.dll
+ModLoad: 565d0000 56641000   C:\Windows\SysWOW64\appresolver.dll
+ModLoad: 74e10000 74e35000   C:\Windows\SysWOW64\USERENV.dll
+ModLoad: 565b0000 565cf000   C:\Windows\SysWOW64\SLC.dll
+ModLoad: 56560000 565a8000   C:\Windows\SysWOW64\Bcp47Langs.dll
+ModLoad: 56540000 5655c000   C:\Windows\SysWOW64\sppc.dll
+ModLoad: 56500000 5653d000   C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll
+ModLoad: 56150000 564f1000   C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       srv*
+Symbol search path is: srv*
+Executable search path is: 
+ModLoad: 00e60000 00ebc000   LicensingManagerV2.exe
+ModLoad: 5a530000 5a5e9000   C:\WINDOWS\SysWOW64\textinputframework.dll
+ModLoad: 77070000 77213000   ntdll.dll
+ModLoad: 5a490000 5a52b000   C:\WINDOWS\SysWOW64\CoreMessaging.dll
+ModLoad: 5a210000 5a48e000   C:\WINDOWS\SysWOW64\CoreUIComponents.dll
+CLR providers have been placed in the service container
+ModLoad: 73e90000 73ee2000   C:\WINDOWS\SysWOW64\MSCOREE.DLL
+ModLoad: 74110000 74139000   C:\WINDOWS\SysWOW64\ntmarta.dll
+ModLoad: 76300000 763f0000   C:\WINDOWS\SysWOW64\KERNEL32.dll
+ModLoad: 731a0000 731f3000   C:\WINDOWS\SysWOW64\Oleacc.dll
+ModLoad: 65f70000 65f78000   C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+ModLoad: 765d0000 767e4000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+ModLoad: 63560000 6361f000   C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+(39c0.3854): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00000000 ecx=2ee00000 edx=00000000 esi=77082044 edi=7708260c
+eip=77121b72 esp=012ff9d0 ebp=012ff9fc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrpDoDebuggerBreak+0x2b:
+77121b72 cc              int     3
+1:014> g
+g
+ModLoad: 75f70000 75feb000   C:\WINDOWS\SysWOW64\ADVAPI32.dll
+ModLoad: 74eb0000 74f3f000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll
+ModLoad: 55fd0000 56064000   C:\WINDOWS\SysWOW64\TextShaping.dll
+ModLoad: 76510000 765cf000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 75020000 75096000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 76bb0000 76c6e000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 73e00000 73e8d000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+ModLoad: 75f20000 75f65000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 73df0000 73dff000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 74150000 74158000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 73630000 73de1000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+ModLoad: 73610000 73624000   C:\WINDOWS\SysWOW64\VCRUNTIME140_CLR0400.dll
+ModLoad: 73560000 7360b000   C:\WINDOWS\SysWOW64\ucrtbase_clr0400.dll
+ModLoad: 01890000 0193b000   C:\WINDOWS\SysWOW64\ucrtbase_clr0400.dll
+ModLoad: 75cd0000 75e6c000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 76480000 76498000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 76a30000 76a54000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 74f40000 7501c000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 767f0000 7686b000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 76870000 76990000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 75ff0000 76015000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 76020000 762a0000   C:\WINDOWS\SysWOW64\combase.dll
+(39c0.3854): Unknown exception - code 04242420 (first chance)
+ModLoad: 76a20000 76a26000   C:\WINDOWS\SysWOW64\psapi.dll
+ModLoad: 71ba0000 72fae000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\mscorlib\45cedc1e1f7c1e207ea61b42066b2e96\mscorlib.ni.dll
+ModLoad: 76f50000 77033000   C:\WINDOWS\SysWOW64\ole32.dll
+ModLoad: 76020000 762a0000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 76c70000 76ccf000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 73120000 73194000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 74de0000 74df3000   C:\WINDOWS\SysWOW64\CRYPTSP.dll
+ModLoad: 74db0000 74ddf000   C:\WINDOWS\SysWOW64\rsaenh.dll
+ModLoad: 77040000 77059000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 74da0000 74daa000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 703e0000 7046a000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+ModLoad: 76cd0000 76d66000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+(39c0.3854): C++ EH exception - code e06d7363 (first chance)
+(39c0.3854): C++ EH exception - code e06d7363 (first chance)
+ModLoad: 6f920000 70376000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\2b95b91d18e7cc32557d641c6010c865\System.ni.dll
+ModLoad: 743e0000 74404000   C:\WINDOWS\SysWOW64\wldp.dll
+ModLoad: 6e500000 6e512000   C:\WINDOWS\SysWOW64\amsi.dll
+ModLoad: 74e10000 74e35000   C:\WINDOWS\SysWOW64\USERENV.dll
+ModLoad: 743c0000 743d8000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 6e450000 6e500000   C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\bin\symamsi.dll
+ModLoad: 75e70000 75ebd000   C:\WINDOWS\SysWOW64\WINTRUST.dll
+ModLoad: 76e50000 76f4a000   C:\WINDOWS\SysWOW64\CRYPT32.dll
+ModLoad: 75540000 75af5000   C:\WINDOWS\SysWOW64\SHELL32.dll
+ModLoad: 74e00000 74e0e000   C:\WINDOWS\SysWOW64\MSASN1.dll
+ModLoad: 75cb0000 75cc9000   C:\WINDOWS\SysWOW64\imagehlp.dll
+ModLoad: 6bd90000 6c5a8000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\ac36da337473742b42cb651eb8eeee7e\System.Core.ni.dll
+ModLoad: 55bb0000 55fcc000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\WindowsBase\c1cafcb7e1703e3d75bcd932d5d7e275\WindowsBase.ni.dll
+ModLoad: 54910000 55551000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\PresentationCore\136b9c641f2b75d4f55f31eb1c499f89\PresentationCore.ni.dll
+ModLoad: 53510000 54909000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\e78dd4e00675b886adaaa9cfb8433ddc\PresentationFramework.ni.dll
+ModLoad: 559a0000 55ba3000   C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xaml\2ee610fcfedccecad6c5e270330a5498\System.Xaml.ni.dll
+ModLoad: 5aac0000 5accc000   C:\WINDOWS\SysWOW64\dwrite.dll
+ModLoad: 55810000 5599e000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+ModLoad: 557a0000 5580b000   C:\WINDOWS\SysWOW64\MSVCP140_CLR0400.dll
+ModLoad: 556b0000 55793000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+(39c0.3854): CLR exception - code e0434352 (first chance)
+ModLoad: 53400000 53505000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+(39c0.3854): CLR exception - code e0434352 (!!! second chance !!!)
+eax=012ff2e0 ebx=00000005 ecx=00000005 edx=00000000 esi=012ff3a4 edi=00000001
+eip=766fb922 esp=012ff2e0 ebp=012ff33c iopl=0         nv up ei pl nz ac po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00200212
+KERNELBASE!RaiseException+0x62:
+766fb922 8b4c2454        mov     ecx,dword ptr [esp+54h] ss:002b:012ff334=34165977
+1:014> g
+g
+WARNING: Continuing a non-continuable exception
+eax=00000000 ebx=00000000 ecx=00000005 edx=00000000 esi=80131506 edi=77195b40
+eip=770e2c7c esp=012fea14 ebp=012feae8 iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00200206
+ntdll!NtTerminateProcess+0xc:
+770e2c7c c20800          ret     8
+1:014> g
+g
+ModLoad: 5acf0000 5ad16000   C:\WINDOWS\SysWOW64\DWMAPI.DLL
+ModLoad: 55990000 55fc9000   C:\Windows\SysWOW64\ieframe.dll
+ModLoad: 74b30000 74bf9000   C:\Windows\SysWOW64\WINHTTP.dll
+ModLoad: 690b0000 690c1000   C:\Windows\SysWOW64\WKSCLI.DLL
+ModLoad: 66ca0000 66cd1000   C:\WINDOWS\SysWOW64\dataexchange.dll
+ModLoad: 66b30000 66c94000   C:\WINDOWS\SysWOW64\dcomp.dll
+ModLoad: 5b170000 5b350000   C:\WINDOWS\SysWOW64\d3d11.dll
+ModLoad: 5b0a0000 5b162000   C:\WINDOWS\SysWOW64\dxgi.dll
+ModLoad: 581d0000 5835f000   C:\WINDOWS\SysWOW64\twinapi.appcore.dll
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       srv*
+Symbol search path is: srv*
+Executable search path is: 
+ModLoad: 00010000 00082000   WebServerWpf_1.exe
+ModLoad: 77070000 77213000   ntdll.dll
+ModLoad: 73e90000 73ee2000   C:\WINDOWS\SysWOW64\MSCOREE.DLL
+ModLoad: 76300000 763f0000   C:\WINDOWS\SysWOW64\KERNEL32.dll
+ModLoad: 765d0000 767e4000   C:\WINDOWS\SysWOW64\KERNELBASE.dll
+(27c8.11f8): Break instruction exception - code 80000003 (first chance)
+eax=00000000 ebx=00000000 ecx=962c0000 edx=00000000 esi=77082044 edi=7708260c
+eip=77121b72 esp=004ff6dc ebp=004ff708 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!LdrpDoDebuggerBreak+0x2b:
+77121b72 cc              int     3
+1:013> g
+g
+ModLoad: 75f70000 75feb000   C:\WINDOWS\SysWOW64\ADVAPI32.dll
+ModLoad: 74eb0000 74f3f000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.5413.3000.105\Data\Sysfer\x86\sysfer.dll
+ModLoad: 76510000 765cf000   C:\WINDOWS\SysWOW64\msvcrt.dll
+ModLoad: 75020000 75096000   C:\WINDOWS\SysWOW64\sechost.dll
+ModLoad: 76bb0000 76c6e000   C:\WINDOWS\SysWOW64\RPCRT4.dll
+ModLoad: 73e00000 73e8d000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+ModLoad: 75f20000 75f65000   C:\WINDOWS\SysWOW64\SHLWAPI.dll
+ModLoad: 73df0000 73dff000   C:\WINDOWS\SysWOW64\kernel.appcore.dll
+ModLoad: 74150000 74158000   C:\WINDOWS\SysWOW64\VERSION.dll
+ModLoad: 65980000 65f31000   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll
+ModLoad: 75cd0000 75e6c000   C:\WINDOWS\SysWOW64\USER32.dll
+ModLoad: 76480000 76498000   C:\WINDOWS\SysWOW64\win32u.dll
+ModLoad: 658e0000 6597b000   C:\WINDOWS\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9672_none_d08f9da24428a513\MSVCR80.dll
+ModLoad: 76a30000 76a54000   C:\WINDOWS\SysWOW64\GDI32.dll
+ModLoad: 74f40000 7501c000   C:\WINDOWS\SysWOW64\gdi32full.dll
+ModLoad: 767f0000 7686b000   C:\WINDOWS\SysWOW64\msvcp_win.dll
+ModLoad: 76870000 76990000   C:\WINDOWS\SysWOW64\ucrtbase.dll
+ModLoad: 75ff0000 76015000   C:\WINDOWS\SysWOW64\IMM32.DLL
+ModLoad: 75540000 75af5000   C:\WINDOWS\SysWOW64\shell32.dll
+ModLoad: 74410000 74a1c000   C:\WINDOWS\SysWOW64\windows.storage.dll
+ModLoad: 76020000 762a0000   C:\WINDOWS\SysWOW64\combase.dll
+ModLoad: 743e0000 74404000   C:\WINDOWS\SysWOW64\Wldp.dll
+ModLoad: 76b20000 76ba7000   C:\WINDOWS\SysWOW64\SHCORE.dll
+ModLoad: 743c0000 743d8000   C:\WINDOWS\SysWOW64\profapi.dll
+ModLoad: 64de0000 658e0000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\mscorlib\ffc00a26ff38e37b47b2c75f92b48929\mscorlib.ni.dll
+ModLoad: 76f50000 77033000   C:\WINDOWS\SysWOW64\ole32.dll
+ModLoad: 76c70000 76ccf000   C:\WINDOWS\SysWOW64\bcryptPrimitives.dll
+ModLoad: 73120000 73194000   C:\WINDOWS\SysWOW64\uxtheme.dll
+ModLoad: 64490000 64c38000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System\06e54f5fa1f15dd558eaf403cdcacad3\System.ni.dll
+ModLoad: 717a0000 719d6000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Core\94ffadd575b6b6706f55e67053f5a02f\System.Core.ni.dll
+ModLoad: 55650000 55988000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsBase\c61eadcb0bdfb243f5337086156ded07\WindowsBase.ni.dll
+ModLoad: 549a0000 55555000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationCore\4c65d8fbfe348c5f5c5620fa6cea033d\PresentationCore.ni.dll
+ModLoad: 53be0000 54994000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationFramewo#\7c1ce4b69881baebaddfd03d64ba5420\PresentationFramework.ni.dll
+ModLoad: 6cd80000 6cf2c000   C:\Windows\Microsoft.NET\Framework\v3.0\WPF\wpfgfx_v0300.dll
+ModLoad: 76cd0000 76d66000   C:\WINDOWS\SysWOW64\OLEAUT32.dll
+ModLoad: 64c40000 64c9b000   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll
+ModLoad: 64390000 64484000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Configuration\fdc15310ba8d6d8ee412fbd7cfcb17e7\System.Configuration.ni.dll
+ModLoad: 63e50000 6438c000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Xml\78c2a2d668d3c1896534063b52a93918\System.Xml.ni.dll
+ModLoad: 74de0000 74df3000   C:\WINDOWS\SysWOW64\CRYPTSP.dll
+ModLoad: 74db0000 74ddf000   C:\WINDOWS\SysWOW64\rsaenh.dll
+ModLoad: 77040000 77059000   C:\WINDOWS\SysWOW64\bcrypt.dll
+ModLoad: 74da0000 74daa000   C:\WINDOWS\SysWOW64\CRYPTBASE.dll
+ModLoad: 76a20000 76a26000   C:\WINDOWS\SysWOW64\psapi.dll
+ModLoad: 76d70000 76e44000   C:\WINDOWS\SysWOW64\MSCTF.dll
+ModLoad: 65f70000 65f78000   C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+ModLoad: 63560000 6361f000   C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+ModLoad: 71790000 71798000   C:\Windows\Microsoft.NET\Framework\v2.0.50727\culture.dll
+ModLoad: 6f630000 6f662000   C:\WINDOWS\SysWOW64\iphlpapi.dll
+ModLoad: 6f450000 6f4e0000   C:\WINDOWS\SysWOW64\DNSAPI.dll
+ModLoad: 76470000 76477000   C:\WINDOWS\SysWOW64\NSI.dll
+ModLoad: 6e8c0000 6e8d4000   C:\WINDOWS\SysWOW64\dhcpcsvc6.DLL
+ModLoad: 6e750000 6e766000   C:\WINDOWS\SysWOW64\dhcpcsvc.DLL
+ModLoad: 6cf30000 6cf38000   C:\WINDOWS\SysWOW64\WINNSI.DLL
+ModLoad: 764a0000 76503000   C:\WINDOWS\SysWOW64\ws2_32.dll
+ModLoad: 6f4e0000 6f532000   C:\WINDOWS\SysWOW64\mswsock.dll
+ModLoad: 05750000 058fc000   C:\WINDOWS\assembly\GAC_32\PresentationCore\3.0.0.0__31bf3856ad364e35\wpfgfx_v0300.dll
+ModLoad: 05750000 058fc000   C:\WINDOWS\assembly\GAC_32\PresentationCore\3.0.0.0__31bf3856ad364e35\wpfgfx_v0300.dll
+ModLoad: 5acf0000 5ad16000   C:\WINDOWS\SysWOW64\DWMAPI.dll
+ModLoad: 5a900000 5aa8f000   C:\WINDOWS\SysWOW64\d3d9.dll
+ModLoad: 71660000 7179c000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdumdim32.dll
+ModLoad: 78310000 7bf78000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd9dxva32.dll
+ModLoad: 708d0000 70a09000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdgmm32.dll
+ModLoad: 78310000 7bf78000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd9dxva32.dll
+ModLoad: 708d0000 70a09000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdgmm32.dll
+ModLoad: 70d40000 70ee8000   C:\WINDOWS\SysWOW64\urlmon.dll
+ModLoad: 74a60000 74a6b000   C:\WINDOWS\SysWOW64\netutils.dll
+ModLoad: 70560000 7057d000   C:\WINDOWS\SysWOW64\srvcli.dll
+ModLoad: 705b0000 707dc000   C:\WINDOWS\SysWOW64\iertutil.dll
+ModLoad: 6ca40000 6cbb1000   C:\WINDOWS\SysWOW64\WindowsCodecs.dll
+ModLoad: 714e0000 7153e000   C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\PresentationFramewo#\58f723950ff803fe4d675a6653451725\PresentationFramework.Aero.ni.dll
+(27c8.11f8): CLR exception - code e0434f4d (first chance)
+ModLoad: 6e610000 6e654000   C:\WINDOWS\SysWOW64\powrprof.dll
+ModLoad: 6e600000 6e60d000   C:\WINDOWS\SysWOW64\UMPDC.dll
+ModLoad: 74140000 7414f000   C:\WINDOWS\SysWOW64\WtsApi32.dll
+ModLoad: 6f300000 6f347000   C:\WINDOWS\SysWOW64\WINSTA.dll
+ModLoad: 763f0000 7646e000   C:\WINDOWS\SysWOW64\clbcatq.dll
+ModLoad: 71640000 71653000   C:\Windows\Microsoft.NET\Framework\v3.0\WPF\PenIMC.dll
+ModLoad: 714a0000 714dc000   C:\WINDOWS\SysWOW64\wisp.dll
+ModLoad: 66d50000 66d5d000   C:\WINDOWS\SysWOW64\atlthunk.dll
+ModLoad: 71630000 7163e000   C:\Program Files (x86)\Common Files\Microsoft Shared\Ink\tpcps.dll
+ModLoad: 66ca0000 66cd1000   C:\WINDOWS\SysWOW64\dataexchange.dll
+ModLoad: 66b30000 66c94000   C:\WINDOWS\SysWOW64\dcomp.dll
+ModLoad: 5b170000 5b350000   C:\WINDOWS\SysWOW64\d3d11.dll
+ModLoad: 5b0a0000 5b162000   C:\WINDOWS\SysWOW64\dxgi.dll
+ModLoad: 581d0000 5835f000   C:\WINDOWS\SysWOW64\twinapi.appcore.dll
+ModLoad: 71ac0000 71ae8000   C:\WINDOWS\SysWOW64\WINMM.dll
+ModLoad: 71490000 7149f000   C:\WINDOWS\SysWOW64\resourcepolicyclient.dll
+ModLoad: 71480000 7149f000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdinfo32.dll
+ModLoad: 51bc0000 53bdf000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igc32.dll
+ModLoad: 71450000 7147c000   C:\WINDOWS\SysWOW64\dxcore.dll
+ModLoad: 75c70000 75cab000   C:\WINDOWS\SysWOW64\cfgmgr32.dll
+ModLoad: 6c980000 6ca40000   C:\WINDOWS\SysWOW64\PresentationNative_v0300.dll
+ModLoad: 5a530000 5a5e9000   C:\WINDOWS\SysWOW64\textinputframework.dll
+ModLoad: 5a490000 5a52b000   C:\WINDOWS\SysWOW64\CoreMessaging.dll
+ModLoad: 5a210000 5a48e000   C:\WINDOWS\SysWOW64\CoreUIComponents.dll
+ModLoad: 74110000 74139000   C:\WINDOWS\SysWOW64\ntmarta.dll
+ModLoad: 0ac80000 0ad5b000   C:\WINDOWS\SysWOW64\wintypes.dll
+ModLoad: 5b9a0000 5ba7b000   C:\WINDOWS\SysWOW64\wintypes.dll
+ModLoad: 0ad60000 0ae3b000   C:\WINDOWS\SysWOW64\wintypes.dll
+ModLoad: 731a0000 731f3000   C:\WINDOWS\SysWOW64\Oleacc.dll
+ModLoad: 0b4a0000 0b4ae000   UIAutomationProvider.dll
+ModLoad: 0b4b0000 0b4be000   UIAutomationProvider.dll
+ModLoad: 0b4a0000 0b4ae000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationProvider\3.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll
+ModLoad: 0b4a0000 0b4ae000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationProvider\3.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll
+ModLoad: 0b4c0000 0b4dc000   UIAutomationTypes.dll
+ModLoad: 0b4e0000 0b4fc000   UIAutomationTypes.dll
+ModLoad: 0b4c0000 0b4dc000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationTypes\3.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+ModLoad: 0b4c0000 0b4dc000   C:\WINDOWS\assembly\GAC_MSIL\UIAutomationTypes\3.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+ModLoad: 5ae10000 5b083000   C:\WINDOWS\SysWOW64\UIAutomationCore.dll
+ModLoad: 6b5e0000 6b6a2000   C:\WINDOWS\SysWOW64\PROPSYS.dll
+ModLoad: 66d70000 66df8000   C:\WINDOWS\SysWOW64\sxs.dll
+mincore\com\oleaut32\dispatch\ups.cpp(2122)\OLEAUT32.dll!76CF245F: (caller: 76CF3E7F) ReturnHr(1) tid(11f8) 8002801D Library not registered.
+
+ModLoad: 71430000 71448000   C:\WINDOWS\SysWOW64\msctfui.dll
+(35c8.d8c): Break instruction exception - code 80000003 (first chance)
+eax=002b7000 ebx=00000000 ecx=7711dc70 edx=7711dc70 esi=7711dc70 edi=7711dc70
+eip=770e4d10 esp=0f89ff44 ebp=0f89ff70 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!DbgBreakPoint:
+770e4d10 cc              int     3
+0:010> bm /1 ws*!TMas*
+bm /1 ws*!TMas*
+  1: 0048aa88          @!"ws7v6!TMaskeMainWin$bdtr$qqrv"
+  2: 0048ac14          @!"ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri"
+  3: 00496424          @!"ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri"
+  4: 0049662c          @!"ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv"
+  5: 00496668          @!"ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri"
+  6: 00496844          @!"ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv"
+  7: 00496b78          @!"ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv"
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+*** WARNING: Unable to verify checksum for C:\WINDOWS\SysWOW64\WS7_S7AG.DLL
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+0:010> g
+g
+Breakpoint 6 hit
+eax=113370d0 ebx=113370d0 ecx=ffffffff edx=0000003a esi=00000000 edi=0164e0a3
+eip=00496844 esp=0164df94 ebp=0164e2d0 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv:
+00496844 55              push    ebp
+0:000> s
+s
+       ^ Search pattern missing from 's'
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=ffffffff edx=0000003a esi=00000000 edi=0164e0a3
+eip=00496845 esp=0164df90 ebp=0164e2d0 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1:
+00496845 8bec            mov     ebp,esp
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=ffffffff edx=0000003a esi=00000000 edi=0164e0a3
+eip=00496847 esp=0164df90 ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000244
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x3:
+00496847 53              push    ebx
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=ffffffff edx=0000003a esi=00000000 edi=0164e0a3
+eip=00496848 esp=0164df8c ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x4:
+00496848 56              push    esi
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=ffffffff edx=0000003a esi=00000000 edi=0164e0a3
+eip=00496849 esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x5:
+00496849 8bf0            mov     esi,eax
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=ffffffff edx=0000003a esi=113370d0 edi=0164e0a3
+eip=0049684b esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x7:
+0049684b 8b86e8580000    mov     eax,dword ptr [esi+58E8h] ds:002b:1133c9b8=00000001
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=ffffffff edx=0000003a esi=113370d0 edi=0164e0a3
+eip=00496851 esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0xd:
+00496851 85c0            test    eax,eax
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=ffffffff edx=0000003a esi=113370d0 edi=0164e0a3
+eip=00496853 esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0xf:
+00496853 7504            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15 (00496859) [br=1]
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=ffffffff edx=0000003a esi=113370d0 edi=0164e0a3
+eip=00496859 esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15:
+00496859 33c0            xor     eax,eax
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=ffffffff edx=0000003a esi=113370d0 edi=0164e0a3
+eip=0049685b esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x17:
+0049685b 33db            xor     ebx,ebx
+0:000> t
+t
+eax=00000000 ebx=00000000 ecx=ffffffff edx=0000003a esi=113370d0 edi=0164e0a3
+eip=0049685d esp=0164df88 ebp=0164df90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x19:
+0049685d eb0e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29 (0049686d)
+0:000> ba w 4 0x113370d0+58E8h
+ba w 4 0x113370d0+58E8h
+0:000> g
+g
+Breakpoint 5 hit
+eax=113370d0 ebx=00000000 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496668 esp=0164df84 ebp=0164df90 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri:
+00496668 55              push    ebp
+0:000> t
+t
+eax=113370d0 ebx=00000000 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496669 esp=0164df80 ebp=0164df90 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1:
+00496669 8bec            mov     ebp,esp
+0:000> t
+t
+eax=113370d0 ebx=00000000 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=0049666b esp=0164df80 ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x3:
+0049666b 83c4f8          add     esp,0FFFFFFF8h
+0:000> t
+t
+eax=113370d0 ebx=00000000 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=0049666e esp=0164df78 ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000207
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x6:
+0049666e 53              push    ebx
+0:000> t
+t
+eax=113370d0 ebx=00000000 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=0049666f esp=0164df74 ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000207
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x7:
+0049666f 8bd8            mov     ebx,eax
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496671 esp=0164df74 ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000207
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x9:
+00496671 56              push    esi
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496672 esp=0164df70 ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000207
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0xa:
+00496672 57              push    edi
+0:000> t
+t
+eax=113370d0 ebx=113370d0 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496673 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000205
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0xb:
+00496673 8b83e8580000    mov     eax,dword ptr [ebx+58E8h] ds:002b:1133c9b8=00000001
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496679 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000207
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x11:
+00496679 8bf2            mov     esi,edx
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=00000001 edx=00000000 esi=00000000 edi=0164e0a3
+eip=0049667b esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000207
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x13:
+0049667b 85c0            test    eax,eax
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=00000001 edx=00000000 esi=00000000 edi=0164e0a3
+eip=0049667d esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15:
+0049667d 7507            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1e (00496686) [br=1]
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=00000001 edx=00000000 esi=00000000 edi=0164e0a3
+eip=00496686 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1e:
+00496686 3bc6            cmp     eax,esi
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=00000001 edx=00000000 esi=00000000 edi=0164e0a3
+eip=00496688 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x20:
+00496688 7f0a            jg      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x2c (00496694) [br=1]
+0:000> t
+t
+eax=00000001 ebx=113370d0 ecx=00000001 edx=00000000 esi=00000000 edi=0164e0a3
+eip=00496694 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000200
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x2c:
+00496694 33c0            xor     eax,eax
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=00000000 esi=00000000 edi=0164e0a3
+eip=00496696 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x2e:
+00496696 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h] ds:002b:1133c8f0=07dbc690
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=0049669d esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x35:
+0049669d 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h] ds:002b:07dbca78=00000001
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004966a3 esp=0164df6c ebp=0164df80 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x3b:
+004966a3 83f904          cmp     ecx,4
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004966a6 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000293
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x3e:
+004966a6 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x45 (004966ad) [br=0]
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004966a8 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000293
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x40:
+004966a8 83f908          cmp     ecx,8
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004966ab esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x43:
+004966ab 7546            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x8b (004966f3) [br=1]
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004966f3 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x8b:
+004966f3 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h] ds:002b:1133c8f0=07dbc690
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004966fa esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x92:
+004966fa 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h] ds:002b:07dbca78=00000001
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=00496700 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x98:
+00496700 83f90c          cmp     ecx,0Ch
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=00496703 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x9b:
+00496703 0f85f1000000    jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x192 (004967fa) [br=1]
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=004967fa esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x192:
+004967fa 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h] ds:002b:1133c8f0=07dbc690
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=00496801 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x199:
+00496801 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h] ds:002b:07dbca78=00000001
+0:000> t
+t
+eax=00000000 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=00496807 esp=0164df6c ebp=0164df80 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x19f:
+00496807 83f905          cmp     ecx,5
+0:000> g
+g
+Breakpoint 4 hit
+eax=113370d0 ebx=113370d0 ecx=00000001 edx=07dbc690 esi=00000000 edi=0164e0a3
+eip=0049662c esp=0164df94 ebp=0164e2d0 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv:
+0049662c 55              push    ebp
+0:000> 
+
+0:000> g
+g
+Breakpoint 3 hit
+eax=113370d0 ebx=00000000 ecx=00000001 edx=00000000 esi=113370d0 edi=0164e0a3
+eip=00496424 esp=0164df84 ebp=0164df90 iopl=0         nv up ei ng nz ac pe cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000297
+ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri:
+00496424 55              push    ebp
+0:000> g
+g
+Breakpoint 0 hit
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+eax=00000000 ebx=1133c9b8 ecx=07dbcb10 edx=00000001 esi=1133c8f0 edi=1133c8f0
+eip=032e46b0 esp=0164df18 ebp=0164df20 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+MASKEDLLPROJECT!MaskeDLL_MaskeDatenInDateiLoeschen$qpc+0x2d8:
+032e46b0 33c0            xor     eax,eax
+0:000> g
+g
+Breakpoint 0 hit
+eax=00000000 ebx=1133c9b8 ecx=07dbcf90 edx=00000002 esi=1133c8f0 edi=1133c8f0
+eip=032e46b0 esp=0164df18 ebp=0164df20 iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+MASKEDLLPROJECT!MaskeDLL_MaskeDatenInDateiLoeschen$qpc+0x2d8:
+032e46b0 33c0            xor     eax,eax
+0:000> bc 0
+bc 0
+0:000> bl
+bl
+     1 e Disable Clear  0048aa88     /1 0001 (0001)  0:**** ws7v6!TMaskeMainWin$bdtr$qqrv
+     2 e Disable Clear  0048ac14     /1 0001 (0001)  0:**** ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri
+     7 e Disable Clear  00496b78     /1 0001 (0001)  0:**** ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv
+0:000> g
+g
+(35c8.1728): Break instruction exception - code 80000003 (first chance)
+eax=002c0000 ebx=00000000 ecx=7711dc70 edx=7711dc70 esi=7711dc70 edi=7711dc70
+eip=770e4d10 esp=1265ff44 ebp=1265ff70 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!DbgBreakPoint:
+770e4d10 cc              int     3
+0:033> bc *
+bc *
+0:033> uf
+uf
+Address expression missing from '<EOL>'
+0:033> uf @!scopei
+uf @!scopei
+Syntax error at '@!scopei'
+0:033> uf @!scopeip
+uf @!scopeip
+Syntax error at '@!scopeip'
+0:033> uf eip
+uf eip
+ntdll!DbgBreakPoint:
+770e4d10 cc              int     3
+770e4d11 c3              ret
+0:033> uf /c
+uf /c
+Address expression missing from '<EOL>'
+0:033> uf eip /c
+uf eip /c
+No code found, aborting
+0:033> uf /c eip
+uf /c eip
+ntdll!DbgBreakPoint (770e4d10)
+    no calls found
+0:033> uf /c eip eip+10000
+uf /c eip eip+10000
+ntdll!DbgBreakPoint (770e4d10)
+    no calls found
+                 ^ Extra character error in 'uf /c eip eip+10000'
+0:033> uf eip eip+10000
+uf eip eip+10000
+ntdll!DbgBreakPoint:
+770e4d10 cc              int     3
+770e4d11 c3              ret
+              ^ Extra character error in 'uf eip eip+10000'
+0:033> uf eip L20
+uf eip L20
+ntdll!DbgBreakPoint:
+770e4d10 cc              int     3
+770e4d11 c3              ret
+              ^ Extra character error in 'uf eip L20'
+0:033> bm ws*!TMask8
+bm ws*!TMask8
+No matching code symbols found, no breakpoints set.
+0:033> bm ws*!TMask*
+bm ws*!TMask*
+  1: 0048aa88          @!"ws7v6!TMaskeMainWin$bdtr$qqrv"
+  2: 0048ac14          @!"ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri"
+  3: 00496424          @!"ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri"
+  4: 0049662c          @!"ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv"
+  5: 00496668          @!"ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri"
+  6: 00496844          @!"ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv"
+  7: 00496b78          @!"ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv"
+0:033> g
+g
+Breakpoint 6 hit
+eax=113370d0 ebx=113370d0 ecx=00000000 edx=0164e9b8 esi=113370d0 edi=00008195
+eip=00496844 esp=0164e7f8 ebp=0164e800 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv:
+00496844 55              push    ebp
+0:000> uf eip L20
+uf eip L20
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv:
+00496844 55              push    ebp
+00496845 8bec            mov     ebp,esp
+00496847 53              push    ebx
+00496848 56              push    esi
+00496849 8bf0            mov     esi,eax
+0049684b 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496851 85c0            test    eax,eax
+00496853 7504            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15 (00496859)  Branch
+
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x11:
+00496855 33c0            xor     eax,eax
+00496857 eb1e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)  Branch
+
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15:
+00496859 33c0            xor     eax,eax
+0049685b 33db            xor     ebx,ebx
+0049685d eb0e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29 (0049686d)  Branch
+
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1b:
+0049685f 8bd3            mov     edx,ebx
+00496861 8bc6            mov     eax,esi
+00496863 e800feffff      call    ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (00496668)
+00496868 85c0            test    eax,eax
+0049686a 750b            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)  Branch
+
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x28:
+0049686c 43              inc     ebx
+
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29:
+0049686d 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+00496873 3bd9            cmp     ebx,ecx
+00496875 7ce8            jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1b (0049685f)  Branch
+
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33:
+00496877 5e              pop     esi
+00496878 5b              pop     ebx
+00496879 5d              pop     ebp
+0049687a c3              ret
+              ^ Extra character error in 'uf eip L20'
+0:000> bm ws*!TMask* \1 "kv 3; r; uu eip L200; g"
+bm ws*!TMask* \1 "kv 3; r; uu eip L200; g"
+Syntax error at '\1 "kv 3; r; uu eip L200; g"'
+0:000> bm \1 ws*!TMask* "kv 3; r; uu eip L200; g"
+bm \1 ws*!TMask* "kv 3; r; uu eip L200; g"
+Couldn't resolve error at 'ws*!TMask* "kv 3; r; uu eip L200; g"'
+0:000> bm /1 ws*!TMask* "kv 3; r; uu eip L200; g"
+bm /1 ws*!TMask* "kv 3; r; uu eip L200; g"
+ 10: 0048aa88          @!"ws7v6!TMaskeMainWin$bdtr$qqrv"
+ 11: 0048ac14          @!"ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri"
+ 12: 00496424          @!"ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri"
+ 13: 0049662c          @!"ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv"
+ 14: 00496668          @!"ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri"
+ 15: 00496844          @!"ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv"
+ 16: 00496b78          @!"ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv"
+0:000> bc *
+bc *
+0:000> bm /1 ws*!TMask* "kv 3; r; uu eip L200; g"
+bm /1 ws*!TMask* "kv 3; r; uu eip L200; g"
+  1: 0048aa88          @!"ws7v6!TMaskeMainWin$bdtr$qqrv"
+  2: 0048ac14          @!"ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri"
+  3: 00496424          @!"ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri"
+  4: 0049662c          @!"ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv"
+  5: 00496668          @!"ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri"
+  6: 00496844          @!"ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv"
+  7: 00496b78          @!"ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv"
+0:000> g
+g
+ # ChildEBP RetAddr      Args to Child              
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e7f4 00496868     113370d0 113370d0 0164e800 ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri
+01 0164e7f4 00499616     0164e9e8 0164e808 00499708 ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x24
+02 0164e800 00499708     0164e938 0071b563 00008195 ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2a9e
+eax=113370d0 ebx=00000000 ecx=00000003 edx=00000000 esi=113370d0 edi=00008195
+eip=00496668 esp=0164e7e8 ebp=0164e7f4 iopl=0         nv up ei ng nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000293
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri:
+00496668 55              push    ebp
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri:
+00496668 55              push    ebp
+00496669 8bec            mov     ebp,esp
+0049666b 83c4f8          add     esp,0FFFFFFF8h
+0049666e 53              push    ebx
+0049666f 8bd8            mov     ebx,eax
+00496671 56              push    esi
+00496672 57              push    edi
+00496673 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+00496679 8bf2            mov     esi,edx
+0049667b 85c0            test    eax,eax
+0049667d 7507            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1e (00496686)
+0049667f 33c0            xor     eax,eax
+00496681 e9b0010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496686 3bc6            cmp     eax,esi
+00496688 7f0a            jg      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x2c (00496694)
+0049668a b86f000000      mov     eax,6Fh
+0049668f e9a2010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496694 33c0            xor     eax,eax
+00496696 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+0049669d 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+004966a3 83f904          cmp     ecx,4
+004966a6 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x45 (004966ad)
+004966a8 83f908          cmp     ecx,8
+004966ab 7546            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x8b (004966f3)
+004966ad 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004966b4 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+004966ba 0fb60401        movzx   eax,byte ptr [ecx+eax]
+004966be c1e008          shl     eax,8
+004966c1 668982ec030000  mov     word ptr [edx+3ECh],ax
+004966c8 0fb78af0030000  movzx   ecx,word ptr [edx+3F0h]
+004966cf 8b83f4470000    mov     eax,dword ptr [ebx+47F4h]
+004966d5 0fb64c0801      movzx   ecx,byte ptr [eax+ecx+1]
+004966da 6681e1ff00      and     cx,0FFh
+004966df 66018aec030000  add     word ptr [edx+3ECh],cx
+004966e6 6a01            push    1
+004966e8 33c9            xor     ecx,ecx
+004966ea 8bd6            mov     edx,esi
+004966ec 8bc3            mov     eax,ebx
+004966ee e8ed70ffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004966f3 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004966fa 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+00496700 83f90c          cmp     ecx,0Ch
+00496703 0f85f1000000    jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x192 (004967fa)
+00496709 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+00496710 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+00496716 8bbbf4470000    mov     edi,dword ptr [ebx+47F4h]
+0049671c 0fb79218040000  movzx   edx,word ptr [edx+418h]
+00496723 0fb60401        movzx   eax,byte ptr [ecx+eax]
+00496727 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+0049672e 83c2f8          add     edx,0FFFFFFF8h
+00496731 c1e008          shl     eax,8
+00496734 0fb789f0030000  movzx   ecx,word ptr [ecx+3F0h]
+0049673b 0fb64c0f01      movzx   ecx,byte ptr [edi+ecx+1]
+00496740 6681e1ff00      and     cx,0FFh
+00496745 6603c1          add     ax,cx
+00496748 83fa07          cmp     edx,7
+0049674b 776f            ja      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x154 (004967bc)
+0049674d ff249554674900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0xec (00496754)[edx*4]
+00496754 b367            mov     bl,67h
+00496756 49              dec     ecx
+00496757 00aa674900a1    add     byte ptr [edx-5EFFB699h],ch
+0049675d 6749            dec     ecx
+0049675f 00986749008f    add     byte ptr [eax-70FFB699h],bl
+00496765 6749            dec     ecx
+00496767 00866749007d    add     byte ptr [esi+7D004967h],al
+0049676d 6749            dec     ecx
+0049676f 00746749        add     byte ptr [edi+49h],dh
+00496773 00c7            add     bh,al
+00496775 45              inc     ebp
+00496776 fc              cld
+00496777 0000            add     byte ptr [eax],al
+00496779 803feb          cmp     byte ptr [edi],0EBh
+0049677c 46              inc     esi
+0049677d c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496784 eb3d            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+00496786 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+0049678d eb34            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+0049678f c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496796 eb2b            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+00496798 c745fc00008041  mov     dword ptr [ebp-4],41800000h
+0049679f eb22            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967a1 c745fc00000042  mov     dword ptr [ebp-4],42000000h
+004967a8 eb19            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967aa c745fc00008042  mov     dword ptr [ebp-4],42800000h
+004967b1 eb10            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967b3 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+004967ba eb07            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967bc c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+004967c3 668945f8        mov     word ptr [ebp-8],ax
+004967c7 33c9            xor     ecx,ecx
+004967c9 df45f8          fild    word ptr [ebp-8]
+004967cc 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004967d3 d99a0c040000    fstp    dword ptr [edx+40Ch]
+004967d9 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004967e0 d9800c040000    fld     dword ptr [eax+40Ch]
+004967e6 d875fc          fdiv    dword ptr [ebp-4]
+004967e9 d99a0c040000    fstp    dword ptr [edx+40Ch]
+004967ef 8bd6            mov     edx,esi
+004967f1 6a01            push    1
+004967f3 8bc3            mov     eax,ebx
+004967f5 e8e66fffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004967fa 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496801 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+00496807 83f905          cmp     ecx,5
+0049680a 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1a9 (00496811)
+0049680c 83f906          cmp     ecx,6
+0049680f 7525            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496811 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+00496818 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+0049681e 0fb60401        movzx   eax,byte ptr [ecx+eax]
+00496822 668982ec030000  mov     word ptr [edx+3ECh],ax
+00496829 6a01            push    1
+0049682b 33c9            xor     ecx,ecx
+0049682d 8bd6            mov     edx,esi
+0049682f 8bc3            mov     eax,ebx
+00496831 e8aa6fffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+00496836 5f              pop     edi
+00496837 5e              pop     esi
+00496838 5b              pop     ebx
+00496839 59              pop     ecx
+0049683a 59              pop     ecx
+0049683b 5d              pop     ebp
+0049683c c3              ret
+0049683d 0000            add     byte ptr [eax],al
+0049683f 0000            add     byte ptr [eax],al
+00496841 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+00496847 53              push    ebx
+00496848 56              push    esi
+00496849 8bf0            mov     esi,eax
+0049684b 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496851 85c0            test    eax,eax
+00496853 7504            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15 (00496859)
+00496855 33c0            xor     eax,eax
+00496857 eb1e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+00496859 33c0            xor     eax,eax
+0049685b 33db            xor     ebx,ebx
+0049685d eb0e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29 (0049686d)
+0049685f 8bd3            mov     edx,ebx
+00496861 8bc6            mov     eax,esi
+00496863 e800feffff      call    ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (00496668)
+00496868 85c0            test    eax,eax
+0049686a 750b            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+0049686c 43              inc     ebx
+0049686d 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+00496873 3bd9            cmp     ebx,ecx
+00496875 7ce8            jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1b (0049685f)
+00496877 5e              pop     esi
+00496878 5b              pop     ebx
+00496879 5d              pop     ebp
+0049687a c3              ret
+0049687b 90              nop
+0049687c 55              push    ebp
+0049687d 8bec            mov     ebp,esp
+0049687f 83c4f8          add     esp,0FFFFFFF8h
+00496882 53              push    ebx
+00496883 8bd8            mov     ebx,eax
+00496885 56              push    esi
+00496886 57              push    edi
+00496887 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+0049688d 8bf2            mov     esi,edx
+0049688f 3bf0            cmp     esi,eax
+00496891 0f8f81020000    jg      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+00496897 85f6            test    esi,esi
+00496899 0f8c79020000    jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+0049689f 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004968a6 8b82e8030000    mov     eax,dword ptr [edx+3E8h]
+004968ac 83f802          cmp     eax,2
+004968af 7418            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b1 83f803          cmp     eax,3
+004968b4 7413            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b6 83f807          cmp     eax,7
+004968b9 740e            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968bb 83f809          cmp     eax,9
+004968be 7409            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968c0 83f80a          cmp     eax,0Ah
+004968c3 0f854f020000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968c9 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968cf 85c9            test    ecx,ecx
+004968d1 0f8441020000    je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968d7 83f803          cmp     eax,3
+004968da 7522            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0xba (004968fe)
+004968dc 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004968e3 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968e9 8d0401          lea     eax,[ecx+eax]
+004968ec 50              push    eax
+004968ed 59              pop     ecx
+004968ee 8a92ec030000    mov     dl,byte ptr [edx+3ECh]
+004968f4 80e2ff          and     dl,0FFh
+004968f7 8811            mov     byte ptr [ecx],dl
+004968f9 e913020000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004968fe 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496905 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+0049690b 83fa02          cmp     edx,2
+0049690e 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x115 (00496959)
+00496910 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496917 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049691d 8d0c0a          lea     ecx,[edx+ecx]
+00496920 51              push    ecx
+00496921 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+00496928 c1e808          shr     eax,8
+0049692b 5a              pop     edx
+0049692c 24ff            and     al,0FFh
+0049692e 8802            mov     byte ptr [edx],al
+00496930 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496937 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049693d 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496944 8d4c0a01        lea     ecx,[edx+ecx+1]
+00496948 51              push    ecx
+00496949 5a              pop     edx
+0049694a 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496950 24ff            and     al,0FFh
+00496952 8802            mov     byte ptr [edx],al
+00496954 e9b8010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+00496959 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496960 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+00496966 83f907          cmp     ecx,7
+00496969 7521            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x148 (0049698c)
+0049696b 0fb790f0030000  movzx   edx,word ptr [eax+3F0h]
+00496972 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496978 8d1411          lea     edx,[ecx+edx]
+0049697b 52              push    edx
+0049697c 59              pop     ecx
+0049697d 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496983 24ff            and     al,0FFh
+00496985 8801            mov     byte ptr [ecx],al
+00496987 e985010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+0049698c 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496993 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+00496999 83fa09          cmp     edx,9
+0049699c 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1a3 (004969e7)
+0049699e 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969a5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969ab 8d0c0a          lea     ecx,[edx+ecx]
+004969ae 51              push    ecx
+004969af 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+004969b6 c1e808          shr     eax,8
+004969b9 5a              pop     edx
+004969ba 24ff            and     al,0FFh
+004969bc 8802            mov     byte ptr [edx],al
+004969be 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969c5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969cb 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969d2 8d4c0a01        lea     ecx,[edx+ecx+1]
+004969d6 51              push    ecx
+004969d7 5a              pop     edx
+004969d8 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+004969de 24ff            and     al,0FFh
+004969e0 8802            mov     byte ptr [edx],al
+004969e2 e92a010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969e7 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969ee 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+004969f4 83f90a          cmp     ecx,0Ah
+004969f7 0f8514010000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969fd 0fb78818040000  movzx   ecx,word ptr [eax+418h]
+00496a04 83c1f8          add     ecx,0FFFFFFF8h
+00496a07 83f907          cmp     ecx,7
+00496a0a 0f8794000000    ja      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x260 (00496aa4)
+00496a10 ff248d176a4900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1d3 (00496a17)[ecx*4]
+00496a17 96              xchg    eax,esi
+00496a18 6a49            push    49h
+00496a1a 00886a49007a    add     byte ptr [eax+7A00496Ah],cl
+00496a20 6a49            push    49h
+00496a22 006c6a49        add     byte ptr [edx+ebp*2+49h],ch
+00496a26 005e6a          add     byte ptr [esi+6Ah],bl
+00496a29 49              dec     ecx
+00496a2a 00506a          add     byte ptr [eax+6Ah],dl
+00496a2d 49              dec     ecx
+00496a2e 00426a          add     byte ptr [edx+6Ah],al
+00496a31 49              dec     ecx
+00496a32 0037            add     byte ptr [edi],dh
+00496a34 6a49            push    49h
+00496a36 00c7            add     bh,al
+00496a38 45              inc     ebp
+00496a39 fc              cld
+00496a3a 0000            add     byte ptr [eax],al
+00496a3c 803f33          cmp     byte ptr [edi],33h
+00496a3f ff              ???
+00496a40 eb6b            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a42 c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496a49 bf01000000      mov     edi,1
+00496a4e eb5d            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a50 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+00496a57 bf02000000      mov     edi,2
+00496a5c eb4f            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a5e c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496a65 bf03000000      mov     edi,3
+00496a6a eb41            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a6c c745fc00008041  mov     dword ptr [ebp-4],41800000h
+00496a73 bf04000000      mov     edi,4
+00496a78 eb33            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a7a c745fc00000042  mov     dword ptr [ebp-4],42000000h
+00496a81 bf05000000      mov     edi,5
+00496a86 eb25            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a88 c745fc00008042  mov     dword ptr [ebp-4],42800000h
+00496a8f bf06000000      mov     edi,6
+00496a94 eb17            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a96 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+00496a9d bf07000000      mov     edi,7
+00496aa2 eb09            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496aa4 c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+00496aab 33ff            xor     edi,edi
+00496aad 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496ab4 d9800c040000    fld     dword ptr [eax+40Ch]
+00496aba d875fc          fdiv    dword ptr [ebp-4]
+00496abd d95df8          fstp    dword ptr [ebp-8]
+00496ac0 d945f8          fld     dword ptr [ebp-8]
+00496ac3 e8f8843700      call    ws7v6!Edebuginitialization$qqrv+0x1eec0 (0080efc0)
+00496ac8 8bcf            mov     ecx,edi
+00496aca 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496ad1 66d3e0          shl     ax,cl
+00496ad4 0fb792f0030000  movzx   edx,word ptr [edx+3F0h]
+00496adb 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496ae1 8d541101        lea     edx,[ecx+edx+1]
+00496ae5 8bc8            mov     ecx,eax
+00496ae7 52              push    edx
+00496ae8 80e1ff          and     cl,0FFh
+00496aeb 5a              pop     edx
+00496aec 0fb7c0          movzx   eax,ax
+00496aef 880a            mov     byte ptr [edx],cl
+00496af1 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+00496af8 c1e808          shr     eax,8
+00496afb 0fb791f0030000  movzx   edx,word ptr [ecx+3F0h]
+00496b02 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496b08 24ff            and     al,0FFh
+00496b0a 8d1411          lea     edx,[ecx+edx]
+00496b0d 52              push    edx
+00496b0e 59              pop     ecx
+00496b0f 8801            mov     byte ptr [ecx],al
+00496b11 8bc3            mov     eax,ebx
+00496b13 e814fbffff      call    ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (0049662c)
+00496b18 5f              pop     edi
+00496b19 5e              pop     esi
+00496b1a 5b              pop     ebx
+00496b1b 59              pop     ecx
+00496b1c 59              pop     ecx
+00496b1d 5d              pop     ebp
+00496b1e c3              ret
+00496b1f 0000            add     byte ptr [eax],al
+00496b21 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+00496b27 53              push    ebx
+00496b28 8bda            mov     ebx,edx
+00496b2a 83fb01          cmp     ebx,1
+00496b2d 750c            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2f7 (00496b3b)
+00496b2f 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b34 6a65            push    65h
+00496b36 e81d0c3800      call    ws7v6!Edebuginitialization$qqrv+0x27658 (00817758)
+00496b3b 83fb02          cmp     ebx,2
+00496b3e 750c            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x308 (00496b4c)
+00496b40 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b45 6a65            push    65h
+00496b47 e80c0c3800      call    ws7v6!Edebuginitialization$qqrv+0x27658 (00817758)
+00496b4c 83fb03          cmp     ebx,3
+00496b4f 750a            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x317 (00496b5b)
+00496b51 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b56 e80f0c3800      call    ws7v6!Edebuginitialization$qqrv+0x2766a (0081776a)
+00496b5b 83fb04          cmp     ebx,4
+00496b5e 7514            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x330 (00496b74)
+00496b60 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b65 e8000c3800      call    ws7v6!Edebuginitialization$qqrv+0x2766a (0081776a)
+00496b6a 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b6f e8020c3800      call    ws7v6!Edebuginitialization$qqrv+0x27676 (00817776)
+00496b74 5b              pop     ebx
+00496b75 5d              pop     ebp
+00496b76 c3              ret
+00496b77 90              nop
+ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv:
+00496b78 55              push    ebp
+00496b79 8bec            mov     ebp,esp
+00496b7b 8b90f8470000    mov     edx,dword ptr [eax+47F8h]
+00496b81 85d2            test    edx,edx
+00496b83 0f94c1          sete    cl
+00496b86 83e101          and     ecx,1
+00496b89 8988f8470000    mov     dword ptr [eax+47F8h],ecx
+00496b8f 5d              pop     ebp
+00496b90 c3              ret
+00496b91 90              nop
+00496b92 90              nop
+00496b93 90              nop
+00496b94 55              push    ebp
+00496b95 8bec            mov     ebp,esp
+00496b97 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496b9d 53              push    ebx
+00496b9e 56              push    esi
+00496b9f 57              push    edi
+00496ba0 8bd8            mov     ebx,eax
+00496ba2 b854e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b2e0 (0094e654)
+00496ba7 e82c003700      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496bac b902000000      mov     ecx,2
+00496bb1 ba01000000      mov     edx,1
+00496bb6 8bc3            mov     eax,ebx
+00496bb8 e897acffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496bbd 85c0            test    eax,eax
+00496bbf 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x87 (00496bff)
+00496bc1 8dbddcfeffff    lea     edi,[ebp-124h]
+00496bc7 be3fc29400      mov     esi,offset ws7v6!DlgPrjMem+0x38ecb (0094c23f)
+00496bcc b93f000000      mov     ecx,3Fh
+00496bd1 8d95dcfeffff    lea     edx,[ebp-124h]
+00496bd7 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496bd9 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496bdb a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496bdc 52              push    edx
+00496bdd 50              push    eax
+00496bde e8bf103800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496be3 83c408          add     esp,8
+00496be6 8d85dcfeffff    lea     eax,[ebp-124h]
+00496bec 50              push    eax
+00496bed e89e8c0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496bf2 59              pop     ecx
+00496bf3 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496bf6 64890d00000000  mov     dword ptr fs:[0],ecx
+00496bfd eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x90 (00496c08)
+00496bff 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496c02 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496c08 5f              pop     edi
+00496c09 5e              pop     esi
+00496c0a 5b              pop     ebx
+00496c0b 8be5            mov     esp,ebp
+00496c0d 5d              pop     ebp
+00496c0e c3              ret
+00496c0f 90              nop
+00496c10 55              push    ebp
+00496c11 8bec            mov     ebp,esp
+00496c13 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496c19 53              push    ebx
+00496c1a 56              push    esi
+00496c1b 57              push    edi
+00496c1c 8bd8            mov     ebx,eax
+00496c1e b86ce69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b2f8 (0094e66c)
+00496c23 e8b0ff3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496c28 b904000000      mov     ecx,4
+00496c2d ba01000000      mov     edx,1
+00496c32 8bc3            mov     eax,ebx
+00496c34 e81bacffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496c39 85c0            test    eax,eax
+00496c3b 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x103 (00496c7b)
+00496c3d 8dbddcfeffff    lea     edi,[ebp-124h]
+00496c43 be3ec39400      mov     esi,offset ws7v6!DlgPrjMem+0x38fca (0094c33e)
+00496c48 b93f000000      mov     ecx,3Fh
+00496c4d 8d95dcfeffff    lea     edx,[ebp-124h]
+00496c53 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496c55 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496c57 a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496c58 52              push    edx
+00496c59 50              push    eax
+00496c5a e843103800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496c5f 83c408          add     esp,8
+00496c62 8d85dcfeffff    lea     eax,[ebp-124h]
+00496c68 50              push    eax
+00496c69 e8228c0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496c6e 59              pop     ecx
+00496c6f 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496c72 64890d00000000  mov     dword ptr fs:[0],ecx
+00496c79 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x10c (00496c84)
+00496c7b 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496c7e 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496c84 5f              pop     edi
+00496c85 5e              pop     esi
+00496c86 5b              pop     ebx
+00496c87 8be5            mov     esp,ebp
+00496c89 5d              pop     ebp
+00496c8a c3              ret
+00496c8b 90              nop
+00496c8c 55              push    ebp
+00496c8d 8bec            mov     ebp,esp
+00496c8f 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496c95 53              push    ebx
+00496c96 56              push    esi
+00496c97 57              push    edi
+00496c98 8bd8            mov     ebx,eax
+00496c9a b884e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b310 (0094e684)
+00496c9f e834ff3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496ca4 b908000000      mov     ecx,8
+00496ca9 ba01000000      mov     edx,1
+00496cae 8bc3            mov     eax,ebx
+00496cb0 e89fabffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496cb5 85c0            test    eax,eax
+00496cb7 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x17f (00496cf7)
+00496cb9 8dbddcfeffff    lea     edi,[ebp-124h]
+00496cbf be3dc49400      mov     esi,offset ws7v6!DlgPrjMem+0x390c9 (0094c43d)
+00496cc4 b93f000000      mov     ecx,3Fh
+00496cc9 8d95dcfeffff    lea     edx,[ebp-124h]
+00496ccf f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496cd1 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496cd3 a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496cd4 52              push    edx
+00496cd5 50              push    eax
+00496cd6 e8c70f3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496cdb 83c408          add     esp,8
+00496cde 8d85dcfeffff    lea     eax,[ebp-124h]
+00496ce4 50              push    eax
+00496ce5 e8a68b0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496cea 59              pop     ecx
+00496ceb 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496cee 64890d00000000  mov     dword ptr fs:[0],ecx
+00496cf5 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x188 (00496d00)
+00496cf7 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496cfa 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496d00 5f              pop     edi
+00496d01 5e              pop     esi
+00496d02 5b              pop     ebx
+00496d03 8be5            mov     esp,ebp
+00496d05 5d              pop     ebp
+00496d06 c3              ret
+00496d07 90              nop
+00496d08 55              push    ebp
+00496d09 8bec            mov     ebp,esp
+00496d0b 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496d11 53              push    ebx
+00496d12 56              push    esi
+00496d13 57              push    edi
+00496d14 8bd8            mov     ebx,eax
+00496d16 b89ce69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b328 (0094e69c)
+00496d1b e8b8fe3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+ # ChildEBP RetAddr      Args to Child              
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e800 0049961d     0164e9e8 0164e808 00499708 ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv
+01 0164e800 00499708     0164e938 0071b563 00008195 ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2aa5
+02 0164e808 0071b563     00008195 0003088c 0164e9e8 ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2b90
+eax=113370d0 ebx=113370d0 ecx=00000003 edx=07dbcf90 esi=113370d0 edi=00008195
+eip=0049662c esp=0164e7f8 ebp=0164e800 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv:
+0049662c 55              push    ebp
+ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv:
+0049662c 55              push    ebp
+0049662d 8bec            mov     ebp,esp
+0049662f 53              push    ebx
+00496630 56              push    esi
+00496631 8bf0            mov     esi,eax
+00496633 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496639 85c0            test    eax,eax
+0049663b 7504            jne     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x15 (00496641)
+0049663d 33c0            xor     eax,eax
+0049663f eb20            jmp     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x35 (00496661)
+00496641 33db            xor     ebx,ebx
+00496643 eb10            jmp     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x29 (00496655)
+00496645 8bd3            mov     edx,ebx
+00496647 8bc6            mov     eax,esi
+00496649 e8d6fdffff      call    ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri (00496424)
+0049664e 85c0            test    eax,eax
+00496650 7402            je      ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x28 (00496654)
+00496652 eb0d            jmp     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x35 (00496661)
+00496654 43              inc     ebx
+00496655 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+0049665b 3bd9            cmp     ebx,ecx
+0049665d 7ce6            jl      ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x19 (00496645)
+0049665f 33c0            xor     eax,eax
+00496661 5e              pop     esi
+00496662 5b              pop     ebx
+00496663 5d              pop     ebp
+00496664 c3              ret
+00496665 90              nop
+00496666 90              nop
+00496667 90              nop
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri:
+00496668 55              push    ebp
+00496669 8bec            mov     ebp,esp
+0049666b 83c4f8          add     esp,0FFFFFFF8h
+0049666e 53              push    ebx
+0049666f 8bd8            mov     ebx,eax
+00496671 56              push    esi
+00496672 57              push    edi
+00496673 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+00496679 8bf2            mov     esi,edx
+0049667b 85c0            test    eax,eax
+0049667d 7507            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1e (00496686)
+0049667f 33c0            xor     eax,eax
+00496681 e9b0010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496686 3bc6            cmp     eax,esi
+00496688 7f0a            jg      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x2c (00496694)
+0049668a b86f000000      mov     eax,6Fh
+0049668f e9a2010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496694 33c0            xor     eax,eax
+00496696 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+0049669d 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+004966a3 83f904          cmp     ecx,4
+004966a6 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x45 (004966ad)
+004966a8 83f908          cmp     ecx,8
+004966ab 7546            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x8b (004966f3)
+004966ad 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004966b4 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+004966ba 0fb60401        movzx   eax,byte ptr [ecx+eax]
+004966be c1e008          shl     eax,8
+004966c1 668982ec030000  mov     word ptr [edx+3ECh],ax
+004966c8 0fb78af0030000  movzx   ecx,word ptr [edx+3F0h]
+004966cf 8b83f4470000    mov     eax,dword ptr [ebx+47F4h]
+004966d5 0fb64c0801      movzx   ecx,byte ptr [eax+ecx+1]
+004966da 6681e1ff00      and     cx,0FFh
+004966df 66018aec030000  add     word ptr [edx+3ECh],cx
+004966e6 6a01            push    1
+004966e8 33c9            xor     ecx,ecx
+004966ea 8bd6            mov     edx,esi
+004966ec 8bc3            mov     eax,ebx
+004966ee e8ed70ffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004966f3 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004966fa 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+00496700 83f90c          cmp     ecx,0Ch
+00496703 0f85f1000000    jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x192 (004967fa)
+00496709 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+00496710 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+00496716 8bbbf4470000    mov     edi,dword ptr [ebx+47F4h]
+0049671c 0fb79218040000  movzx   edx,word ptr [edx+418h]
+00496723 0fb60401        movzx   eax,byte ptr [ecx+eax]
+00496727 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+0049672e 83c2f8          add     edx,0FFFFFFF8h
+00496731 c1e008          shl     eax,8
+00496734 0fb789f0030000  movzx   ecx,word ptr [ecx+3F0h]
+0049673b 0fb64c0f01      movzx   ecx,byte ptr [edi+ecx+1]
+00496740 6681e1ff00      and     cx,0FFh
+00496745 6603c1          add     ax,cx
+00496748 83fa07          cmp     edx,7
+0049674b 776f            ja      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x154 (004967bc)
+0049674d ff249554674900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0xec (00496754)[edx*4]
+00496754 b367            mov     bl,67h
+00496756 49              dec     ecx
+00496757 00aa674900a1    add     byte ptr [edx-5EFFB699h],ch
+0049675d 6749            dec     ecx
+0049675f 00986749008f    add     byte ptr [eax-70FFB699h],bl
+00496765 6749            dec     ecx
+00496767 00866749007d    add     byte ptr [esi+7D004967h],al
+0049676d 6749            dec     ecx
+0049676f 00746749        add     byte ptr [edi+49h],dh
+00496773 00c7            add     bh,al
+00496775 45              inc     ebp
+00496776 fc              cld
+00496777 0000            add     byte ptr [eax],al
+00496779 803feb          cmp     byte ptr [edi],0EBh
+0049677c 46              inc     esi
+0049677d c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496784 eb3d            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+00496786 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+0049678d eb34            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+0049678f c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496796 eb2b            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+00496798 c745fc00008041  mov     dword ptr [ebp-4],41800000h
+0049679f eb22            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967a1 c745fc00000042  mov     dword ptr [ebp-4],42000000h
+004967a8 eb19            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967aa c745fc00008042  mov     dword ptr [ebp-4],42800000h
+004967b1 eb10            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967b3 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+004967ba eb07            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967bc c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+004967c3 668945f8        mov     word ptr [ebp-8],ax
+004967c7 33c9            xor     ecx,ecx
+004967c9 df45f8          fild    word ptr [ebp-8]
+004967cc 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004967d3 d99a0c040000    fstp    dword ptr [edx+40Ch]
+004967d9 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004967e0 d9800c040000    fld     dword ptr [eax+40Ch]
+004967e6 d875fc          fdiv    dword ptr [ebp-4]
+004967e9 d99a0c040000    fstp    dword ptr [edx+40Ch]
+004967ef 8bd6            mov     edx,esi
+004967f1 6a01            push    1
+004967f3 8bc3            mov     eax,ebx
+004967f5 e8e66fffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004967fa 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496801 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+00496807 83f905          cmp     ecx,5
+0049680a 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1a9 (00496811)
+0049680c 83f906          cmp     ecx,6
+0049680f 7525            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496811 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+00496818 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+0049681e 0fb60401        movzx   eax,byte ptr [ecx+eax]
+00496822 668982ec030000  mov     word ptr [edx+3ECh],ax
+00496829 6a01            push    1
+0049682b 33c9            xor     ecx,ecx
+0049682d 8bd6            mov     edx,esi
+0049682f 8bc3            mov     eax,ebx
+00496831 e8aa6fffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+00496836 5f              pop     edi
+00496837 5e              pop     esi
+00496838 5b              pop     ebx
+00496839 59              pop     ecx
+0049683a 59              pop     ecx
+0049683b 5d              pop     ebp
+0049683c c3              ret
+0049683d 0000            add     byte ptr [eax],al
+0049683f 0000            add     byte ptr [eax],al
+00496841 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+00496847 53              push    ebx
+00496848 56              push    esi
+00496849 8bf0            mov     esi,eax
+0049684b 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496851 85c0            test    eax,eax
+00496853 7504            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15 (00496859)
+00496855 33c0            xor     eax,eax
+00496857 eb1e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+00496859 33c0            xor     eax,eax
+0049685b 33db            xor     ebx,ebx
+0049685d eb0e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29 (0049686d)
+0049685f 8bd3            mov     edx,ebx
+00496861 8bc6            mov     eax,esi
+00496863 e800feffff      call    ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (00496668)
+00496868 85c0            test    eax,eax
+0049686a 750b            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+0049686c 43              inc     ebx
+0049686d 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+00496873 3bd9            cmp     ebx,ecx
+00496875 7ce8            jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1b (0049685f)
+00496877 5e              pop     esi
+00496878 5b              pop     ebx
+00496879 5d              pop     ebp
+0049687a c3              ret
+0049687b 90              nop
+0049687c 55              push    ebp
+0049687d 8bec            mov     ebp,esp
+0049687f 83c4f8          add     esp,0FFFFFFF8h
+00496882 53              push    ebx
+00496883 8bd8            mov     ebx,eax
+00496885 56              push    esi
+00496886 57              push    edi
+00496887 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+0049688d 8bf2            mov     esi,edx
+0049688f 3bf0            cmp     esi,eax
+00496891 0f8f81020000    jg      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+00496897 85f6            test    esi,esi
+00496899 0f8c79020000    jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+0049689f 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004968a6 8b82e8030000    mov     eax,dword ptr [edx+3E8h]
+004968ac 83f802          cmp     eax,2
+004968af 7418            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b1 83f803          cmp     eax,3
+004968b4 7413            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b6 83f807          cmp     eax,7
+004968b9 740e            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968bb 83f809          cmp     eax,9
+004968be 7409            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968c0 83f80a          cmp     eax,0Ah
+004968c3 0f854f020000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968c9 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968cf 85c9            test    ecx,ecx
+004968d1 0f8441020000    je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968d7 83f803          cmp     eax,3
+004968da 7522            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0xba (004968fe)
+004968dc 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004968e3 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968e9 8d0401          lea     eax,[ecx+eax]
+004968ec 50              push    eax
+004968ed 59              pop     ecx
+004968ee 8a92ec030000    mov     dl,byte ptr [edx+3ECh]
+004968f4 80e2ff          and     dl,0FFh
+004968f7 8811            mov     byte ptr [ecx],dl
+004968f9 e913020000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004968fe 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496905 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+0049690b 83fa02          cmp     edx,2
+0049690e 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x115 (00496959)
+00496910 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496917 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049691d 8d0c0a          lea     ecx,[edx+ecx]
+00496920 51              push    ecx
+00496921 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+00496928 c1e808          shr     eax,8
+0049692b 5a              pop     edx
+0049692c 24ff            and     al,0FFh
+0049692e 8802            mov     byte ptr [edx],al
+00496930 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496937 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049693d 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496944 8d4c0a01        lea     ecx,[edx+ecx+1]
+00496948 51              push    ecx
+00496949 5a              pop     edx
+0049694a 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496950 24ff            and     al,0FFh
+00496952 8802            mov     byte ptr [edx],al
+00496954 e9b8010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+00496959 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496960 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+00496966 83f907          cmp     ecx,7
+00496969 7521            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x148 (0049698c)
+0049696b 0fb790f0030000  movzx   edx,word ptr [eax+3F0h]
+00496972 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496978 8d1411          lea     edx,[ecx+edx]
+0049697b 52              push    edx
+0049697c 59              pop     ecx
+0049697d 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496983 24ff            and     al,0FFh
+00496985 8801            mov     byte ptr [ecx],al
+00496987 e985010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+0049698c 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496993 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+00496999 83fa09          cmp     edx,9
+0049699c 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1a3 (004969e7)
+0049699e 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969a5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969ab 8d0c0a          lea     ecx,[edx+ecx]
+004969ae 51              push    ecx
+004969af 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+004969b6 c1e808          shr     eax,8
+004969b9 5a              pop     edx
+004969ba 24ff            and     al,0FFh
+004969bc 8802            mov     byte ptr [edx],al
+004969be 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969c5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969cb 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969d2 8d4c0a01        lea     ecx,[edx+ecx+1]
+004969d6 51              push    ecx
+004969d7 5a              pop     edx
+004969d8 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+004969de 24ff            and     al,0FFh
+004969e0 8802            mov     byte ptr [edx],al
+004969e2 e92a010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969e7 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969ee 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+004969f4 83f90a          cmp     ecx,0Ah
+004969f7 0f8514010000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969fd 0fb78818040000  movzx   ecx,word ptr [eax+418h]
+00496a04 83c1f8          add     ecx,0FFFFFFF8h
+00496a07 83f907          cmp     ecx,7
+00496a0a 0f8794000000    ja      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x260 (00496aa4)
+00496a10 ff248d176a4900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1d3 (00496a17)[ecx*4]
+00496a17 96              xchg    eax,esi
+00496a18 6a49            push    49h
+00496a1a 00886a49007a    add     byte ptr [eax+7A00496Ah],cl
+00496a20 6a49            push    49h
+00496a22 006c6a49        add     byte ptr [edx+ebp*2+49h],ch
+00496a26 005e6a          add     byte ptr [esi+6Ah],bl
+00496a29 49              dec     ecx
+00496a2a 00506a          add     byte ptr [eax+6Ah],dl
+00496a2d 49              dec     ecx
+00496a2e 00426a          add     byte ptr [edx+6Ah],al
+00496a31 49              dec     ecx
+00496a32 0037            add     byte ptr [edi],dh
+00496a34 6a49            push    49h
+00496a36 00c7            add     bh,al
+00496a38 45              inc     ebp
+00496a39 fc              cld
+00496a3a 0000            add     byte ptr [eax],al
+00496a3c 803f33          cmp     byte ptr [edi],33h
+00496a3f ff              ???
+00496a40 eb6b            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a42 c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496a49 bf01000000      mov     edi,1
+00496a4e eb5d            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a50 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+00496a57 bf02000000      mov     edi,2
+00496a5c eb4f            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a5e c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496a65 bf03000000      mov     edi,3
+00496a6a eb41            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a6c c745fc00008041  mov     dword ptr [ebp-4],41800000h
+00496a73 bf04000000      mov     edi,4
+00496a78 eb33            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a7a c745fc00000042  mov     dword ptr [ebp-4],42000000h
+00496a81 bf05000000      mov     edi,5
+00496a86 eb25            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a88 c745fc00008042  mov     dword ptr [ebp-4],42800000h
+00496a8f bf06000000      mov     edi,6
+00496a94 eb17            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a96 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+00496a9d bf07000000      mov     edi,7
+00496aa2 eb09            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496aa4 c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+00496aab 33ff            xor     edi,edi
+00496aad 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496ab4 d9800c040000    fld     dword ptr [eax+40Ch]
+00496aba d875fc          fdiv    dword ptr [ebp-4]
+00496abd d95df8          fstp    dword ptr [ebp-8]
+00496ac0 d945f8          fld     dword ptr [ebp-8]
+00496ac3 e8f8843700      call    ws7v6!Edebuginitialization$qqrv+0x1eec0 (0080efc0)
+00496ac8 8bcf            mov     ecx,edi
+00496aca 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496ad1 66d3e0          shl     ax,cl
+00496ad4 0fb792f0030000  movzx   edx,word ptr [edx+3F0h]
+00496adb 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496ae1 8d541101        lea     edx,[ecx+edx+1]
+00496ae5 8bc8            mov     ecx,eax
+00496ae7 52              push    edx
+00496ae8 80e1ff          and     cl,0FFh
+00496aeb 5a              pop     edx
+00496aec 0fb7c0          movzx   eax,ax
+00496aef 880a            mov     byte ptr [edx],cl
+00496af1 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+00496af8 c1e808          shr     eax,8
+00496afb 0fb791f0030000  movzx   edx,word ptr [ecx+3F0h]
+00496b02 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496b08 24ff            and     al,0FFh
+00496b0a 8d1411          lea     edx,[ecx+edx]
+00496b0d 52              push    edx
+00496b0e 59              pop     ecx
+00496b0f 8801            mov     byte ptr [ecx],al
+00496b11 8bc3            mov     eax,ebx
+00496b13 e814fbffff      call    ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (0049662c)
+00496b18 5f              pop     edi
+00496b19 5e              pop     esi
+00496b1a 5b              pop     ebx
+00496b1b 59              pop     ecx
+00496b1c 59              pop     ecx
+00496b1d 5d              pop     ebp
+00496b1e c3              ret
+00496b1f 0000            add     byte ptr [eax],al
+00496b21 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+00496b27 53              push    ebx
+00496b28 8bda            mov     ebx,edx
+00496b2a 83fb01          cmp     ebx,1
+00496b2d 750c            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2f7 (00496b3b)
+00496b2f 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b34 6a65            push    65h
+00496b36 e81d0c3800      call    ws7v6!Edebuginitialization$qqrv+0x27658 (00817758)
+00496b3b 83fb02          cmp     ebx,2
+00496b3e 750c            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x308 (00496b4c)
+00496b40 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b45 6a65            push    65h
+00496b47 e80c0c3800      call    ws7v6!Edebuginitialization$qqrv+0x27658 (00817758)
+00496b4c 83fb03          cmp     ebx,3
+00496b4f 750a            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x317 (00496b5b)
+00496b51 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b56 e80f0c3800      call    ws7v6!Edebuginitialization$qqrv+0x2766a (0081776a)
+00496b5b 83fb04          cmp     ebx,4
+00496b5e 7514            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x330 (00496b74)
+00496b60 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b65 e8000c3800      call    ws7v6!Edebuginitialization$qqrv+0x2766a (0081776a)
+00496b6a 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b6f e8020c3800      call    ws7v6!Edebuginitialization$qqrv+0x27676 (00817776)
+00496b74 5b              pop     ebx
+00496b75 5d              pop     ebp
+00496b76 c3              ret
+00496b77 90              nop
+ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv:
+00496b78 55              push    ebp
+00496b79 8bec            mov     ebp,esp
+00496b7b 8b90f8470000    mov     edx,dword ptr [eax+47F8h]
+00496b81 85d2            test    edx,edx
+00496b83 0f94c1          sete    cl
+00496b86 83e101          and     ecx,1
+00496b89 8988f8470000    mov     dword ptr [eax+47F8h],ecx
+00496b8f 5d              pop     ebp
+00496b90 c3              ret
+00496b91 90              nop
+00496b92 90              nop
+00496b93 90              nop
+00496b94 55              push    ebp
+00496b95 8bec            mov     ebp,esp
+00496b97 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496b9d 53              push    ebx
+00496b9e 56              push    esi
+00496b9f 57              push    edi
+00496ba0 8bd8            mov     ebx,eax
+00496ba2 b854e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b2e0 (0094e654)
+00496ba7 e82c003700      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496bac b902000000      mov     ecx,2
+00496bb1 ba01000000      mov     edx,1
+00496bb6 8bc3            mov     eax,ebx
+00496bb8 e897acffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496bbd 85c0            test    eax,eax
+00496bbf 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x87 (00496bff)
+00496bc1 8dbddcfeffff    lea     edi,[ebp-124h]
+00496bc7 be3fc29400      mov     esi,offset ws7v6!DlgPrjMem+0x38ecb (0094c23f)
+00496bcc b93f000000      mov     ecx,3Fh
+00496bd1 8d95dcfeffff    lea     edx,[ebp-124h]
+00496bd7 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496bd9 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496bdb a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496bdc 52              push    edx
+00496bdd 50              push    eax
+00496bde e8bf103800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496be3 83c408          add     esp,8
+00496be6 8d85dcfeffff    lea     eax,[ebp-124h]
+00496bec 50              push    eax
+00496bed e89e8c0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496bf2 59              pop     ecx
+00496bf3 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496bf6 64890d00000000  mov     dword ptr fs:[0],ecx
+00496bfd eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x90 (00496c08)
+00496bff 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496c02 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496c08 5f              pop     edi
+00496c09 5e              pop     esi
+00496c0a 5b              pop     ebx
+00496c0b 8be5            mov     esp,ebp
+00496c0d 5d              pop     ebp
+00496c0e c3              ret
+00496c0f 90              nop
+00496c10 55              push    ebp
+00496c11 8bec            mov     ebp,esp
+00496c13 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496c19 53              push    ebx
+00496c1a 56              push    esi
+00496c1b 57              push    edi
+00496c1c 8bd8            mov     ebx,eax
+00496c1e b86ce69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b2f8 (0094e66c)
+00496c23 e8b0ff3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496c28 b904000000      mov     ecx,4
+00496c2d ba01000000      mov     edx,1
+00496c32 8bc3            mov     eax,ebx
+00496c34 e81bacffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496c39 85c0            test    eax,eax
+00496c3b 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x103 (00496c7b)
+00496c3d 8dbddcfeffff    lea     edi,[ebp-124h]
+00496c43 be3ec39400      mov     esi,offset ws7v6!DlgPrjMem+0x38fca (0094c33e)
+00496c48 b93f000000      mov     ecx,3Fh
+00496c4d 8d95dcfeffff    lea     edx,[ebp-124h]
+00496c53 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496c55 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496c57 a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496c58 52              push    edx
+00496c59 50              push    eax
+00496c5a e843103800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496c5f 83c408          add     esp,8
+00496c62 8d85dcfeffff    lea     eax,[ebp-124h]
+00496c68 50              push    eax
+00496c69 e8228c0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496c6e 59              pop     ecx
+00496c6f 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496c72 64890d00000000  mov     dword ptr fs:[0],ecx
+00496c79 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x10c (00496c84)
+00496c7b 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496c7e 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496c84 5f              pop     edi
+00496c85 5e              pop     esi
+00496c86 5b              pop     ebx
+00496c87 8be5            mov     esp,ebp
+00496c89 5d              pop     ebp
+00496c8a c3              ret
+00496c8b 90              nop
+00496c8c 55              push    ebp
+00496c8d 8bec            mov     ebp,esp
+00496c8f 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496c95 53              push    ebx
+00496c96 56              push    esi
+00496c97 57              push    edi
+00496c98 8bd8            mov     ebx,eax
+00496c9a b884e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b310 (0094e684)
+00496c9f e834ff3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496ca4 b908000000      mov     ecx,8
+00496ca9 ba01000000      mov     edx,1
+00496cae 8bc3            mov     eax,ebx
+00496cb0 e89fabffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496cb5 85c0            test    eax,eax
+00496cb7 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x17f (00496cf7)
+00496cb9 8dbddcfeffff    lea     edi,[ebp-124h]
+00496cbf be3dc49400      mov     esi,offset ws7v6!DlgPrjMem+0x390c9 (0094c43d)
+00496cc4 b93f000000      mov     ecx,3Fh
+00496cc9 8d95dcfeffff    lea     edx,[ebp-124h]
+00496ccf f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496cd1 66a5            movs    word ptr es:[edi],word ptr [esi]
+ # ChildEBP RetAddr      Args to Child              
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e7f4 0049664e     113370d0 113370d0 0164e800 ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri
+01 0164e7f4 0049961d     0164e9e8 0164e808 00499708 ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x22
+02 0164e800 00499708     0164e938 0071b563 00008195 ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2aa5
+eax=113370d0 ebx=00000000 ecx=00000003 edx=00000000 esi=113370d0 edi=00008195
+eip=00496424 esp=0164e7e8 ebp=0164e7f4 iopl=0         nv up ei ng nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000293
+ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri:
+00496424 55              push    ebp
+ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri:
+00496424 55              push    ebp
+00496425 8bec            mov     ebp,esp
+00496427 83c4f4          add     esp,0FFFFFFF4h
+0049642a 53              push    ebx
+0049642b 8bd8            mov     ebx,eax
+0049642d 56              push    esi
+0049642e 57              push    edi
+0049642f 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+00496435 8bf2            mov     esi,edx
+00496437 85c0            test    eax,eax
+00496439 7507            jne     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x1e (00496442)
+0049643b 33c0            xor     eax,eax
+0049643d e9df010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x1fd (00496621)
+00496442 3bc6            cmp     eax,esi
+00496444 7f0a            jg      ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x2c (00496450)
+00496446 b86f000000      mov     eax,6Fh
+0049644b e9d1010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x1fd (00496621)
+00496450 33d2            xor     edx,edx
+00496452 8955fc          mov     dword ptr [ebp-4],edx
+00496455 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+0049645c 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+00496462 83fa02          cmp     edx,2
+00496465 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x48 (0049646c)
+00496467 83fa09          cmp     edx,9
+0049646a 7549            jne     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x91 (004964b5)
+0049646c 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496473 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+00496479 0fb60c0a        movzx   ecx,byte ptr [edx+ecx]
+0049647d c1e108          shl     ecx,8
+00496480 668988ec030000  mov     word ptr [eax+3ECh],cx
+00496487 0fb790f0030000  movzx   edx,word ptr [eax+3F0h]
+0049648e 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496494 0fb6541101      movzx   edx,byte ptr [ecx+edx+1]
+00496499 6681e2ff00      and     dx,0FFh
+0049649e 660190ec030000  add     word ptr [eax+3ECh],dx
+004964a5 6a00            push    0
+004964a7 33c9            xor     ecx,ecx
+004964a9 8bd6            mov     edx,esi
+004964ab 8bc3            mov     eax,ebx
+004964ad e82e73ffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004964b2 8945fc          mov     dword ptr [ebp-4],eax
+004964b5 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004964bc 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+004964c2 83fa0a          cmp     edx,0Ah
+004964c5 0f8514010000    jne     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x1bb (004965df)
+004964cb 0fb78818040000  movzx   ecx,word ptr [eax+418h]
+004964d2 83c1f8          add     ecx,0FFFFFFF8h
+004964d5 83f907          cmp     ecx,7
+004964d8 0f8794000000    ja      ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x14e (00496572)
+004964de ff248de5644900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0xc1 (004964e5)[ecx*4]
+004964e5 64              ???
+004964e6 6549            dec     ecx
+004964e8 005665          add     byte ptr [esi+65h],dl
+004964eb 49              dec     ecx
+004964ec 004865          add     byte ptr [eax+65h],cl
+004964ef 49              dec     ecx
+004964f0 003a            add     byte ptr [edx],bh
+004964f2 6549            dec     ecx
+004964f4 002c6549001e65  add     byte ptr ds:[651E0049h],ch
+004964fb 49              dec     ecx
+004964fc 0010            add     byte ptr [eax],dl
+004964fe 6549            dec     ecx
+00496500 0005654900c7    add     byte ptr ds:[0C7004965h],al
+00496506 45              inc     ebp
+00496507 f8              clc
+00496508 0000            add     byte ptr [eax],al
+0049650a 803f33          cmp     byte ptr [edi],33h
+0049650d ff              ???
+0049650e eb6b            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+00496510 c745f800000040  mov     dword ptr [ebp-8],40000000h
+00496517 bf01000000      mov     edi,1
+0049651c eb5d            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+0049651e c745f800008040  mov     dword ptr [ebp-8],40800000h
+00496525 bf02000000      mov     edi,2
+0049652a eb4f            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+0049652c c745f800000041  mov     dword ptr [ebp-8],41000000h
+00496533 bf03000000      mov     edi,3
+00496538 eb41            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+0049653a c745f800008041  mov     dword ptr [ebp-8],41800000h
+00496541 bf04000000      mov     edi,4
+00496546 eb33            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+00496548 c745f800000042  mov     dword ptr [ebp-8],42000000h
+0049654f bf05000000      mov     edi,5
+00496554 eb25            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+00496556 c745f800008042  mov     dword ptr [ebp-8],42800000h
+0049655d bf06000000      mov     edi,6
+00496562 eb17            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+00496564 c745f800000043  mov     dword ptr [ebp-8],43000000h
+0049656b bf07000000      mov     edi,7
+00496570 eb09            jmp     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x157 (0049657b)
+00496572 c745f80000803f  mov     dword ptr [ebp-8],3F800000h
+00496579 33ff            xor     edi,edi
+0049657b 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496582 d9800c040000    fld     dword ptr [eax+40Ch]
+00496588 d875f8          fdiv    dword ptr [ebp-8]
+0049658b d95df4          fstp    dword ptr [ebp-0Ch]
+0049658e d945f4          fld     dword ptr [ebp-0Ch]
+00496591 e82a8a3700      call    ws7v6!Edebuginitialization$qqrv+0x1eec0 (0080efc0)
+00496596 8bcf            mov     ecx,edi
+00496598 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+0049659f 66d3e0          shl     ax,cl
+004965a2 0fb792f0030000  movzx   edx,word ptr [edx+3F0h]
+004965a9 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004965af 8d541101        lea     edx,[ecx+edx+1]
+004965b3 8bc8            mov     ecx,eax
+004965b5 52              push    edx
+004965b6 80e1ff          and     cl,0FFh
+004965b9 5a              pop     edx
+004965ba 0fb7c0          movzx   eax,ax
+004965bd 880a            mov     byte ptr [edx],cl
+004965bf 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+004965c6 c1e808          shr     eax,8
+004965c9 0fb791f0030000  movzx   edx,word ptr [ecx+3F0h]
+004965d0 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004965d6 24ff            and     al,0FFh
+004965d8 8d1411          lea     edx,[ecx+edx]
+004965db 52              push    edx
+004965dc 59              pop     ecx
+004965dd 8801            mov     byte ptr [ecx],al
+004965df 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004965e6 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+004965ec 83fa03          cmp     edx,3
+004965ef 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x1d2 (004965f6)
+004965f1 83fa07          cmp     edx,7
+004965f4 7528            jne     ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri+0x1fa (0049661e)
+004965f6 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004965fd 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+00496603 0fb60c0a        movzx   ecx,byte ptr [edx+ecx]
+00496607 668988ec030000  mov     word ptr [eax+3ECh],cx
+0049660e 6a00            push    0
+00496610 33c9            xor     ecx,ecx
+00496612 8bd6            mov     edx,esi
+00496614 8bc3            mov     eax,ebx
+00496616 e8c571ffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+0049661b 8945fc          mov     dword ptr [ebp-4],eax
+0049661e 8b45fc          mov     eax,dword ptr [ebp-4]
+00496621 5f              pop     edi
+00496622 5e              pop     esi
+00496623 5b              pop     ebx
+00496624 8be5            mov     esp,ebp
+00496626 5d              pop     ebp
+00496627 c3              ret
+00496628 0000            add     byte ptr [eax],al
+0049662a 803f55          cmp     byte ptr [edi],55h
+0049662d 8bec            mov     ebp,esp
+0049662f 53              push    ebx
+00496630 56              push    esi
+00496631 8bf0            mov     esi,eax
+00496633 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496639 85c0            test    eax,eax
+0049663b 7504            jne     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x15 (00496641)
+0049663d 33c0            xor     eax,eax
+0049663f eb20            jmp     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x35 (00496661)
+00496641 33db            xor     ebx,ebx
+00496643 eb10            jmp     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x29 (00496655)
+00496645 8bd3            mov     edx,ebx
+00496647 8bc6            mov     eax,esi
+00496649 e8d6fdffff      call    ws7v6!TMaskeMainWinRefreshEinzelneEingabeBaugruppe$qqri (00496424)
+0049664e 85c0            test    eax,eax
+00496650 7402            je      ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x28 (00496654)
+00496652 eb0d            jmp     ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x35 (00496661)
+00496654 43              inc     ebx
+00496655 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+0049665b 3bd9            cmp     ebx,ecx
+0049665d 7ce6            jl      ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv+0x19 (00496645)
+0049665f 33c0            xor     eax,eax
+00496661 5e              pop     esi
+00496662 5b              pop     ebx
+00496663 5d              pop     ebp
+00496664 c3              ret
+00496665 90              nop
+00496666 90              nop
+00496667 90              nop
+ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri:
+00496668 55              push    ebp
+00496669 8bec            mov     ebp,esp
+0049666b 83c4f8          add     esp,0FFFFFFF8h
+0049666e 53              push    ebx
+0049666f 8bd8            mov     ebx,eax
+00496671 56              push    esi
+00496672 57              push    edi
+00496673 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+00496679 8bf2            mov     esi,edx
+0049667b 85c0            test    eax,eax
+0049667d 7507            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1e (00496686)
+0049667f 33c0            xor     eax,eax
+00496681 e9b0010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496686 3bc6            cmp     eax,esi
+00496688 7f0a            jg      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x2c (00496694)
+0049668a b86f000000      mov     eax,6Fh
+0049668f e9a2010000      jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496694 33c0            xor     eax,eax
+00496696 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+0049669d 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+004966a3 83f904          cmp     ecx,4
+004966a6 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x45 (004966ad)
+004966a8 83f908          cmp     ecx,8
+004966ab 7546            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x8b (004966f3)
+004966ad 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004966b4 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+004966ba 0fb60401        movzx   eax,byte ptr [ecx+eax]
+004966be c1e008          shl     eax,8
+004966c1 668982ec030000  mov     word ptr [edx+3ECh],ax
+004966c8 0fb78af0030000  movzx   ecx,word ptr [edx+3F0h]
+004966cf 8b83f4470000    mov     eax,dword ptr [ebx+47F4h]
+004966d5 0fb64c0801      movzx   ecx,byte ptr [eax+ecx+1]
+004966da 6681e1ff00      and     cx,0FFh
+004966df 66018aec030000  add     word ptr [edx+3ECh],cx
+004966e6 6a01            push    1
+004966e8 33c9            xor     ecx,ecx
+004966ea 8bd6            mov     edx,esi
+004966ec 8bc3            mov     eax,ebx
+004966ee e8ed70ffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004966f3 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004966fa 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+00496700 83f90c          cmp     ecx,0Ch
+00496703 0f85f1000000    jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x192 (004967fa)
+00496709 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+00496710 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+00496716 8bbbf4470000    mov     edi,dword ptr [ebx+47F4h]
+0049671c 0fb79218040000  movzx   edx,word ptr [edx+418h]
+00496723 0fb60401        movzx   eax,byte ptr [ecx+eax]
+00496727 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+0049672e 83c2f8          add     edx,0FFFFFFF8h
+00496731 c1e008          shl     eax,8
+00496734 0fb789f0030000  movzx   ecx,word ptr [ecx+3F0h]
+0049673b 0fb64c0f01      movzx   ecx,byte ptr [edi+ecx+1]
+00496740 6681e1ff00      and     cx,0FFh
+00496745 6603c1          add     ax,cx
+00496748 83fa07          cmp     edx,7
+0049674b 776f            ja      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x154 (004967bc)
+0049674d ff249554674900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0xec (00496754)[edx*4]
+00496754 b367            mov     bl,67h
+00496756 49              dec     ecx
+00496757 00aa674900a1    add     byte ptr [edx-5EFFB699h],ch
+0049675d 6749            dec     ecx
+0049675f 00986749008f    add     byte ptr [eax-70FFB699h],bl
+00496765 6749            dec     ecx
+00496767 00866749007d    add     byte ptr [esi+7D004967h],al
+0049676d 6749            dec     ecx
+0049676f 00746749        add     byte ptr [edi+49h],dh
+00496773 00c7            add     bh,al
+00496775 45              inc     ebp
+00496776 fc              cld
+00496777 0000            add     byte ptr [eax],al
+00496779 803feb          cmp     byte ptr [edi],0EBh
+0049677c 46              inc     esi
+0049677d c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496784 eb3d            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+00496786 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+0049678d eb34            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+0049678f c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496796 eb2b            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+00496798 c745fc00008041  mov     dword ptr [ebp-4],41800000h
+0049679f eb22            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967a1 c745fc00000042  mov     dword ptr [ebp-4],42000000h
+004967a8 eb19            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967aa c745fc00008042  mov     dword ptr [ebp-4],42800000h
+004967b1 eb10            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967b3 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+004967ba eb07            jmp     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x15b (004967c3)
+004967bc c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+004967c3 668945f8        mov     word ptr [ebp-8],ax
+004967c7 33c9            xor     ecx,ecx
+004967c9 df45f8          fild    word ptr [ebp-8]
+004967cc 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004967d3 d99a0c040000    fstp    dword ptr [edx+40Ch]
+004967d9 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004967e0 d9800c040000    fld     dword ptr [eax+40Ch]
+004967e6 d875fc          fdiv    dword ptr [ebp-4]
+004967e9 d99a0c040000    fstp    dword ptr [edx+40Ch]
+004967ef 8bd6            mov     edx,esi
+004967f1 6a01            push    1
+004967f3 8bc3            mov     eax,ebx
+004967f5 e8e66fffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+004967fa 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496801 8b8ae8030000    mov     ecx,dword ptr [edx+3E8h]
+00496807 83f905          cmp     ecx,5
+0049680a 7405            je      ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1a9 (00496811)
+0049680c 83f906          cmp     ecx,6
+0049680f 7525            jne     ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri+0x1ce (00496836)
+00496811 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+00496818 8b8bf4470000    mov     ecx,dword ptr [ebx+47F4h]
+0049681e 0fb60401        movzx   eax,byte ptr [ecx+eax]
+00496822 668982ec030000  mov     word ptr [edx+3ECh],ax
+00496829 6a01            push    1
+0049682b 33c9            xor     ecx,ecx
+0049682d 8bd6            mov     edx,esi
+0049682f 8bc3            mov     eax,ebx
+00496831 e8aa6fffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2bcc (0048d7e0)
+00496836 5f              pop     edi
+00496837 5e              pop     esi
+00496838 5b              pop     ebx
+00496839 59              pop     ecx
+0049683a 59              pop     ecx
+0049683b 5d              pop     ebp
+0049683c c3              ret
+0049683d 0000            add     byte ptr [eax],al
+0049683f 0000            add     byte ptr [eax],al
+00496841 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+00496847 53              push    ebx
+00496848 56              push    esi
+00496849 8bf0            mov     esi,eax
+0049684b 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496851 85c0            test    eax,eax
+00496853 7504            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15 (00496859)
+00496855 33c0            xor     eax,eax
+00496857 eb1e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+00496859 33c0            xor     eax,eax
+0049685b 33db            xor     ebx,ebx
+0049685d eb0e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29 (0049686d)
+0049685f 8bd3            mov     edx,ebx
+00496861 8bc6            mov     eax,esi
+00496863 e800feffff      call    ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (00496668)
+00496868 85c0            test    eax,eax
+0049686a 750b            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+0049686c 43              inc     ebx
+0049686d 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+00496873 3bd9            cmp     ebx,ecx
+00496875 7ce8            jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1b (0049685f)
+00496877 5e              pop     esi
+00496878 5b              pop     ebx
+00496879 5d              pop     ebp
+0049687a c3              ret
+0049687b 90              nop
+0049687c 55              push    ebp
+0049687d 8bec            mov     ebp,esp
+0049687f 83c4f8          add     esp,0FFFFFFF8h
+00496882 53              push    ebx
+00496883 8bd8            mov     ebx,eax
+00496885 56              push    esi
+00496886 57              push    edi
+00496887 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+0049688d 8bf2            mov     esi,edx
+0049688f 3bf0            cmp     esi,eax
+00496891 0f8f81020000    jg      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+00496897 85f6            test    esi,esi
+00496899 0f8c79020000    jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+0049689f 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004968a6 8b82e8030000    mov     eax,dword ptr [edx+3E8h]
+004968ac 83f802          cmp     eax,2
+004968af 7418            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b1 83f803          cmp     eax,3
+004968b4 7413            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b6 83f807          cmp     eax,7
+004968b9 740e            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968bb 83f809          cmp     eax,9
+004968be 7409            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968c0 83f80a          cmp     eax,0Ah
+004968c3 0f854f020000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968c9 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968cf 85c9            test    ecx,ecx
+004968d1 0f8441020000    je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968d7 83f803          cmp     eax,3
+004968da 7522            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0xba (004968fe)
+004968dc 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004968e3 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968e9 8d0401          lea     eax,[ecx+eax]
+004968ec 50              push    eax
+004968ed 59              pop     ecx
+004968ee 8a92ec030000    mov     dl,byte ptr [edx+3ECh]
+004968f4 80e2ff          and     dl,0FFh
+004968f7 8811            mov     byte ptr [ecx],dl
+004968f9 e913020000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004968fe 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496905 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+0049690b 83fa02          cmp     edx,2
+0049690e 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x115 (00496959)
+00496910 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496917 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049691d 8d0c0a          lea     ecx,[edx+ecx]
+00496920 51              push    ecx
+00496921 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+00496928 c1e808          shr     eax,8
+0049692b 5a              pop     edx
+0049692c 24ff            and     al,0FFh
+0049692e 8802            mov     byte ptr [edx],al
+00496930 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496937 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049693d 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496944 8d4c0a01        lea     ecx,[edx+ecx+1]
+00496948 51              push    ecx
+00496949 5a              pop     edx
+0049694a 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496950 24ff            and     al,0FFh
+00496952 8802            mov     byte ptr [edx],al
+00496954 e9b8010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+00496959 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496960 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+00496966 83f907          cmp     ecx,7
+00496969 7521            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x148 (0049698c)
+0049696b 0fb790f0030000  movzx   edx,word ptr [eax+3F0h]
+00496972 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496978 8d1411          lea     edx,[ecx+edx]
+0049697b 52              push    edx
+0049697c 59              pop     ecx
+0049697d 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496983 24ff            and     al,0FFh
+00496985 8801            mov     byte ptr [ecx],al
+00496987 e985010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+0049698c 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496993 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+00496999 83fa09          cmp     edx,9
+0049699c 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1a3 (004969e7)
+0049699e 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969a5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969ab 8d0c0a          lea     ecx,[edx+ecx]
+004969ae 51              push    ecx
+004969af 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+004969b6 c1e808          shr     eax,8
+004969b9 5a              pop     edx
+004969ba 24ff            and     al,0FFh
+004969bc 8802            mov     byte ptr [edx],al
+004969be 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969c5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969cb 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969d2 8d4c0a01        lea     ecx,[edx+ecx+1]
+004969d6 51              push    ecx
+004969d7 5a              pop     edx
+004969d8 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+004969de 24ff            and     al,0FFh
+004969e0 8802            mov     byte ptr [edx],al
+004969e2 e92a010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969e7 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969ee 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+004969f4 83f90a          cmp     ecx,0Ah
+004969f7 0f8514010000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969fd 0fb78818040000  movzx   ecx,word ptr [eax+418h]
+00496a04 83c1f8          add     ecx,0FFFFFFF8h
+00496a07 83f907          cmp     ecx,7
+00496a0a 0f8794000000    ja      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x260 (00496aa4)
+00496a10 ff248d176a4900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1d3 (00496a17)[ecx*4]
+00496a17 96              xchg    eax,esi
+00496a18 6a49            push    49h
+00496a1a 00886a49007a    add     byte ptr [eax+7A00496Ah],cl
+00496a20 6a49            push    49h
+00496a22 006c6a49        add     byte ptr [edx+ebp*2+49h],ch
+00496a26 005e6a          add     byte ptr [esi+6Ah],bl
+00496a29 49              dec     ecx
+00496a2a 00506a          add     byte ptr [eax+6Ah],dl
+00496a2d 49              dec     ecx
+00496a2e 00426a          add     byte ptr [edx+6Ah],al
+00496a31 49              dec     ecx
+00496a32 0037            add     byte ptr [edi],dh
+00496a34 6a49            push    49h
+00496a36 00c7            add     bh,al
+00496a38 45              inc     ebp
+00496a39 fc              cld
+00496a3a 0000            add     byte ptr [eax],al
+00496a3c 803f33          cmp     byte ptr [edi],33h
+00496a3f ff              ???
+00496a40 eb6b            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a42 c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496a49 bf01000000      mov     edi,1
+00496a4e eb5d            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a50 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+00496a57 bf02000000      mov     edi,2
+00496a5c eb4f            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a5e c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496a65 bf03000000      mov     edi,3
+00496a6a eb41            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a6c c745fc00008041  mov     dword ptr [ebp-4],41800000h
+00496a73 bf04000000      mov     edi,4
+00496a78 eb33            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a7a c745fc00000042  mov     dword ptr [ebp-4],42000000h
+00496a81 bf05000000      mov     edi,5
+00496a86 eb25            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a88 c745fc00008042  mov     dword ptr [ebp-4],42800000h
+00496a8f bf06000000      mov     edi,6
+00496a94 eb17            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a96 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+00496a9d bf07000000      mov     edi,7
+00496aa2 eb09            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496aa4 c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+00496aab 33ff            xor     edi,edi
+00496aad 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496ab4 d9800c040000    fld     dword ptr [eax+40Ch]
+00496aba d875fc          fdiv    dword ptr [ebp-4]
+00496abd d95df8          fstp    dword ptr [ebp-8]
+00496ac0 d945f8          fld     dword ptr [ebp-8]
+00496ac3 e8f8843700      call    ws7v6!Edebuginitialization$qqrv+0x1eec0 (0080efc0)
+00496ac8 8bcf            mov     ecx,edi
+00496aca 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496ad1 66d3e0          shl     ax,cl
+00496ad4 0fb792f0030000  movzx   edx,word ptr [edx+3F0h]
+00496adb 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496ae1 8d541101        lea     edx,[ecx+edx+1]
+00496ae5 8bc8            mov     ecx,eax
+00496ae7 52              push    edx
+00496ae8 80e1ff          and     cl,0FFh
+00496aeb 5a              pop     edx
+00496aec 0fb7c0          movzx   eax,ax
+00496aef 880a            mov     byte ptr [edx],cl
+00496af1 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+00496af8 c1e808          shr     eax,8
+00496afb 0fb791f0030000  movzx   edx,word ptr [ecx+3F0h]
+00496b02 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496b08 24ff            and     al,0FFh
+00496b0a 8d1411          lea     edx,[ecx+edx]
+00496b0d 52              push    edx
+00496b0e 59              pop     ecx
+00496b0f 8801            mov     byte ptr [ecx],al
+00496b11 8bc3            mov     eax,ebx
+00496b13 e814fbffff      call    ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (0049662c)
+00496b18 5f              pop     edi
+00496b19 5e              pop     esi
+00496b1a 5b              pop     ebx
+00496b1b 59              pop     ecx
+00496b1c 59              pop     ecx
+00496b1d 5d              pop     ebp
+00496b1e c3              ret
+00496b1f 0000            add     byte ptr [eax],al
+00496b21 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+ # ChildEBP RetAddr      Args to Child              
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e800 00499616     0164e9e8 0164e808 00499708 ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv
+01 0164e800 00499708     0164e938 0071b563 00008195 ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2a9e
+02 0164e808 0071b563     00008195 0003088c 0164e9e8 ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2b90
+eax=113370d0 ebx=113370d0 ecx=00000000 edx=0164e9b8 esi=113370d0 edi=00008195
+eip=00496844 esp=0164e7f8 ebp=0164e800 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv:
+00496844 55              push    ebp
+ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv:
+00496844 55              push    ebp
+00496845 8bec            mov     ebp,esp
+00496847 53              push    ebx
+00496848 56              push    esi
+00496849 8bf0            mov     esi,eax
+0049684b 8b86e8580000    mov     eax,dword ptr [esi+58E8h]
+00496851 85c0            test    eax,eax
+00496853 7504            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x15 (00496859)
+00496855 33c0            xor     eax,eax
+00496857 eb1e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+00496859 33c0            xor     eax,eax
+0049685b 33db            xor     ebx,ebx
+0049685d eb0e            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x29 (0049686d)
+0049685f 8bd3            mov     edx,ebx
+00496861 8bc6            mov     eax,esi
+00496863 e800feffff      call    ws7v6!TMaskeMainWinRefreshEinzelneAusgabeBaugruppe$qqri (00496668)
+00496868 85c0            test    eax,eax
+0049686a 750b            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x33 (00496877)
+0049686c 43              inc     ebx
+0049686d 8b8ee8580000    mov     ecx,dword ptr [esi+58E8h]
+00496873 3bd9            cmp     ebx,ecx
+00496875 7ce8            jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1b (0049685f)
+00496877 5e              pop     esi
+00496878 5b              pop     ebx
+00496879 5d              pop     ebp
+0049687a c3              ret
+0049687b 90              nop
+0049687c 55              push    ebp
+0049687d 8bec            mov     ebp,esp
+0049687f 83c4f8          add     esp,0FFFFFFF8h
+00496882 53              push    ebx
+00496883 8bd8            mov     ebx,eax
+00496885 56              push    esi
+00496886 57              push    edi
+00496887 8b83e8580000    mov     eax,dword ptr [ebx+58E8h]
+0049688d 8bf2            mov     esi,edx
+0049688f 3bf0            cmp     esi,eax
+00496891 0f8f81020000    jg      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+00496897 85f6            test    esi,esi
+00496899 0f8c79020000    jl      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+0049689f 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+004968a6 8b82e8030000    mov     eax,dword ptr [edx+3E8h]
+004968ac 83f802          cmp     eax,2
+004968af 7418            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b1 83f803          cmp     eax,3
+004968b4 7413            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968b6 83f807          cmp     eax,7
+004968b9 740e            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968bb 83f809          cmp     eax,9
+004968be 7409            je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x85 (004968c9)
+004968c0 83f80a          cmp     eax,0Ah
+004968c3 0f854f020000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968c9 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968cf 85c9            test    ecx,ecx
+004968d1 0f8441020000    je      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2d4 (00496b18)
+004968d7 83f803          cmp     eax,3
+004968da 7522            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0xba (004968fe)
+004968dc 0fb782f0030000  movzx   eax,word ptr [edx+3F0h]
+004968e3 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+004968e9 8d0401          lea     eax,[ecx+eax]
+004968ec 50              push    eax
+004968ed 59              pop     ecx
+004968ee 8a92ec030000    mov     dl,byte ptr [edx+3ECh]
+004968f4 80e2ff          and     dl,0FFh
+004968f7 8811            mov     byte ptr [ecx],dl
+004968f9 e913020000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004968fe 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496905 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+0049690b 83fa02          cmp     edx,2
+0049690e 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x115 (00496959)
+00496910 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496917 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049691d 8d0c0a          lea     ecx,[edx+ecx]
+00496920 51              push    ecx
+00496921 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+00496928 c1e808          shr     eax,8
+0049692b 5a              pop     edx
+0049692c 24ff            and     al,0FFh
+0049692e 8802            mov     byte ptr [edx],al
+00496930 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496937 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+0049693d 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+00496944 8d4c0a01        lea     ecx,[edx+ecx+1]
+00496948 51              push    ecx
+00496949 5a              pop     edx
+0049694a 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496950 24ff            and     al,0FFh
+00496952 8802            mov     byte ptr [edx],al
+00496954 e9b8010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+00496959 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496960 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+00496966 83f907          cmp     ecx,7
+00496969 7521            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x148 (0049698c)
+0049696b 0fb790f0030000  movzx   edx,word ptr [eax+3F0h]
+00496972 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496978 8d1411          lea     edx,[ecx+edx]
+0049697b 52              push    edx
+0049697c 59              pop     ecx
+0049697d 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+00496983 24ff            and     al,0FFh
+00496985 8801            mov     byte ptr [ecx],al
+00496987 e985010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+0049698c 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496993 8b90e8030000    mov     edx,dword ptr [eax+3E8h]
+00496999 83fa09          cmp     edx,9
+0049699c 7549            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1a3 (004969e7)
+0049699e 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969a5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969ab 8d0c0a          lea     ecx,[edx+ecx]
+004969ae 51              push    ecx
+004969af 0fb780ec030000  movzx   eax,word ptr [eax+3ECh]
+004969b6 c1e808          shr     eax,8
+004969b9 5a              pop     edx
+004969ba 24ff            and     al,0FFh
+004969bc 8802            mov     byte ptr [edx],al
+004969be 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969c5 8b93f0470000    mov     edx,dword ptr [ebx+47F0h]
+004969cb 0fb788f0030000  movzx   ecx,word ptr [eax+3F0h]
+004969d2 8d4c0a01        lea     ecx,[edx+ecx+1]
+004969d6 51              push    ecx
+004969d7 5a              pop     edx
+004969d8 8a80ec030000    mov     al,byte ptr [eax+3ECh]
+004969de 24ff            and     al,0FFh
+004969e0 8802            mov     byte ptr [edx],al
+004969e2 e92a010000      jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969e7 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+004969ee 8b88e8030000    mov     ecx,dword ptr [eax+3E8h]
+004969f4 83f90a          cmp     ecx,0Ah
+004969f7 0f8514010000    jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2cd (00496b11)
+004969fd 0fb78818040000  movzx   ecx,word ptr [eax+418h]
+00496a04 83c1f8          add     ecx,0FFFFFFF8h
+00496a07 83f907          cmp     ecx,7
+00496a0a 0f8794000000    ja      ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x260 (00496aa4)
+00496a10 ff248d176a4900  jmp     dword ptr ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x1d3 (00496a17)[ecx*4]
+00496a17 96              xchg    eax,esi
+00496a18 6a49            push    49h
+00496a1a 00886a49007a    add     byte ptr [eax+7A00496Ah],cl
+00496a20 6a49            push    49h
+00496a22 006c6a49        add     byte ptr [edx+ebp*2+49h],ch
+00496a26 005e6a          add     byte ptr [esi+6Ah],bl
+00496a29 49              dec     ecx
+00496a2a 00506a          add     byte ptr [eax+6Ah],dl
+00496a2d 49              dec     ecx
+00496a2e 00426a          add     byte ptr [edx+6Ah],al
+00496a31 49              dec     ecx
+00496a32 0037            add     byte ptr [edi],dh
+00496a34 6a49            push    49h
+00496a36 00c7            add     bh,al
+00496a38 45              inc     ebp
+00496a39 fc              cld
+00496a3a 0000            add     byte ptr [eax],al
+00496a3c 803f33          cmp     byte ptr [edi],33h
+00496a3f ff              ???
+00496a40 eb6b            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a42 c745fc00000040  mov     dword ptr [ebp-4],40000000h
+00496a49 bf01000000      mov     edi,1
+00496a4e eb5d            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a50 c745fc00008040  mov     dword ptr [ebp-4],40800000h
+00496a57 bf02000000      mov     edi,2
+00496a5c eb4f            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a5e c745fc00000041  mov     dword ptr [ebp-4],41000000h
+00496a65 bf03000000      mov     edi,3
+00496a6a eb41            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a6c c745fc00008041  mov     dword ptr [ebp-4],41800000h
+00496a73 bf04000000      mov     edi,4
+00496a78 eb33            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a7a c745fc00000042  mov     dword ptr [ebp-4],42000000h
+00496a81 bf05000000      mov     edi,5
+00496a86 eb25            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a88 c745fc00008042  mov     dword ptr [ebp-4],42800000h
+00496a8f bf06000000      mov     edi,6
+00496a94 eb17            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496a96 c745fc00000043  mov     dword ptr [ebp-4],43000000h
+00496a9d bf07000000      mov     edi,7
+00496aa2 eb09            jmp     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x269 (00496aad)
+00496aa4 c745fc0000803f  mov     dword ptr [ebp-4],3F800000h
+00496aab 33ff            xor     edi,edi
+00496aad 8b84b320580000  mov     eax,dword ptr [ebx+esi*4+5820h]
+00496ab4 d9800c040000    fld     dword ptr [eax+40Ch]
+00496aba d875fc          fdiv    dword ptr [ebp-4]
+00496abd d95df8          fstp    dword ptr [ebp-8]
+00496ac0 d945f8          fld     dword ptr [ebp-8]
+00496ac3 e8f8843700      call    ws7v6!Edebuginitialization$qqrv+0x1eec0 (0080efc0)
+00496ac8 8bcf            mov     ecx,edi
+00496aca 8b94b320580000  mov     edx,dword ptr [ebx+esi*4+5820h]
+00496ad1 66d3e0          shl     ax,cl
+00496ad4 0fb792f0030000  movzx   edx,word ptr [edx+3F0h]
+00496adb 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496ae1 8d541101        lea     edx,[ecx+edx+1]
+00496ae5 8bc8            mov     ecx,eax
+00496ae7 52              push    edx
+00496ae8 80e1ff          and     cl,0FFh
+00496aeb 5a              pop     edx
+00496aec 0fb7c0          movzx   eax,ax
+00496aef 880a            mov     byte ptr [edx],cl
+00496af1 8b8cb320580000  mov     ecx,dword ptr [ebx+esi*4+5820h]
+00496af8 c1e808          shr     eax,8
+00496afb 0fb791f0030000  movzx   edx,word ptr [ecx+3F0h]
+00496b02 8b8bf0470000    mov     ecx,dword ptr [ebx+47F0h]
+00496b08 24ff            and     al,0FFh
+00496b0a 8d1411          lea     edx,[ecx+edx]
+00496b0d 52              push    edx
+00496b0e 59              pop     ecx
+00496b0f 8801            mov     byte ptr [ecx],al
+00496b11 8bc3            mov     eax,ebx
+00496b13 e814fbffff      call    ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (0049662c)
+00496b18 5f              pop     edi
+00496b19 5e              pop     esi
+00496b1a 5b              pop     ebx
+00496b1b 59              pop     ecx
+00496b1c 59              pop     ecx
+00496b1d 5d              pop     ebp
+00496b1e c3              ret
+00496b1f 0000            add     byte ptr [eax],al
+00496b21 00803f558bec    add     byte ptr [eax-1374AAC1h],al
+00496b27 53              push    ebx
+00496b28 8bda            mov     ebx,edx
+00496b2a 83fb01          cmp     ebx,1
+00496b2d 750c            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x2f7 (00496b3b)
+00496b2f 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b34 6a65            push    65h
+00496b36 e81d0c3800      call    ws7v6!Edebuginitialization$qqrv+0x27658 (00817758)
+00496b3b 83fb02          cmp     ebx,2
+00496b3e 750c            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x308 (00496b4c)
+00496b40 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b45 6a65            push    65h
+00496b47 e80c0c3800      call    ws7v6!Edebuginitialization$qqrv+0x27658 (00817758)
+00496b4c 83fb03          cmp     ebx,3
+00496b4f 750a            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x317 (00496b5b)
+00496b51 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b56 e80f0c3800      call    ws7v6!Edebuginitialization$qqrv+0x2766a (0081776a)
+00496b5b 83fb04          cmp     ebx,4
+00496b5e 7514            jne     ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv+0x330 (00496b74)
+00496b60 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b65 e8000c3800      call    ws7v6!Edebuginitialization$qqrv+0x2766a (0081776a)
+00496b6a 68e0b5c800      push    offset ws7v6!DlgPrjOeffnenErzeugenf+0x8 (00c8b5e0)
+00496b6f e8020c3800      call    ws7v6!Edebuginitialization$qqrv+0x27676 (00817776)
+00496b74 5b              pop     ebx
+00496b75 5d              pop     ebp
+00496b76 c3              ret
+00496b77 90              nop
+ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv:
+00496b78 55              push    ebp
+00496b79 8bec            mov     ebp,esp
+00496b7b 8b90f8470000    mov     edx,dword ptr [eax+47F8h]
+00496b81 85d2            test    edx,edx
+00496b83 0f94c1          sete    cl
+00496b86 83e101          and     ecx,1
+00496b89 8988f8470000    mov     dword ptr [eax+47F8h],ecx
+00496b8f 5d              pop     ebp
+00496b90 c3              ret
+00496b91 90              nop
+00496b92 90              nop
+00496b93 90              nop
+00496b94 55              push    ebp
+00496b95 8bec            mov     ebp,esp
+00496b97 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496b9d 53              push    ebx
+00496b9e 56              push    esi
+00496b9f 57              push    edi
+00496ba0 8bd8            mov     ebx,eax
+00496ba2 b854e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b2e0 (0094e654)
+00496ba7 e82c003700      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496bac b902000000      mov     ecx,2
+00496bb1 ba01000000      mov     edx,1
+00496bb6 8bc3            mov     eax,ebx
+00496bb8 e897acffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496bbd 85c0            test    eax,eax
+00496bbf 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x87 (00496bff)
+00496bc1 8dbddcfeffff    lea     edi,[ebp-124h]
+00496bc7 be3fc29400      mov     esi,offset ws7v6!DlgPrjMem+0x38ecb (0094c23f)
+00496bcc b93f000000      mov     ecx,3Fh
+00496bd1 8d95dcfeffff    lea     edx,[ebp-124h]
+00496bd7 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496bd9 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496bdb a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496bdc 52              push    edx
+00496bdd 50              push    eax
+00496bde e8bf103800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496be3 83c408          add     esp,8
+00496be6 8d85dcfeffff    lea     eax,[ebp-124h]
+00496bec 50              push    eax
+00496bed e89e8c0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496bf2 59              pop     ecx
+00496bf3 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496bf6 64890d00000000  mov     dword ptr fs:[0],ecx
+00496bfd eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x90 (00496c08)
+00496bff 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496c02 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496c08 5f              pop     edi
+00496c09 5e              pop     esi
+00496c0a 5b              pop     ebx
+00496c0b 8be5            mov     esp,ebp
+00496c0d 5d              pop     ebp
+00496c0e c3              ret
+00496c0f 90              nop
+00496c10 55              push    ebp
+00496c11 8bec            mov     ebp,esp
+00496c13 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496c19 53              push    ebx
+00496c1a 56              push    esi
+00496c1b 57              push    edi
+00496c1c 8bd8            mov     ebx,eax
+00496c1e b86ce69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b2f8 (0094e66c)
+00496c23 e8b0ff3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496c28 b904000000      mov     ecx,4
+00496c2d ba01000000      mov     edx,1
+00496c32 8bc3            mov     eax,ebx
+00496c34 e81bacffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496c39 85c0            test    eax,eax
+00496c3b 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x103 (00496c7b)
+00496c3d 8dbddcfeffff    lea     edi,[ebp-124h]
+00496c43 be3ec39400      mov     esi,offset ws7v6!DlgPrjMem+0x38fca (0094c33e)
+00496c48 b93f000000      mov     ecx,3Fh
+00496c4d 8d95dcfeffff    lea     edx,[ebp-124h]
+00496c53 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496c55 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496c57 a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496c58 52              push    edx
+00496c59 50              push    eax
+00496c5a e843103800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496c5f 83c408          add     esp,8
+00496c62 8d85dcfeffff    lea     eax,[ebp-124h]
+00496c68 50              push    eax
+00496c69 e8228c0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496c6e 59              pop     ecx
+00496c6f 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496c72 64890d00000000  mov     dword ptr fs:[0],ecx
+00496c79 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x10c (00496c84)
+00496c7b 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496c7e 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496c84 5f              pop     edi
+00496c85 5e              pop     esi
+00496c86 5b              pop     ebx
+00496c87 8be5            mov     esp,ebp
+00496c89 5d              pop     ebp
+00496c8a c3              ret
+00496c8b 90              nop
+00496c8c 55              push    ebp
+00496c8d 8bec            mov     ebp,esp
+00496c8f 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496c95 53              push    ebx
+00496c96 56              push    esi
+00496c97 57              push    edi
+00496c98 8bd8            mov     ebx,eax
+00496c9a b884e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b310 (0094e684)
+00496c9f e834ff3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496ca4 b908000000      mov     ecx,8
+00496ca9 ba01000000      mov     edx,1
+00496cae 8bc3            mov     eax,ebx
+00496cb0 e89fabffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496cb5 85c0            test    eax,eax
+00496cb7 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x17f (00496cf7)
+00496cb9 8dbddcfeffff    lea     edi,[ebp-124h]
+00496cbf be3dc49400      mov     esi,offset ws7v6!DlgPrjMem+0x390c9 (0094c43d)
+00496cc4 b93f000000      mov     ecx,3Fh
+00496cc9 8d95dcfeffff    lea     edx,[ebp-124h]
+00496ccf f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496cd1 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496cd3 a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496cd4 52              push    edx
+00496cd5 50              push    eax
+00496cd6 e8c70f3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496cdb 83c408          add     esp,8
+00496cde 8d85dcfeffff    lea     eax,[ebp-124h]
+00496ce4 50              push    eax
+00496ce5 e8a68b0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496cea 59              pop     ecx
+00496ceb 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496cee 64890d00000000  mov     dword ptr fs:[0],ecx
+00496cf5 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x188 (00496d00)
+00496cf7 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496cfa 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496d00 5f              pop     edi
+00496d01 5e              pop     esi
+00496d02 5b              pop     ebx
+00496d03 8be5            mov     esp,ebp
+00496d05 5d              pop     ebp
+00496d06 c3              ret
+00496d07 90              nop
+00496d08 55              push    ebp
+00496d09 8bec            mov     ebp,esp
+00496d0b 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496d11 53              push    ebx
+00496d12 56              push    esi
+00496d13 57              push    edi
+00496d14 8bd8            mov     ebx,eax
+00496d16 b89ce69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b328 (0094e69c)
+00496d1b e8b8fe3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496d20 b909000000      mov     ecx,9
+00496d25 ba01000000      mov     edx,1
+00496d2a 8bc3            mov     eax,ebx
+00496d2c e823abffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496d31 85c0            test    eax,eax
+00496d33 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x1fb (00496d73)
+00496d35 8dbddcfeffff    lea     edi,[ebp-124h]
+00496d3b be3cc59400      mov     esi,offset ws7v6!DlgPrjMem+0x391c8 (0094c53c)
+00496d40 b93f000000      mov     ecx,3Fh
+00496d45 8d95dcfeffff    lea     edx,[ebp-124h]
+00496d4b f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496d4d 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496d4f a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496d50 52              push    edx
+00496d51 50              push    eax
+00496d52 e84b0f3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496d57 83c408          add     esp,8
+00496d5a 8d85dcfeffff    lea     eax,[ebp-124h]
+00496d60 50              push    eax
+00496d61 e82a8b0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496d66 59              pop     ecx
+00496d67 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496d6a 64890d00000000  mov     dword ptr fs:[0],ecx
+00496d71 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x204 (00496d7c)
+00496d73 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496d76 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496d7c 5f              pop     edi
+00496d7d 5e              pop     esi
+00496d7e 5b              pop     ebx
+00496d7f 8be5            mov     esp,ebp
+00496d81 5d              pop     ebp
+00496d82 c3              ret
+00496d83 90              nop
+00496d84 55              push    ebp
+00496d85 8bec            mov     ebp,esp
+00496d87 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496d8d 53              push    ebx
+00496d8e 56              push    esi
+00496d8f 57              push    edi
+00496d90 8bd8            mov     ebx,eax
+00496d92 b8b4e69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b340 (0094e6b4)
+00496d97 e83cfe3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496d9c b905000000      mov     ecx,5
+00496da1 ba01000000      mov     edx,1
+00496da6 8bc3            mov     eax,ebx
+00496da8 e8a7aaffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496dad 85c0            test    eax,eax
+00496daf 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x277 (00496def)
+00496db1 8dbddcfeffff    lea     edi,[ebp-124h]
+00496db7 be3bc69400      mov     esi,offset ws7v6!DlgPrjMem+0x392c7 (0094c63b)
+00496dbc b93f000000      mov     ecx,3Fh
+00496dc1 8d95dcfeffff    lea     edx,[ebp-124h]
+00496dc7 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496dc9 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496dcb a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496dcc 52              push    edx
+00496dcd 50              push    eax
+00496dce e8cf0e3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496dd3 83c408          add     esp,8
+00496dd6 8d85dcfeffff    lea     eax,[ebp-124h]
+00496ddc 50              push    eax
+00496ddd e8ae8a0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496de2 59              pop     ecx
+00496de3 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496de6 64890d00000000  mov     dword ptr fs:[0],ecx
+00496ded eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x280 (00496df8)
+00496def 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496df2 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496df8 5f              pop     edi
+00496df9 5e              pop     esi
+00496dfa 5b              pop     ebx
+00496dfb 8be5            mov     esp,ebp
+00496dfd 5d              pop     ebp
+00496dfe c3              ret
+00496dff 90              nop
+00496e00 55              push    ebp
+00496e01 8bec            mov     ebp,esp
+00496e03 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496e09 53              push    ebx
+00496e0a 56              push    esi
+00496e0b 57              push    edi
+00496e0c 8bd8            mov     ebx,eax
+00496e0e b8cce69400      mov     eax,offset ws7v6!DlgPrjMem+0x3b358 (0094e6cc)
+00496e13 e8c0fd3600      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+00496e18 b906000000      mov     ecx,6
+00496e1d ba01000000      mov     edx,1
+00496e22 8bc3            mov     eax,ebx
+00496e24 e82baaffff      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6c40 (00491854)
+00496e29 85c0            test    eax,eax
+00496e2b 743e            je      ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2f3 (00496e6b)
+00496e2d 8dbddcfeffff    lea     edi,[ebp-124h]
+00496e33 be3ac79400      mov     esi,offset ws7v6!DlgPrjMem+0x393c6 (0094c73a)
+00496e38 b93f000000      mov     ecx,3Fh
+00496e3d 8d95dcfeffff    lea     edx,[ebp-124h]
+00496e43 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+00496e45 66a5            movs    word ptr es:[edi],word ptr [esi]
+00496e47 a4              movs    byte ptr es:[edi],byte ptr [esi]
+00496e48 52              push    edx
+00496e49 50              push    eax
+00496e4a e8530e3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+00496e4f 83c408          add     esp,8
+00496e52 8d85dcfeffff    lea     eax,[ebp-124h]
+00496e58 50              push    eax
+00496e59 e8328a0400      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+00496e5e 59              pop     ecx
+00496e5f 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+00496e62 64890d00000000  mov     dword ptr fs:[0],ecx
+00496e69 eb09            jmp     ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x2fc (00496e74)
+00496e6b 8b45dc          mov     eax,dword ptr [ebp-24h]
+00496e6e 64a300000000    mov     dword ptr fs:[00000000h],eax
+00496e74 5f              pop     edi
+00496e75 5e              pop     esi
+00496e76 5b              pop     ebx
+00496e77 8be5            mov     esp,ebp
+00496e79 5d              pop     ebp
+00496e7a c3              ret
+00496e7b 90              nop
+00496e7c 55              push    ebp
+00496e7d 8bec            mov     ebp,esp
+00496e7f 81c4dcfeffff    add     esp,0FFFFFEDCh
+00496e85 53              push    ebx
+00496e86 56              push    esi
+00496e87 57              push    edi
+00496e88 8bd8            mov     ebx,eax
+ # ChildEBP RetAddr      Args to Child              
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e808 00675e1b     006f077d 0049970f 0164e938 ws7v6!TMaskeMainWin$bdtr$qqrv
+01 0164e808 0071b563     0000b021 0003088c 0164e9e8 ws7v6!Exceptionloginitialization$qqrv+0x52c17
+02 0164e938 0071fe2d     0003088c 0164e9e8 5afcb029 ws7v6!Exceptionloginitialization$qqrv+0xf835f
+eax=113370d0 ebx=0164e9e8 ecx=0094e81c edx=0164e901 esi=113370d0 edi=0000b021
+eip=0048aa88 esp=0164e7fc ebp=0164e808 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ws7v6!TMaskeMainWin$bdtr$qqrv:
+0048aa88 55              push    ebp
+ws7v6!TMaskeMainWin$bdtr$qqrv:
+0048aa88 55              push    ebp
+0048aa89 8bec            mov     ebp,esp
+0048aa8b 81c4d8feffff    add     esp,0FFFFFED8h
+0048aa91 53              push    ebx
+0048aa92 56              push    esi
+0048aa93 57              push    edi
+0048aa94 e868c53800      call    ws7v6!Edebuginitialization$qqrv+0x26f01 (00817001)
+0048aa99 8bda            mov     ebx,edx
+0048aa9b 8945fc          mov     dword ptr [ebp-4],eax
+0048aa9e b820dc9400      mov     eax,offset ws7v6!DlgPrjMem+0x3a8ac (0094dc20)
+0048aaa3 e830c13700      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+0048aaa8 c745f411000000  mov     dword ptr [ebp-0Ch],11h
+0048aaaf 84db            test    bl,bl
+0048aab1 0f8c38010000    jl      ws7v6!TMaskeMainWin$bdtr$qqrv+0x167 (0048abef)
+0048aab7 66c745e80c00    mov     word ptr [ebp-18h],0Ch
+0048aabd be70b39400      mov     esi,offset ws7v6!DlgPrjMem+0x37ffc (0094b370)
+0048aac2 8dbdd8feffff    lea     edi,[ebp-128h]
+0048aac8 b93f000000      mov     ecx,3Fh
+0048aacd f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+0048aacf 66a5            movs    word ptr es:[edi],word ptr [esi]
+0048aad1 a4              movs    byte ptr es:[edi],byte ptr [esi]
+0048aad2 8b45fc          mov     eax,dword ptr [ebp-4]
+0048aad5 0568420000      add     eax,4268h
+0048aada 50              push    eax
+0048aadb 8d95d8feffff    lea     edx,[ebp-128h]
+0048aae1 52              push    edx
+0048aae2 e8d980f7ff      call    ws7v6!_GetExceptDLLinfo+0xc7f (00402bc0)
+0048aae7 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048aaea 83c408          add     esp,8
+0048aaed b80a000000      mov     eax,0Ah
+0048aaf2 898160420000    mov     dword ptr [ecx+4260h],eax
+0048aaf8 6a00            push    0
+0048aafa 50              push    eax
+0048aafb 8b55fc          mov     edx,dword ptr [ebp-4]
+0048aafe 8b8ae8580000    mov     ecx,dword ptr [edx+58E8h]
+0048ab04 8d95d8feffff    lea     edx,[ebp-128h]
+0048ab0a 51              push    ecx
+0048ab0b 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048ab0e 81c120580000    add     ecx,5820h
+0048ab14 51              push    ecx
+0048ab15 8b45fc          mov     eax,dword ptr [ebp-4]
+0048ab18 ffb050480000    push    dword ptr [eax+4850h]
+0048ab1e 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048ab21 ffb14c480000    push    dword ptr [ecx+484Ch]
+0048ab27 52              push    edx
+0048ab28 e88dd13800      call    ws7v6!Edebuginitialization$qqrv+0x27bba (00817cba)
+0048ab2d 83c41c          add     esp,1Ch
+0048ab30 85c0            test    eax,eax
+0048ab32 7411            je      ws7v6!TMaskeMainWin$bdtr$qqrv+0xbd (0048ab45)
+0048ab34 68d0070000      push    7D0h
+0048ab39 e8a8c73800      call    ws7v6!Edebuginitialization$qqrv+0x271e6 (008172e6)
+0048ab3e 50              push    eax
+0048ab3f e84c4d0500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048ab44 59              pop     ecx
+0048ab45 8b45fc          mov     eax,dword ptr [ebp-4]
+0048ab48 e81b5d0000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x5c54 (00490868)
+0048ab4d 8b55fc          mov     edx,dword ptr [ebp-4]
+0048ab50 81c2e8580000    add     edx,58E8h
+0048ab56 52              push    edx
+0048ab57 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048ab5a 81c120580000    add     ecx,5820h
+0048ab60 51              push    ecx
+0048ab61 e8fad03800      call    ws7v6!Edebuginitialization$qqrv+0x27b60 (00817c60)
+0048ab66 83c408          add     esp,8
+0048ab69 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048ab6c 81c168060000    add     ecx,668h
+0048ab72 51              push    ecx
+0048ab73 8b45fc          mov     eax,dword ptr [ebp-4]
+0048ab76 05e0030000      add     eax,3E0h
+0048ab7b 50              push    eax
+0048ab7c 8b55fc          mov     edx,dword ptr [ebp-4]
+0048ab7f 81c224050000    add     edx,524h
+0048ab85 52              push    edx
+0048ab86 e841c60000      call    ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x654 (004971cc)
+0048ab8b 83c40c          add     esp,0Ch
+0048ab8e 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048ab91 81c11c470000    add     ecx,471Ch
+0048ab97 51              push    ecx
+0048ab98 8b45fc          mov     eax,dword ptr [ebp-4]
+0048ab9b 0520470000      add     eax,4720h
+0048aba0 50              push    eax
+0048aba1 e8ccd03800      call    ws7v6!Edebuginitialization$qqrv+0x27b72 (00817c72)
+0048aba6 83c408          add     esp,8
+0048aba9 8b55fc          mov     edx,dword ptr [ebp-4]
+0048abac 81c250460000    add     edx,4650h
+0048abb2 52              push    edx
+0048abb3 8b4dfc          mov     ecx,dword ptr [ebp-4]
+0048abb6 81c154460000    add     ecx,4654h
+0048abbc 51              push    ecx
+0048abbd e8c2d03800      call    ws7v6!Edebuginitialization$qqrv+0x27b84 (00817c84)
+0048abc2 a154e9c100      mov     eax,dword ptr [ws7v6!Ezlib2_z_errmsg+0xc01c (00c1e954)]
+0048abc7 33d2            xor     edx,edx
+0048abc9 83c408          add     esp,8
+0048abcc 8b00            mov     eax,dword ptr [eax]
+0048abce 899020180000    mov     dword ptr [eax+1820h],edx
+0048abd4 33d2            xor     edx,edx
+0048abd6 8b80cc060000    mov     eax,dword ptr [eax+6CCh]
+0048abdc e8a3e12200      call    ws7v6!Exceptionloginitialization$qqrv+0x95b80 (006b8d84)
+0048abe1 836df411        sub     dword ptr [ebp-0Ch],11h
+0048abe5 33d2            xor     edx,edx
+0048abe7 8b45fc          mov     eax,dword ptr [ebp-4]
+0048abea e86982f7ff      call    ws7v6!_GetExceptDLLinfo+0xf17 (00402e58)
+0048abef 8b4dd8          mov     ecx,dword ptr [ebp-28h]
+0048abf2 64890d00000000  mov     dword ptr fs:[0],ecx
+0048abf9 84db            test    bl,bl
+0048abfb 7e08            jle     ws7v6!TMaskeMainWin$bdtr$qqrv+0x17d (0048ac05)
+0048abfd 8b45fc          mov     eax,dword ptr [ebp-4]
+0048ac00 e8efc33800      call    ws7v6!Edebuginitialization$qqrv+0x26ef4 (00816ff4)
+0048ac05 5f              pop     edi
+0048ac06 5e              pop     esi
+0048ac07 5b              pop     ebx
+0048ac08 8be5            mov     esp,ebp
+0048ac0a 5d              pop     ebp
+0048ac0b c3              ret
+0048ac0c 55              push    ebp
+0048ac0d 8bec            mov     ebp,esp
+0048ac0f c60101          mov     byte ptr [ecx],1
+0048ac12 5d              pop     ebp
+0048ac13 c3              ret
+ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri:
+0048ac14 55              push    ebp
+0048ac15 8bec            mov     ebp,esp
+0048ac17 81c4d8feffff    add     esp,0FFFFFED8h
+0048ac1d 53              push    ebx
+0048ac1e 56              push    esi
+0048ac1f 57              push    edi
+0048ac20 8bf2            mov     esi,edx
+0048ac22 8bd8            mov     ebx,eax
+0048ac24 b854dc9400      mov     eax,offset ws7v6!DlgPrjMem+0x3a8e0 (0094dc54)
+0048ac29 e8aabf3700      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+0048ac2e 8b9360420000    mov     edx,dword ptr [ebx+4260h]
+0048ac34 3bf2            cmp     esi,edx
+0048ac36 7514            jne     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x38 (0048ac4c)
+0048ac38 b801000000      mov     eax,1
+0048ac3d 8b55d8          mov     edx,dword ptr [ebp-28h]
+0048ac40 64891500000000  mov     dword ptr fs:[0],edx
+0048ac47 e976010000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x1ae (0048adc2)
+0048ac4c 83fe0a          cmp     esi,0Ah
+0048ac4f 7416            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x53 (0048ac67)
+0048ac51 83fe0b          cmp     esi,0Bh
+0048ac54 7411            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x53 (0048ac67)
+0048ac56 33c0            xor     eax,eax
+0048ac58 8b55d8          mov     edx,dword ptr [ebp-28h]
+0048ac5b 64891500000000  mov     dword ptr fs:[0],edx
+0048ac62 e95b010000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x1ae (0048adc2)
+0048ac67 56              push    esi
+0048ac68 be6fb49400      mov     esi,offset ws7v6!DlgPrjMem+0x380fb (0094b46f)
+0048ac6d 8dbdd8feffff    lea     edi,[ebp-128h]
+0048ac73 b93f000000      mov     ecx,3Fh
+0048ac78 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+0048ac7a 66a5            movs    word ptr es:[edi],word ptr [esi]
+0048ac7c a4              movs    byte ptr es:[edi],byte ptr [esi]
+0048ac7d 5e              pop     esi
+0048ac7e 8d8368420000    lea     eax,[ebx+4268h]
+0048ac84 50              push    eax
+0048ac85 8d95d8feffff    lea     edx,[ebp-128h]
+0048ac8b 52              push    edx
+0048ac8c e82f7ff7ff      call    ws7v6!_GetExceptDLLinfo+0xc7f (00402bc0)
+0048ac91 83c408          add     esp,8
+0048ac94 89b360420000    mov     dword ptr [ebx+4260h],esi
+0048ac9a b80a000000      mov     eax,0Ah
+0048ac9f 8db320580000    lea     esi,[ebx+5820h]
+0048aca5 898360420000    mov     dword ptr [ebx+4260h],eax
+0048acab 6a00            push    0
+0048acad 50              push    eax
+0048acae 8d8dd8feffff    lea     ecx,[ebp-128h]
+0048acb4 8b93e8580000    mov     edx,dword ptr [ebx+58E8h]
+0048acba 52              push    edx
+0048acbb 56              push    esi
+0048acbc ffb350480000    push    dword ptr [ebx+4850h]
+0048acc2 ffb34c480000    push    dword ptr [ebx+484Ch]
+0048acc8 51              push    ecx
+0048acc9 e8eccf3800      call    ws7v6!Edebuginitialization$qqrv+0x27bba (00817cba)
+0048acce 83c41c          add     esp,1Ch
+0048acd1 85c0            test    eax,eax
+0048acd3 7422            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0xe3 (0048acf7)
+0048acd5 68d0070000      push    7D0h
+0048acda e807c63800      call    ws7v6!Edebuginitialization$qqrv+0x271e6 (008172e6)
+0048acdf 50              push    eax
+0048ace0 e8ab4b0500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048ace5 59              pop     ecx
+0048ace6 33c0            xor     eax,eax
+0048ace8 8b55d8          mov     edx,dword ptr [ebp-28h]
+0048aceb 64891500000000  mov     dword ptr fs:[0],edx
+0048acf2 e9cb000000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x1ae (0048adc2)
+0048acf7 8bc3            mov     eax,ebx
+0048acf9 e86a5b0000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x5c54 (00490868)
+0048acfe 8d93e8580000    lea     edx,[ebx+58E8h]
+0048ad04 52              push    edx
+0048ad05 56              push    esi
+0048ad06 e855cf3800      call    ws7v6!Edebuginitialization$qqrv+0x27b60 (00817c60)
+0048ad0b 83c408          add     esp,8
+0048ad0e 8d8b68060000    lea     ecx,[ebx+668h]
+0048ad14 51              push    ecx
+0048ad15 8d8be0030000    lea     ecx,[ebx+3E0h]
+0048ad1b 51              push    ecx
+0048ad1c 8d8324050000    lea     eax,[ebx+524h]
+0048ad22 50              push    eax
+0048ad23 e8a4c40000      call    ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x654 (004971cc)
+0048ad28 83c40c          add     esp,0Ch
+0048ad2b 8d931c470000    lea     edx,[ebx+471Ch]
+0048ad31 52              push    edx
+0048ad32 8d8b20470000    lea     ecx,[ebx+4720h]
+0048ad38 51              push    ecx
+0048ad39 e834cf3800      call    ws7v6!Edebuginitialization$qqrv+0x27b72 (00817c72)
+0048ad3e 83c408          add     esp,8
+0048ad41 8d8350460000    lea     eax,[ebx+4650h]
+0048ad47 50              push    eax
+0048ad48 8d9354460000    lea     edx,[ebx+4654h]
+0048ad4e 52              push    edx
+0048ad4f e830cf3800      call    ws7v6!Edebuginitialization$qqrv+0x27b84 (00817c84)
+0048ad54 83c408          add     esp,8
+0048ad57 33d2            xor     edx,edx
+0048ad59 c7834448000001000000 mov dword ptr [ebx+4844h],1
+0048ad63 8bc3            mov     eax,ebx
+0048ad65 e88a000000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x1e0 (0048adf4)
+0048ad6a 8bc3            mov     eax,ebx
+0048ad6c 8b10            mov     edx,dword ptr [eax]
+0048ad6e ff9290000000    call    dword ptr [edx+90h]
+0048ad74 33d2            xor     edx,edx
+0048ad76 8bc3            mov     eax,ebx
+0048ad78 e87b060000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x7e4 (0048b3f8)
+0048ad7d 66c745e81800    mov     word ptr [ebp-18h],18h
+0048ad83 6856030000      push    356h
+0048ad88 e85fc53800      call    ws7v6!Edebuginitialization$qqrv+0x271ec (008172ec)
+0048ad8d 8bd0            mov     edx,eax
+0048ad8f 8d45fc          lea     eax,[ebp-4]
+0048ad92 e84dba3800      call    ws7v6!Edebuginitialization$qqrv+0x266e4 (008167e4)
+0048ad97 ff45f4          inc     dword ptr [ebp-0Ch]
+0048ad9a 8b10            mov     edx,dword ptr [eax]
+0048ad9c 8bc3            mov     eax,ebx
+0048ad9e e805ef2800      call    ws7v6!Exceptionloginitialization$qqrv+0xf6aa4 (00719ca8)
+0048ada3 ff4df4          dec     dword ptr [ebp-0Ch]
+0048ada6 8d45fc          lea     eax,[ebp-4]
+0048ada9 ba02000000      mov     edx,2
+0048adae e8b1bb3800      call    ws7v6!Edebuginitialization$qqrv+0x26864 (00816964)
+0048adb3 b801000000      mov     eax,1
+0048adb8 8b55d8          mov     edx,dword ptr [ebp-28h]
+0048adbb 64891500000000  mov     dword ptr fs:[0],edx
+0048adc2 5f              pop     edi
+0048adc3 5e              pop     esi
+0048adc4 5b              pop     ebx
+0048adc5 8be5            mov     esp,ebp
+0048adc7 5d              pop     ebp
+0048adc8 c3              ret
+0048adc9 90              nop
+0048adca 90              nop
+0048adcb 90              nop
+0048adcc a154e9c100      mov     eax,dword ptr [ws7v6!Ezlib2_z_errmsg+0xc01c (00c1e954)]
+0048add1 55              push    ebp
+0048add2 8bec            mov     ebp,esp
+0048add4 8b10            mov     edx,dword ptr [eax]
+0048add6 33c0            xor     eax,eax
+0048add8 898220180000    mov     dword ptr [edx+1820h],eax
+0048adde c60102          mov     byte ptr [ecx],2
+0048ade1 8b1554e9c100    mov     edx,dword ptr [ws7v6!Ezlib2_z_errmsg+0xc01c (00c1e954)]
+0048ade7 8b02            mov     eax,dword ptr [edx]
+0048ade9 8b10            mov     edx,dword ptr [eax]
+0048adeb ff92e8000000    call    dword ptr [edx+0E8h]
+0048adf1 5d              pop     ebp
+0048adf2 c3              ret
+0048adf3 90              nop
+0048adf4 55              push    ebp
+0048adf5 8bec            mov     ebp,esp
+0048adf7 81c4d4fcffff    add     esp,0FFFFFCD4h
+0048adfd 53              push    ebx
+0048adfe 56              push    esi
+0048adff 57              push    edi
+0048ae00 8bd8            mov     ebx,eax
+0048ae02 b878dc9400      mov     eax,offset ws7v6!DlgPrjMem+0x3a904 (0094dc78)
+0048ae07 e8ccbd3700      call    ws7v6!Edebuginitialization$qqrv+0x16ad8 (00806bd8)
+0048ae0c 8b9300480000    mov     edx,dword ptr [ebx+4800h]
+0048ae12 85d2            test    edx,edx
+0048ae14 7411            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x213 (0048ae27)
+0048ae16 8b4ddc          mov     ecx,dword ptr [ebp-24h]
+0048ae19 64890d00000000  mov     dword ptr fs:[0],ecx
+0048ae20 8bc1            mov     eax,ecx
+0048ae22 e9e4040000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6f7 (0048b30b)
+0048ae27 be6eb59400      mov     esi,offset ws7v6!DlgPrjMem+0x381fa (0094b56e)
+0048ae2c 8dbdd4feffff    lea     edi,[ebp-12Ch]
+0048ae32 b93f000000      mov     ecx,3Fh
+0048ae37 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+0048ae39 66a5            movs    word ptr es:[edi],word ptr [esi]
+0048ae3b a4              movs    byte ptr es:[edi],byte ptr [esi]
+0048ae3c be6db69400      mov     esi,offset ws7v6!DlgPrjMem+0x382f9 (0094b66d)
+0048ae41 8dbdd4fdffff    lea     edi,[ebp-22Ch]
+0048ae47 b93f000000      mov     ecx,3Fh
+0048ae4c f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+0048ae4e 66a5            movs    word ptr es:[edi],word ptr [esi]
+0048ae50 a4              movs    byte ptr es:[edi],byte ptr [esi]
+0048ae51 6876cd9400      push    offset ws7v6!DlgPrjMem+0x39a02 (0094cd76)
+0048ae56 684ebc9c00      push    offset ws7v6!DlgPrjMem+0xb88da (009cbc4e)
+0048ae5b 686bcd9400      push    offset ws7v6!DlgPrjMem+0x399f7 (0094cd6b)
+0048ae60 8d85d4feffff    lea     eax,[ebp-12Ch]
+0048ae66 50              push    eax
+0048ae67 e86cf83700      call    ws7v6!Edebuginitialization$qqrv+0x1a5d8 (0080a6d8)
+0048ae6c 83c410          add     esp,10h
+0048ae6f 8d9368420000    lea     edx,[ebx+4268h]
+0048ae75 52              push    edx
+0048ae76 8d8dd4fdffff    lea     ecx,[ebp-22Ch]
+0048ae7c 51              push    ecx
+0048ae7d e83e7df7ff      call    ws7v6!_GetExceptDLLinfo+0xc7f (00402bc0)
+0048ae82 83c408          add     esp,8
+0048ae85 33f6            xor     esi,esi
+0048ae87 8dbdd4fcffff    lea     edi,[ebp-32Ch]
+0048ae8d b93f000000      mov     ecx,3Fh
+0048ae92 56              push    esi
+0048ae93 be6cb79400      mov     esi,offset ws7v6!DlgPrjMem+0x383f8 (0094b76c)
+0048ae98 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
+0048ae9a 66a5            movs    word ptr es:[edi],word ptr [esi]
+0048ae9c a4              movs    byte ptr es:[edi],byte ptr [esi]
+0048ae9d 8b8350460000    mov     eax,dword ptr [ebx+4650h]
+0048aea3 5e              pop     esi
+0048aea4 85c0            test    eax,eax
+0048aea6 7560            jne     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2f4 (0048af08)
+0048aea8 8d9350460000    lea     edx,[ebx+4650h]
+0048aeae 52              push    edx
+0048aeaf 8d8b54460000    lea     ecx,[ebx+4654h]
+0048aeb5 51              push    ecx
+0048aeb6 8d8dd4feffff    lea     ecx,[ebp-12Ch]
+0048aebc 51              push    ecx
+0048aebd e8bccd3800      call    ws7v6!Edebuginitialization$qqrv+0x27b7e (00817c7e)
+0048aec2 83c40c          add     esp,0Ch
+0048aec5 8bf0            mov     esi,eax
+0048aec7 85f6            test    esi,esi
+0048aec9 743d            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2f4 (0048af08)
+0048aecb 8d85d4fcffff    lea     eax,[ebp-32Ch]
+0048aed1 50              push    eax
+0048aed2 56              push    esi
+0048aed3 e8cacd3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+0048aed8 83c408          add     esp,8
+0048aedb 8d95d4fcffff    lea     edx,[ebp-32Ch]
+0048aee1 52              push    edx
+0048aee2 e8a9490500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048aee7 59              pop     ecx
+0048aee8 c7830048000001000000 mov dword ptr [ebx+4800h],1
+0048aef2 8bc3            mov     eax,ebx
+0048aef4 e853592600      call    ws7v6!Exceptionloginitialization$qqrv+0xcd648 (006f084c)
+0048aef9 8b55dc          mov     edx,dword ptr [ebp-24h]
+0048aefc 64891500000000  mov     dword ptr fs:[0],edx
+0048af03 e903040000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6f7 (0048b30b)
+0048af08 8b8b1c470000    mov     ecx,dword ptr [ebx+471Ch]
+0048af0e 85c9            test    ecx,ecx
+0048af10 7560            jne     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x35e (0048af72)
+0048af12 8d8b1c470000    lea     ecx,[ebx+471Ch]
+0048af18 51              push    ecx
+0048af19 8d8320470000    lea     eax,[ebx+4720h]
+0048af1f 50              push    eax
+0048af20 8d95d4feffff    lea     edx,[ebp-12Ch]
+0048af26 52              push    edx
+0048af27 e840cd3800      call    ws7v6!Edebuginitialization$qqrv+0x27b6c (00817c6c)
+0048af2c 83c40c          add     esp,0Ch
+0048af2f 8bf0            mov     esi,eax
+0048af31 85f6            test    esi,esi
+0048af33 743d            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x35e (0048af72)
+0048af35 8d85d4fcffff    lea     eax,[ebp-32Ch]
+0048af3b 50              push    eax
+0048af3c 56              push    esi
+0048af3d e860cd3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+0048af42 83c408          add     esp,8
+0048af45 8d95d4fcffff    lea     edx,[ebp-32Ch]
+0048af4b 52              push    edx
+0048af4c e83f490500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048af51 59              pop     ecx
+0048af52 c7830048000001000000 mov dword ptr [ebx+4800h],1
+0048af5c 8bc3            mov     eax,ebx
+0048af5e e8e9582600      call    ws7v6!Exceptionloginitialization$qqrv+0xcd648 (006f084c)
+0048af63 8b55dc          mov     edx,dword ptr [ebp-24h]
+0048af66 64891500000000  mov     dword ptr fs:[0],edx
+0048af6d e999030000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6f7 (0048b30b)
+0048af72 8b8be8580000    mov     ecx,dword ptr [ebx+58E8h]
+0048af78 85c9            test    ecx,ecx
+0048af7a 7573            jne     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x3db (0048afef)
+0048af7c 8d8dd4fdffff    lea     ecx,[ebp-22Ch]
+0048af82 51              push    ecx
+0048af83 e888cb3800      call    ws7v6!Edebuginitialization$qqrv+0x27a10 (00817b10)
+0048af88 84c0            test    al,al
+0048af8a 7463            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x3db (0048afef)
+0048af8c 6a00            push    0
+0048af8e 8d8360420000    lea     eax,[ebx+4260h]
+0048af94 50              push    eax
+0048af95 8d93e8580000    lea     edx,[ebx+58E8h]
+0048af9b 52              push    edx
+0048af9c 8d8b20580000    lea     ecx,[ebx+5820h]
+0048afa2 51              push    ecx
+0048afa3 8d8350480000    lea     eax,[ebx+4850h]
+0048afa9 50              push    eax
+0048afaa 8d934c480000    lea     edx,[ebx+484Ch]
+0048afb0 52              push    edx
+0048afb1 8d8dd4fdffff    lea     ecx,[ebp-22Ch]
+0048afb7 51              push    ecx
+0048afb8 e8f7cc3800      call    ws7v6!Edebuginitialization$qqrv+0x27bb4 (00817cb4)
+0048afbd 83c41c          add     esp,1Ch
+0048afc0 8bf0            mov     esi,eax
+0048afc2 85f6            test    esi,esi
+0048afc4 741f            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x3d1 (0048afe5)
+0048afc6 8d85d4fcffff    lea     eax,[ebp-32Ch]
+0048afcc 50              push    eax
+0048afcd 56              push    esi
+0048afce e8cfcc3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+0048afd3 83c408          add     esp,8
+0048afd6 8d95d4fcffff    lea     edx,[ebp-32Ch]
+0048afdc 52              push    edx
+0048afdd e8ae480500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048afe2 59              pop     ecx
+0048afe3 eb0a            jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x3db (0048afef)
+0048afe5 c783fc47000001000000 mov dword ptr [ebx+47FCh],1
+0048afef 8b8b68060000    mov     ecx,dword ptr [ebx+668h]
+0048aff5 85c9            test    ecx,ecx
+0048aff7 753a            jne     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x41f (0048b033)
+0048aff9 8d8b44410000    lea     ecx,[ebx+4144h]
+0048afff 51              push    ecx
+0048b000 8d837c060000    lea     eax,[ebx+67Ch]
+0048b006 50              push    eax
+0048b007 8d9368060000    lea     edx,[ebx+668h]
+0048b00d 52              push    edx
+0048b00e 8d8be0030000    lea     ecx,[ebx+3E0h]
+0048b014 51              push    ecx
+0048b015 8d8324050000    lea     eax,[ebx+524h]
+0048b01b 50              push    eax
+0048b01c 8b9360420000    mov     edx,dword ptr [ebx+4260h]
+0048b022 52              push    edx
+0048b023 684ebc9c00      push    offset ws7v6!DlgPrjMem+0xb88da (009cbc4e)
+0048b028 53              push    ebx
+0048b029 e8d6c20000      call    ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x78c (00497304)
+0048b02e 83c420          add     esp,20h
+0048b031 8bf0            mov     esi,eax
+0048b033 85f6            test    esi,esi
+0048b035 743d            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x460 (0048b074)
+0048b037 8d85d4fcffff    lea     eax,[ebp-32Ch]
+0048b03d 50              push    eax
+0048b03e 56              push    esi
+0048b03f e85ecc3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+0048b044 83c408          add     esp,8
+0048b047 8d95d4fcffff    lea     edx,[ebp-32Ch]
+0048b04d 52              push    edx
+0048b04e e83d480500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048b053 59              pop     ecx
+0048b054 c7830048000001000000 mov dword ptr [ebx+4800h],1
+0048b05e 8bc3            mov     eax,ebx
+0048b060 e8e7572600      call    ws7v6!Exceptionloginitialization$qqrv+0xcd648 (006f084c)
+0048b065 8b55dc          mov     edx,dword ptr [ebp-24h]
+0048b068 64891500000000  mov     dword ptr fs:[0],edx
+0048b06f e997020000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6f7 (0048b30b)
+0048b074 8bc3            mov     eax,ebx
+0048b076 e8c9b70000      call    ws7v6!TMaskeMainWinRefreshAusgabeBaugruppen$qqrv (00496844)
+0048b07b 8bc3            mov     eax,ebx
+0048b07d e8aab50000      call    ws7v6!TMaskeMainWinRefreshEingabeBaugruppen$qqrv (0049662c)
+0048b082 8b93e8580000    mov     edx,dword ptr [ebx+58E8h]
+0048b088 4a              dec     edx
+0048b089 7f4a            jg      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x4c1 (0048b0d5)
+0048b08b 8bc3            mov     eax,ebx
+0048b08d e842230000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x27c0 (0048d3d4)
+0048b092 8bf0            mov     esi,eax
+0048b094 85f6            test    esi,esi
+0048b096 743d            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x4c1 (0048b0d5)
+0048b098 8d85d4fcffff    lea     eax,[ebp-32Ch]
+0048b09e 50              push    eax
+0048b09f 56              push    esi
+0048b0a0 e8fdcb3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+0048b0a5 83c408          add     esp,8
+0048b0a8 8d95d4fcffff    lea     edx,[ebp-32Ch]
+0048b0ae 52              push    edx
+0048b0af e8dc470500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048b0b4 59              pop     ecx
+0048b0b5 c7830048000001000000 mov dword ptr [ebx+4800h],1
+0048b0bf 8bc3            mov     eax,ebx
+0048b0c1 e886572600      call    ws7v6!Exceptionloginitialization$qqrv+0xcd648 (006f084c)
+0048b0c6 8b55dc          mov     edx,dword ptr [ebp-24h]
+0048b0c9 64891500000000  mov     dword ptr fs:[0],edx
+0048b0d0 e936020000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6f7 (0048b30b)
+0048b0d5 6a01            push    1
+0048b0d7 8d4dd4          lea     ecx,[ebp-2Ch]
+0048b0da 8d933c480000    lea     edx,[ebx+483Ch]
+0048b0e0 8bc3            mov     eax,ebx
+0048b0e2 e8855f0000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6458 (0049106c)
+0048b0e7 8bf0            mov     esi,eax
+0048b0e9 85f6            test    esi,esi
+0048b0eb 743d            je      ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x516 (0048b12a)
+0048b0ed 8d85d4fcffff    lea     eax,[ebp-32Ch]
+0048b0f3 50              push    eax
+0048b0f4 56              push    esi
+0048b0f5 e8a8cb3800      call    ws7v6!Edebuginitialization$qqrv+0x27ba2 (00817ca2)
+0048b0fa 83c408          add     esp,8
+0048b0fd 8d95d4fcffff    lea     edx,[ebp-32Ch]
+0048b103 52              push    edx
+0048b104 e887470500      call    ws7v6!DlgprjuFinalize+0x4b94 (004df890)
+0048b109 59              pop     ecx
+0048b10a c7830048000001000000 mov dword ptr [ebx+4800h],1
+0048b114 8bc3            mov     eax,ebx
+0048b116 e831572600      call    ws7v6!Exceptionloginitialization$qqrv+0xcd648 (006f084c)
+0048b11b 8b55dc          mov     edx,dword ptr [ebp-24h]
+0048b11e 64891500000000  mov     dword ptr fs:[0],edx
+0048b125 e9e1010000      jmp     ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x6f7 (0048b30b)
+0048b12a 8d8b60480000    lea     ecx,[ebx+4860h]
+0048b130 8d935c480000    lea     edx,[ebx+485Ch]
+0048b136 8bc3            mov     eax,ebx
+0048b138 e8e7200000      call    ws7v6!TMaskeMainWinS7Maske_SPSTypWechseln$qqri+0x2610 (0048d224)
+0048b13d 8b9360480000    mov     edx,dword ptr [ebx+4860h]
+0048b143 8bc3            mov     eax,ebx
+0048b145 e89a0d2600      call    ws7v6!Exceptionloginitialization$qqrv+0xc8ce0 (006ebee4)
+0048b14a 8b935c480000    mov     edx,dword ptr [ebx+485Ch]
+0048b150 8bc3            mov     eax,ebx
+0048b152 e8590d2600      call    ws7v6!Exceptionloginitialization$qqrv+0xc8cac (006ebeb0)
+0048b157 8b8b68060000    mov     ecx,dword ptr [ebx+668h]
+0048b15d 51              push    ecx
+0048b15e 8d8b24050000    lea     ecx,[ebx+524h]
+0048b164 51              push    ecx
+0048b165 8d8342400000    lea     eax,[ebx+4042h]
+0048b16b 50              push    eax
+0048b16c e823e20000      call    ws7v6!TMaskeMainWinS7Maske_GleichmaessigSkalieren$qqrv+0x281c (00499394)
+0048b171 83c40c          add     esp,0Ch
+0048b174 8bf8            mov     edi,eax
+(35c8.2e8): Break instruction exception - code 80000003 (first chance)
+eax=002c9000 ebx=00000000 ecx=7711dc70 edx=7711dc70 esi=7711dc70 edi=7711dc70
+eip=770e4d10 esp=1305ff44 ebp=1305ff70 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!DbgBreakPoint:
+770e4d10 cc              int     3NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2202.7001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'

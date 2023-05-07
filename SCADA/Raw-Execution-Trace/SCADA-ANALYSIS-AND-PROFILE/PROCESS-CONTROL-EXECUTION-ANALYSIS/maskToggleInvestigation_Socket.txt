@@ -1,0 +1,2032 @@
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0251fbc4 77092996     6f1d0000 00000002 00000000 WSOCK32!_DllMainCRTStartup
+01 0251fbc4 7706dd42     6f1d1620 6f1d0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+02 0251fc10 7706dba5     00000002 00000000 704ecc92 ntdll!LdrpCallInitRoutine+0x51
+eax=00000000 ebx=00000000 ecx=6f1d1620 edx=6f1d0000 esi=0251fbb8 edi=6f1d1620
+eip=6f1d1620 esp=0251fba8 ebp=0251fbc4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+WSOCK32!_DllMainCRTStartup:
+6f1d1620 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0251fbc4 77092996     6f1d0000 00000002 00000000 WSOCK32!__DllMainCRTStartup
+01 0251fbc4 7706dd42     6f1d1620 6f1d0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+02 0251fc10 7706dba5     00000002 00000000 704ecc92 ntdll!LdrpCallInitRoutine+0x51
+eax=00000000 ebx=00000000 ecx=6f1d1620 edx=6f1d0000 esi=0251fbb8 edi=6f1d1620
+eip=6f1d1656 esp=0251fba8 ebp=0251fbc4 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+WSOCK32!__DllMainCRTStartup:
+6f1d1656 6a2c            push    2Ch
+ # ChildEBP RetAddr      Args to Child              
+00 0251fbc4 7706dd42     6f1d1620 6f1d0000 00000002 WSOCK32!_SEH_prolog4
+01 0251fc10 7706dba5     00000002 00000000 704ecc92 ntdll!LdrpCallInitRoutine+0x51
+02 0251fcac 770863fb     704ecd3a 00000000 00000000 ntdll!LdrpInitializeThread+0x12c
+eax=00000000 ebx=00000000 ecx=6f1d1620 edx=6f1d0000 esi=0251fbb8 edi=6f1d1620
+eip=6f1d1b3c esp=0251fb9c ebp=0251fbc4 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+WSOCK32!_SEH_prolog4:
+6f1d1b3c 68a01b1d6f      push    offset WSOCK32!_except_handler4 (6f1d1ba0)
+ # ChildEBP RetAddr      Args to Child              
+00 0251fba4 6f1d171a     6f1d0000 00000002 00000000 WSOCK32!_CRT_INIT
+01 0251fba4 77092996     6f1d0000 00000002 00000000 WSOCK32!__DllMainCRTStartup+0xc4
+02 0251fbc4 7706dd42     6f1d1620 6f1d0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+eax=00000002 ebx=00000000 ecx=6f1d1620 edx=6f1d0000 esi=00000000 edi=00000000
+eip=6f1d1432 esp=0251fb48 ebp=0251fba4 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+WSOCK32!_CRT_INIT:
+6f1d1432 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0251fba4 6f1d175d     6f1d0000 00000002 00000000 WSOCK32!DllMain
+01 0251fba4 77092996     6f1d0000 00000002 00000000 WSOCK32!__DllMainCRTStartup+0x107
+02 0251fbc4 7706dd42     6f1d1620 6f1d0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+eax=00000001 ebx=00000000 ecx=6f1d1620 edx=6f1d0000 esi=00000000 edi=00000000
+eip=6f1d1b2d esp=0251fb48 ebp=0251fba4 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+WSOCK32!DllMain:
+6f1d1b2d 33c0            xor     eax,eax
+ # ChildEBP RetAddr      Args to Child              
+00 0251fbc4 77092996     6edc0000 00000002 00000000 mswsock!_DllMainCRTStartup
+01 0251fbc4 7706dd42     6edca0a0 6edc0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+02 0251fc10 7706dba5     00000002 00000000 704ecc92 ntdll!LdrpCallInitRoutine+0x51
+eax=00000000 ebx=00000000 ecx=6edca0a0 edx=6edc0000 esi=0251fbb8 edi=6edca0a0
+eip=6edca0a0 esp=0251fba8 ebp=0251fbc4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_DllMainCRTStartup:
+6edca0a0 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0251fba4 6edca0bb     00000000 0251fbb8 0251fbc4 mswsock!__DllMainCRTStartup
+01 0251fba4 77092996     6edc0000 00000002 00000000 mswsock!_DllMainCRTStartup+0x1b
+02 0251fbc4 7706dd42     6edca0a0 6edc0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+eax=00000000 ebx=00000000 ecx=6edc0000 edx=00000002 esi=00000002 edi=6edca0a0
+eip=6edca0d0 esp=0251fb98 ebp=0251fba4 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!__DllMainCRTStartup:
+6edca0d0 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0251fb94 6edca139     6edc0000 4b6e3b3e 6edca0a0 mswsock!_CRT_INIT
+01 0251fb94 6edca0bb     00000000 0251fbb8 0251fbc4 mswsock!__DllMainCRTStartup+0x69
+02 0251fba4 77092996     6edc0000 00000002 00000000 mswsock!_DllMainCRTStartup+0x1b
+eax=0251fb84 ebx=6edc0000 ecx=6edc0000 edx=00000002 esi=00000002 edi=6edca0a0
+eip=6edca1e0 esp=0251fb30 ebp=0251fb94 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_CRT_INIT:
+6edca1e0 83fa01          cmp     edx,1
+ # ChildEBP RetAddr      Args to Child              
+00 0251fb94 6edca15c     00000000 4b6e3b3e 6edca0a0 mswsock!DllMain
+01 0251fb94 6edca0bb     00000000 0251fbb8 0251fbc4 mswsock!__DllMainCRTStartup+0x8c
+02 0251fba4 77092996     6edc0000 00000002 00000000 mswsock!_DllMainCRTStartup+0x1b
+eax=00000001 ebx=6edc0000 ecx=6edc0000 edx=00000002 esi=00000002 edi=00000001
+eip=6edcb220 esp=0251fb30 ebp=0251fb94 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!DllMain:
+6edcb220 6a14            push    14h
+ # ChildEBP RetAddr      Args to Child              
+00 0251fb94 6edca0bb     00000000 0251fbb8 0251fbc4 mswsock!_SEH_prolog4
+01 0251fba4 77092996     6edc0000 00000002 00000000 mswsock!_DllMainCRTStartup+0x1b
+02 0251fbc4 7706dd42     6edca0a0 6edc0000 00000002 ntdll!LdrxCallInitRoutine+0x16
+eax=00000001 ebx=6edc0000 ecx=6edc0000 edx=00000002 esi=00000002 edi=00000001
+eip=6edcb450 esp=0251fb24 ebp=0251fb94 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_SEH_prolog4:
+6edcb450 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f70ff50 02e483f3     02e63f70 02e63f74 02e483c0 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x4a140
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edcb4ac esp=0f70fdb4 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edd4c80 esp=0f20fdc0 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdf4 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fdf0 ebx=00000000 ecx=6edd4c80 edx=017609a4 esi=6edd4c80 edi=01818918
+eip=6edd4c80 esp=0f70fdc0 ebp=0f70fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPAccept:
+6edd4c80 68ec010000      push    1ECh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+WARNING: Stack unwind information not available. Following frames may be wrong.
+02 0f20ff50 02e48357     02e63f68 02e63f6c 02e48324 WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv+0x49f68
+eax=0f20fdf0 ebx=00000000 ecx=6edd4c80 edx=017609d4 esi=6edd4c80 edi=01815520
+eip=6edcb4ac esp=0f20fdb4 ebp=0f20fdf4 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4d97     461f3d16 01815520 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x117
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=00000001 esi=0181a7b0 edi=000006b0
+eip=6edca860 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4d97     464f3d16 01818918 6edd4c80 mswsock!SockFindAndReferenceSocket
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x117
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=00000001 esi=0181a768 edi=000006ac
+eip=6edca860 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei ng nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000286
+mswsock!SockFindAndReferenceSocket:
+6edca860 8bff            mov     edi,edi
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edd70d0 esp=0f70fb94 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edd70d0 esp=0f20fb94 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!WSPSelect:
+6edd70d0 68dc000000      push    0DCh
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!_SEH_prolog4_GS
+01 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+02 0f20fe10 02e278a0     000006b0 0f20ff30 0f20ff4c WS2_32!accept+0x17
+eax=0f20fc58 ebx=00000000 ecx=0f20ff4c edx=000006b0 esi=0f20fd68 edi=0181a0e0
+eip=6edcb4ac esp=0f20fb88 ebp=0f20fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!_SEH_prolog4_GS
+01 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+02 0f70fe10 02e27a78     000006ac 0f70ff30 0f70ff4c WS2_32!accept+0x17
+eax=0f70fc58 ebx=00000000 ecx=0f70ff4c edx=000006ac esi=0f70fd68 edi=0181a280
+eip=6edcb4ac esp=0f70fb88 ebp=0f70fdbc iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_SEH_prolog4_GS:
+6edcb4ac 6850aedc6e      push    offset mswsock!_except_handler4 (6edcae50)
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f20fbd0 edx=00000000 esi=0f20fc58 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74c9     00000000 00000000 fffffff6 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x3f9
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=0f70fbd0 edx=00000000 esi=0f70fc58 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f20fb90 6edd4e99     00000001 0f20fc58 00000000 mswsock!WSPSelect+0x414
+02 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f20fa80 ebp=0f20fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f20fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fb90 6edd74e4     00000000 00000000 ff676980 mswsock!_allmul
+01 0f70fb90 6edd4e99     00000001 0f70fc58 00000000 mswsock!WSPSelect+0x414
+02 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x219
+eax=00000000 ebx=00000000 ecx=fffffff6 edx=00000000 esi=00000000 edi=00000000
+eip=6edcb510 esp=0f70fa80 ebp=0f70fb90 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+mswsock!_allmul:
+6edcb510 8b442408        mov     eax,dword ptr [esp+8] ss:002b:0f70fa88=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f70fdbc 6edd4efa     464f3d16 01818918 6edd4c80 mswsock!__WSAFDIsSet
+01 0f70fdbc 75db692f     000006ac 0f70ff30 0f70ff4c mswsock!WSPAccept+0x27a
+02 0f70fdf4 75db69d7     000006ac 0f70ff30 0f70ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006ac edx=0f70fc58 esi=0f70fd68 edi=0181a280
+eip=6edd7826 esp=0f70fbac ebp=0f70fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f70fc58=00000000
+ # ChildEBP RetAddr      Args to Child              
+00 0f20fdbc 6edd4efa     461f3d16 01815520 6edd4c80 mswsock!__WSAFDIsSet
+01 0f20fdbc 75db692f     000006b0 0f20ff30 0f20ff4c mswsock!WSPAccept+0x27a
+02 0f20fdf4 75db69d7     000006b0 0f20ff30 0f20ff4c WS2_32!WSAAccept+0x8f
+eax=00000000 ebx=00000000 ecx=000006b0 edx=0f20fc58 esi=0f20fd68 edi=0181a0e0
+eip=6edd7826 esp=0f20fbac ebp=0f20fdbc iopl=0         nv up ei pl nz ac po cy
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000213
+mswsock!__WSAFDIsSet:
+6edd7826 8b02            mov     eax,dword ptr [edx]  ds:002b:0f20fc58=00000000
+(57b4.4494): Break instruction exception - code 80000003 (first chance)
+eax=00355000 ebx=00000000 ecx=770cdca0 edx=770cdca0 esi=770cdca0 edi=770cdca0
+eip=77094d30 esp=09feff44 ebp=09feff70 iopl=0         nv up ei pl zr na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+ntdll!DbgBreakPoint:
+77094d30 cc              int     3

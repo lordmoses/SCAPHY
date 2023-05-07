@@ -1,0 +1,1208 @@
+Opened log file 
+
+Microsoft (R) Windows Debugger Version 10.0.22473.1005 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+
+Loading Dump File
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\HeapAnalysis.js'
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\TtdAnalyze.js'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+Symbol search path is: .srv*
+Executable search path is: 
+ModLoad: 000e0000 000f2000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 001e0000 001fb000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 00400000 0114a000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+ModLoad: 01690000 016b8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 02740000 02c8d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 02c90000 02dc4000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 02dd0000 02dfd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02e00000 02ed8000   C:\WINDOWS\SYSTEM32\WS7_S7AG.DLL
+ModLoad: 02ee0000 03136000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 03140000 03180000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 03180000 032d5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 032e0000 0331b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 03320000 033cf000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 0b1a0000 0b52d000   C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 50960000 5097f000   C:\WINDOWS\system32\RMCLIENT.dll
+ModLoad: 50980000 50b63000   C:\WINDOWS\system32\twinapi.appcore.dll
+ModLoad: 52b10000 52d6e000   C:\WINDOWS\System32\CoreUIComponents.dll
+ModLoad: 52d70000 52df9000   C:\WINDOWS\System32\CoreMessaging.dll
+ModLoad: 52e00000 52e81000   C:\WINDOWS\System32\TextInputFramework.dll
+ModLoad: 55c10000 55ce7000   C:\Windows\System32\wintypes.dll
+ModLoad: 56960000 56a1f000   C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+ModLoad: 603a0000 60461000   C:\WINDOWS\system32\dxgi.dll
+ModLoad: 60470000 6064e000   C:\WINDOWS\system32\d3d11.dll
+ModLoad: 61d10000 61d29000   C:\WINDOWS\SYSTEM32\dxcore.dll
+ModLoad: 61d70000 61d95000   C:\WINDOWS\SYSTEM32\DWMAPI.DLL
+ModLoad: 65f70000 65f8c000   C:\Windows\System32\sppc.dll
+ModLoad: 65f90000 66001000   C:\Windows\System32\appresolver.dll
+ModLoad: 66530000 66550000   C:\Windows\System32\SLC.dll
+ModLoad: 66650000 66797000   C:\ProgramData\Microsoft\Windbg\1-2111-9001\TTD\wow64\TTDRecordCPU.dll
+ModLoad: 66c80000 66c99000   C:\WINDOWS\SYSTEM32\olepro32.dll
+ModLoad: 66cd0000 66cd8000   C:\WINDOWS\SYSTEM32\FLTLIB.DLL
+ModLoad: 66ce0000 66cfb000   C:\WINDOWS\SYSTEM32\CLDAPI.dll
+ModLoad: 66d00000 66d1b000   C:\WINDOWS\SYSTEM32\edputil.dll
+ModLoad: 67a90000 67aa3000   C:\WINDOWS\system32\NetworkExplorer.dll
+ModLoad: 67ec0000 67f5f000   C:\WINDOWS\SYSTEM32\apphelp.dll
+ModLoad: 68080000 681ea000   C:\WINDOWS\system32\dcomp.dll
+ModLoad: 681f0000 68221000   C:\WINDOWS\system32\dataexchange.dll
+ModLoad: 68400000 68408000   C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+ModLoad: 6f780000 6f790000   C:\Windows\System32\WKSCLI.DLL
+ModLoad: 6f980000 6f986000   C:\WINDOWS\SYSTEM32\SHFOLDER.DLL
+ModLoad: 70140000 70192000   C:\WINDOWS\SYSTEM32\mswsock.dll
+ModLoad: 706e0000 7090a000   C:\WINDOWS\SYSTEM32\iertutil.dll
+ModLoad: 70940000 70948000   C:\WINDOWS\SYSTEM32\WSOCK32.DLL
+ModLoad: 70a30000 70bda000   C:\WINDOWS\SYSTEM32\urlmon.dll
+ModLoad: 70fd0000 70fec000   C:\WINDOWS\SYSTEM32\srvcli.dll
+ModLoad: 71000000 71032000   C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+ModLoad: 71040000 71105000   C:\WINDOWS\SYSTEM32\PROPSYS.dll
+ModLoad: 71110000 71133000   C:\WINDOWS\SYSTEM32\winmmbase.dll
+ModLoad: 712b0000 71320000   C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+ModLoad: 71320000 71344000   C:\WINDOWS\SYSTEM32\WINMM.DLL
+ModLoad: 71350000 713a3000   C:\WINDOWS\system32\Oleacc.dll
+ModLoad: 713b0000 7142a000   C:\WINDOWS\system32\uxtheme.dll
+ModLoad: 71430000 71436000   C:\WINDOWS\SYSTEM32\MSIMG32.DLL
+ModLoad: 74990000 749b9000   C:\WINDOWS\SYSTEM32\ntmarta.dll
+ModLoad: 749d0000 74bdf000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1916_none_e6276c4ef8de06c3\COMCTL32.DLL
+ModLoad: 74be0000 74be8000   C:\WINDOWS\SYSTEM32\VERSION.dll
+ModLoad: 74c80000 74c8b000   C:\WINDOWS\SYSTEM32\netutils.dll
+ModLoad: 74c90000 74d52000   C:\Windows\System32\WINHTTP.dll
+ModLoad: 74e60000 74e73000   C:\WINDOWS\SYSTEM32\NETAPI32.DLL
+ModLoad: 74ff0000 7500e000   C:\Windows\System32\USERENV.dll
+ModLoad: 75080000 7510f000   C:\WINDOWS\System32\SYSFER.DLL
+ModLoad: 75110000 7511a000   C:\WINDOWS\System32\CRYPTBASE.dll
+ModLoad: 75120000 75140000   C:\WINDOWS\System32\SspiCli.dll
+ModLoad: 75140000 75165000   C:\WINDOWS\System32\IMM32.DLL
+ModLoad: 75170000 75730000   C:\WINDOWS\System32\windows.storage.dll
+ModLoad: 75730000 7592f000   C:\WINDOWS\System32\KERNELBASE.dll
+ModLoad: 75930000 75973000   C:\WINDOWS\System32\powrprof.dll
+ModLoad: 75980000 75a77000   C:\WINDOWS\System32\OLE32.DLL
+ModLoad: 75a80000 75aa1000   C:\WINDOWS\System32\GDI32.dll
+ModLoad: 75ab0000 75b60000   C:\WINDOWS\System32\COMDLG32.DLL
+ModLoad: 75b70000 75b83000   C:\WINDOWS\System32\cryptsp.dll
+ModLoad: 75b90000 75bf2000   C:\WINDOWS\System32\bcryptPrimitives.dll
+ModLoad: 75c00000 75c17000   C:\WINDOWS\System32\win32u.dll
+ModLoad: 75c20000 75c7e000   C:\WINDOWS\System32\WS2_32.dll
+ModLoad: 75c90000 75d93000   C:\WINDOWS\System32\MSCTF.dll
+ModLoad: 75da0000 76017000   C:\WINDOWS\System32\combase.dll
+ModLoad: 76020000 76026000   C:\WINDOWS\System32\PSAPI.DLL
+ModLoad: 76480000 769fa000   C:\WINDOWS\System32\SHELL32.dll
+ModLoad: 76b70000 76b7f000   C:\WINDOWS\System32\kernel.appcore.dll
+ModLoad: 76b80000 76b97000   C:\WINDOWS\System32\profapi.dll
+ModLoad: 76ba0000 76be4000   C:\WINDOWS\System32\SHLWAPI.dll
+ModLoad: 76c60000 76d1b000   C:\WINDOWS\System32\RPCRT4.dll
+ModLoad: 76d20000 76db2000   C:\WINDOWS\System32\OLEAUT32.dll
+ModLoad: 76e10000 76e1d000   C:\WINDOWS\System32\UMPDC.dll
+ModLoad: 76e80000 76fdd000   C:\WINDOWS\System32\gdi32full.dll
+ModLoad: 76fe0000 77100000   C:\WINDOWS\System32\ucrtbase.dll
+ModLoad: 77120000 7719a000   C:\WINDOWS\System32\ADVAPI32.DLL
+ModLoad: 771a0000 77337000   C:\WINDOWS\System32\USER32.dll
+ModLoad: 77340000 77359000   C:\WINDOWS\System32\bcrypt.dll
+ModLoad: 774f0000 77570000   C:\WINDOWS\System32\clbcatq.dll
+ModLoad: 77570000 775ec000   C:\WINDOWS\System32\msvcp_win.dll
+ModLoad: 775f0000 77673000   C:\WINDOWS\System32\shcore.dll
+ModLoad: 77680000 7773f000   C:\WINDOWS\System32\msvcrt.dll
+ModLoad: 77740000 7777b000   C:\WINDOWS\System32\cfgmgr32.dll
+ModLoad: 77780000 77860000   C:\WINDOWS\System32\KERNEL32.DLL
+ModLoad: 77860000 778d6000   C:\WINDOWS\System32\sechost.dll
+ModLoad: 77950000 77aea000   C:\WINDOWS\SYSTEM32\ntdll.dll
+ModLoad: 79ab0000 7a0c7000   C:\Windows\System32\ieframe.dll
+ModLoad: 7a990000 7a9d5000   C:\Windows\System32\Bcp47Langs.dll
+ModLoad: 7b1d0000 7b25b000   C:\Windows\System32\Windows.StateRepositoryPS.dll
+ModLoad: 7b6b0000 7b6eb000   C:\Windows\System32\OneCoreCommonProxyStub.dll
+................................................................
+........................................
+
+************* Symbol Loading Error Summary **************
+Module name            Error
+ntdll                  The system cannot find the file specified
+
+You can troubleshoot most symbol related issues by turning on symbol loading diagnostics (!sym noisy) and repeating the command that caused symbols to be loaded.
+You should also verify that your symbol search path (.sympath) is correct.
+(4f84.40b8): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 6E:0
+eax=66c71190 ebx=00000001 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=77982ec0 esp=0c6ffd14 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!LdrInitializeThunk:
+77982ec0 8bff            mov     edi,edi
+0:000> dx @$curprocess
+dx @$curprocess
+@$curprocess                 : ws7v6.exe [Switch To]
+    Name             : ws7v6.exe
+    Id               : 0x4f84
+    Handle           : 0x1
+    Threads         
+    Modules         
+    Environment     
+    TTD             
+    Devices         
+    Io              
+0:000> dx -r1 @$curprocess.Threads
+dx -r1 @$curprocess.Threads
+@$curprocess.Threads                
+    [0x40b8]         [Switch To]
+    [0x4c38]         [Switch To]
+    [0x3e7c]         [Switch To]
+    [0x4af0]         [Switch To]
+    [0x4b00]         [Switch To]
+    [0x4af8]         [Switch To]
+    [0x4afc]         [Switch To]
+    [0x2cc0]         [Switch To]
+    [0x2d24]         [Switch To]
+    [0x2794]         [Switch To]
+    [0x4ec4]         [Switch To]
+    [0x44f8]         [Switch To]
+    [0x4ae4]         [Switch To]
+    [0x4aec]         [Switch To]
+    [0xfc8]          [Switch To]
+    [0x4f28]         [Switch To]
+    [0x4d24]         [Switch To]
+    [0x4d8c]         [Switch To]
+0:000> !tt 0
+!tt 0
+Setting position to the beginning of the trace
+Setting position: 6E:0
+gt 0
+(4f84.40b8): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 6E:0
+eax=66c71190 ebx=00000001 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=77982ec0 esp=0c6ffd14 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!LdrInitializeThunk:
+77982ec0 8bff            mov     edi,edi
+0:000> dx -r1 @$curprocess.Threads
+dx -r1 @$curprocess.Threads
+@$curprocess.Threads                
+    [0x40b8]         [Switch To]
+    [0x4c38]         [Switch To]
+    [0x3e7c]         [Switch To]
+    [0x4af0]         [Switch To]
+    [0x4b00]         [Switch To]
+    [0x4af8]         [Switch To]
+    [0x4afc]         [Switch To]
+    [0x2cc0]         [Switch To]
+    [0x2d24]         [Switch To]
+    [0x2794]         [Switch To]
+    [0x4ec4]         [Switch To]
+    [0x44f8]         [Switch To]
+    [0x4ae4]         [Switch To]
+    [0x4aec]         [Switch To]
+    [0xfc8]          [Switch To]
+    [0x4f28]         [Switch To]
+    [0x4d24]         [Switch To]
+    [0x4d8c]         [Switch To]
+0:000> dx -r1 @$curprocess.Threads[16568]
+dx -r1 @$curprocess.Threads[16568]
+@$curprocess.Threads[16568]                 [Switch To]
+    Id               : 0x40b8
+    Stack           
+    Registers       
+    Environment     
+    TTD             
+0:000> dx -r1 @$curprocess.TTD
+dx -r1 @$curprocess.TTD
+@$curprocess.TTD                
+    Index           
+    Threads         
+    Events          
+    DebugOutput     
+    Islands         
+    Lifetime         : [6E:0, 52E422:0]
+    DefaultMemoryPolicy : GloballyAggressive
+    SetPosition      [Sets the debugger to point to the given position on this process.]
+    GatherMemoryUse  [0]
+0:000> dx -r1 @$curprocess.TTD.Threads
+dx -r1 @$curprocess.TTD.Threads
+@$curprocess.TTD.Threads                
+    [0x0]            : UID: 2, TID: 0x40B8
+    [0x1]            : UID: 3, TID: 0x4C38
+    [0x2]            : UID: 4, TID: 0x3E7C
+    [0x3]            : UID: 5, TID: 0x4AF0
+    [0x4]            : UID: 6, TID: 0x4B00
+    [0x5]            : UID: 7, TID: 0x4AF8
+    [0x6]            : UID: 8, TID: 0x4AFC
+    [0x7]            : UID: 9, TID: 0x2CC0
+    [0x8]            : UID: 10, TID: 0x2D24
+    [0x9]            : UID: 11, TID: 0x2794
+    [0xa]            : UID: 12, TID: 0x4EC4
+    [0xb]            : UID: 13, TID: 0x44F8
+    [0xc]            : UID: 14, TID: 0x4AE4
+    [0xd]            : UID: 15, TID: 0x4AEC
+    [0xe]            : UID: 16, TID: 0xFC8
+    [0xf]            : UID: 17, TID: 0x1150
+    [0x10]           : UID: 18, TID: 0x4CB0
+    [0x11]           : UID: 19, TID: 0x41E8
+    [0x12]           : UID: 20, TID: 0x4F28
+    [0x13]           : UID: 21, TID: 0x4D24
+    [0x14]           : UID: 22, TID: 0x3E84
+    [0x15]           : UID: 23, TID: 0x4298
+    [0x16]           : UID: 24, TID: 0x3888
+    [0x17]           : UID: 25, TID: 0x1D54
+    [0x18]           : UID: 26, TID: 0x43CC
+    [0x19]           : UID: 27, TID: 0x4D8C
+0:000> dx -r1 @$curprocess.TTD.Threads[0]
+dx -r1 @$curprocess.TTD.Threads[0]
+@$curprocess.TTD.Threads[0]                 : UID: 2, TID: 0x40B8
+    UniqueId         : 0x2
+    Id               : 0x40b8
+    Lifetime         : [6B:0, 3D3:0]
+    ActiveTime       : [6E:0, 3D3:0]
+    GatherMemoryUse  [Gather inputs, outputs and memory used by a range of execution within a thread]
+0:000> ~
+~
+.  0  Id: 4f84.40b8 Suspend: 4096 Teb: 00284000 Unfrozen
+   1  Id: 4f84.4c38 Suspend: 4096 Teb: 00275000 Unfrozen
+   2  Id: 4f84.3e7c Suspend: 4096 Teb: 0027b000 Unfrozen
+   3  Id: 4f84.4af0 Suspend: 4096 Teb: 00257000 Unfrozen
+   4  Id: 4f84.4b00 Suspend: 4096 Teb: 00260000 Unfrozen
+   5  Id: 4f84.4af8 Suspend: 4096 Teb: 0025a000 Unfrozen
+   6  Id: 4f84.4afc Suspend: 4096 Teb: 0025d000 Unfrozen
+   7  Id: 4f84.2cc0 Suspend: 4096 Teb: 0024b000 Unfrozen
+   8  Id: 4f84.2d24 Suspend: 4096 Teb: 00278000 Unfrozen
+   9  Id: 4f84.2794 Suspend: 4096 Teb: 0026f000 Unfrozen
+  10  Id: 4f84.4ec4 Suspend: 4096 Teb: 00272000 Unfrozen
+  11  Id: 4f84.44f8 Suspend: 4096 Teb: 00263000 Unfrozen
+  12  Id: 4f84.4ae4 Suspend: 4096 Teb: 0024e000 Unfrozen
+  13  Id: 4f84.4aec Suspend: 4096 Teb: 00254000 Unfrozen
+  14  Id: 4f84.fc8 Suspend: 4096 Teb: 00251000 Unfrozen
+  15  Id: 4f84.4f28 Suspend: 4096 Teb: 00269000 Unfrozen
+  16  Id: 4f84.4d24 Suspend: 4096 Teb: 0026c000 Unfrozen
+  17  Id: 4f84.4d8c Suspend: 4096 Teb: 00266000 Unfrozen
+0:000> dx -r1 @$curprocess.TTD.Threads[16]
+dx -r1 @$curprocess.TTD.Threads[16]
+@$curprocess.TTD.Threads[16]                 : UID: 18, TID: 0x4CB0
+    UniqueId         : 0x12
+    Id               : 0x4cb0
+    Lifetime         : [55318:0, 524A92:0]
+    ActiveTime       : [5532A:0, 524A92:0]
+    GatherMemoryUse  [Gather inputs, outputs and memory used by a range of execution within a thread]
+0:000> !tt 5532A:0
+!tt 5532A:0
+Setting position: 5532A:0
+gt 0
+(4f84.4cb0): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 5532A:0
+eax=02e883c0 ebx=01640af0 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=77982ec0 esp=024ffd14 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!LdrInitializeThunk:
+77982ec0 8bff            mov     edi,edi
+0:010> bm WS7_S7AG!*
+bm WS7_S7AG!*
+*** WARNING: Unable to verify checksum for WS7_S7AG.DLL
+  1: 02e16bd4          @!"WS7_S7AG!S7AG_BSRoutine$qqsv"
+  2: 02e16c00          @!"WS7_S7AG!S7AG_BSRoutineReady$qqsv"
+  3: 02e16c10          @!"WS7_S7AG!S7AG_Step7ZyklusReady$qqsv"
+  4: 02e16c20          @!"WS7_S7AG!S7AG_Step7Zyklus$qqsv"
+  5: 02e16f04          @!"WS7_S7AG!S7AG_GetAnzahlEreignisse$qqspi"
+  6: 02e16f50          @!"WS7_S7AG!S7AG_GetAnzahlEreignisse$qqsv"
+  7: 02e16f58          @!"WS7_S7AG!S7AG_GetEreignis$qqsuspuspulpuct2"
+  8: 02e16fcc          @!"WS7_S7AG!S7AG_BstWrite$qqsucusususpus"
+  9: 02e16ff4          @!"WS7_S7AG!S7AG_BstWrite$qqsucusususpuspi"
+ 10: 02e171c8          @!"WS7_S7AG!S7AG_BstRead$qqsucuspusust3pi"
+ 11: 02e17270          @!"WS7_S7AG!S7AG_BstRead$qqsucuspusust3"
+ 12: 02e17294          @!"WS7_S7AG!S7AG_GetZeitstempelBst$qqsucuspust3"
+ 13: 02e172b4          @!"WS7_S7AG!S7AG_GetAnzahlBefehleJeZyklus$qqsv"
+ 14: 02e172c4          @!"WS7_S7AG!S7AG_BstLoeschen$qqsucuspi"
+ 15: 02e17334          @!"WS7_S7AG!S7AG_BstLoeschen$qqsucus"
+ 16: 02e1734c          @!"WS7_S7AG!S7AG_BstVorhanden$qqsucuspus"
+ 17: 02e17368          @!"WS7_S7AG!S7AG_BstVorhanden$qqsucuspuspi"
+ 18: 02e173dc          @!"WS7_S7AG!S7AG_Urloeschen$qqsv"
+ 19: 02e173e4          @!"WS7_S7AG!S7AG_Urloeschen$qqspi"
+ 20: 02e1742c          @!"WS7_S7AG!S7AG_GetCPUZustand$qqspi"
+ 21: 02e17478          @!"WS7_S7AG!S7AG_GetCPUZustand$qqsv"
+ 22: 02e17480          @!"WS7_S7AG!S7AG_Stop$qqspi"
+ 23: 02e17504          @!"WS7_S7AG!S7AG_Stop$qqsv"
+ 24: 02e1750c          @!"WS7_S7AG!S7AG_Start$qqsucpi"
+ 25: 02e17598          @!"WS7_S7AG!S7AG_Start$qqsuc"
+ 26: 02e175ac          @!"WS7_S7AG!S7AG_GetAuslastungFloat$qqsv"
+ 27: 02e175fc          @!"WS7_S7AG!S7AG_GetSpeicherInfo$qqspult1pi"
+ 28: 02e17658          @!"WS7_S7AG!S7AG_GetSpeicherInfo$qqspult1"
+ 29: 02e17670          @!"WS7_S7AG!S7AG_SimulatorInit$qqsv"
+ 30: 02e1767c          @!"WS7_S7AG!S7AG_GetS7RamSizeByte$qqspus"
+ 31: 02e1769c          @!"WS7_S7AG!GetZyklusZeiten$qqspult1t1"
+ 32: 02e176d8          @!"WS7_S7AG!S7AG_SetClockCounterPtr$qqspul"
+ 33: 02e176e4          @!"WS7_S7AG!S7AG_GetEAPtr$qqsv"
+ 34: 02e176ec          @!"WS7_S7AG!S7AG_GetMPtr$qqsv"
+ 35: 02e176f4          @!"WS7_S7AG!S7AG_GetPeriEPtr$qqsv"
+ 36: 02e176fc          @!"WS7_S7AG!S7AG_GetPeriAPtr$qqsv"
+ 37: 02e17704          @!"WS7_S7AG!S7AG_GetTPtr$qqsv"
+ 38: 02e1770c          @!"WS7_S7AG!S7AG_GetZPtr$qqsv"
+ 39: 02e17714          @!"WS7_S7AG!S7AG_BstStatusAnmelden$qqsucususpusususpiul"
+ 40: 02e1777c          @!"WS7_S7AG!S7AG_BstStatusAnmelden$qqsucususpususus"
+ 41: 02e177a8          @!"WS7_S7AG!S7AG_BstStatusAbholen$qqspusust1t1pucpi"
+ 42: 02e17804          @!"WS7_S7AG!S7AG_BstStatusAbholen$qqspusust1t1puc"
+ 43: 02e17828          @!"WS7_S7AG!S7AG_BstStatusAbmelden$qqspi"
+ 44: 02e17868          @!"WS7_S7AG!S7AG_BstStatusAbmelden$qqsv"
+ 45: 02e17870          @!"WS7_S7AG!S7AG_GetSazAdr$qqsucus"
+ 46: 02e17888          @!"WS7_S7AG!S7AG_SetDebugFnc$qqspqucusul$uc"
+ 47: 02e1789c          @!"WS7_S7AG!S7AG_GetAktuelleSazAdr$qqsv"
+ 48: 02e178a8          @!"WS7_S7AG!S7AG_GetBstMitSazAdr$qqspucpus"
+ 49: 02e178d8          @!"WS7_S7AG!S7AG_SetDebugModus$qqsuc"
+ 50: 02e178f0          @!"WS7_S7AG!S7AG_GetS7Register$qqspult1puct3t3t3t3t3t3t3t3pustct1t1tctc"
+ 51: 02e179ec          @!"WS7_S7AG!S7AG_SetRegisterAuf1$qqsv"
+ 52: 02e17a5c          @!"WS7_S7AG!S7AG_SetRegisterAuf0$qqsv"
+ 53: 02e17ac4          @!"WS7_S7AG!S7AG_GetEreignisString$qqsuspc"
+ 54: 02e17b78          @!"WS7_S7AG!S7AG_GetBausteinverzeichnis$qqspususpucpi"
+ 55: 02e17d4c          @!"WS7_S7AG!S7AG_GetBausteinverzeichnis$qqspususpuc"
+ 56: 02e17d68          @!"WS7_S7AG!S7AG_GetAGInfoDaten$qqspcpulpust3t3t3t3t3t3t3t3t3t3t3t3pi"
+ 57: 02e17eac          @!"WS7_S7AG!S7AG_GetAGInfoDaten$qqspcpulpust3t3t3t3t3t3t3t3t3t3t3t3"
+ 58: 02e17ef8          @!"WS7_S7AG!S7AG_StatusVarKontinuierlichAnmelden$qqsucpususipi"
+ 59: 02e17f50          @!"WS7_S7AG!S7AG_StatusVarKontinuierlichAnmelden$qqsucpusus"
+ 60: 02e17f70          @!"WS7_S7AG!S7AG_StatusVarKontiAbholen$qqspusust1pucipi"
+ 61: 02e17fcc          @!"WS7_S7AG!S7AG_StatusVarKontiAbholen$qqspusust1puc"
+ 62: 02e17ff0          @!"WS7_S7AG!S7AG_StatusVarKontinuierlichAbmelden$qqsipi"
+ 63: 02e18034          @!"WS7_S7AG!S7AG_StatusVarKontinuierlichAbmelden$qqsv"
+ 64: 02e18040          @!"WS7_S7AG!S7AG_StatusVarSingleShot$qqspusust1ust1ipi"
+ 65: 02e180a0          @!"WS7_S7AG!S7AG_StatusVarSingleShot$qqspusust1ust1"
+ 66: 02e180c8          @!"WS7_S7AG!S7AG_SteuernVarSingleShot$qqspususpucust1ipi"
+ 67: 02e18130          @!"WS7_S7AG!S7AG_SteuernVarSingleShot$qqspususpucust1"
+ 68: 02e18158          @!"WS7_S7AG!S7AG_SteuernVarKontiAnmelden$qqsucpususiipi"
+ 69: 02e181c4          @!"WS7_S7AG!S7AG_SteuernVarKontiAnmelden$qqsucpusus"
+ 70: 02e181e4          @!"WS7_S7AG!S7AG_SteuernVarKontiAbrufen$qqspucuspust1ipi"
+ 71: 02e18248          @!"WS7_S7AG!S7AG_SteuernVarKontiAbrufen$qqspucuspust1"
+ 72: 02e1826c          @!"WS7_S7AG!S7AG_SteuernVarKontiAbmelden$qqsipi"
+ 73: 02e182bc          @!"WS7_S7AG!S7AG_SteuernVarKontiAbmelden$qqsv"
+ 74: 02e182c8          @!"WS7_S7AG!S7AG_Komprimieren$qqspi"
+ 75: 02e18318          @!"WS7_S7AG!S7AG_Komprimieren$qqsv"
+ 76: 02e18320          @!"WS7_S7AG!S7AG_SetTaktMerkerByteNr$qqsus"
+ 77: 02e18370          @!"WS7_S7AG!S7AG_GetTaktMerkerByteNr$qqsv"
+ 78: 02e18380          @!"WS7_S7AG!S7AG_GetUhrzeitOBDaten$qqsucp13TUhrzeitAlarm"
+ 79: 02e18398          @!"WS7_S7AG!S7AG_SetUhrzeitOBDaten$qqsucp13TUhrzeitAlarm"
+ 80: 02e183b0          @!"WS7_S7AG!S7AG_GetWeckAlarmDaten$qqsucpuspuc"
+ 81: 02e183cc          @!"WS7_S7AG!S7AG_SetWeckAlarmDaten$qqsucusuc"
+ 82: 02e183e8          @!"WS7_S7AG!S7AG_GetVerzoegerungsAlarm$qqsucpulpuct3"
+ 83: 02e18408          @!"WS7_S7AG!S7AG_SetVerzoegerungsAlarm$qqsuculucuc"
+ 84: 02e18428          @!"WS7_S7AG!S7AG_GetBStackDaten$qqspucuspuspi"
+ 85: 02e1847c          @!"WS7_S7AG!S7AG_GetBStackDaten$qqspucuspus"
+ 86: 02e18498          @!"WS7_S7AG!S7AG_GetUStackDaten$qqspucuspuspi"
+ 87: 02e184ec          @!"WS7_S7AG!S7AG_GetUStackDaten$qqspucuspus"
+ 88: 02e18508          @!"WS7_S7AG!S7AG_GetLStackDaten$qqsucucpcpucuspuspi"
+ 89: 02e18568          @!"WS7_S7AG!S7AG_GetLStackDaten$qqsucucpcpucuspus"
+ 90: 02e18590          @!"WS7_S7AG!S7AG_BearbeitenBisBstAufruf$qqsv"
+ 91: 02e185a0          @!"WS7_S7AG!S7AG_BearbeitenBisBausteinEnde$qqsv"
+ 92: 02e185b0          @!"WS7_S7AG!S7AG_BisZuSazAdrOhneUnterbrechnungBearbeiten$qqsul"
+ 93: 02e185c8          @!"WS7_S7AG!S7AG_SetBreakpunkt$qqsucusul"
+ 94: 02e185f4          @!"WS7_S7AG!S7AG_GetBreakpunkt$qqspucpuspul"
+ 95: 02e18630          @!"WS7_S7AG!S7AG_SetBreakpunktAktiv$qqsuc"
+ 96: 02e18648          @!"WS7_S7AG!S7AG_EinenBefehlBearbeiten$qqsv"
+ 97: 02e18658          @!"WS7_S7AG!S7AG_SetM$qqsul"
+ 98: 02e18670          @!"WS7_S7AG!S7AG_StopDurchSharewareBegrenzung$qqsv"
+ 99: 02e1868c          @!"WS7_S7AG!S7AG_SetWinSPSS7Vorhanden$qqsuc"
+100: 02e186a4          @!"WS7_S7AG!S7AG_IstWinSPSS7Vorhanden$qqsv"
+101: 02e186b0          @!"WS7_S7AG!S7AG_SetSPSVisuS7Vorhanden$qqsuc"
+102: 02e186c8          @!"WS7_S7AG!S7AG_IstSPSVisuS7Vorhanden$qqsv"
+103: 02e186d4          @!"WS7_S7AG!S7AG_ReadWriteDatenbaustein$qqsucucucuspuc"
+104: 02e1876c          @!"WS7_S7AG!S7AG_SetWinSPSS7HostPfad$qqspc"
+105: 02e187a4          @!"WS7_S7AG!S7AG_GetWinSPSS7HostPfad$qqsv"
+106: 02e187b0          @!"WS7_S7AG!S7AG_SetCallbackZyklusFnc$qqspqv$ul"
+107: 02e187bc          @!"WS7_S7AG!S7AG_CallbackZyklusFncAufrufen$qqsv"
+108: 02e187c4          @!"WS7_S7AG!S7AG_pcGetS7AGFehlermeldung$qqsipc"
+109: 02e187dc          @!"WS7_S7AG!S7AG_GetEreignisStringNeu$qqsuspct2t2"
+110: 02e187fc          @!"WS7_S7AG!S7AG_ReadWriteDatenbaustein2$qqsucusususpuc"
+111: 02e18890          @!"WS7_S7AG!S7AG_SetEnglishLanguage$qqso"
+112: 02e188a0          @!"WS7_S7AG!S7AG_SFCSGBIgnorieren$qqso"
+113: 02e188b8          @!"WS7_S7AG!S7AG_GetSFCSGBIgnorieren$qqsv"
+114: 02e188c8          @!"WS7_S7AG!S7AGc_WriteInputByte"
+115: 02e188ec          @!"WS7_S7AG!S7AGc_ReadOutputByte"
+116: 02e1890c          @!"WS7_S7AG!S7AGc_IstWinSPSS7Vorhanden"
+117: 02e18918          @!"WS7_S7AG!S7AG_IstBausteinGeschuetzt$qqsucus"
+118: 02e18930          @!"WS7_S7AG!S7AG_GetPDUGroesse$qqspi"
+119: 02e18974          @!"WS7_S7AG!S7AG_GetMaxKommuVerbindungen$qqspi"
+120: 02e189b8          @!"WS7_S7AG!S7AG_GetMaxAnzahlDiagnosepufferEintraege$qqspi"
+121: 02e189fc          @!"WS7_S7AG!S7AG_GetParametrierteMaxZykluszeit$qqspi"
+122: 02e18a40          @!"WS7_S7AG!S7AG_GetIdentifikationsdaten$qqspct1t1t1t1t1pi"
+123: 02e18b38          @!"WS7_S7AG!S7AG_GetBStackPos$qqsv"
+124: 02e18b44          @!"WS7_S7AG!S7AG_GetStatusVarSingleAuftragskennung$qqspi"
+125: 02e18bb4          @!"WS7_S7AG!S7AG_GetStatusVarKontiAuftragskennung$qqspi"
+126: 02e18c1c          @!"WS7_S7AG!S7AG_StatusVarKontiFreigeben$qqsucpi"
+127: 02e18c70          @!"WS7_S7AG!S7AG_GetSteuernVarSingleAuftragskennung$qqspi"
+128: 02e18ce0          @!"WS7_S7AG!S7AG_SteuernVarStructReset$qqsipi"
+129: 02e18d44          @!"WS7_S7AG!S7AG_GetStatusBausteinAuftragskennung$qqspi"
+130: 02e18d9c          @!"WS7_S7AG!S7AG_StatusBausteinReservieren$qqspi"
+131: 02e18dec          @!"WS7_S7AG!S7AG_PfadeUebergeben$qqspct1t1"
+132: 02e18e54          @!"WS7_S7AG!S7AG_IPDatenAuslesenUndEinstellen$qqsv"
+133: 02e190e4          @!"WS7_S7AG!S7AG_HardwareKonfigurationInit$qqsv"
+134: 02e192a8          @!"WS7_S7AG!S7AG_GetMPIAdresseVonS7AG$qqspucpi"
+135: 02e192fc          @!"WS7_S7AG!S7AG_S7AG_Kommu_Exit$qqspi"
+136: 02e19380          @!"WS7_S7AG!S7AG_CallbackNachPAELoeschenBeiAnlauf$qqspqv$uc"
+137: 02e19390          @!"WS7_S7AG!S7AG_GetEPtr_Erweitert$qqsv"
+138: 02e19398          @!"WS7_S7AG!S7AG_GetAPtr_Erweitert$qqsv"
+139: 02e193a0          @!"WS7_S7AG!S7AG_BstWrite_DWORD$qqsucusuluspuspi"
+140: 02e194f8          @!"WS7_S7AG!S7AG_BstRead_DWORD$qqsucuspusulpulpi"
+141: 02e195a8          @!"WS7_S7AG!S7AG_DatenAusAGDateiUebernehmen$qqspcpi"
+142: 02e19fc4          @!"WS7_S7AG!S7AG_wGetZyklusUmlaufzaehler$qqsv"
+143: 02e19fd4          @!"WS7_S7AG!S7AG_GetAnzahlAnwenderbausteine$qqsv"
+144: 02e1a06c          @!"WS7_S7AG!S7AG_AGInternEinstellen_C312$qqsv"
+145: 02e1a204          @!"WS7_S7AG!S7AG_OPProtokollDatenLesenAusfuehren$qqspucipit3"
+146: 02e1a304          @!"WS7_S7AG!S7AG_OPProtokollDatenLesenAntwortVorhanden$qqsipipucpust3t2"
+147: 02e1a438          @!"WS7_S7AG!S7AG_OPProtokollDatenLesenZwingendFreigeben$qqsipi"
+148: 02e1a4b4          @!"WS7_S7AG!S7AG_OPProtokollDatenSchreibenAusfuehren$qqspucit1uspit5"
+149: 02e1a61c          @!"WS7_S7AG!S7AG_OPProtokollDatenSchreibenAntwortVorhanden$qqsipipucpust3t2"
+150: 02e1a758          @!"WS7_S7AG!S7AG_OPProtokollDatenSchreibenZwingendFreigeben$qqsipi"
+151: 02e1a7d4          @!"WS7_S7AG!S7AG_GetAnzahlBelegteVerbindungen$qqspuct1t1pi"
+152: 02e1a85c          @!"WS7_S7AG!S7AG_SetPAEPAAAktualisieren$qqsuc"
+153: 02e1a874          @!"WS7_S7AG!S7AG_GetPAEPAAAktualisieren$qqsv"
+154: 02e1a880          @!"WS7_S7AG!S7AG_SetZyklusUeberwachungszeit$qqsus"
+155: 02e1a8a0          @!"WS7_S7AG!S7AG_wGetZyklusUeberwachungszeit$qqsv"
+156: 02e1a8b0          @!"WS7_S7AG!S7AG_bSPSEigenschaftenLaden$qqspc"
+157: 02e1a8d8          @!"WS7_S7AG!S7AG_bSPSEigenschaftenSpeichern$qqspc"
+158: 02e1a900          @!"WS7_S7AG!S7AG_IstGetTaktMerkerAktiv$qqsv"
+159: 02e1a910          @!"WS7_S7AG!S7AG_OPProtokollZyklischDatenLesenAnmelden$qqspucipit3"
+160: 02e1aa10          @!"WS7_S7AG!S7AG_OPProtokollZyklischDatenLesenAntwortVorhanden$qqsipipucpust3t2"
+161: 02e1ab20          @!"WS7_S7AG!S7AG_OPProtokollZyklischDatenLesenZwingendFreigeben$qqsipi"
+162: 02e1ab9c          @!"WS7_S7AG!S7AG_OPProtokollZyklischesLesenDurchfuehrenDirekt$qqsipi"
+163: 02e1ac2c          @!"WS7_S7AG!S7AG_IPDatenDirektEinstellen$qqsulpcususpi"
+164: 02e1acd4          @!"WS7_S7AG!S7AG_IPDatenAusRegistryEinstellen$qqsulpi"
+165: 02e1b104          @!"WS7_S7AG!S7AG_IPDatenInRegistryAbspeichern$qqspcususucpi"
+166: 02e1b358          @!"WS7_S7AG!S7AG_GetEingestellteIPDaten$qqspcpust2"
+167: 02e1b3a4          @!"WS7_S7AG!S7AG_SindIPDatenInRegistryVorhanden$qqsv"
+168: 02e1b3dc          @!"WS7_S7AG!S7AG_StandardIPDatenInRegistrySchreiben$qqspi"
+169: 02e1b3fc          @!"WS7_S7AG!S7AG_TcpIpKommuAktiv$qqsv"
+170: 02e1b418          @!"WS7_S7AG!S7AG_S7AG_Kommu_Exit$qqsulpit2"
+171: 02e1b480          @!"WS7_S7AG!S7AG_IstKommuIDKorrekt$qqsul"
+172: 02e1b4bc          @!"WS7_S7AG!S7AG_SetPGZugriffAufEingaengeAufPeripherieUmleiten$qqsuc"
+173: 02e1b4d4          @!"WS7_S7AG!S7AG_GetPGZugriffAufEingaengeAufPeripherieUmleiten$qqsv"
+174: 02e1b4e0          @!"WS7_S7AG!S7AG_SFCSFBIgnorieren$qqsuc"
+175: 02e1b500          @!"WS7_S7AG!S7AG_ListenSocket_1_Uebergeben$qqspui"
+176: 02e1b514          @!"WS7_S7AG!S7AG_ListenSocket_2_Uebergeben$qqspui"
+177: 02e1b528          @!"WS7_S7AG!S7AG_ListenSocket_3_Uebergeben$qqspui"
+178: 02e1b53c          @!"WS7_S7AG!S7AG_ListenSocket_4_Uebergeben$qqspui"
+179: 02e1b550          @!"WS7_S7AG!S7AG_GetEingestellteIPDaten_2$qqspcpust2"
+180: 02e1b59c          @!"WS7_S7AG!S7AG_StandardIPDaten_2_InRegistrySchreiben$qqspi"
+181: 02e1b5b8          @!"WS7_S7AG!S7AG_IPDaten_2_InRegistryAbspeichern$qqspcususpi"
+182: 02e1b7a4          @!"WS7_S7AG!S7AG_GetAnzahlOffeneKommunikationsInstanzen$qqsv"
+183: 02e1b7ac          @!"WS7_S7AG!S7AG_SetListenSocket_IP_0_Zulassen$qqsi"
+184: 02e1b7c4          @!"WS7_S7AG!S7AG_GetListenSocket_IP_0_Zulassen$qqsv"
+185: 02e1b7d0          @!"WS7_S7AG!S7AG_SetHandleOfWS7$qqspv"
+186: 02e1b804          @!"WS7_S7AG!S7AG_GetMaxAnzahlTimer$qqsv"
+187: 02e1b814          @!"WS7_S7AG!S7AG_GetMaxAnzahlZaehler$qqsv"
+188: 02e1b824          @!"WS7_S7AG!S7AG_StandardPort102TimeDatenInRegistrySchreiben$qqspi"
+189: 02e1b840          @!"WS7_S7AG!S7AG_Port102TimeDaten_InRegistryAbspeichern$qqsususpi"
+190: 02e1b9e4          @!"WS7_S7AG!S7AG_Port102TimeDaten_AusRegistryAuslesen$qqspust1pi"
+191: 02e1bb70          @!"WS7_S7AG!S7AG_SindPort102TimeDatenInRegistryVorhanden$qqsv"
+192: 02e1bc24          @!"WS7_S7AG!S7AG_IPDatenAusIniLesenUndInRegistryEinstellen$qqsulpi"
+193: 02e1c13c          @!"WS7_S7AG!S7AG_IPDatenAusRegistryLesenUndInIniSchreiben$qqspi"
+194: 02e1c65c          @!"WS7_S7AG!S7AG_WindowsServiceVorhandenUndGestartet$qqspcpuct2pul"
+195: 02e1c924          @!"WS7_S7AG!S7AG_WindowsServiceStop$qqspcpul"
+196: 02e1cb78          @!"WS7_S7AG!S7AG_WindowsServiceChangeStartTyp$qqspculpul"
+197: 02e1cdc0          @!"WS7_S7AG!S7AG_WindowsServiceStart$qqspcpul"
+198: 02e1d184          @!"WS7_S7AG!S7AG_ReadAdressByte$qqsucipucii"
+199: 02e1d380          @!"WS7_S7AG!S7AG_WriteAddressByte$qqsucipucii"
+200: 02e1d57c          @!"WS7_S7AG!S7AG_c_SetNames"
+201: 02e1d630          @!"WS7_S7AG!S7AG_GetPidFromSiemensService$qqspcpul"
+202: 02e1d8c0          @!"WS7_S7AG!S7AG_GetPidFromAllocateProcessOfPort102$qqsv"
+203: 02e1d938          @!"WS7_S7AG!S7AG_IsTIAPortalStarted$qqsv"
+204: 02e9c10c          @!"WS7_S7AG!__CPPdebugHook"
+0:010> !tt 0
+!tt 0
+Setting position to the beginning of the trace
+Setting position: 6E:0
+gt 0
+(4f84.40b8): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 6E:0
+eax=66c71190 ebx=00000001 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=77982ec0 esp=0c6ffd14 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!LdrInitializeThunk:
+77982ec0 8bff            mov     edi,edi
+0:000> g
+g
+Breakpoint 102 hit
+Time Travel Position: A0:93
+eax=084b4810 ebx=084b4810 ecx=00002710 edx=00581f4f esi=00581f4a edi=0ebfff28
+eip=02e186c8 esp=0ebffec0 ebp=0ebffec4 iopl=0         nv up ei pl nz ac po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000212
+WS7_S7AG!S7AG_IstSPSVisuS7Vorhanden$qqsv:
+02e186c8 a1084eec02      mov     eax,dword ptr [WS7_S7AG!__CPPdebugHook+0x28cfc (02ec4e08)] ds:002b:02ec4e08=05d50000
+0:002> dx @$curprocess.TTD
+dx @$curprocess.TTD
+@$curprocess.TTD                
+    Index           
+    Threads         
+    Events          
+    DebugOutput     
+    Islands         
+    Lifetime         : [6E:0, 52E422:0]
+    DefaultMemoryPolicy : GloballyAggressive
+    SetPosition      [Sets the debugger to point to the given position on this process.]
+    GatherMemoryUse  [0]
+0:002> dx -r1 @$curprocess.TTD.Threads
+dx -r1 @$curprocess.TTD.Threads
+@$curprocess.TTD.Threads                
+    [0x0]            : UID: 2, TID: 0x40B8
+    [0x1]            : UID: 3, TID: 0x4C38
+    [0x2]            : UID: 4, TID: 0x3E7C
+    [0x3]            : UID: 5, TID: 0x4AF0
+    [0x4]            : UID: 6, TID: 0x4B00
+    [0x5]            : UID: 7, TID: 0x4AF8
+    [0x6]            : UID: 8, TID: 0x4AFC
+    [0x7]            : UID: 9, TID: 0x2CC0
+    [0x8]            : UID: 10, TID: 0x2D24
+    [0x9]            : UID: 11, TID: 0x2794
+    [0xa]            : UID: 12, TID: 0x4EC4
+    [0xb]            : UID: 13, TID: 0x44F8
+    [0xc]            : UID: 14, TID: 0x4AE4
+    [0xd]            : UID: 15, TID: 0x4AEC
+    [0xe]            : UID: 16, TID: 0xFC8
+    [0xf]            : UID: 17, TID: 0x1150
+    [0x10]           : UID: 18, TID: 0x4CB0
+    [0x11]           : UID: 19, TID: 0x41E8
+    [0x12]           : UID: 20, TID: 0x4F28
+    [0x13]           : UID: 21, TID: 0x4D24
+    [0x14]           : UID: 22, TID: 0x3E84
+    [0x15]           : UID: 23, TID: 0x4298
+    [0x16]           : UID: 24, TID: 0x3888
+    [0x17]           : UID: 25, TID: 0x1D54
+    [0x18]           : UID: 26, TID: 0x43CC
+    [0x19]           : UID: 27, TID: 0x4D8C
+0:002> dx -r1 @$curprocess.TTD.Threads[17]
+dx -r1 @$curprocess.TTD.Threads[17]
+@$curprocess.TTD.Threads[17]                 : UID: 19, TID: 0x41E8
+    UniqueId         : 0x13
+    Id               : 0x41e8
+    Lifetime         : [55324:0, 52484A:0]
+    ActiveTime       : [55334:0, 52484A:0]
+    GatherMemoryUse  [Gather inputs, outputs and memory used by a range of execution within a thread]
+0:002> dx -r1 @$curprocess.TTD.Threads[0:19]
+dx -r1 @$curprocess.TTD.Threads[0:19]
+Error: Expected ']' at ':19]'
+0:002> dx -r1 @$curprocess.TTD.Events
+dx -r1 @$curprocess.TTD.Events
+@$curprocess.TTD.Events                
+    [0x0]            : Module DATEDLL.DLL Loaded at position: 2:0
+    [0x1]            : Module WUNZIP32.DLL Loaded at position: 3:0
+    [0x2]            : Module ws7v6.exe Loaded at position: 4:0
+    [0x3]            : Module WS7_SPR2.DLL Loaded at position: 5:0
+    [0x4]            : Module WS7_V2_MPI.DLL Loaded at position: 6:0
+    [0x5]            : Module WS7_AGBEF.DLL Loaded at position: 7:0
+    [0x6]            : Module WS7_S7P.DLL Loaded at position: 8:0
+    [0x7]            : Module WS7_S7AG.DLL Loaded at position: 9:0
+    [0x8]            : Module WS7COMP.DLL Loaded at position: A:0
+    [0x9]            : Module MUTILS40.DLL Loaded at position: B:0
+    [0xa]            : Module MASKEDLLPROJECT.DLL Loaded at position: C:0
+    [0xb]            : Module WS7_SYMBOL.DLL Loaded at position: D:0
+    [0xc]            : Module DLL_REGEX.DLL Loaded at position: E:0
+    [0xd]            : Module OneCoreUAPCommonProxyStub.dll Loaded at position: F:0
+    [0xe]            : Module MPIWIN32.DLL Loaded at position: 10:0
+    [0xf]            : Module WZIP32.DLL Loaded at position: 11:0
+    [0x10]           : Module CC32100.DLL Loaded at position: 12:0
+    [0x11]           : Module RMCLIENT.dll Loaded at position: 13:0
+    [0x12]           : Module twinapi.appcore.dll Loaded at position: 14:0
+    [0x13]           : Module CoreUIComponents.dll Loaded at position: 15:0
+    [0x14]           : Module CoreMessaging.dll Loaded at position: 16:0
+    [0x15]           : Module TextInputFramework.dll Loaded at position: 17:0
+    [0x16]           : Module wintypes.dll Loaded at position: 18:0
+    [0x17]           : Module MSVCR100.dll Loaded at position: 19:0
+    [0x18]           : Module dxgi.dll Loaded at position: 1A:0
+    [0x19]           : Module d3d11.dll Loaded at position: 1B:0
+    [0x1a]           : Module dxcore.dll Loaded at position: 1C:0
+    [0x1b]           : Module DWMAPI.DLL Loaded at position: 1D:0
+    [0x1c]           : Module sppc.dll Loaded at position: 1E:0
+    [0x1d]           : Module appresolver.dll Loaded at position: 1F:0
+    [0x1e]           : Module SLC.dll Loaded at position: 20:0
+    [0x1f]           : Module TTDRecordCPU.dll Loaded at position: 21:0
+    [0x20]           : Module olepro32.dll Loaded at position: 22:0
+    [0x21]           : Module FLTLIB.DLL Loaded at position: 23:0
+    [0x22]           : Module CLDAPI.dll Loaded at position: 24:0
+    [0x23]           : Module edputil.dll Loaded at position: 25:0
+    [0x24]           : Module NetworkExplorer.dll Loaded at position: 26:0
+    [0x25]           : Module apphelp.dll Loaded at position: 27:0
+    [0x26]           : Module dcomp.dll Loaded at position: 28:0
+    [0x27]           : Module dataexchange.dll Loaded at position: 29:0
+    [0x28]           : Module RSIWatch.dll Loaded at position: 2A:0
+    [0x29]           : Module WKSCLI.DLL Loaded at position: 2B:0
+    [0x2a]           : Module SHFOLDER.DLL Loaded at position: 2C:0
+    [0x2b]           : Module mswsock.dll Loaded at position: 2D:0
+    [0x2c]           : Module iertutil.dll Loaded at position: 2E:0
+    [0x2d]           : Module WSOCK32.DLL Loaded at position: 2F:0
+    [0x2e]           : Module urlmon.dll Loaded at position: 30:0
+    [0x2f]           : Module srvcli.dll Loaded at position: 31:0
+    [0x30]           : Module IPHLPAPI.DLL Loaded at position: 32:0
+    [0x31]           : Module PROPSYS.dll Loaded at position: 33:0
+    [0x32]           : Module winmmbase.dll Loaded at position: 34:0
+    [0x33]           : Module WINSPOOL.DRV Loaded at position: 35:0
+    [0x34]           : Module WINMM.DLL Loaded at position: 36:0
+    [0x35]           : Module Oleacc.dll Loaded at position: 37:0
+    [0x36]           : Module uxtheme.dll Loaded at position: 38:0
+    [0x37]           : Module MSIMG32.DLL Loaded at position: 39:0
+    [0x38]           : Module ntmarta.dll Loaded at position: 3A:0
+    [0x39]           : Module COMCTL32.DLL Loaded at position: 3B:0
+    [0x3a]           : Module VERSION.dll Loaded at position: 3C:0
+    [0x3b]           : Module netutils.dll Loaded at position: 3D:0
+    [0x3c]           : Module WINHTTP.dll Loaded at position: 3E:0
+    [0x3d]           : Module NETAPI32.DLL Loaded at position: 3F:0
+    [0x3e]           : Module USERENV.dll Loaded at position: 40:0
+    [0x3f]           : Module SYSFER.DLL Loaded at position: 41:0
+    [0x40]           : Module CRYPTBASE.dll Loaded at position: 42:0
+    [0x41]           : Module SspiCli.dll Loaded at position: 43:0
+    [0x42]           : Module IMM32.DLL Loaded at position: 44:0
+    [0x43]           : Module windows.storage.dll Loaded at position: 45:0
+    [0x44]           : Module KERNELBASE.dll Loaded at position: 46:0
+    [0x45]           : Module powrprof.dll Loaded at position: 47:0
+    [0x46]           : Module OLE32.DLL Loaded at position: 48:0
+    [0x47]           : Module GDI32.dll Loaded at position: 49:0
+    [0x48]           : Module COMDLG32.DLL Loaded at position: 4A:0
+    [0x49]           : Module cryptsp.dll Loaded at position: 4B:0
+    [0x4a]           : Module bcryptPrimitives.dll Loaded at position: 4C:0
+    [0x4b]           : Module win32u.dll Loaded at position: 4D:0
+    [0x4c]           : Module WS2_32.dll Loaded at position: 4E:0
+    [0x4d]           : Module MSCTF.dll Loaded at position: 4F:0
+    [0x4e]           : Module combase.dll Loaded at position: 50:0
+    [0x4f]           : Module PSAPI.DLL Loaded at position: 51:0
+    [0x50]           : Module SHELL32.dll Loaded at position: 52:0
+    [0x51]           : Module kernel.appcore.dll Loaded at position: 53:0
+    [0x52]           : Module profapi.dll Loaded at position: 54:0
+    [0x53]           : Module SHLWAPI.dll Loaded at position: 55:0
+    [0x54]           : Module RPCRT4.dll Loaded at position: 56:0
+    [0x55]           : Module OLEAUT32.dll Loaded at position: 57:0
+    [0x56]           : Module UMPDC.dll Loaded at position: 58:0
+    [0x57]           : Module gdi32full.dll Loaded at position: 59:0
+    [0x58]           : Module ucrtbase.dll Loaded at position: 5A:0
+    [0x59]           : Module ADVAPI32.DLL Loaded at position: 5B:0
+    [0x5a]           : Module USER32.dll Loaded at position: 5C:0
+    [0x5b]           : Module bcrypt.dll Loaded at position: 5D:0
+    [0x5c]           : Module clbcatq.dll Loaded at position: 5E:0
+    [0x5d]           : Module msvcp_win.dll Loaded at position: 5F:0
+    [0x5e]           : Module shcore.dll Loaded at position: 60:0
+    [0x5f]           : Module msvcrt.dll Loaded at position: 61:0
+    [0x60]           : Module cfgmgr32.dll Loaded at position: 62:0
+    [0x61]           : Module KERNEL32.DLL Loaded at position: 63:0
+    [0x62]           : Module sechost.dll Loaded at position: 64:0
+    [0x63]           : Module ntdll.dll Loaded at position: 65:0
+    [...]           
+0:002> dx -r1  -c 100 @$curprocess.TTD.Events
+dx -r1  -c 100 @$curprocess.TTD.Events
+@$curprocess.TTD.Events                
+    [0x64]           : Module ieframe.dll Loaded at position: 66:0
+    [0x65]           : Module Bcp47Langs.dll Loaded at position: 67:0
+    [0x66]           : Module Windows.StateRepositoryPS.dll Loaded at position: 68:0
+    [0x67]           : Module OneCoreCommonProxyStub.dll Loaded at position: 69:0
+    [0x68]           : Thread UID:   2 TID: 0x40B8 created at 6E:0
+    [0x69]           : Thread UID:   3 TID: 0x4C38 created at 77:0
+    [0x6a]           : Thread UID:   4 TID: 0x3E7C created at 7B:0
+    [0x6b]           : Thread UID:   5 TID: 0x4AF0 created at BE:0
+    [0x6c]           : Thread UID:   6 TID: 0x4B00 created at C2:0
+    [0x6d]           : Thread UID:   7 TID: 0x4AF8 created at 128:0
+    [0x6e]           : Thread UID:   8 TID: 0x4AFC created at 145:0
+    [0x6f]           : Thread UID:   9 TID: 0x2CC0 created at 239:0
+    [0x70]           : Thread UID:  10 TID: 0x2D24 created at 24F:0
+    [0x71]           : Thread UID:   2 TID: 0x40B8 terminated at 3D3:0
+    [0x72]           : Thread UID:  11 TID: 0x2794 created at 1A3A6:0
+    [0x73]           : Thread UID:  12 TID: 0x4EC4 created at 1A68A:0
+    [0x74]           : Thread UID:  12 TID: 0x4EC4 terminated at 1A816:0
+    [0x75]           : Thread UID:  13 TID: 0x44F8 created at 3AB17:0
+    [0x76]           : Thread UID:  15 TID: 0x4AEC created at 4D0BF:0
+    [0x77]           : Thread UID:  16 TID: 0x0FC8 created at 4D0C2:0
+    [0x78]           : Thread UID:  14 TID: 0x4AE4 created at 4D0C7:0
+    [0x79]           : Thread UID:  15 TID: 0x4AEC terminated at 4D168:0
+    [0x7a]           : Thread UID:  16 TID: 0x0FC8 terminated at 4D16F:0
+    [0x7b]           : Thread UID:  14 TID: 0x4AE4 terminated at 4D176:0
+    [0x7c]           : Thread UID:  17 TID: 0x1150 created at 55328:0
+    [0x7d]           : Thread UID:  18 TID: 0x4CB0 created at 5532A:0
+    [0x7e]           : Thread UID:  19 TID: 0x41E8 created at 55334:0
+    [0x7f]           : Thread UID:  20 TID: 0x4F28 created at 642DC:0
+    [0x80]           : Thread UID:  21 TID: 0x4D24 created at 911BF:0
+    [0x81]           : Thread UID:  21 TID: 0x4D24 terminated at 91364:0
+    [0x82]           : Thread UID:  13 TID: 0x44F8 terminated at DA282:1
+    [0x83]           : Thread UID:  22 TID: 0x3E84 created at 143432:0
+    [0x84]           : Thread UID:  23 TID: 0x4298 created at 18FE74:0
+    [0x85]           : Thread UID:  11 TID: 0x2794 terminated at 18FF97:1
+    [0x86]           : Thread UID:  24 TID: 0x3888 created at 32FEF0:0
+    [0x87]           : Thread UID:  25 TID: 0x1D54 created at 32FF91:0
+    [0x88]           : Thread UID:  26 TID: 0x43CC created at 330150:0
+    [0x89]           : Thread UID:  24 TID: 0x3888 terminated at 330208:1
+    [0x8a]           : Thread UID:  26 TID: 0x43CC terminated at 330210:1
+    [0x8b]           : Thread UID:  25 TID: 0x1D54 terminated at 3302CC:1
+    [0x8c]           : Module USP10.dll Loaded at position: 3302E2:0
+    [0x8d]           : Module msls31.dll Loaded at position: 3302FA:0
+    [0x8e]           : Module RICHED20.DLL Loaded at position: 33032B:0
+    [0x8f]           : Thread UID:  20 TID: 0x4F28 terminated at 351415:1
+    [0x90]           : Thread UID:  27 TID: 0x4D8C created at 38C52F:0
+    [0x91]           : Thread UID:  27 TID: 0x4D8C terminated at 38C742:0
+    [0x92]           : Thread UID:  23 TID: 0x4298 terminated at 4490F0:1
+    [0x93]           : Thread UID:  22 TID: 0x3E84 terminated at 4D88A4:0
+    [0x94]           : Thread UID:   3 TID: 0x4C38 terminated at 515EA2:0
+    [0x95]           : Thread UID:   4 TID: 0x3E7C terminated at 515F76:0
+    [0x96]           : Thread UID:  10 TID: 0x2D24 terminated at 518471:0
+    [0x97]           : Thread UID:  19 TID: 0x41E8 terminated at 52484A:0
+    [0x98]           : Thread UID:  17 TID: 0x1150 terminated at 5249AD:0
+    [0x99]           : Thread UID:  18 TID: 0x4CB0 terminated at 524A92:0
+    [0x9a]           : Module olepro32.dll Unloaded at position: 52BDD0:0
+    [0x9b]           : Module RICHED20.DLL Unloaded at position: 52C124:0
+    [0x9c]           : Module USP10.dll Unloaded at position: 52C12F:0
+    [0x9d]           : Module msls31.dll Unloaded at position: 52C155:0
+    [0x9e]           : Thread UID:   7 TID: 0x4AF8 terminated at 52C3C9:1
+    [0x9f]           : Thread UID:   5 TID: 0x4AF0 terminated at 52C3CA:1
+    [0xa0]           : Thread UID:   6 TID: 0x4B00 terminated at 52C3CB:1
+    [0xa1]           : Thread UID:   8 TID: 0x4AFC terminated at 52C3E2:1
+    [0xa2]           : Thread UID:   9 TID: 0x2CC0 terminated at 52E422:0
+    [0xa3]           : Module Oleacc.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xa4]           : Module DATEDLL.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xa5]           : Module WS7_V2_MPI.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xa6]           : Module WUNZIP32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xa7]           : Module iertutil.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xa8]           : Module dcomp.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xa9]           : Module ws7v6.exe Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xaa]           : Module dxcore.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xab]           : Module WS7_S7AG.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xac]           : Module WS7_SPR2.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xad]           : Module DLL_REGEX.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xae]           : Module WS7_AGBEF.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xaf]           : Module WS7_S7P.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb0]           : Module MSIMG32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb1]           : Module WS7COMP.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb2]           : Module KERNEL32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb3]           : Module WINHTTP.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb4]           : Module MUTILS40.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb5]           : Module MASKEDLLPROJECT.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb6]           : Module PROPSYS.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb7]           : Module WS7_SYMBOL.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb8]           : Module TTDRecordCPU.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xb9]           : Module d3d11.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xba]           : Module OneCoreUAPCommonProxyStub.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xbb]           : Module MPIWIN32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xbc]           : Module SYSFER.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xbd]           : Module WZIP32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xbe]           : Module CC32100.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xbf]           : Module wintypes.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc0]           : Module RMCLIENT.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc1]           : Module ntdll.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc2]           : Module RSIWatch.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc3]           : Module CLDAPI.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc4]           : Module twinapi.appcore.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc5]           : Module IPHLPAPI.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc6]           : Module CoreUIComponents.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc7]           : Module FLTLIB.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [...]           
+0:002> dx -r1  -c 200 @$curprocess.TTD.Events
+dx -r1  -c 200 @$curprocess.TTD.Events
+@$curprocess.TTD.Events                
+    [0xc8]           : Module WINMM.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xc9]           : Module CoreMessaging.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xca]           : Module NETAPI32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xcb]           : Module TextInputFramework.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xcc]           : Module winmmbase.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xcd]           : Module MSVCR100.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xce]           : Module dxgi.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xcf]           : Module DWMAPI.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd0]           : Module sppc.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd1]           : Module appresolver.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd2]           : Module SLC.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd3]           : Module edputil.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd4]           : Module netutils.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd5]           : Module NetworkExplorer.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd6]           : Module WSOCK32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd7]           : Module mswsock.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd8]           : Module apphelp.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xd9]           : Module dataexchange.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xda]           : Module WKSCLI.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xdb]           : Module srvcli.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xdc]           : Module SHFOLDER.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xdd]           : Module urlmon.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xde]           : Module WINSPOOL.DRV Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xdf]           : Module uxtheme.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe0]           : Module ntmarta.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe1]           : Module COMCTL32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe2]           : Module VERSION.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe3]           : Module USERENV.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe4]           : Module CRYPTBASE.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe5]           : Module SspiCli.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe6]           : Module IMM32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe7]           : Module windows.storage.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe8]           : Module KERNELBASE.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xe9]           : Module powrprof.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xea]           : Module OLE32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xeb]           : Module GDI32.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xec]           : Module COMDLG32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xed]           : Module cryptsp.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xee]           : Module bcryptPrimitives.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xef]           : Module win32u.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf0]           : Module WS2_32.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf1]           : Module MSCTF.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf2]           : Module combase.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf3]           : Module PSAPI.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf4]           : Module SHELL32.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf5]           : Module kernel.appcore.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf6]           : Module profapi.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf7]           : Module SHLWAPI.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf8]           : Module RPCRT4.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xf9]           : Module OLEAUT32.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xfa]           : Module UMPDC.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xfb]           : Module gdi32full.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xfc]           : Module ucrtbase.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xfd]           : Module ADVAPI32.DLL Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xfe]           : Module USER32.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0xff]           : Module bcrypt.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x100]          : Module clbcatq.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x101]          : Module msvcp_win.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x102]          : Module shcore.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x103]          : Module msvcrt.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x104]          : Module cfgmgr32.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x105]          : Module sechost.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x106]          : Module ieframe.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x107]          : Module Bcp47Langs.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x108]          : Module Windows.StateRepositoryPS.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+    [0x109]          : Module OneCoreCommonProxyStub.dll Unloaded at position: FFFFFFFFFFFFFFFE:0
+0:002> !tt 38C52F:0
+!tt 38C52F:0
+Setting position: 38C52F:0
+gt 0
+ModLoad: 61da0000 61db7000   C:\WINDOWS\SYSTEM32\USP10.dll
+ModLoad: 5ea10000 5ea41000   C:\WINDOWS\SYSTEM32\msls31.dll
+ModLoad: 5ea50000 5eaca000   C:\WINDOWS\SYSTEM32\RICHED20.DLL
+(4f84.4d8c): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 38C52F:0
+eax=00000102 ebx=016cac38 ecx=00000000 edx=00000000 esi=016cac38 edi=016c07c0
+eip=779c4a1c esp=09b5fdb8 ebp=09b5ff70 iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!ZwWaitForWorkViaWorkerFactory+0xc:
+779c4a1c c21400          ret     14h
+0:017> ~
+~
+   0  Id: 4f84.1150 Suspend: 4096 Teb: 00287000 Unfrozen
+   1  Id: 4f84.4c38 Suspend: 4096 Teb: 00275000 Unfrozen
+   2  Id: 4f84.3e7c Suspend: 4096 Teb: 0027b000 Unfrozen
+   3  Id: 4f84.4af0 Suspend: 4096 Teb: 00257000 Unfrozen
+   4  Id: 4f84.4b00 Suspend: 4096 Teb: 00260000 Unfrozen
+   5  Id: 4f84.4af8 Suspend: 4096 Teb: 0025a000 Unfrozen
+   6  Id: 4f84.4afc Suspend: 4096 Teb: 0025d000 Unfrozen
+   7  Id: 4f84.2cc0 Suspend: 4096 Teb: 0024b000 Unfrozen
+   8  Id: 4f84.2d24 Suspend: 4096 Teb: 00278000 Unfrozen
+   9  Id: 4f84.2794 Suspend: 4096 Teb: 0026f000 Unfrozen
+  10  Id: 4f84.4cb0 Suspend: 4096 Teb: 0028a000 Unfrozen
+  11  Id: 4f84.44f8 Suspend: 4096 Teb: 00263000 Unfrozen
+  12  Id: 4f84.41e8 Suspend: 4096 Teb: 0028d000 Unfrozen
+  13  Id: 4f84.3e84 Suspend: 4096 Teb: 00290000 Unfrozen
+  14  Id: 4f84.4298 Suspend: 4096 Teb: 00293000 Unfrozen
+  15  Id: 4f84.4f28 Suspend: 4096 Teb: 00269000 Unfrozen
+  16  Id: 4f84.3888 Suspend: 4096 Teb: 00296000 Unfrozen
+. 17  Id: 4f84.4d8c Suspend: 4096 Teb: 00266000 Unfrozen
+  18  Id: 4f84.1d54 Suspend: 4096 Teb: 00299000 Unfrozen
+  19  Id: 4f84.43cc Suspend: 4096 Teb: 0029c000 Unfrozen
+*** WARNING: Unable to verify checksum for DATEDLL.DLL
+0:017> p
+p
+Time Travel Position: 38C52F:1
+eax=00000102 ebx=016cac38 ecx=00000000 edx=00000000 esi=016cac38 edi=016c07c0
+eip=779882bf esp=09b5fdd0 ebp=09b5ff70 iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+ntdll!TpCallbackIndependent+0x126f:
+779882bf 8bc8            mov     ecx,eax
+0:017> |
+|
+.  0	id: 4f84	attach	name: C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+0:017> dx -r1  -c 200 @$curprocess.TTD
+dx -r1  -c 200 @$curprocess.TTD
+@$curprocess.TTD                
+0:017> dx @$curprocess.TTD
+dx @$curprocess.TTD
+@$curprocess.TTD                
+    Index           
+    Threads         
+    Events          
+    DebugOutput     
+    Islands         
+    Lifetime         : [6E:0, 52E422:0]
+    DefaultMemoryPolicy : GloballyAggressive
+    SetPosition      [Sets the debugger to point to the given position on this process.]
+    GatherMemoryUse  [0]
+0:017> dx -r1 @$curprocess.TTD.Islands
+dx -r1 @$curprocess.TTD.Islands
+@$curprocess.TTD.Islands                
+0:017> dx -r1 @$curprocess.TTD.Islands
+dx -r1 @$curprocess.TTD.Islands
+@$curprocess.TTD.Islands                
+0:017> dx -r1 @$curprocess.TTD.Index
+dx -r1 @$curprocess.TTD.Index
+@$curprocess.TTD.Index                
+    Status           : Loaded
+    BuildIndex       [Create an index for the trace file (if one is not already present)]
+    ForceBuildIndex  [Create an index for the trace file (overwrites existing index)]
+    BuildTemporaryIndex [Create a temporary index for trace file (deleted when the trace file is closed)]
+0:017> dx -r1 @$curprocess.TTD.Events
+dx -r1 @$curprocess.TTD.Events
+@$curprocess.TTD.Events                
+    [0x0]            : Module DATEDLL.DLL Loaded at position: 2:0
+    [0x1]            : Module WUNZIP32.DLL Loaded at position: 3:0
+    [0x2]            : Module ws7v6.exe Loaded at position: 4:0
+    [0x3]            : Module WS7_SPR2.DLL Loaded at position: 5:0
+    [0x4]            : Module WS7_V2_MPI.DLL Loaded at position: 6:0
+    [0x5]            : Module WS7_AGBEF.DLL Loaded at position: 7:0
+    [0x6]            : Module WS7_S7P.DLL Loaded at position: 8:0
+    [0x7]            : Module WS7_S7AG.DLL Loaded at position: 9:0
+    [0x8]            : Module WS7COMP.DLL Loaded at position: A:0
+    [0x9]            : Module MUTILS40.DLL Loaded at position: B:0
+    [0xa]            : Module MASKEDLLPROJECT.DLL Loaded at position: C:0
+    [0xb]            : Module WS7_SYMBOL.DLL Loaded at position: D:0
+    [0xc]            : Module DLL_REGEX.DLL Loaded at position: E:0
+    [0xd]            : Module OneCoreUAPCommonProxyStub.dll Loaded at position: F:0
+    [0xe]            : Module MPIWIN32.DLL Loaded at position: 10:0
+    [0xf]            : Module WZIP32.DLL Loaded at position: 11:0
+    [0x10]           : Module CC32100.DLL Loaded at position: 12:0
+    [0x11]           : Module RMCLIENT.dll Loaded at position: 13:0
+    [0x12]           : Module twinapi.appcore.dll Loaded at position: 14:0
+    [0x13]           : Module CoreUIComponents.dll Loaded at position: 15:0
+    [0x14]           : Module CoreMessaging.dll Loaded at position: 16:0
+    [0x15]           : Module TextInputFramework.dll Loaded at position: 17:0
+    [0x16]           : Module wintypes.dll Loaded at position: 18:0
+    [0x17]           : Module MSVCR100.dll Loaded at position: 19:0
+    [0x18]           : Module dxgi.dll Loaded at position: 1A:0
+    [0x19]           : Module d3d11.dll Loaded at position: 1B:0
+    [0x1a]           : Module dxcore.dll Loaded at position: 1C:0
+    [0x1b]           : Module DWMAPI.DLL Loaded at position: 1D:0
+    [0x1c]           : Module sppc.dll Loaded at position: 1E:0
+    [0x1d]           : Module appresolver.dll Loaded at position: 1F:0
+    [0x1e]           : Module SLC.dll Loaded at position: 20:0
+    [0x1f]           : Module TTDRecordCPU.dll Loaded at position: 21:0
+    [0x20]           : Module olepro32.dll Loaded at position: 22:0
+    [0x21]           : Module FLTLIB.DLL Loaded at position: 23:0
+    [0x22]           : Module CLDAPI.dll Loaded at position: 24:0
+    [0x23]           : Module edputil.dll Loaded at position: 25:0
+    [0x24]           : Module NetworkExplorer.dll Loaded at position: 26:0
+    [0x25]           : Module apphelp.dll Loaded at position: 27:0
+    [0x26]           : Module dcomp.dll Loaded at position: 28:0
+    [0x27]           : Module dataexchange.dll Loaded at position: 29:0
+    [0x28]           : Module RSIWatch.dll Loaded at position: 2A:0
+    [0x29]           : Module WKSCLI.DLL Loaded at position: 2B:0
+    [0x2a]           : Module SHFOLDER.DLL Loaded at position: 2C:0
+    [0x2b]           : Module mswsock.dll Loaded at position: 2D:0
+    [0x2c]           : Module iertutil.dll Loaded at position: 2E:0
+    [0x2d]           : Module WSOCK32.DLL Loaded at position: 2F:0
+    [0x2e]           : Module urlmon.dll Loaded at position: 30:0
+    [0x2f]           : Module srvcli.dll Loaded at position: 31:0
+    [0x30]           : Module IPHLPAPI.DLL Loaded at position: 32:0
+    [0x31]           : Module PROPSYS.dll Loaded at position: 33:0
+    [0x32]           : Module winmmbase.dll Loaded at position: 34:0
+    [0x33]           : Module WINSPOOL.DRV Loaded at position: 35:0
+    [0x34]           : Module WINMM.DLL Loaded at position: 36:0
+    [0x35]           : Module Oleacc.dll Loaded at position: 37:0
+    [0x36]           : Module uxtheme.dll Loaded at position: 38:0
+    [0x37]           : Module MSIMG32.DLL Loaded at position: 39:0
+    [0x38]           : Module ntmarta.dll Loaded at position: 3A:0
+    [0x39]           : Module COMCTL32.DLL Loaded at position: 3B:0
+    [0x3a]           : Module VERSION.dll Loaded at position: 3C:0
+    [0x3b]           : Module netutils.dll Loaded at position: 3D:0
+    [0x3c]           : Module WINHTTP.dll Loaded at position: 3E:0
+    [0x3d]           : Module NETAPI32.DLL Loaded at position: 3F:0
+    [0x3e]           : Module USERENV.dll Loaded at position: 40:0
+    [0x3f]           : Module SYSFER.DLL Loaded at position: 41:0
+    [0x40]           : Module CRYPTBASE.dll Loaded at position: 42:0
+    [0x41]           : Module SspiCli.dll Loaded at position: 43:0
+    [0x42]           : Module IMM32.DLL Loaded at position: 44:0
+    [0x43]           : Module windows.storage.dll Loaded at position: 45:0
+    [0x44]           : Module KERNELBASE.dll Loaded at position: 46:0
+    [0x45]           : Module powrprof.dll Loaded at position: 47:0
+    [0x46]           : Module OLE32.DLL Loaded at position: 48:0
+    [0x47]           : Module GDI32.dll Loaded at position: 49:0
+    [0x48]           : Module COMDLG32.DLL Loaded at position: 4A:0
+    [0x49]           : Module cryptsp.dll Loaded at position: 4B:0
+    [0x4a]           : Module bcryptPrimitives.dll Loaded at position: 4C:0
+    [0x4b]           : Module win32u.dll Loaded at position: 4D:0
+    [0x4c]           : Module WS2_32.dll Loaded at position: 4E:0
+    [0x4d]           : Module MSCTF.dll Loaded at position: 4F:0
+    [0x4e]           : Module combase.dll Loaded at position: 50:0
+    [0x4f]           : Module PSAPI.DLL Loaded at position: 51:0
+    [0x50]           : Module SHELL32.dll Loaded at position: 52:0
+    [0x51]           : Module kernel.appcore.dll Loaded at position: 53:0
+    [0x52]           : Module profapi.dll Loaded at position: 54:0
+    [0x53]           : Module SHLWAPI.dll Loaded at position: 55:0
+    [0x54]           : Module RPCRT4.dll Loaded at position: 56:0
+    [0x55]           : Module OLEAUT32.dll Loaded at position: 57:0
+    [0x56]           : Module UMPDC.dll Loaded at position: 58:0
+    [0x57]           : Module gdi32full.dll Loaded at position: 59:0
+    [0x58]           : Module ucrtbase.dll Loaded at position: 5A:0
+    [0x59]           : Module ADVAPI32.DLL Loaded at position: 5B:0
+    [0x5a]           : Module USER32.dll Loaded at position: 5C:0
+    [0x5b]           : Module bcrypt.dll Loaded at position: 5D:0
+    [0x5c]           : Module clbcatq.dll Loaded at position: 5E:0
+    [0x5d]           : Module msvcp_win.dll Loaded at position: 5F:0
+    [0x5e]           : Module shcore.dll Loaded at position: 60:0
+    [0x5f]           : Module msvcrt.dll Loaded at position: 61:0
+    [0x60]           : Module cfgmgr32.dll Loaded at position: 62:0
+    [0x61]           : Module KERNEL32.DLL Loaded at position: 63:0
+    [0x62]           : Module sechost.dll Loaded at position: 64:0
+    [0x63]           : Module ntdll.dll Loaded at position: 65:0
+    [...]           
+0:017> dx -r1 @$curprocess.TTD.Events[2]
+dx -r1 @$curprocess.TTD.Events[2]
+@$curprocess.TTD.Events[2]                 : Module ws7v6.exe Loaded at position: 4:0
+    Type             : ModuleLoaded
+    Position         : 4:0 [Time Travel]
+    Module           : Module C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe at address 0X400000 with size 13934592
+0:017> dx -r1 @$curprocess.TTD.Events[2].Module
+dx -r1 @$curprocess.TTD.Events[2].Module
+@$curprocess.TTD.Events[2].Module                 : Module C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe at address 0X400000 with size 13934592
+    Name             : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+    Address          : 0x400000
+    Size             : 0xd4a000
+    Checksum         : 0x7805618c
+    Timestamp        : 0x5c347a5e
+0:017> dx -r1 @$curprocess
+dx -r1 @$curprocess
+@$curprocess                 : ws7v6.exe [Switch To]
+    Name             : ws7v6.exe
+    Id               : 0x4f84
+    Handle           : 0x1
+    Threads         
+    Modules         
+    Environment     
+    TTD             
+    Devices         
+    Io              
+0:017> dx -r1 @$curprocess.Modules
+dx -r1 @$curprocess.Modules
+@$curprocess.Modules                
+    [0x0]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+    [0x1]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+    [0x2]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+    [0x3]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+    [0x4]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+    [0x5]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+    [0x6]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+    [0x7]            : C:\WINDOWS\SYSTEM32\WS7_S7AG.DLL
+    [0x8]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+    [0x9]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+    [0xa]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+    [0xb]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+    [0xc]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+    [0xd]            : C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+    [0xe]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+    [0xf]            : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+    [0x10]           : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+    [0x11]           : C:\WINDOWS\system32\RMCLIENT.dll
+    [0x12]           : C:\WINDOWS\system32\twinapi.appcore.dll
+    [0x13]           : C:\WINDOWS\System32\CoreUIComponents.dll
+    [0x14]           : C:\WINDOWS\System32\CoreMessaging.dll
+    [0x15]           : C:\WINDOWS\System32\TextInputFramework.dll
+    [0x16]           : C:\Windows\System32\wintypes.dll
+    [0x17]           : C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+    [0x18]           : C:\WINDOWS\SYSTEM32\msls31.dll
+    [0x19]           : C:\WINDOWS\SYSTEM32\RICHED20.DLL
+    [0x1a]           : C:\WINDOWS\system32\dxgi.dll
+    [0x1b]           : C:\WINDOWS\system32\d3d11.dll
+    [0x1c]           : C:\WINDOWS\SYSTEM32\dxcore.dll
+    [0x1d]           : C:\WINDOWS\SYSTEM32\DWMAPI.DLL
+    [0x1e]           : C:\WINDOWS\SYSTEM32\USP10.dll
+    [0x1f]           : C:\Windows\System32\sppc.dll
+    [0x20]           : C:\Windows\System32\appresolver.dll
+    [0x21]           : C:\Windows\System32\SLC.dll
+    [0x22]           : C:\ProgramData\Microsoft\Windbg\1-2111-9001\TTD\wow64\TTDRecordCPU.dll
+    [0x23]           : C:\WINDOWS\SYSTEM32\olepro32.dll
+    [0x24]           : C:\WINDOWS\SYSTEM32\FLTLIB.DLL
+    [0x25]           : C:\WINDOWS\SYSTEM32\CLDAPI.dll
+    [0x26]           : C:\WINDOWS\SYSTEM32\edputil.dll
+    [0x27]           : C:\WINDOWS\system32\NetworkExplorer.dll
+    [0x28]           : C:\WINDOWS\SYSTEM32\apphelp.dll
+    [0x29]           : C:\WINDOWS\system32\dcomp.dll
+    [0x2a]           : C:\WINDOWS\system32\dataexchange.dll
+    [0x2b]           : C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+    [0x2c]           : C:\Windows\System32\WKSCLI.DLL
+    [0x2d]           : C:\WINDOWS\SYSTEM32\SHFOLDER.DLL
+    [0x2e]           : C:\WINDOWS\SYSTEM32\mswsock.dll
+    [0x2f]           : C:\WINDOWS\SYSTEM32\iertutil.dll
+    [0x30]           : C:\WINDOWS\SYSTEM32\WSOCK32.DLL
+    [0x31]           : C:\WINDOWS\SYSTEM32\urlmon.dll
+    [0x32]           : C:\WINDOWS\SYSTEM32\srvcli.dll
+    [0x33]           : C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+    [0x34]           : C:\WINDOWS\SYSTEM32\PROPSYS.dll
+    [0x35]           : C:\WINDOWS\SYSTEM32\winmmbase.dll
+    [0x36]           : C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+    [0x37]           : C:\WINDOWS\SYSTEM32\WINMM.DLL
+    [0x38]           : C:\WINDOWS\system32\Oleacc.dll
+    [0x39]           : C:\WINDOWS\system32\uxtheme.dll
+    [0x3a]           : C:\WINDOWS\SYSTEM32\MSIMG32.DLL
+    [0x3b]           : C:\WINDOWS\SYSTEM32\ntmarta.dll
+    [0x3c]           : C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1916_none_e6276c4ef8de06c3\COMCTL32.DLL
+    [0x3d]           : C:\WINDOWS\SYSTEM32\VERSION.dll
+    [0x3e]           : C:\WINDOWS\SYSTEM32\netutils.dll
+    [0x3f]           : C:\Windows\System32\WINHTTP.dll
+    [0x40]           : C:\WINDOWS\SYSTEM32\NETAPI32.DLL
+    [0x41]           : C:\Windows\System32\USERENV.dll
+    [0x42]           : C:\WINDOWS\System32\SYSFER.DLL
+    [0x43]           : C:\WINDOWS\System32\CRYPTBASE.dll
+    [0x44]           : C:\WINDOWS\System32\SspiCli.dll
+    [0x45]           : C:\WINDOWS\System32\IMM32.DLL
+    [0x46]           : C:\WINDOWS\System32\windows.storage.dll
+    [0x47]           : C:\WINDOWS\System32\KERNELBASE.dll
+    [0x48]           : C:\WINDOWS\System32\powrprof.dll
+    [0x49]           : C:\WINDOWS\System32\OLE32.DLL
+    [0x4a]           : C:\WINDOWS\System32\GDI32.dll
+    [0x4b]           : C:\WINDOWS\System32\COMDLG32.DLL
+    [0x4c]           : C:\WINDOWS\System32\cryptsp.dll
+    [0x4d]           : C:\WINDOWS\System32\bcryptPrimitives.dll
+    [0x4e]           : C:\WINDOWS\System32\win32u.dll
+    [0x4f]           : C:\WINDOWS\System32\WS2_32.dll
+    [0x50]           : C:\WINDOWS\System32\MSCTF.dll
+    [0x51]           : C:\WINDOWS\System32\combase.dll
+    [0x52]           : C:\WINDOWS\System32\PSAPI.DLL
+    [0x53]           : C:\WINDOWS\System32\SHELL32.dll
+    [0x54]           : C:\WINDOWS\System32\kernel.appcore.dll
+    [0x55]           : C:\WINDOWS\System32\profapi.dll
+    [0x56]           : C:\WINDOWS\System32\SHLWAPI.dll
+    [0x57]           : C:\WINDOWS\System32\RPCRT4.dll
+    [0x58]           : C:\WINDOWS\System32\OLEAUT32.dll
+    [0x59]           : C:\WINDOWS\System32\UMPDC.dll
+    [0x5a]           : C:\WINDOWS\System32\gdi32full.dll
+    [0x5b]           : C:\WINDOWS\System32\ucrtbase.dll
+    [0x5c]           : C:\WINDOWS\System32\ADVAPI32.DLL
+    [0x5d]           : C:\WINDOWS\System32\USER32.dll
+    [0x5e]           : C:\WINDOWS\System32\bcrypt.dll
+    [0x5f]           : C:\WINDOWS\System32\clbcatq.dll
+    [0x60]           : C:\WINDOWS\System32\msvcp_win.dll
+    [0x61]           : C:\WINDOWS\System32\shcore.dll
+    [0x62]           : C:\WINDOWS\System32\msvcrt.dll
+    [0x63]           : C:\WINDOWS\System32\cfgmgr32.dll
+    [...]           
+0:017> dx -r1 @$curprocess.Modules[2]
+dx -r1 @$curprocess.Modules[2]
+@$curprocess.Modules[2]                 : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+    BaseAddress      : 0x400000
+    Name             : C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+    Size             : 0xd4a000
+    Contents        
+0:017> dx -r1 @$curprocess.Modules[2].Contents
+dx -r1 @$curprocess.Modules[2].Contents
+@$curprocess.Modules[2].Contents                
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\winext\ImageInfo\ImageInfo.js'
+    Headers         
+    Directories     
+    Resources       
+    Imports         
+    DelayImports    
+    Exports         
+    DebugInfo       
+    Version          : VS_VERSION_INFO
+JavaScript script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\HeapAnalysis.js'
+JavaScript script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\TtdAnalyze.js'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+JavaScript script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\winext\ImageInfo\ImageInfo.js'

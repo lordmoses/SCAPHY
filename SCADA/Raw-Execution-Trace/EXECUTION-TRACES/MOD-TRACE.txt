@@ -1,0 +1,443 @@
+Microsoft (R) Windows Debugger Version 10.0.22473.1005 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+
+Loading Dump File
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\HeapAnalysis.js'
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\TtdAnalyze.js'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+Symbol search path is: .srv*
+Executable search path is: 
+ModLoad: 000e0000 000f2000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DATEDLL.DLL
+ModLoad: 001e0000 001fb000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WUNZIP32.DLL
+ModLoad: 00400000 0114a000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\ws7v6.exe
+ModLoad: 01690000 016b8000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SPR2.DLL
+ModLoad: 02740000 02c8d000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_V2_MPI.DLL
+ModLoad: 02c90000 02dc4000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ModLoad: 02dd0000 02dfd000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_S7P.DLL
+ModLoad: 02e00000 02ed8000   C:\WINDOWS\SYSTEM32\WS7_S7AG.DLL
+ModLoad: 02ee0000 03136000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7COMP.DLL
+ModLoad: 03140000 03180000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MUTILS40.DLL
+ModLoad: 03180000 032d5000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MASKEDLLPROJECT.DLL
+ModLoad: 032e0000 0331b000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_SYMBOL.DLL
+ModLoad: 03320000 033cf000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\DLL_REGEX.DLL
+ModLoad: 0b1a0000 0b52d000   C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+ModLoad: 10000000 10069000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\MPIWIN32.DLL
+ModLoad: 1d000000 1d068000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WZIP32.DLL
+ModLoad: 32a00000 32b15000   C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\CC32100.DLL
+ModLoad: 50960000 5097f000   C:\WINDOWS\system32\RMCLIENT.dll
+ModLoad: 50980000 50b63000   C:\WINDOWS\system32\twinapi.appcore.dll
+ModLoad: 52b10000 52d6e000   C:\WINDOWS\System32\CoreUIComponents.dll
+ModLoad: 52d70000 52df9000   C:\WINDOWS\System32\CoreMessaging.dll
+ModLoad: 52e00000 52e81000   C:\WINDOWS\System32\TextInputFramework.dll
+ModLoad: 55c10000 55ce7000   C:\Windows\System32\wintypes.dll
+ModLoad: 56960000 56a1f000   C:\Program Files (x86)\RSIGuard\MSVCR100.dll
+ModLoad: 603a0000 60461000   C:\WINDOWS\system32\dxgi.dll
+ModLoad: 60470000 6064e000   C:\WINDOWS\system32\d3d11.dll
+ModLoad: 61d10000 61d29000   C:\WINDOWS\SYSTEM32\dxcore.dll
+ModLoad: 61d70000 61d95000   C:\WINDOWS\SYSTEM32\DWMAPI.DLL
+ModLoad: 65f70000 65f8c000   C:\Windows\System32\sppc.dll
+ModLoad: 65f90000 66001000   C:\Windows\System32\appresolver.dll
+ModLoad: 66530000 66550000   C:\Windows\System32\SLC.dll
+ModLoad: 66650000 66797000   C:\ProgramData\Microsoft\Windbg\1-2111-9001\TTD\wow64\TTDRecordCPU.dll
+ModLoad: 66c80000 66c99000   C:\WINDOWS\SYSTEM32\olepro32.dll
+ModLoad: 66cd0000 66cd8000   C:\WINDOWS\SYSTEM32\FLTLIB.DLL
+ModLoad: 66ce0000 66cfb000   C:\WINDOWS\SYSTEM32\CLDAPI.dll
+ModLoad: 66d00000 66d1b000   C:\WINDOWS\SYSTEM32\edputil.dll
+ModLoad: 67a90000 67aa3000   C:\WINDOWS\system32\NetworkExplorer.dll
+ModLoad: 67ec0000 67f5f000   C:\WINDOWS\SYSTEM32\apphelp.dll
+ModLoad: 68080000 681ea000   C:\WINDOWS\system32\dcomp.dll
+ModLoad: 681f0000 68221000   C:\WINDOWS\system32\dataexchange.dll
+ModLoad: 68400000 68408000   C:\Program Files (x86)\RSIGuard\RSIWatch.dll
+ModLoad: 6f780000 6f790000   C:\Windows\System32\WKSCLI.DLL
+ModLoad: 6f980000 6f986000   C:\WINDOWS\SYSTEM32\SHFOLDER.DLL
+ModLoad: 70140000 70192000   C:\WINDOWS\SYSTEM32\mswsock.dll
+ModLoad: 706e0000 7090a000   C:\WINDOWS\SYSTEM32\iertutil.dll
+ModLoad: 70940000 70948000   C:\WINDOWS\SYSTEM32\WSOCK32.DLL
+ModLoad: 70a30000 70bda000   C:\WINDOWS\SYSTEM32\urlmon.dll
+ModLoad: 70fd0000 70fec000   C:\WINDOWS\SYSTEM32\srvcli.dll
+ModLoad: 71000000 71032000   C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+ModLoad: 71040000 71105000   C:\WINDOWS\SYSTEM32\PROPSYS.dll
+ModLoad: 71110000 71133000   C:\WINDOWS\SYSTEM32\winmmbase.dll
+ModLoad: 712b0000 71320000   C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+ModLoad: 71320000 71344000   C:\WINDOWS\SYSTEM32\WINMM.DLL
+ModLoad: 71350000 713a3000   C:\WINDOWS\system32\Oleacc.dll
+ModLoad: 713b0000 7142a000   C:\WINDOWS\system32\uxtheme.dll
+ModLoad: 71430000 71436000   C:\WINDOWS\SYSTEM32\MSIMG32.DLL
+ModLoad: 74990000 749b9000   C:\WINDOWS\SYSTEM32\ntmarta.dll
+ModLoad: 749d0000 74bdf000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1916_none_e6276c4ef8de06c3\COMCTL32.DLL
+ModLoad: 74be0000 74be8000   C:\WINDOWS\SYSTEM32\VERSION.dll
+ModLoad: 74c80000 74c8b000   C:\WINDOWS\SYSTEM32\netutils.dll
+ModLoad: 74c90000 74d52000   C:\Windows\System32\WINHTTP.dll
+ModLoad: 74e60000 74e73000   C:\WINDOWS\SYSTEM32\NETAPI32.DLL
+ModLoad: 74ff0000 7500e000   C:\Windows\System32\USERENV.dll
+ModLoad: 75080000 7510f000   C:\WINDOWS\System32\SYSFER.DLL
+ModLoad: 75110000 7511a000   C:\WINDOWS\System32\CRYPTBASE.dll
+ModLoad: 75120000 75140000   C:\WINDOWS\System32\SspiCli.dll
+ModLoad: 75140000 75165000   C:\WINDOWS\System32\IMM32.DLL
+ModLoad: 75170000 75730000   C:\WINDOWS\System32\windows.storage.dll
+ModLoad: 75730000 7592f000   C:\WINDOWS\System32\KERNELBASE.dll
+ModLoad: 75930000 75973000   C:\WINDOWS\System32\powrprof.dll
+ModLoad: 75980000 75a77000   C:\WINDOWS\System32\OLE32.DLL
+ModLoad: 75a80000 75aa1000   C:\WINDOWS\System32\GDI32.dll
+ModLoad: 75ab0000 75b60000   C:\WINDOWS\System32\COMDLG32.DLL
+ModLoad: 75b70000 75b83000   C:\WINDOWS\System32\cryptsp.dll
+ModLoad: 75b90000 75bf2000   C:\WINDOWS\System32\bcryptPrimitives.dll
+ModLoad: 75c00000 75c17000   C:\WINDOWS\System32\win32u.dll
+ModLoad: 75c20000 75c7e000   C:\WINDOWS\System32\WS2_32.dll
+ModLoad: 75c90000 75d93000   C:\WINDOWS\System32\MSCTF.dll
+ModLoad: 75da0000 76017000   C:\WINDOWS\System32\combase.dll
+ModLoad: 76020000 76026000   C:\WINDOWS\System32\PSAPI.DLL
+ModLoad: 76480000 769fa000   C:\WINDOWS\System32\SHELL32.dll
+ModLoad: 76b70000 76b7f000   C:\WINDOWS\System32\kernel.appcore.dll
+ModLoad: 76b80000 76b97000   C:\WINDOWS\System32\profapi.dll
+ModLoad: 76ba0000 76be4000   C:\WINDOWS\System32\SHLWAPI.dll
+ModLoad: 76c60000 76d1b000   C:\WINDOWS\System32\RPCRT4.dll
+ModLoad: 76d20000 76db2000   C:\WINDOWS\System32\OLEAUT32.dll
+ModLoad: 76e10000 76e1d000   C:\WINDOWS\System32\UMPDC.dll
+ModLoad: 76e80000 76fdd000   C:\WINDOWS\System32\gdi32full.dll
+ModLoad: 76fe0000 77100000   C:\WINDOWS\System32\ucrtbase.dll
+ModLoad: 77120000 7719a000   C:\WINDOWS\System32\ADVAPI32.DLL
+ModLoad: 771a0000 77337000   C:\WINDOWS\System32\USER32.dll
+ModLoad: 77340000 77359000   C:\WINDOWS\System32\bcrypt.dll
+ModLoad: 774f0000 77570000   C:\WINDOWS\System32\clbcatq.dll
+ModLoad: 77570000 775ec000   C:\WINDOWS\System32\msvcp_win.dll
+ModLoad: 775f0000 77673000   C:\WINDOWS\System32\shcore.dll
+ModLoad: 77680000 7773f000   C:\WINDOWS\System32\msvcrt.dll
+ModLoad: 77740000 7777b000   C:\WINDOWS\System32\cfgmgr32.dll
+ModLoad: 77780000 77860000   C:\WINDOWS\System32\KERNEL32.DLL
+ModLoad: 77860000 778d6000   C:\WINDOWS\System32\sechost.dll
+ModLoad: 77950000 77aea000   C:\WINDOWS\SYSTEM32\ntdll.dll
+ModLoad: 79ab0000 7a0c7000   C:\Windows\System32\ieframe.dll
+ModLoad: 7a990000 7a9d5000   C:\Windows\System32\Bcp47Langs.dll
+ModLoad: 7b1d0000 7b25b000   C:\Windows\System32\Windows.StateRepositoryPS.dll
+ModLoad: 7b6b0000 7b6eb000   C:\Windows\System32\OneCoreCommonProxyStub.dll
+................................................................
+........................................
+Unable to load image C:\WINDOWS\SYSTEM32\ntdll.dll, Win32 error 0n2
+
+************* Symbol Loading Error Summary **************
+Module name            Error
+ntdll                  The system cannot find the file specified
+
+You can troubleshoot most symbol related issues by turning on symbol loading diagnostics (!sym noisy) and repeating the command that caused symbols to be loaded.
+You should also verify that your symbol search path (.sympath) is correct.
+(4f84.40b8): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 6E:0
+eax=66c71190 ebx=00000001 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+eip=77982ec0 esp=0c6ffd14 ebp=00000000 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!LdrInitializeThunk:
+77982ec0 8bff            mov     edi,edi
+*** WARNING: Unable to verify checksum for DATEDLL.DLL
+0:000> n
+n
+base is 16
+0:000> s
+s
+       ^ Search pattern missing from 's'
+0:000> !address
+!address
+*************************************************************************
+***                                                                   ***
+***                                                                   ***
+***    Either you specified an unqualified symbol, or your debugger   ***
+***    doesn't have full symbol information.  Unqualified symbol      ***
+***    resolution is turned off by default. Please either specify a   ***
+***    fully qualified symbol module!symbolname, or enable resolution ***
+***    of unqualified symbols by typing ".symopt- 100". Note that     ***
+***    enabling unqualified symbol resolution with network symbol     ***
+***    server shares in the symbol path may cause the debugger to     ***
+***    appear to hang for long periods of time when an incorrect      ***
+***    symbol name is typed or the network symbol server is down.     ***
+***                                                                   ***
+***    For some commands to work properly, your symbol path           ***
+***    must point to .pdb files that have full type information.      ***
+***                                                                   ***
+***    Certain .pdb files (such as the public OS symbols) do not      ***
+***    contain the required information.  Contact the group that      ***
+***    provided you with these symbols if you need this command to    ***
+***    work.                                                          ***
+***                                                                   ***
+***    Type referenced: ${$ntdllsym}!_PEB                             ***
+***                                                                   ***
+*************************************************************************
+
+No symbols for ntdll. Cannot continue.
+0:000> address
+address
+             ^ No information found error in 'address'
+0:000> !address
+!address
+*************************************************************************
+***                                                                   ***
+***                                                                   ***
+***    Either you specified an unqualified symbol, or your debugger   ***
+***    doesn't have full symbol information.  Unqualified symbol      ***
+***    resolution is turned off by default. Please either specify a   ***
+***    fully qualified symbol module!symbolname, or enable resolution ***
+***    of unqualified symbols by typing ".symopt- 100". Note that     ***
+***    enabling unqualified symbol resolution with network symbol     ***
+***    server shares in the symbol path may cause the debugger to     ***
+***    appear to hang for long periods of time when an incorrect      ***
+***    symbol name is typed or the network symbol server is down.     ***
+***                                                                   ***
+***    For some commands to work properly, your symbol path           ***
+***    must point to .pdb files that have full type information.      ***
+***                                                                   ***
+***    Certain .pdb files (such as the public OS symbols) do not      ***
+***    contain the required information.  Contact the group that      ***
+***    provided you with these symbols if you need this command to    ***
+***    work.                                                          ***
+***                                                                   ***
+***    Type referenced: ${$ntdllsym}!_PEB                             ***
+***                                                                   ***
+*************************************************************************
+
+No symbols for ntdll. Cannot continue.
+0:000> .dump /ma timeTravelDump
+.dump /ma timeTravelDump
+Creating timeTravelDump - mini user dump
+GenAllocateProcessObject.GetCpuPowerInfo() failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x40b8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4c38) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x3e7c) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4af0) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4b00) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4af8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4afc) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x2cc0) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x2d24) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x2794) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4ec4) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x44f8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4ae4) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4aec) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0xfc8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4f28) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4d24) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4d8c) failed, 0x8000ffff
+QuerySystemMemoryInformation failed, 0x80004001
+QueryProcessVmCounters failed, 0x80004001
+WriteMemoryInfo.QueryVirtual(0x0) failed, 0x8000ffff
+Dump creation failed, HRESULT 0x8000FFFF
+    "Catastrophic failure"
+0:000> .dump /f timeTravelDump
+.dump /f timeTravelDump
+*****************************************************************************
+* .dump /ma is the recommend method of creating a complete memory dump      *
+* of a user mode process.                                                   *
+*****************************************************************************
+Creating timeTravelDump - user full dump
+Dump successfully written
+0:000> .dump /mf miniTimeTravel
+.dump /mf miniTimeTravel
+Creating miniTimeTravel - mini user dump
+GenAllocateProcessObject.GetCpuPowerInfo() failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x40b8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4c38) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x3e7c) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4af0) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4b00) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4af8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4afc) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x2cc0) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x2d24) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x2794) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4ec4) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x44f8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4ae4) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4aec) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0xfc8) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4f28) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4d24) failed, 0x8000ffff
+GenAllocateThreadObject.GetTebInfo(0x4d8c) failed, 0x8000ffff
+QuerySystemMemoryInformation failed, 0x80004001
+QueryProcessVmCounters failed, 0x80004001
+WriteFullMemory.QueryVirtual(0x0) for info failed, 0x8000ffff
+Dump creation failed, HRESULT 0x8000FFFF
+    "Catastrophic failure"
+0:000> .dump /f C:/timeTravelTest
+.dump /f C:/timeTravelTest
+*****************************************************************************
+* .dump /ma is the recommend method of creating a complete memory dump      *
+* of a user mode process.                                                   *
+*****************************************************************************
+Creating C:/timeTravelTest - user full dump
+Dump successfully written
+JavaScript script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\HeapAnalysis.js'
+JavaScript script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\TtdAnalyze.js'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script unloaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+
+Loading Dump File [C:\Users\dksados\Documents\vase\windbg\timeTravel\FactoryIO\FactoryIO_SortingStation.run]
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\HeapAnalysis.js'
+JavaScript script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\TTD\Analyzers\TtdAnalyze.js'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\atlmfc.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\ObjectiveC.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\concurrency.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\cpp_rest.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\stl.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Data.Json.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Geolocation.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Devices.Sensors.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\Windows.Media.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\windows.natvis'
+NatVis script successfully loaded from 'C:\Program Files\WindowsApps\Microsoft.WinDbg_1.2111.9001.0_neutral__8wekyb3d8bbwe\x86\Visualizers\winrt.natvis'
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       .srv*
+Symbol search path is: .srv*
+Executable search path is: 
+ModLoad: 00a00000 00a35000   C:\Program Files (x86)\Real Games\Factory IO\Factory IO.exe
+ModLoad: 11860000 118e1000   C:\WINDOWS\SYSTEM32\TextInputFramework.dll
+ModLoad: 11e00000 1205e000   C:\WINDOWS\SYSTEM32\CoreUIComponents.dll
+ModLoad: 12060000 120e9000   C:\WINDOWS\SYSTEM32\CoreMessaging.dll
+ModLoad: 13200000 1331e000   C:\WINDOWS\SYSTEM32\AUDIOSES.DLL
+ModLoad: 47500000 47517000   C:\Program Files (x86)\Real Games\Factory IO\Factory IO_Data\Plugins\x86\sglw.dll
+ModLoad: 50100000 50162000   C:\WINDOWS\System32\MMDevApi.dll
+ModLoad: 51e30000 51f07000   C:\WINDOWS\SYSTEM32\wintypes.dll
+ModLoad: 594e0000 59627000   C:\ProgramData\Microsoft\Windbg\1-2111-9001\TTD\wow64\TTDRecordCPU.dll
+ModLoad: 59630000 5abb4000   C:\Program Files (x86)\Real Games\Factory IO\UnityPlayer.dll
+ModLoad: 5ad10000 5ae5c000   C:\Program Files (x86)\Real Games\Factory IO\Factory IO_Data\Plugins\x86\libbulletc.dll
+ModLoad: 5ae60000 5b29f000   C:\Program Files (x86)\Real Games\Factory IO\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+ModLoad: 5e460000 5e5c9000   C:\WINDOWS\SYSTEM32\WindowsCodecs.dll
+ModLoad: 5e5d0000 5e691000   C:\WINDOWS\SYSTEM32\dxgi.dll
+ModLoad: 5e6a0000 5e87e000   C:\WINDOWS\SYSTEM32\d3d11.dll
+ModLoad: 5ff50000 5ff69000   C:\WINDOWS\SYSTEM32\dxcore.dll
+ModLoad: 5ff70000 5ffaf000   C:\WINDOWS\SYSTEM32\GLU32.dll
+ModLoad: 5ffb0000 5ffd5000   C:\WINDOWS\SYSTEM32\dwmapi.dll
+ModLoad: 60000000 600ff000   C:\WINDOWS\SYSTEM32\OPENGL32.dll
+ModLoad: 66130000 66140000   C:\WINDOWS\system32\wshbth.dll
+ModLoad: 66140000 66156000   C:\WINDOWS\system32\NLAapi.dll
+ModLoad: 66160000 66176000   C:\WINDOWS\system32\pnrpnsp.dll
+ModLoad: 66180000 66191000   C:\WINDOWS\system32\napinsp.dll
+ModLoad: 68020000 6802b000   C:\WINDOWS\System32\winrnr.dll
+ModLoad: 68280000 683ea000   C:\WINDOWS\SYSTEM32\dcomp.dll
+ModLoad: 6b320000 6b327000   C:\WINDOWS\SYSTEM32\xinput9_1_0.dll
+ModLoad: 6b330000 6b33b000   C:\WINDOWS\SYSTEM32\HID.DLL
+ModLoad: 6de50000 6dea1000   C:\WINDOWS\System32\fwpuclnt.dll
+ModLoad: 6e440000 6e448000   C:\Windows\System32\rasadhlp.dll
+ModLoad: 6e5a0000 6e629000   C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.3.3580.1100.105\bin\symamsi.dll
+ModLoad: 6e630000 6e642000   C:\WINDOWS\SYSTEM32\amsi.dll
+ModLoad: 6e870000 6e93b000   C:\WINDOWS\system32\wbem\fastprox.dll
+ModLoad: 6e9f0000 6ea00000   C:\WINDOWS\system32\wbem\wbemsvc.dll
+ModLoad: 6ea00000 6ea70000   C:\WINDOWS\SYSTEM32\wbemcomn.dll
+ModLoad: 6ea70000 6ea7d000   C:\WINDOWS\system32\wbem\wbemprox.dll
+ModLoad: 6f0b0000 6f0d3000   C:\WINDOWS\System32\DEVOBJ.dll
+ModLoad: 6f1e0000 6f232000   C:\WINDOWS\system32\mswsock.dll
+ModLoad: 70080000 700a8000   C:\WINDOWS\SYSTEM32\NTASN1.dll
+ModLoad: 700b0000 700c5000   C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+ModLoad: 700d0000 700e3000   C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL
+ModLoad: 70390000 70398000   C:\WINDOWS\SYSTEM32\WSOCK32.dll
+ModLoad: 70ec0000 70ee1000   C:\WINDOWS\SYSTEM32\ncrypt.dll
+ModLoad: 719e0000 71a72000   C:\WINDOWS\SYSTEM32\DNSAPI.dll
+ModLoad: 73a30000 73a62000   C:\WINDOWS\SYSTEM32\iphlpapi.dll
+ModLoad: 73a80000 73aa3000   C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+ModLoad: 73b30000 73b54000   C:\WINDOWS\SYSTEM32\WINMM.dll
+ModLoad: 73cd0000 73d23000   C:\WINDOWS\system32\Oleacc.dll
+ModLoad: 73d40000 73dba000   C:\WINDOWS\system32\uxtheme.dll
+ModLoad: 74020000 74159000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igdgmm32.dll
+ModLoad: 74260000 74268000   C:\WINDOWS\system32\IconCodecService.dll
+ModLoad: 74aa0000 74ac9000   C:\WINDOWS\SYSTEM32\ntmarta.dll
+ModLoad: 74cf0000 74cf8000   C:\WINDOWS\SYSTEM32\VERSION.dll
+ModLoad: 74da0000 74e62000   C:\WINDOWS\SYSTEM32\WINHTTP.dll
+ModLoad: 750d0000 750ff000   C:\WINDOWS\system32\rsaenh.dll
+ModLoad: 75100000 7511e000   C:\WINDOWS\SYSTEM32\USERENV.dll
+ModLoad: 75120000 75188000   C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.3580.1100.105\Data\Definitions\BASHDefs\20211122.011\UMEngx86.dll
+ModLoad: 75190000 7521f000   C:\WINDOWS\System32\SYSFER.DLL
+ModLoad: 75220000 7522a000   C:\WINDOWS\System32\CRYPTBASE.dll
+ModLoad: 75230000 75250000   C:\WINDOWS\System32\SspiCli.dll
+ModLoad: 75300000 7535e000   C:\WINDOWS\System32\WS2_32.dll
+ModLoad: 75360000 75379000   C:\WINDOWS\System32\bcrypt.dll
+ModLoad: 75380000 75460000   C:\WINDOWS\System32\KERNEL32.DLL
+ModLoad: 75460000 754dc000   C:\WINDOWS\System32\msvcp_win.dll
+ModLoad: 754e0000 75524000   C:\WINDOWS\System32\SHLWAPI.dll
+ModLoad: 75530000 755b0000   C:\WINDOWS\System32\clbcatq.dll
+ModLoad: 755b0000 755f3000   C:\WINDOWS\System32\powrprof.dll
+ModLoad: 75600000 756f7000   C:\WINDOWS\System32\ole32.dll
+ModLoad: 75700000 75707000   C:\WINDOWS\System32\NSI.dll
+ModLoad: 757a0000 757db000   C:\WINDOWS\System32\cfgmgr32.dll
+ModLoad: 757e0000 7589b000   C:\WINDOWS\System32\RPCRT4.dll
+ModLoad: 758a0000 7591a000   C:\WINDOWS\System32\advapi32.dll
+ModLoad: 75980000 7598e000   C:\WINDOWS\System32\MSASN1.dll
+ModLoad: 75990000 75b8f000   C:\WINDOWS\System32\KERNELBASE.dll
+ModLoad: 75b90000 75bd6000   C:\WINDOWS\System32\WINTRUST.dll
+ModLoad: 75c00000 75c25000   C:\WINDOWS\System32\IMM32.dll
+ModLoad: 75c30000 75d50000   C:\WINDOWS\System32\ucrtbase.dll
+ModLoad: 75d50000 75d5d000   C:\WINDOWS\System32\UMPDC.dll
+ModLoad: 75d60000 75d66000   C:\WINDOWS\System32\PSAPI.DLL
+ModLoad: 75d70000 75e73000   C:\WINDOWS\System32\MSCTF.dll
+ModLoad: 75e80000 75e93000   C:\WINDOWS\System32\cryptsp.dll
+ModLoad: 75f00000 7605d000   C:\WINDOWS\System32\gdi32full.dll
+ModLoad: 76070000 76102000   C:\WINDOWS\System32\OLEAUT32.dll
+ModLoad: 76170000 76187000   C:\WINDOWS\System32\win32u.dll
+ModLoad: 76190000 7624f000   C:\WINDOWS\System32\msvcrt.dll
+ModLoad: 76250000 763e7000   C:\WINDOWS\System32\USER32.dll
+ModLoad: 763f0000 76452000   C:\WINDOWS\System32\bcryptPrimitives.dll
+ModLoad: 76460000 7646f000   C:\WINDOWS\System32\kernel.appcore.dll
+ModLoad: 76470000 76a30000   C:\WINDOWS\System32\windows.storage.dll
+ModLoad: 76ba0000 7711a000   C:\WINDOWS\System32\SHELL32.dll
+ModLoad: 77120000 77141000   C:\WINDOWS\System32\GDI32.dll
+ModLoad: 77150000 773c7000   C:\WINDOWS\System32\combase.dll
+ModLoad: 773d0000 773e7000   C:\WINDOWS\System32\profapi.dll
+ModLoad: 773f0000 7783e000   C:\WINDOWS\System32\SETUPAPI.dll
+ModLoad: 77840000 778c3000   C:\WINDOWS\System32\shcore.dll
+ModLoad: 778d0000 779cb000   C:\WINDOWS\System32\CRYPT32.dll
+ModLoad: 779d0000 77a46000   C:\WINDOWS\System32\sechost.dll
+ModLoad: 77a60000 77bfa000   C:\WINDOWS\SYSTEM32\ntdll.dll
+ModLoad: 78980000 7a99f000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igc32.dll
+ModLoad: 7ade0000 7bf6f000   C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8679dcb12b95d700\igd10iumd32.dll
+................................................................
+...................................
+Unable to load image C:\WINDOWS\SYSTEM32\ntdll.dll, Win32 error 0n2
+*** WARNING: Unable to verify checksum for UnityPlayer.dll
+
+************* Symbol Loading Error Summary **************
+Module name            Error
+UnityPlayer            The system cannot find the file specified
+ntdll                  The system cannot find the file specified
+
+You can troubleshoot most symbol related issues by turning on symbol loading diagnostics (!sym noisy) and repeating the command that caused symbols to be loaded.
+You should also verify that your symbol search path (.sympath) is correct.
+(4174.56b8): Break instruction exception - code 80000003 (first/second chance not available)
+Time Travel Position: 6B:0
+*** WARNING: Unable to verify checksum for UnityPlayer.dll
+eax=00000000 ebx=0f9420e8 ecx=00000000 edx=00000000 esi=00000000 edi=000004ec
+eip=77ad2d6c esp=0f17e708 ebp=0f17e778 iopl=0         nv up ei pl nz na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000202
+ntdll!ZwWaitForSingleObject+0xc:
+77ad2d6c c20c00          ret     0Ch
+0:001> wt
+wt
+Unable to load image C:\WINDOWS\System32\KERNELBASE.dll, Win32 error 0n2
+
+0 instructions were executed in 0 events (0 from other threads)
+
+Function Name                               Invocations MinInst MaxInst AvgInst
+
+0 system calls were executed

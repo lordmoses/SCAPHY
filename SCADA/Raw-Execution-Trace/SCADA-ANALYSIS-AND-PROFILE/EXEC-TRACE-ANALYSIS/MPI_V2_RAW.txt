@@ -1,0 +1,1928 @@
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:50.232 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:07.361
+Process Uptime: 0 days 0:03:40.464
+  Kernel time: 0 days 0:00:07.093
+  User time: 0 days 0:00:03.921
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:50.482 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:07.610
+Process Uptime: 0 days 0:03:40.713
+  Kernel time: 0 days 0:00:07.093
+  User time: 0 days 0:00:03.921
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:50.735 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:07.863
+Process Uptime: 0 days 0:03:40.966
+  Kernel time: 0 days 0:00:07.140
+  User time: 0 days 0:00:03.921
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:50.986 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:08.114
+Process Uptime: 0 days 0:03:41.217
+  Kernel time: 0 days 0:00:07.140
+  User time: 0 days 0:00:03.921
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:51.238 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:08.366
+Process Uptime: 0 days 0:03:41.469
+  Kernel time: 0 days 0:00:07.140
+  User time: 0 days 0:00:03.921
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:51.489 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:08.618
+Process Uptime: 0 days 0:03:41.721
+  Kernel time: 0 days 0:00:07.140
+  User time: 0 days 0:00:03.921
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:51.743 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:08.871
+Process Uptime: 0 days 0:03:41.974
+  Kernel time: 0 days 0:00:07.156
+  User time: 0 days 0:00:03.968
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:51.995 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:09.123
+Process Uptime: 0 days 0:03:42.226
+  Kernel time: 0 days 0:00:07.156
+  User time: 0 days 0:00:03.968
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:52.246 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:09.375
+Process Uptime: 0 days 0:03:42.478
+  Kernel time: 0 days 0:00:07.156
+  User time: 0 days 0:00:03.968
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:52.500 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:09.628
+Process Uptime: 0 days 0:03:42.731
+  Kernel time: 0 days 0:00:07.156
+  User time: 0 days 0:00:03.968
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:52.752 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:09.880
+Process Uptime: 0 days 0:03:42.983
+  Kernel time: 0 days 0:00:07.171
+  User time: 0 days 0:00:03.968
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:53.001 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:10.130
+Process Uptime: 0 days 0:03:43.233
+  Kernel time: 0 days 0:00:07.171
+  User time: 0 days 0:00:03.968
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:53.265 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:10.393
+Process Uptime: 0 days 0:03:43.497
+  Kernel time: 0 days 0:00:07.187
+  User time: 0 days 0:00:04.015
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:53.519 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:10.647
+Process Uptime: 0 days 0:03:43.750
+  Kernel time: 0 days 0:00:07.187
+  User time: 0 days 0:00:04.015
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:53.773 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:10.901
+Process Uptime: 0 days 0:03:44.005
+  Kernel time: 0 days 0:00:07.203
+  User time: 0 days 0:00:04.093
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:54.029 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:11.157
+Process Uptime: 0 days 0:03:44.260
+  Kernel time: 0 days 0:00:07.218
+  User time: 0 days 0:00:04.156
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:54.282 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:11.410
+Process Uptime: 0 days 0:03:44.513
+  Kernel time: 0 days 0:00:07.218
+  User time: 0 days 0:00:04.187
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:54.531 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:11.659
+Process Uptime: 0 days 0:03:44.763
+  Kernel time: 0 days 0:00:07.218
+  User time: 0 days 0:00:04.203
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:54.783 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:11.911
+Process Uptime: 0 days 0:03:45.014
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.265
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:55.031 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:12.159
+Process Uptime: 0 days 0:03:45.262
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.328
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:55.280 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:12.408
+Process Uptime: 0 days 0:03:45.512
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.343
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:55.534 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:12.662
+Process Uptime: 0 days 0:03:45.765
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.359
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:55.786 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:12.914
+Process Uptime: 0 days 0:03:46.017
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.421
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:56.039 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:13.167
+Process Uptime: 0 days 0:03:46.271
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.421
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:56.295 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:13.423
+Process Uptime: 0 days 0:03:46.526
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.421
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:56.550 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:13.678
+Process Uptime: 0 days 0:03:46.781
+  Kernel time: 0 days 0:00:07.234
+  User time: 0 days 0:00:04.421
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:56.800 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:13.928
+Process Uptime: 0 days 0:03:47.032
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.421
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:57.055 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:14.183
+Process Uptime: 0 days 0:03:47.286
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.421
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:57.307 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:14.435
+Process Uptime: 0 days 0:03:47.538
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.453
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:57.560 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:14.688
+Process Uptime: 0 days 0:03:47.791
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.453
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:57.814 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:14.942
+Process Uptime: 0 days 0:03:48.045
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.625
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+*** WARNING: Unable to verify checksum for C:\Program Files (x86)\MHJ-Software\WinSPS-S7-V6\WS7_AGBEF.DLL
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e628 027af4bd     WS7_V2_MPI!MPI_V2_SetTimeOut_RS232$qius
+01 0164e638 00532cf6     WS7_AGBEF!AGBEF_SetEinstellungen$qqsiiiiiii+0x85
+02 0164e770 0052d437     ws7v6!DlgallebsterzFinalize+0xe172
+Debug session time: Wed Feb  9 15:17:57.868 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:14.997
+Process Uptime: 0 days 0:03:48.100
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.625
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e628 027af4d2     WS7_V2_MPI!MPI_V2_SetRS232SekundaereBaudrate$qii
+01 0164e638 00532cf6     WS7_AGBEF!AGBEF_SetEinstellungen$qqsiiiiiii+0x9a
+02 0164e770 0052d437     ws7v6!DlgallebsterzFinalize+0xe172
+Debug session time: Wed Feb  9 15:17:57.916 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.044
+Process Uptime: 0 days 0:03:48.148
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.625
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:58.177 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.305
+Process Uptime: 0 days 0:03:48.408
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.625
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e2b8 027aec26     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e2cc 0052a4b1     WS7_AGBEF!AGBEF_bAgKomprimieren$qqspvi+0x2e
+02 0164e770 0052d45e     ws7v6!DlgallebsterzFinalize+0x592d
+Debug session time: Wed Feb  9 15:17:58.225 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.354
+Process Uptime: 0 days 0:03:48.457
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.625
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e2b8 027aec48     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e2cc 0052a4b1     WS7_AGBEF!AGBEF_bAgKomprimieren$qqspvi+0x50
+02 0164e770 0052d45e     ws7v6!DlgallebsterzFinalize+0x592d
+Debug session time: Wed Feb  9 15:17:58.274 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.402
+Process Uptime: 0 days 0:03:48.506
+  Kernel time: 0 days 0:00:07.250
+  User time: 0 days 0:00:04.625
+ModLoad: 5a1c0000 5a23a000   C:\WINDOWS\SysWOW64\RICHED20.DLL
+ModLoad: 63bc0000 63bd7000   C:\WINDOWS\SysWOW64\USP10.dll
+ModLoad: 63be0000 63c11000   C:\WINDOWS\SysWOW64\msls31.dll
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:58.502 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.631
+Process Uptime: 0 days 0:03:48.734
+  Kernel time: 0 days 0:00:07.265
+  User time: 0 days 0:00:04.625
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:58.755 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.883
+Process Uptime: 0 days 0:03:48.986
+  Kernel time: 0 days 0:00:07.312
+  User time: 0 days 0:00:04.625
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164d3e0 027ae92e     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164d3f4 004512a7     WS7_AGBEF!AGBEF_bBausteinVorhanden$qqspvipoucusp16TimeStampsStructo+0x2e
+02 0164e0e4 0044d501     ws7v6!DlgvarserfassenfehleranzeigenuFinalize+0x62df
+Debug session time: Wed Feb  9 15:17:58.845 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:15.974
+Process Uptime: 0 days 0:03:49.077
+  Kernel time: 0 days 0:00:07.343
+  User time: 0 days 0:00:04.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164d3e0 027ae965     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164d3f4 004512a7     WS7_AGBEF!AGBEF_bBausteinVorhanden$qqspvipoucusp16TimeStampsStructo+0x65
+02 0164e0e4 0044d501     ws7v6!DlgvarserfassenfehleranzeigenuFinalize+0x62df
+Debug session time: Wed Feb  9 15:17:58.893 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.021
+Process Uptime: 0 days 0:03:49.124
+  Kernel time: 0 days 0:00:07.343
+  User time: 0 days 0:00:04.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164d3ec 027adf86     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164d400 0045140c     WS7_AGBEF!AGBEF_bBstWrite$qqspvipuspc+0x2e
+02 0164e0e4 0044d501     ws7v6!DlgvarserfassenfehleranzeigenuFinalize+0x6444
+Debug session time: Wed Feb  9 15:17:58.940 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.068
+Process Uptime: 0 days 0:03:49.171
+  Kernel time: 0 days 0:00:07.343
+  User time: 0 days 0:00:04.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164d3ec 027adfb0     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164d400 0045140c     WS7_AGBEF!AGBEF_bBstWrite$qqspvipuspc+0x58
+02 0164e0e4 0044d501     ws7v6!DlgvarserfassenfehleranzeigenuFinalize+0x6444
+Debug session time: Wed Feb  9 15:17:59.002 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.130
+Process Uptime: 0 days 0:03:49.234
+  Kernel time: 0 days 0:00:07.359
+  User time: 0 days 0:00:04.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164d3e0 027ae92e     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164d3f4 00451484     WS7_AGBEF!AGBEF_bBausteinVorhanden$qqspvipoucusp16TimeStampsStructo+0x2e
+02 0164e0e4 0044d501     ws7v6!DlgvarserfassenfehleranzeigenuFinalize+0x64bc
+Debug session time: Wed Feb  9 15:17:59.049 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.177
+Process Uptime: 0 days 0:03:49.281
+  Kernel time: 0 days 0:00:07.359
+  User time: 0 days 0:00:04.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164d3e0 027ae965     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164d3f4 00451484     WS7_AGBEF!AGBEF_bBausteinVorhanden$qqspvipoucusp16TimeStampsStructo+0x65
+02 0164e0e4 0044d501     ws7v6!DlgvarserfassenfehleranzeigenuFinalize+0x64bc
+Debug session time: Wed Feb  9 15:17:59.097 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.225
+Process Uptime: 0 days 0:03:49.328
+  Kernel time: 0 days 0:00:07.359
+  User time: 0 days 0:00:04.640
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:59.289 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.417
+Process Uptime: 0 days 0:03:49.520
+  Kernel time: 0 days 0:00:07.421
+  User time: 0 days 0:00:04.656
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:59.537 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.665
+Process Uptime: 0 days 0:03:49.768
+  Kernel time: 0 days 0:00:07.421
+  User time: 0 days 0:00:04.734
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:17:59.790 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:16.918
+Process Uptime: 0 days 0:03:50.022
+  Kernel time: 0 days 0:00:07.421
+  User time: 0 days 0:00:04.906
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21faf0 027ae265     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb10 005df74d     WS7_AGBEF!AGBEF_bGetAGInfoDaten$qqspvoipcpulpust6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t4puct4+0x1a9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x123d
+Debug session time: Wed Feb  9 15:18:00.028 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.156
+Process Uptime: 0 days 0:03:50.259
+  Kernel time: 0 days 0:00:07.453
+  User time: 0 days 0:00:04.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21faf0 027ae2ea     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb10 005df74d     WS7_AGBEF!AGBEF_bGetAGInfoDaten$qqspvoipcpulpust6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t4puct4+0x22e
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x123d
+Debug session time: Wed Feb  9 15:18:00.075 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.203
+Process Uptime: 0 days 0:03:50.306
+  Kernel time: 0 days 0:00:07.453
+  User time: 0 days 0:00:04.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:00.122 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.250
+Process Uptime: 0 days 0:03:50.354
+  Kernel time: 0 days 0:00:07.453
+  User time: 0 days 0:00:04.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:00.169 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.297
+Process Uptime: 0 days 0:03:50.401
+  Kernel time: 0 days 0:00:07.453
+  User time: 0 days 0:00:04.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:00.217 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.345
+Process Uptime: 0 days 0:03:50.448
+  Kernel time: 0 days 0:00:07.453
+  User time: 0 days 0:00:04.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:00.264 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.392
+Process Uptime: 0 days 0:03:50.495
+  Kernel time: 0 days 0:00:07.453
+  User time: 0 days 0:00:04.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:00.330 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.458
+Process Uptime: 0 days 0:03:50.561
+  Kernel time: 0 days 0:00:07.468
+  User time: 0 days 0:00:04.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:00.580 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.708
+Process Uptime: 0 days 0:03:50.811
+  Kernel time: 0 days 0:00:07.484
+  User time: 0 days 0:00:04.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:00.832 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:17.961
+Process Uptime: 0 days 0:03:51.064
+  Kernel time: 0 days 0:00:07.484
+  User time: 0 days 0:00:04.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:01.086 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.214
+Process Uptime: 0 days 0:03:51.317
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.000
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:01.321 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.449
+Process Uptime: 0 days 0:03:51.552
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.015
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:01.368 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.497
+Process Uptime: 0 days 0:03:51.600
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.015
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:01.417 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.545
+Process Uptime: 0 days 0:03:51.648
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.015
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:01.465 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.593
+Process Uptime: 0 days 0:03:51.696
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.015
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:01.528 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.656
+Process Uptime: 0 days 0:03:51.759
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.015
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:01.781 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.909
+Process Uptime: 0 days 0:03:52.012
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.156
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e5ec 027af4bd     WS7_V2_MPI!MPI_V2_SetTimeOut_RS232$qius
+01 0164e5fc 00532cf6     WS7_AGBEF!AGBEF_SetEinstellungen$qqsiiiiiii+0x85
+02 0164e734 005e0987     ws7v6!DlgallebsterzFinalize+0xe172
+Debug session time: Wed Feb  9 15:18:01.839 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:18.967
+Process Uptime: 0 days 0:03:52.070
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.171
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e5ec 027af4d2     WS7_V2_MPI!MPI_V2_SetRS232SekundaereBaudrate$qii
+01 0164e5fc 00532cf6     WS7_AGBEF!AGBEF_SetEinstellungen$qqsiiiiiii+0x9a
+02 0164e734 005e0987     ws7v6!DlgallebsterzFinalize+0xe172
+Debug session time: Wed Feb  9 15:18:01.887 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.015
+Process Uptime: 0 days 0:03:52.118
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.171
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e714 027adc2a     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e728 005e09b4     WS7_AGBEF!AGBEF_bAGStart$qqspvis+0x26
+02 0164e774 0042344f     ws7v6!FupeditorfFinalize+0x24a4
+Debug session time: Wed Feb  9 15:18:01.934 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.062
+Process Uptime: 0 days 0:03:52.165
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.171
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e714 027adc59     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e728 005e09b4     WS7_AGBEF!AGBEF_bAGStart$qqspvis+0x55
+02 0164e774 0042344f     ws7v6!FupeditorfFinalize+0x24a4
+Debug session time: Wed Feb  9 15:18:01.980 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.110
+Process Uptime: 0 days 0:03:52.213
+  Kernel time: 0 days 0:00:07.500
+  User time: 0 days 0:00:05.171
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:02.233 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.361
+Process Uptime: 0 days 0:03:52.464
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:02.484 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.612
+Process Uptime: 0 days 0:03:52.715
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21faf0 027ae265     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb10 005df74d     WS7_AGBEF!AGBEF_bGetAGInfoDaten$qqspvoipcpulpust6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t4puct4+0x1a9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x123d
+Debug session time: Wed Feb  9 15:18:02.642 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.770
+Process Uptime: 0 days 0:03:52.873
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21faf0 027ae2ea     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb10 005df74d     WS7_AGBEF!AGBEF_bGetAGInfoDaten$qqspvoipcpulpust6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t4puct4+0x22e
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x123d
+Debug session time: Wed Feb  9 15:18:02.690 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.818
+Process Uptime: 0 days 0:03:52.921
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:02.736 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.864
+Process Uptime: 0 days 0:03:52.968
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:02.783 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.911
+Process Uptime: 0 days 0:03:53.015
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:02.830 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:19.958
+Process Uptime: 0 days 0:03:53.061
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:02.877 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.005
+Process Uptime: 0 days 0:03:53.108
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.218
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:03.023 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.151
+Process Uptime: 0 days 0:03:53.254
+  Kernel time: 0 days 0:00:07.515
+  User time: 0 days 0:00:05.250
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:03.277 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.405
+Process Uptime: 0 days 0:03:53.508
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:03.529 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.657
+Process Uptime: 0 days 0:03:53.761
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c4 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e4 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:03.670 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.798
+Process Uptime: 0 days 0:03:53.901
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c4 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e4 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:03.717 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.845
+Process Uptime: 0 days 0:03:53.948
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c0 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e0 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:03.768 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.896
+Process Uptime: 0 days 0:03:53.999
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c0 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e0 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:03.814 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:20.943
+Process Uptime: 0 days 0:03:54.046
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:03.939 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.067
+Process Uptime: 0 days 0:03:54.170
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:03.986 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.114
+Process Uptime: 0 days 0:03:54.217
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:04.033 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.161
+Process Uptime: 0 days 0:03:54.264
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:04.082 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.210
+Process Uptime: 0 days 0:03:54.313
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:04.160 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.289
+Process Uptime: 0 days 0:03:54.392
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.250
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:04.415 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.543
+Process Uptime: 0 days 0:03:54.646
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.296
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:04.666 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:21.794
+Process Uptime: 0 days 0:03:54.897
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:04.919 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.047
+Process Uptime: 0 days 0:03:55.150
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:05.138 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.266
+Process Uptime: 0 days 0:03:55.369
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:05.185 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.314
+Process Uptime: 0 days 0:03:55.417
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:05.232 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.360
+Process Uptime: 0 days 0:03:55.463
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:05.279 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.407
+Process Uptime: 0 days 0:03:55.510
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:05.359 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.487
+Process Uptime: 0 days 0:03:55.591
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:05.613 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.741
+Process Uptime: 0 days 0:03:55.844
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:05.861 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:22.989
+Process Uptime: 0 days 0:03:56.092
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.328
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:06.113 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.241
+Process Uptime: 0 days 0:03:56.345
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.375
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e61c 027af4bd     WS7_V2_MPI!MPI_V2_SetTimeOut_RS232$qius
+01 0164e62c 00532cf6     WS7_AGBEF!AGBEF_SetEinstellungen$qqsiiiiiii+0x85
+02 0164e764 005e0a23     ws7v6!DlgallebsterzFinalize+0xe172
+Debug session time: Wed Feb  9 15:18:06.266 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.394
+Process Uptime: 0 days 0:03:56.497
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.484
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e61c 027af4d2     WS7_V2_MPI!MPI_V2_SetRS232SekundaereBaudrate$qii
+01 0164e62c 00532cf6     WS7_AGBEF!AGBEF_SetEinstellungen$qqsiiiiiii+0x9a
+02 0164e764 005e0a23     ws7v6!DlgallebsterzFinalize+0xe172
+Debug session time: Wed Feb  9 15:18:06.314 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.442
+Process Uptime: 0 days 0:03:56.545
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.484
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e748 027adc92     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e75c 005e0a38     WS7_AGBEF!AGBEF_bAGStop$qqspvi+0x26
+02 0164e774 0042344f     ws7v6!FupeditorfFinalize+0x2528
+Debug session time: Wed Feb  9 15:18:06.361 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.489
+Process Uptime: 0 days 0:03:56.592
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.484
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e748 027adcbc     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e75c 005e0a38     WS7_AGBEF!AGBEF_bAGStop$qqspvi+0x50
+02 0164e774 0042344f     ws7v6!FupeditorfFinalize+0x2528
+Debug session time: Wed Feb  9 15:18:06.408 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.536
+Process Uptime: 0 days 0:03:56.639
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.484
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:06.554 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.682
+Process Uptime: 0 days 0:03:56.785
+  Kernel time: 0 days 0:00:07.546
+  User time: 0 days 0:00:05.531
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:06.807 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:23.936
+Process Uptime: 0 days 0:03:57.039
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:07.061 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.189
+Process Uptime: 0 days 0:03:57.292
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21faf0 027ae265     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb10 005df74d     WS7_AGBEF!AGBEF_bGetAGInfoDaten$qqspvoipcpulpust6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t4puct4+0x1a9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x123d
+Debug session time: Wed Feb  9 15:18:07.122 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.250
+Process Uptime: 0 days 0:03:57.353
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21faf0 027ae2ea     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb10 005df74d     WS7_AGBEF!AGBEF_bGetAGInfoDaten$qqspvoipcpulpust6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t6t4puct4+0x22e
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x123d
+Debug session time: Wed Feb  9 15:18:07.169 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.297
+Process Uptime: 0 days 0:03:57.400
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:07.215 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.343
+Process Uptime: 0 days 0:03:57.447
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:07.262 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.390
+Process Uptime: 0 days 0:03:57.494
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:07.309 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.437
+Process Uptime: 0 days 0:03:57.540
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:07.357 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.485
+Process Uptime: 0 days 0:03:57.588
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:07.593 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.721
+Process Uptime: 0 days 0:03:57.825
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:07.847 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:24.975
+Process Uptime: 0 days 0:03:58.078
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.609
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:08.101 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.229
+Process Uptime: 0 days 0:03:58.332
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.625
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c4 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e4 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:08.180 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.308
+Process Uptime: 0 days 0:03:58.411
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c4 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e4 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:08.227 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.355
+Process Uptime: 0 days 0:03:58.458
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c0 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e0 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:08.274 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.402
+Process Uptime: 0 days 0:03:58.505
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.640
+.  0  Id: 3bbc.3394 Suspend: 1 Teb: 0032f000 Unfrozen
+      Start: ws7v6+0x1ee8 (00401ee8)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0164e8c0 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0164e8e0 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0164e9a0 005e0b19     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:08.321 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.450
+Process Uptime: 0 days 0:03:58.553
+  Kernel time: 0 days 0:00:07.562
+  User time: 0 days 0:00:05.640
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:08.417 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.545
+Process Uptime: 0 days 0:03:58.648
+  Kernel time: 0 days 0:00:07.578
+  User time: 0 days 0:00:05.640
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:08.464 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.592
+Process Uptime: 0 days 0:03:58.695
+  Kernel time: 0 days 0:00:07.578
+  User time: 0 days 0:00:05.640
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:08.511 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.639
+Process Uptime: 0 days 0:03:58.742
+  Kernel time: 0 days 0:00:07.578
+  User time: 0 days 0:00:05.640
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:08.562 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.690
+Process Uptime: 0 days 0:03:58.793
+  Kernel time: 0 days 0:00:07.578
+  User time: 0 days 0:00:05.640
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:08.733 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:25.861
+Process Uptime: 0 days 0:03:58.965
+  Kernel time: 0 days 0:00:07.578
+  User time: 0 days 0:00:05.640
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:08.986 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.114
+Process Uptime: 0 days 0:03:59.217
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.703
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:09.238 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.366
+Process Uptime: 0 days 0:03:59.469
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.703
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:09.490 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.618
+Process Uptime: 0 days 0:03:59.722
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.843
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:09.616 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.744
+Process Uptime: 0 days 0:03:59.847
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:09.665 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.793
+Process Uptime: 0 days 0:03:59.896
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:09.712 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.840
+Process Uptime: 0 days 0:03:59.943
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:09.760 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:26.888
+Process Uptime: 0 days 0:03:59.991
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:09.932 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:27.060
+Process Uptime: 0 days 0:04:00.163
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:10.182 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:27.311
+Process Uptime: 0 days 0:04:00.415
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:10.435 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:27.563
+Process Uptime: 0 days 0:04:00.666
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:10.685 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:27.813
+Process Uptime: 0 days 0:04:00.916
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:10.811 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:27.939
+Process Uptime: 0 days 0:04:01.042
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:10.859 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:27.987
+Process Uptime: 0 days 0:04:01.090
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:10.906 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:28.034
+Process Uptime: 0 days 0:04:01.137
+  Kernel time: 0 days 0:00:07.609
+  User time: 0 days 0:00:05.890
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:10.952 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:28.081
+Process Uptime: 0 days 0:04:01.185
+  Kernel time: 0 days 0:00:07.625
+  User time: 0 days 0:00:05.890
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:11.160 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:28.288
+Process Uptime: 0 days 0:04:01.391
+  Kernel time: 0 days 0:00:07.625
+  User time: 0 days 0:00:05.906
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:11.412 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:28.540
+Process Uptime: 0 days 0:04:01.643
+  Kernel time: 0 days 0:00:07.625
+  User time: 0 days 0:00:05.906
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:11.664 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:28.793
+Process Uptime: 0 days 0:04:01.896
+  Kernel time: 0 days 0:00:07.625
+  User time: 0 days 0:00:05.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:11.920 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.048
+Process Uptime: 0 days 0:04:02.151
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addcf     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0x93
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:12.027 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.155
+Process Uptime: 0 days 0:04:02.258
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb4c 027addfa     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb6c 005df7c7     WS7_AGBEF!AGBEF_bGetSchluesselschalterStellung$qqspvoipuspc+0xbe
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x12b7
+Debug session time: Wed Feb  9 15:18:12.073 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.202
+Process Uptime: 0 days 0:04:02.306
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6a6     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0x9a
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:12.122 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.250
+Process Uptime: 0 days 0:04:02.353
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953
+. 14  Id: 3bbc.2d64 Suspend: 1 Teb: 00359000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d21fb48 027ae6d5     WS7_V2_MPI!MPI_V2_MPI_WriteHintInTraceDatei$qipc
+01 0d21fb68 005df923     WS7_AGBEF!AGBEF_bGetZykluszeiten$qqspvoipit4t4+0xc9
+02 0d21fc28 005bbe98     ws7v6!FupeditorfFinalize+0x1413
+Debug session time: Wed Feb  9 15:18:12.174 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.302
+Process Uptime: 0 days 0:04:02.405
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:12.370 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.498
+Process Uptime: 0 days 0:04:02.601
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953
+. 15  Id: 3bbc.27d0 Suspend: 1 Teb: 0035c000 Unfrozen
+      Start: ws7v6!Exceptionloginitialization$qqrv+0x53e08 (0067700c)
+      Priority: -1  Priority class: 32  Affinity: ff
+ # ChildEBP RetAddr      
+WARNING: Stack unwind information not available. Following frames may be wrong.
+00 0d75fdbc 004aa051     WS7_V2_MPI!MPI_V2_GetKommunikationAlive$qi
+01 0d75fed4 0061ce59     ws7v6!EditorformFinalize+0x125
+02 0d75ff2c 006435d5     ws7v6!ExceptionlogHookedUnhandledExceptionFilter$qqspv+0x2f9
+Debug session time: Wed Feb  9 15:18:12.422 2022 (UTC - 5:00)
+System Uptime: 0 days 1:30:29.551
+Process Uptime: 0 days 0:04:02.654
+  Kernel time: 0 days 0:00:07.640
+  User time: 0 days 0:00:05.953

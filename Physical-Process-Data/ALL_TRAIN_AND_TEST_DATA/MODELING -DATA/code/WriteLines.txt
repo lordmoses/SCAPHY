@@ -1,0 +1,3510 @@
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 17
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 13
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 14
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 12
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 72
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 14
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 15
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 27
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 11
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 12
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 8
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 11
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 13
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 11
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 9
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Coil : Start light : False
+Coil : Stop light : False
+Coil : Reset light : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+Coil :  : False
+
+Millis since last cycle: 10
+
+Sensor : Start : False
+Sensor : Stop : True
+Sensor : Reset : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor :  : False
+Sensor : 

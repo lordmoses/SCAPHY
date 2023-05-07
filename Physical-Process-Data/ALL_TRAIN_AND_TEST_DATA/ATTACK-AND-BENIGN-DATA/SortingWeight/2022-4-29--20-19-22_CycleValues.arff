@@ -1,0 +1,63 @@
+% 1. Title: Recorded tags during Factory I/O simulation
+% 2. Scene: SortingWeight
+% 3. Time: 2022-4-29--20-19-22
+% 4. Size: 1
+
+
+
+
+
+@RELATION factoryio-SortingWeight
+
+
+@ATTRIBUTE "At scale" NUMERIC
+@ATTRIBUTE "At scale entry" NUMERIC
+@ATTRIBUTE "At scale exit" NUMERIC
+@ATTRIBUTE "At exit left" NUMERIC
+@ATTRIBUTE "At exit right" NUMERIC
+@ATTRIBUTE "At exit front" NUMERIC
+@ATTRIBUTE "Emergency stop" NUMERIC
+@ATTRIBUTE "Start" NUMERIC
+@ATTRIBUTE "Stop" NUMERIC
+@ATTRIBUTE "Reset" NUMERIC
+@ATTRIBUTE "Manual" NUMERIC
+@ATTRIBUTE "Auto" NUMERIC
+@ATTRIBUTE "At left entry" NUMERIC
+@ATTRIBUTE "At right entry" NUMERIC
+@ATTRIBUTE "At forward entry" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Running)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Paused)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Reset)" NUMERIC
+@ATTRIBUTE "Weight" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Time Scale)" NUMERIC
+@ATTRIBUTE "Load scale" NUMERIC
+@ATTRIBUTE "-" NUMERIC
+@ATTRIBUTE "Entry conveyor" NUMERIC
+@ATTRIBUTE "Emitter" NUMERIC
+@ATTRIBUTE "Send forward" NUMERIC
+@ATTRIBUTE "Send left" NUMERIC
+@ATTRIBUTE "Send right" NUMERIC
+@ATTRIBUTE "Right conveyor" NUMERIC
+@ATTRIBUTE "Left conveyor" NUMERIC
+@ATTRIBUTE "Front conveyor" NUMERIC
+@ATTRIBUTE "Remover" NUMERIC
+@ATTRIBUTE "Remover" NUMERIC
+@ATTRIBUTE "Remover" NUMERIC
+@ATTRIBUTE "Start light" NUMERIC
+@ATTRIBUTE "Stop light" NUMERIC
+@ATTRIBUTE "Reset light" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Run)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Pause)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Reset)" NUMERIC
+@ATTRIBUTE "Weight" NUMERIC
+@ATTRIBUTE "Forward count" NUMERIC
+@ATTRIBUTE "Right count" NUMERIC
+@ATTRIBUTE "Left count" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Camera Position)" NUMERIC
+@ATTRIBUTE "millis" NUMERIC
+@ATTRIBUTE "attack"  NUMERIC
+
+
+
+@DATA
+0,1,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,83113,0

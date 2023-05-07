@@ -1,0 +1,48 @@
+% 1. Title: Recorded tags during Factory I/O simulation
+% 2. Scene: ProcessVariableTester
+% 3. Time: 2021-8-11--12-22-41
+
+
+
+
+
+@RELATION factoryio-ProcessVariableTester
+
+
+@ATTRIBUTE "Start" NUMERIC
+@ATTRIBUTE "Stop" NUMERIC
+@ATTRIBUTE "Reset" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Running)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Paused)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Reset)" NUMERIC
+@ATTRIBUTE "Level meter" NUMERIC
+@ATTRIBUTE "Flow meter" NUMERIC
+@ATTRIBUTE "Setpoint" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Time Scale)" NUMERIC
+@ATTRIBUTE "Start light" NUMERIC
+@ATTRIBUTE "Stop light" NUMERIC
+@ATTRIBUTE "Reset light" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Run)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Pause)" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Reset)" NUMERIC
+@ATTRIBUTE "Fill valve" NUMERIC
+@ATTRIBUTE "Discharge valve" NUMERIC
+@ATTRIBUTE "SP" NUMERIC
+@ATTRIBUTE "PV" NUMERIC
+@ATTRIBUTE "FACTORY I/O (Camera Position)" NUMERIC
+
+
+
+@DATA
+
+
+
+
+
+
+
+
+
+
+
+
