@@ -10,7 +10,7 @@ The SCADA data is induced by pertinent OPC events, which induce the configured S
 The Physical process data is collected from a combination of real-world processes running on Physical RTUs, historical data from industry partners, and simulations in a industry-scale testbed called FactoryIO.
 
 
-We collected over 180G of experimental data, some comprising of SCADA VMs and memory images. Most data are available based on special request since they cannot fit on the github server. To request data, email mosesjike@gatech.edu
+We collected over 180G of experimental data, the larger files are SCADA VMs and memory images, which are available on special request since they cannot fit on the github server. To request data, email mosesjike@gatech.edu
 
 If you use our dataset, please cite the SCAPHY paper. 
 
